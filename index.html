@@ -176,106 +176,142 @@
   // INIT
   // =========================
 
-function initializeApp() {
+function filterGifts() {
 
-  const garouGifts = gifts.filter(gift =>
-    gift.requirements.some(r =>
-      r.race === "Garou"
-    )
-  );
+  const selectedBreeds =
+    breedChoices.getValue(true);
 
-  // BREEDS
-  const breeds = [...new Set(
+  const selectedAuspices =
+    auspiceChoices.getValue(true);
 
-    garouGifts.flatMap(gift =>
+  const selectedTribes =
+    tribeChoices.getValue(true);
 
-      gift.requirements
-        .filter(r => r.type === "Breed")
-        .map(r => r.value)
+  const selectedOthers =
+    otherChoices.getValue(true);
 
-    )
+  const selectedRanks =
+    rankChoices.getValue(true);
 
-  )].sort();
+  const filtered = gifts.filter(gift => {
 
-  // AUSPICES
-  const auspices = [...new Set(
+    // czy gift pasuje do postaci?
+    let matchesCharacter = false;
 
-    garouGifts.flatMap(gift =>
+    for (const r of gift.requirements) {
 
-      gift.requirements
-        .filter(r => r.type === "Auspice")
-        .map(r => r.value)
+      // =========================
+      // BREED
+      // =========================
 
-    )
+      if (
+        r.type === "Breed" &&
+        selectedBreeds.includes(r.value)
+      ) {
+        matchesCharacter = true;
+      }
 
-  )].sort();
+      // =========================
+      // AUSPICE
+      // =========================
 
-  // TRIBES
-  const tribes = [...new Set(
+      if (
+        r.type === "Auspice" &&
+        selectedAuspices.includes(r.value)
+      ) {
+        matchesCharacter = true;
+      }
 
-    garouGifts.flatMap(gift =>
+      // =========================
+      // TRIBE
+      // =========================
 
-      gift.requirements
-        .filter(r => r.type === "Tribe")
-        .map(r => r.value)
+      if (
+        r.type === "Tribe" &&
+        selectedTribes.includes(r.value)
+      ) {
 
-    )
+        // faction filtering
+        if (selectedOthers.length > 0) {
 
-  )].sort();
+          // ALL
+          if (
+            selectedOthers.includes("All")
+          ) {
 
-  // FACTIONS
-  const others = [...new Set(
+            if (
+              r.faction_type !== "All"
+            ) {
+              continue;
+            }
 
-    garouGifts.flatMap(gift =>
+          } else {
 
-      gift.requirements
-        .filter(r =>
-          r.faction_type !== "All"
+            // konkretne faction
+
+            if (
+              r.faction_type === "All"
+            ) {
+              continue;
+            }
+
+            if (
+              !selectedOthers.includes(
+                r.faction_value
+              )
+            ) {
+              continue;
+            }
+          }
+        }
+
+        matchesCharacter = true;
+      }
+
+      // =========================
+      // RANK
+      // =========================
+
+      if (
+        selectedRanks.length > 0 &&
+        !selectedRanks.includes(
+          String(r.rank)
         )
-        .map(r => r.faction_value)
+      ) {
+        continue;
+      }
+    }
 
-    )
+    return matchesCharacter;
+  });
 
-  )].sort();
+  // SORT
+  filtered.sort((a, b) => {
 
-  const ranks = [1,2,3,4,5,6];
+    const rankA =
+      Math.min(
+        ...a.requirements.map(r => r.rank)
+      );
 
-  breedChoices =
-    fillSelect("breedSelect", breeds, "Breed");
+    const rankB =
+      Math.min(
+        ...b.requirements.map(r => r.rank)
+      );
 
-  auspiceChoices =
-    fillSelect("auspiceSelect", auspices, "Auspice");
+    if (rankA !== rankB) {
+      return rankA - rankB;
+    }
 
-  tribeChoices =
-    fillSelect("tribeSelect", tribes, "Tribe");
+    const nameA =
+      a.versions[0].names.en;
 
-  otherChoices =
-    fillSelect("otherSelect", others, "Faction");
+    const nameB =
+      b.versions[0].names.en;
 
-  rankChoices =
-    fillSelect("rankSelect", ranks, "Rank");
+    return nameA.localeCompare(nameB);
+  });
 
-  document
-    .getElementById("breedSelect")
-    .addEventListener("change", filterGifts);
-
-  document
-    .getElementById("auspiceSelect")
-    .addEventListener("change", filterGifts);
-
-  document
-    .getElementById("tribeSelect")
-    .addEventListener("change", filterGifts);
-
-  document
-    .getElementById("otherSelect")
-    .addEventListener("change", filterGifts);
-
-  document
-    .getElementById("rankSelect")
-    .addEventListener("change", filterGifts);
-
-  renderGifts(garouGifts);
+  renderGifts(filtered);
 }
 
   // =========================
@@ -451,6 +487,83 @@ function filterGifts() {
   });
 
   renderGifts(sorted);
+}
+
+function updateFactionOptions() {
+
+  const selectedTribes =
+    tribeChoices.getValue(true);
+
+  const otherSelect =
+    document.getElementById("otherSelect");
+
+  // czyścimy select
+  otherChoices.destroy();
+
+  otherSelect.innerHTML = "";
+
+  let factionValues = [];
+
+  // jeśli wybrano tribe
+  if (selectedTribes.length > 0) {
+
+    factionValues = [...new Set(
+
+      gifts.flatMap(gift =>
+
+        gift.requirements
+          .filter(r =>
+
+            r.type === "Tribe" &&
+            selectedTribes.includes(r.value) &&
+            r.faction_type !== "All"
+
+          )
+          .map(r => r.faction_value)
+
+      )
+
+    )];
+
+  } else {
+
+    // jeśli nic nie wybrano → wszystkie faction
+
+    factionValues = [...new Set(
+
+      gifts.flatMap(gift =>
+
+        gift.requirements
+          .filter(r =>
+            r.faction_type !== "All"
+          )
+          .map(r => r.faction_value)
+
+      )
+
+    )];
+  }
+
+  factionValues.sort();
+
+  otherChoices = new Choices(otherSelect, {
+    removeItemButton: true,
+    searchEnabled: true,
+    placeholder: true,
+    placeholderValue: "Faction"
+  });
+
+  factionValues.forEach(value => {
+
+    otherChoices.setChoices([
+      {
+        value: value,
+        label: value,
+        selected: false
+      }
+    ], "value", "label", false);
+
+  });
 }
 
   // =========================

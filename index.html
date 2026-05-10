@@ -112,7 +112,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.5
+  Version: v0.2.6
 </div>
 
   <div class="tabs">
@@ -204,12 +204,48 @@ function filterGifts() {
   const selectedRanks =
     rankChoices.getValue(true);
 
+  // aktywne typy filtrów
+  const activeTypes = [];
+
+  if (selectedBreeds.length > 0) {
+    activeTypes.push("Breed");
+  }
+
+  if (selectedAuspices.length > 0) {
+    activeTypes.push("Auspice");
+  }
+
+  if (selectedTribes.length > 0) {
+    activeTypes.push("Tribe");
+  }
+
   const filtered = gifts.filter(gift => {
 
-    // czy gift pasuje do postaci?
-    let matchesCharacter = false;
-
     for (const r of gift.requirements) {
+
+      // =========================
+      // RANK (zawsze działa)
+      // =========================
+
+      if (
+        selectedRanks.length > 0 &&
+        !selectedRanks.includes(
+          String(r.rank)
+        )
+      ) {
+        continue;
+      }
+
+      // =========================
+      // ignoruj nieaktywne typy
+      // =========================
+
+      if (
+        activeTypes.length > 0 &&
+        !activeTypes.includes(r.type)
+      ) {
+        continue;
+      }
 
       // =========================
       // BREED
@@ -219,7 +255,7 @@ function filterGifts() {
         r.type === "Breed" &&
         selectedBreeds.includes(r.value)
       ) {
-        matchesCharacter = true;
+        return true;
       }
 
       // =========================
@@ -230,7 +266,7 @@ function filterGifts() {
         r.type === "Auspice" &&
         selectedAuspices.includes(r.value)
       ) {
-        matchesCharacter = true;
+        return true;
       }
 
       // =========================
@@ -243,9 +279,11 @@ function filterGifts() {
       ) {
 
         // faction filtering
+
         if (selectedOthers.length > 0) {
 
-          // ALL
+          // ONLY ALL
+
           if (
             selectedOthers.includes("All")
           ) {
@@ -276,38 +314,21 @@ function filterGifts() {
           }
         }
 
-        matchesCharacter = true;
-      }
-
-      // =========================
-      // RANK
-      // =========================
-
-      if (
-        selectedRanks.length > 0 &&
-        !selectedRanks.includes(
-          String(r.rank)
-        )
-      ) {
-        continue;
+        return true;
       }
     }
 
-    return matchesCharacter;
+    return false;
   });
 
   // SORT
   filtered.sort((a, b) => {
 
     const rankA =
-      Math.min(
-        ...a.requirements.map(r => r.rank)
-      );
+      a.requirements[0].rank;
 
     const rankB =
-      Math.min(
-        ...b.requirements.map(r => r.rank)
-      );
+      b.requirements[0].rank;
 
     if (rankA !== rankB) {
       return rankA - rankB;
@@ -324,34 +345,6 @@ function filterGifts() {
 
   renderGifts(filtered);
 }
-
-  // =========================
-  // SELECTY
-  // =========================
-
-  function fillSelect(selectId, values, placeholder) {
-
-    const select =
-      document.getElementById(selectId);
-
-    values.forEach(value => {
-
-      const option =
-        document.createElement("option");
-
-      option.value = value;
-      option.textContent = value;
-
-      select.appendChild(option);
-    });
-
-    return new Choices(select, {
-      removeItemButton: true,
-      searchEnabled: true,
-      placeholder: true,
-      placeholderValue: placeholder
-    });
-  }
 
   // =========================
   // RENDER

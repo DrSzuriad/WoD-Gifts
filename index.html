@@ -112,7 +112,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.6
+  Version: v0.2.7
 </div>
 
   <div class="tabs">
@@ -406,79 +406,6 @@ function renderGifts(filteredGifts) {
   });
 }
 
-  // =========================
-  // FILTER
-  // =========================
-
-function filterGifts() {
-
-  const selectedBreeds =
-    breedChoices.getValue(true);
-
-  const selectedAuspices =
-    auspiceChoices.getValue(true);
-
-  const selectedTribes =
-    tribeChoices.getValue(true);
-
-  const selectedOthers =
-    otherChoices.getValue(true);
-
-  const selectedRanks =
-    rankChoices.getValue(true);
-
-  const filtered = gifts.filter(gift => {
-
-    return gift.requirements.some(r => {
-
-      // BREED
-      if (
-        r.type === "Breed" &&
-        selectedBreeds.length > 0 &&
-        !selectedBreeds.includes(r.value)
-      ) {
-        return false;
-      }
-
-      // AUSPICE
-      if (
-        r.type === "Auspice" &&
-        selectedAuspices.length > 0 &&
-        !selectedAuspices.includes(r.value)
-      ) {
-        return false;
-      }
-
-      // TRIBE
-      if (
-        r.type === "Tribe" &&
-        selectedTribes.length > 0 &&
-        !selectedTribes.includes(r.value)
-      ) {
-        return false;
-      }
-
-      // FACTION
-      if (
-        selectedOthers.length > 0 &&
-        r.faction_type !== "All" &&
-        !selectedOthers.includes(r.faction_value)
-      ) {
-        return false;
-      }
-
-      // RANK
-      if (
-        selectedRanks.length > 0 &&
-        !selectedRanks.includes(String(r.rank))
-      ) {
-        return false;
-      }
-
-      return true;
-    });
-  });
-
   const sorted = filtered.sort((a, b) => {
 
     const nameA =
@@ -548,7 +475,10 @@ function updateFactionOptions() {
     )];
   }
 
-  factionValues.sort();
+	factionValues = [
+	  "All",
+	  ...factionValues.sort()
+	];
 
   otherChoices = new Choices(otherSelect, {
     removeItemButton: true,
@@ -617,21 +547,6 @@ function initializeApp() {
 
   )].sort();
 
-  // FACTIONS
-  const others = [...new Set(
-
-    garouGifts.flatMap(gift =>
-
-      gift.requirements
-        .filter(r =>
-          r.faction_type !== "All"
-        )
-        .map(r => r.faction_value)
-
-    )
-
-  )].sort();
-
   const ranks = [1,2,3,4,5,6];
 
   breedChoices =
@@ -643,8 +558,7 @@ function initializeApp() {
   tribeChoices =
     fillSelect("tribeSelect", tribes, "Tribe");
 
-  otherChoices =
-    fillSelect("otherSelect", others, "Faction");
+  updateFactionOptions();
 
   rankChoices =
     fillSelect("rankSelect", ranks, "Rank");
@@ -657,9 +571,14 @@ function initializeApp() {
     .getElementById("auspiceSelect")
     .addEventListener("change", filterGifts);
 
-  document
-    .getElementById("tribeSelect")
-    .addEventListener("change", filterGifts);
+	document
+	  .getElementById("tribeSelect")
+	  .addEventListener("change", () => {
+
+		updateFactionOptions();
+
+		filterGifts();
+	  });
 
   document
     .getElementById("otherSelect")

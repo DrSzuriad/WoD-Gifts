@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Garou Gifts</title>
+
+  <!-- Choices.js -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css"
+  />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: white;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .tab {
+      padding: 10px 16px;
+      background: #222;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    .tab.active {
+      background: #444;
+    }
+
+    .filters {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 30px;
+    }
+
+    .gift-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    .gift-card {
+      background: #1e1e1e;
+      border-radius: 12px;
+      padding: 16px;
+      border: 1px solid #333;
+    }
+
+    .gift-title {
+      font-size: 20px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+
+    .gift-meta {
+      color: #aaa;
+      margin-bottom: 10px;
+    }
+
+    .gift-description {
+      line-height: 1.5;
+    }
+
+    .coming-soon {
+      padding: 40px;
+      text-align: center;
+      color: #888;
+      font-size: 24px;
+    }
+
+    .choices__inner {
+      background: #222 !important;
+      color: white !important;
+      border: 1px solid #444 !important;
+    }
+
+    .choices__list--dropdown {
+      background: #222 !important;
+      color: white !important;
+    }
+
+    .choices__item {
+      color: white !important;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Garou Gifts</h1>
+
+  <div class="tabs">
+    <div class="tab active">Garou</div>
+    <div class="tab">Bastet</div>
+    <div class="tab">Corax</div>
+    <div class="tab">Mokole</div>
+  </div>
+
+  <div id="garou-content">
+
+    <div class="filters">
+      <select id="breedSelect" multiple></select>
+      <select id="auspiceSelect" multiple></select>
+      <select id="tribeSelect" multiple></select>
+      <select id="otherSelect" multiple></select>
+    </div>
+
+    <div class="gift-list" id="giftList"></div>
+
+  </div>
+
+  <div class="coming-soon" style="display:none;">
+    Coming soon
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+
+<script>
+
+  let gifts = [];
+
+  let breedChoices;
+  let auspiceChoices;
+  let tribeChoices;
+  let otherChoices;
+
+  // =========================
+  // ŁADOWANIE JSON
+  // =========================
+
+  async function loadData() {
+
+    try {
+
+      const response = await fetch("./data/gifts.json");
+
+      gifts = await response.json();
+
+      normalizeData();
+
+      initializeApp();
+
+    } catch (error) {
+
+      console.error(error);
+
+      document.getElementById("giftList").innerHTML = `
+        <div style="
+          color:red;
+          padding:20px;
+          background:#220000;
+          border-radius:12px;
+        ">
+          Nie udało się wczytać gifts.json
+        </div>
+      `;
+    }
+  }
+
+  // =========================
+  // NORMALIZACJA DANYCH Z EXCELA
+  // =========================
+
+  function normalizeData() {
+
+    gifts = gifts.map(gift => ({
+
+      race: gift["Rasa"] || "",
+
+      originType:
+        gift["Pochodzenie 1"] || "",
+
+      originValue:
+        gift["Pochodzenie 2"] || "",
+
+      rank:
+        gift["Ranga"] || "",
+
+      name:
+        gift["Nazwa EN"] ||
+        gift["Nazwa PL"] ||
+        "Unnamed Gift",
+
+      book:
+        gift["Książka"] || "",
+
+      description:
+        gift["Opis EN"] ||
+        gift["Opis PL"] ||
+        ""
+
+    }));
+  }
+
+  // =========================
+  // INIT
+  // =========================
+
+  function initializeApp() {
+
+    const garouGifts =
+      gifts.filter(g => g.race === "Garou");
+
+    // Breed
+    const breeds = [...new Set(
+      garouGifts
+        .filter(g => g.originType === "Breed")
+        .map(g => g.originValue)
+    )];
+
+    // Auspice
+    const auspices = [...new Set(
+      garouGifts
+        .filter(g => g.originType === "Auspice")
+        .map(g => g.originValue)
+    )];
+
+    // Tribe
+    const tribes = [...new Set(
+      garouGifts
+        .filter(g => g.originType === "Tribe")
+        .map(g => g.originValue)
+    )];
+
+    // Other
+    const others = [...new Set(
+      garouGifts
+        .filter(g =>
+          !["Breed", "Auspice", "Tribe"]
+            .includes(g.originType)
+        )
+        .map(g => g.originValue)
+    )];
+
+    breedChoices =
+      fillSelect("breedSelect", breeds, "Breed");
+
+    auspiceChoices =
+      fillSelect("auspiceSelect", auspices, "Auspice");
+
+    tribeChoices =
+      fillSelect("tribeSelect", tribes, "Tribe");
+
+    otherChoices =
+      fillSelect("otherSelect", others, "Other");
+
+    document
+      .getElementById("breedSelect")
+      .addEventListener("change", filterGifts);
+
+    document
+      .getElementById("auspiceSelect")
+      .addEventListener("change", filterGifts);
+
+    document
+      .getElementById("tribeSelect")
+      .addEventListener("change", filterGifts);
+
+    document
+      .getElementById("otherSelect")
+      .addEventListener("change", filterGifts);
+
+    renderGifts(garouGifts);
+  }
+
+  // =========================
+  // SELECTY
+  // =========================
+
+  function fillSelect(selectId, values, placeholder) {
+
+    const select =
+      document.getElementById(selectId);
+
+    values.forEach(value => {
+
+      const option =
+        document.createElement("option");
+
+      option.value = value;
+      option.textContent = value;
+
+      select.appendChild(option);
+    });
+
+    return new Choices(select, {
+      removeItemButton: true,
+      searchEnabled: true,
+      placeholder: true,
+      placeholderValue: placeholder
+    });
+  }
+
+  // =========================
+  // RENDER
+  // =========================
+
+  function renderGifts(filteredGifts) {
+
+    const container =
+      document.getElementById("giftList");
+
+    container.innerHTML = "";
+
+    filteredGifts.forEach(gift => {
+
+      const card =
+        document.createElement("div");
+
+      card.className = "gift-card";
+
+      card.innerHTML = `
+        <div class="gift-title">
+          ${gift.name}
+        </div>
+
+        <div class="gift-meta">
+          ${gift.originType}: ${gift.originValue}<br>
+          Rank: ${gift.rank}<br>
+          ${gift.book}
+        </div>
+
+        <div class="gift-description">
+          ${gift.description}
+        </div>
+      `;
+
+      container.appendChild(card);
+    });
+  }
+
+  // =========================
+  // FILTER
+  // =========================
+
+  function filterGifts() {
+
+    const selectedBreeds =
+      breedChoices.getValue(true);
+
+    const selectedAuspices =
+      auspiceChoices.getValue(true);
+
+    const selectedTribes =
+      tribeChoices.getValue(true);
+
+    const selectedOthers =
+      otherChoices.getValue(true);
+
+    const garouGifts =
+      gifts.filter(g => g.race === "Garou");
+
+    const filtered = garouGifts.filter(gift => {
+
+      if (
+        gift.originType === "Breed" &&
+        selectedBreeds.length > 0 &&
+        !selectedBreeds.includes(gift.originValue)
+      ) {
+        return false;
+      }
+
+      if (
+        gift.originType === "Auspice" &&
+        selectedAuspices.length > 0 &&
+        !selectedAuspices.includes(gift.originValue)
+      ) {
+        return false;
+      }
+
+      if (
+        gift.originType === "Tribe" &&
+        selectedTribes.length > 0 &&
+        !selectedTribes.includes(gift.originValue)
+      ) {
+        return false;
+      }
+
+      if (
+        !["Breed", "Auspice", "Tribe"]
+          .includes(gift.originType) &&
+        selectedOthers.length > 0 &&
+        !selectedOthers.includes(gift.originValue)
+      ) {
+        return false;
+      }
+
+      return true;
+    });
+
+    renderGifts(filtered);
+  }
+
+  // =========================
+  // START
+  // =========================
+
+  loadData();
+
+</script>
+
+</body>
+</html>

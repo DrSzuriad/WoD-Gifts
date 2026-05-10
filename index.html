@@ -113,7 +113,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.8
+  Version: v0.2.9
 </div>
 
   <div class="tabs">
@@ -221,6 +221,27 @@ function filterGifts() {
   }
 
   const filtered = gifts.filter(gift => {
+
+    // =========================
+    // BRAK FILTRÓW TYPU
+    // =========================
+
+    if (activeTypes.length === 0) {
+
+      // jeśli jest rank
+      if (selectedRanks.length > 0) {
+
+        return gift.requirements.some(r =>
+
+          selectedRanks.includes(
+            String(r.rank)
+          )
+        );
+      }
+
+      // brak filtrów = pokaż wszystko
+      return true;
+    }
 
     for (const r of gift.requirements) {
 

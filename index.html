@@ -131,8 +131,6 @@
 
   <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
 
-  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
-
 <script>
 
   let gifts = [];
@@ -151,11 +149,9 @@
 
     try {
 
-      const response = await fetch("./data/gifts.json");
+      const response = await fetch("./data/gifts_new.json");
 
       gifts = await response.json();
-
-      normalizeData();
 
       initializeApp();
 
@@ -177,83 +173,72 @@
   }
 
   // =========================
-  // NORMALIZACJA DANYCH Z EXCELA
-  // =========================
-
-  function normalizeData() {
-
-    gifts = gifts.map(gift => ({
-
-      race: gift["Rasa"] || "",
-
-      originType:
-        gift["Pochodzenie 1"] || "",
-
-      originValue:
-        gift["Pochodzenie 2"] || "",
-
-      rank:
-        gift["Ranga"] || "",
-
-      name:
-        gift["Nazwa EN"] ||
-        gift["Nazwa PL"] ||
-        "Unnamed Gift",
-
-      book:
-        gift["Książka"] || "",
-
-      description:
-        gift["Opis EN"] ||
-        gift["Opis PL"] ||
-        ""
-
-    }));
-  }
-
-  // =========================
   // INIT
   // =========================
 
 function initializeApp() {
 
-  // TYLKO GAROU
-  const garouGifts =
-    gifts.filter(g => g.race === "Garou");
+  const garouGifts = gifts.filter(gift =>
+    gift.requirements.some(r =>
+      r.race === "Garou"
+    )
+  );
 
-  // Breed
+  // BREEDS
   const breeds = [...new Set(
-    garouGifts
-      .filter(g => g.originType === "Breed")
-      .map(g => g.originValue)
-  )];
 
-  // Auspice
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r => r.type === "Breed")
+        .map(r => r.value)
+
+    )
+
+  )].sort();
+
+  // AUSPICES
   const auspices = [...new Set(
-    garouGifts
-      .filter(g => g.originType === "Auspice")
-      .map(g => g.originValue)
-  )];
 
-  // Tribe
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r => r.type === "Auspice")
+        .map(r => r.value)
+
+    )
+
+  )].sort();
+
+  // TRIBES
   const tribes = [...new Set(
-    garouGifts
-      .filter(g => g.originType === "Tribe")
-      .map(g => g.originValue)
-  )];
 
-  // Other
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r => r.type === "Tribe")
+        .map(r => r.value)
+
+    )
+
+  )].sort();
+
+  // FACTIONS
   const others = [...new Set(
-    garouGifts
-      .filter(g =>
-        !["Breed", "Auspice", "Tribe"]
-          .includes(g.originType)
-      )
-      .map(g => g.originValue)
-  )];
 
-  // Rank
-  const ranks = [1, 2, 3, 4, 5, 6];
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r =>
+          r.faction_type !== "All"
+        )
+        .map(r => r.faction_value)
+
+    )
+
+  )].sort();
+
+  const ranks = [1,2,3,4,5,6];
 
   breedChoices =
     fillSelect("breedSelect", breeds, "Breed");
@@ -265,7 +250,7 @@ function initializeApp() {
     fillSelect("tribeSelect", tribes, "Tribe");
 
   otherChoices =
-    fillSelect("otherSelect", others, "Other");
+    fillSelect("otherSelect", others, "Faction");
 
   rankChoices =
     fillSelect("rankSelect", ranks, "Rank");
@@ -325,115 +310,148 @@ function initializeApp() {
   // RENDER
   // =========================
 
-  function renderGifts(filteredGifts) {
+function renderGifts(filteredGifts) {
 
-    const container =
-      document.getElementById("giftList");
+  const container =
+    document.getElementById("giftList");
 
-    container.innerHTML = "";
+  container.innerHTML = "";
 
-    filteredGifts.forEach(gift => {
+  filteredGifts.forEach(gift => {
 
-      const card =
-        document.createElement("div");
+    const version = gift.versions[0];
 
-      card.className = "gift-card";
+    const requirementsText =
+      gift.requirements.map(r => {
 
-      card.innerHTML = `
-        <div class="gift-title">
-          ${gift.name}
-        </div>
+        let text =
+          `${r.type}: ${r.value}`;
 
-        <div class="gift-meta">
-          ${gift.originType}: ${gift.originValue}<br>
-          Rank: ${gift.rank}<br>
-          ${gift.book}
-        </div>
+        if (r.faction_type !== "All") {
 
-        <div class="gift-description">
-          ${gift.description}
-        </div>
-      `;
+          text += `
+            (${r.faction_type}: ${r.faction_value})
+          `;
+        }
 
-      container.appendChild(card);
-    });
-  }
+        text += ` | Rank ${r.rank}`;
+
+        return text;
+
+      }).join("<br>");
+
+    const card =
+      document.createElement("div");
+
+    card.className = "gift-card";
+
+    card.innerHTML = `
+      <div class="gift-title">
+        ${version.names.en}
+      </div>
+
+      <div class="gift-meta">
+        ${requirementsText}
+        <br><br>
+        ${version.book}
+        ${version.edition}
+      </div>
+
+      <div class="gift-description">
+        ${version.descriptions.en}
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+}
 
   // =========================
   // FILTER
   // =========================
 
-  function filterGifts() {
+function filterGifts() {
 
-    const selectedBreeds =
-      breedChoices.getValue(true);
+  const selectedBreeds =
+    breedChoices.getValue(true);
 
-    const selectedAuspices =
-      auspiceChoices.getValue(true);
+  const selectedAuspices =
+    auspiceChoices.getValue(true);
 
-    const selectedTribes =
-      tribeChoices.getValue(true);
+  const selectedTribes =
+    tribeChoices.getValue(true);
 
-    const selectedOthers =
-      otherChoices.getValue(true);
-	  
-	const selectedRanks =
-  rankChoices.getValue(true);
+  const selectedOthers =
+    otherChoices.getValue(true);
 
-    const garouGifts =
-      gifts.filter(g => g.race === "Garou");
+  const selectedRanks =
+    rankChoices.getValue(true);
 
-    const filtered = garouGifts.filter(gift => {
+  const filtered = gifts.filter(gift => {
 
+    return gift.requirements.some(r => {
+
+      // BREED
       if (
-        gift.originType === "Breed" &&
+        r.type === "Breed" &&
         selectedBreeds.length > 0 &&
-        !selectedBreeds.includes(gift.originValue)
+        !selectedBreeds.includes(r.value)
       ) {
         return false;
       }
 
+      // AUSPICE
       if (
-        gift.originType === "Auspice" &&
+        r.type === "Auspice" &&
         selectedAuspices.length > 0 &&
-        !selectedAuspices.includes(gift.originValue)
+        !selectedAuspices.includes(r.value)
       ) {
         return false;
       }
 
+      // TRIBE
       if (
-        gift.originType === "Tribe" &&
+        r.type === "Tribe" &&
         selectedTribes.length > 0 &&
-        !selectedTribes.includes(gift.originValue)
+        !selectedTribes.includes(r.value)
       ) {
         return false;
       }
 
+      // FACTION
       if (
-        !["Breed", "Auspice", "Tribe"]
-          .includes(gift.originType) &&
         selectedOthers.length > 0 &&
-        !selectedOthers.includes(gift.originValue)
+        r.faction_type !== "All" &&
+        !selectedOthers.includes(r.faction_value)
       ) {
         return false;
       }
-	  
-	  if (
-  selectedRanks.length > 0 &&
-  !selectedRanks.includes(String(gift.rank))
-) {
-  return false;
-}
+
+      // RANK
+      if (
+        selectedRanks.length > 0 &&
+        !selectedRanks.includes(String(r.rank))
+      ) {
+        return false;
+      }
 
       return true;
     });
+  });
 
-const sorted = filtered.sort((a, b) => {
-  return Number(a.rank) - Number(b.rank);
-});
+  const sorted = filtered.sort((a, b) => {
 
-renderGifts(sorted);
-  }
+    const nameA =
+      a.versions[0].names.en;
+
+    const nameB =
+      b.versions[0].names.en;
+
+    return nameA.localeCompare(nameB);
+  });
+
+  renderGifts(sorted);
+}
 
   // =========================
   // START

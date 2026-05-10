@@ -43,7 +43,8 @@
 
     .filters {
       display: grid;
-      grid-template-columns: repeat(4, 1fr);
+	  grid-template-columns:
+	    repeat(auto-fit, minmax(220px, 1fr));
       gap: 16px;
       margin-bottom: 30px;
     }
@@ -112,7 +113,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.7
+  Version: v0.2.8
 </div>
 
   <div class="tabs">
@@ -406,20 +407,6 @@ function renderGifts(filteredGifts) {
   });
 }
 
-  const sorted = filtered.sort((a, b) => {
-
-    const nameA =
-      a.versions[0].names.en;
-
-    const nameB =
-      b.versions[0].names.en;
-
-    return nameA.localeCompare(nameB);
-  });
-
-  renderGifts(sorted);
-}
-
 function updateFactionOptions() {
 
   const selectedTribes =
@@ -429,7 +416,9 @@ function updateFactionOptions() {
     document.getElementById("otherSelect");
 
   // czyścimy select
-  otherChoices.destroy();
+  if (otherChoices) {
+    otherChoices.destroy();
+  }
 
   otherSelect.innerHTML = "";
 
@@ -589,6 +578,43 @@ function initializeApp() {
     .addEventListener("change", filterGifts);
 
   renderGifts(garouGifts);
+}
+
+function fillSelect(
+  elementId,
+  values,
+  placeholder
+) {
+
+  const element =
+    document.getElementById(elementId);
+
+  const choices =
+    new Choices(element, {
+
+      removeItemButton: true,
+
+      searchEnabled: true,
+
+      placeholder: true,
+
+      placeholderValue: placeholder
+    });
+
+  choices.setChoices(
+
+    values.map(value => ({
+      value: String(value),
+      label: String(value),
+      selected: false
+    })),
+
+    "value",
+    "label",
+    false
+  );
+
+  return choices;
 }
 
   // =========================

@@ -1,0 +1,2883 @@
+[
+    {
+        "requirements": [
+            {
+                "race": "Garou",
+                "type": "Camp",
+                "value": "Get of Fenris",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 3
+            }
+        ],
+        "versions": [
+            {
+                "book": "Tribebook - Get of Fenris",
+                "edition": "Revised",
+                "names": {
+                    "en": "Ymir’s Sweat",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "Call of the Early Frost (Level Three Wendigo)",
+                    "pl": "TODO"
+                }
+            }
+        ]
+    },
+    {
+        "requirements": [
+            {
+                "race": "Garou",
+                "type": "Tribe",
+                "value": "Shadow Lords",
+                "faction_type": "Camp",
+                "faction_value": "Children of Bat",
+                "rank": 3
+            }
+        ],
+        "versions": [
+            {
+                "book": "Tribebook - Shadow Lords",
+                "edition": "Revised",
+                "names": {
+                    "en": "A Thousand Eyes",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "The Child of Bat melds his consciousness with that of a swarm of bats, and may see and hear all that they see and hear for the duration of the night. Using this Gift requires a swarm of at least a thousand bats (easily found in most temperate or tropical areas). It is taught by a bat-spirit.\n\nSystem: The Garou spends three Gnosis and rolls Perception + Primal Urge (difficulty 8). Success indicates she slips into a deep meditative trance, and can see through the bats’ eyes and hear through their ears for one full night. With one success, she cannot control the bats’ movements; they go where they will, and she sees and hears what they happen to see and hear (generally lots of insects). With three or more successes, however, the Garou can subtly direct the movements of the swarm such that they are guided to a general area of interest to the Garou. She still cannot control individual bats, but they will show mild interest in whatever area it is that the Garou wants them to see.",
+                    "pl": ""
+                }
+            }
+        ]
+    },
+    {
+        "requirements": [
+            {
+                "race": "Garou",
+                "type": "Tribe",
+                "value": "Black Spiral Dancers",
+                "faction_type": "Auspice",
+                "faction_value": "Philodox",
+                "rank": 2
+            }
+        ],
+        "versions": [
+            {
+                "book": "Book of The Wyrm",
+                "edition": "1st ed",
+                "names": {
+                    "en": "A Thousand Voices",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "This Gift allows the Black Spiral Philodox to create illusory sounds to make it seem as though there are a multitude of Black Spirals in the area. This Gift evokes such things as howls, crackling leaves and even illusory scents of many other Black Spirals. The sounds are always appropriate to the surroundings. One illusory Black Spiral is represented for every point of Willpower the Black Spiral currently possesses. The Black Spiral’s opponent may roll Perception + Alertness versus a difficulty based on the surroundings (in a dense forest 9, on a city street 7, in the desert 2) to determine whether he believes the sounds and smells to be real.",
+                    "pl": ""
+                }
+            },
+            {
+                "book": "Book of The Wyrm",
+                "edition": "2nd",
+                "names": {
+                    "en": "A Thousand Voices",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "The Black Spiral Philodox can distort the sound of his own footsteps, creating a series of illusory noises. Instead of one werewolf, enemies will hear an entire pack. Howls, shadowy apparitions, footfalls and even illusions of many creatures are all possible.\n\nDuring the Dance of Rage, a dancer may learn this Gift as his anger multiplies many times over. Kirijama’s servants also offer mastery of this talent.\n\nSystem: For each point of Willpower the user currently possesses, one illusory ally can be created. The Storyteller should secretly roll Perception + Alertness for each witness present; the difficulty depends on the immediate surroundings (difficulty 4 in a dense forest; difficulty 9 on a vast plain). The Black Spiral using this Gift should remain hidden; once he is spotted, the Gift fails.",
+                    "pl": ""
+                }
+            }
+        ]
+    },	
+    {
+        "requirements": [
+            {
+                "race": "Garou",
+                "type": "Tribe",
+                "value": "Silent Striders",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 3
+            }
+        ],
+        "versions": [
+            {
+                "book": "Core Rulebook",
+                "edition": "Revised",
+                "names": {
+                    "en": "Adaptation",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "The Garou takes no damage from poison or disease, and may exist in any environment, regardless of pressure, temperature or atmospheric condition. This Gift does not protect the Garou from hazardous situations (like falling), only hazardous environments. A bear-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Stamina + Survival (difficulty 7). Each success extends the Gift’s effects by one hour.",
+                    "pl": ""
+                }
+            },
+            {
+                "book": "Werewolf: The Apocalypse",
+                "edition": "2nd",
+                "names": {
+                    "en": "Adaptation",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "The Garou may exist in any environment, regardless of pressure, temperature, or atmospheric composition. The Garou also takes no damage from poison or disease, though concentrated flame or radiation still affects the Garou normally. This Gift is taught by a Bear-spirit.\n\nSystem: The Garou spends one Gnosis point and rolls Stamina + Survival (difficulty 7). The effects last for one hour per success and may be extended by spending Gnosis. By spending another Gnosis point and rolling again, the Garou may affect another with this Gift.",
+                    "pl": ""
+                }
+            }
+        ]
+    },	
+    {
+        "requirements": [
+            {
+                "race": "Garou",
+                "type": "Auspice",
+                "value": "Ahroun",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 5
+            }
+        ],
+        "versions": [
+            {
+                "book": "Book of Auspices",
+                "edition": "",
+                "names": {
+                    "en": "Aegis",
+                    "pl": ""
+                },
+                "descriptions": {
+                    "en": "This Gift grants a Garou a mystical aegis protecting her from attacks. This is not a literal shield; rather, strikes simply fail to hit vital areas, bullets deflect off a belt buckle and circumstances otherwise conspire to prevent blows from landing solidly on the warrior while this ability is in effect. A wind-spirit teaches this Gift.\n\nSystem: The player spends a point of Willpower, and the difficulty of all attack rolls made against her for the duration of the scene are increased by two. Any attack roll that scores only one success (after dodge, if applicable) against the Garou is considered to be a graze, and inflicts only bashing damage.",
+                    "pl": ""
+                }
+            }
+        ]
+    },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Glass Walkers",
+        "faction_type": "Camp",
+        "faction_value": "City Farmer",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Glass Walkers",
+        "edition": "",
+        "names": {
+          "en": "Agro Culture",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can cause plants to take root and grow in places where it is usually impossible for plants to grow. This Gift does not make plants grow supernaturally fast; it simply gives them a chance for life where none existed before. The plants must still be tended to and watered. However, the plants can use artificial substances such as concrete and plastic for soil. They dig their roots in and grow. Plants can even be coaxed to grow out of walls, as long as they are nurtured during the process. This Gift is taught by plant spirits.\n\nSystem: The Garou must plant seeds in the area to be fertilized. If this is a concrete wall, he must place the seeds in cracks within the surface. He then rolls Charisma + Science (or Herbology) against a difficulty dependent on the toxicity of the area. An abandoned lot might be 5, a typical city building bathed in the smog of passing cars might be 6 or 7, while an oil spill site might be 9.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Fianna",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Airitech’s Daughters",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Airitech, a creature of the Otherworld in Celtic lore, had three daughters who took on the shape of werewolves. In the end, they were slain. This Gift allows the Fianna to play the part of Airitech, by forcing the visage of a Crinos werewolf onto (at most) three humans. It doesn’t make them stronger, or give them the instincts Garou have, but they make fine decoys when being hunted by the Wyrm. Like Airitech’s Daughters, these werewolves exist to be murdered. The Gift is taught by an ancestor-spirit.\n\nSystem: The player spends one point of Rage for each human he wants to turn into a werewolf, up to a maximum of three, before rolling Stamina + Subterfuge (difficulty 8). Each success will turn all humans affected by the Gift into werewolves for one hour. They do not receive any of the benefits of the Crinos form, do not cause Delirium, and are not protected by the Veil; the change is largely cosmetic. They may, however, receive a bonus to Intimidation rolls. This Gift does not work on anyone but mortal humans. It will not affect mages, vampires or the imbued; it will, however, work on Kinfolk, ghouls, or sorcerers.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Theurge",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of Auspices",
+        "edition": "",
+        "names": {
+          "en": "Airt Perception",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Using this Gift, a Theurge can roughly identify a spirit by its airt — the trail left in the wake of a spirit’s passing. This works essentially like tracking in the corporeal world, and is no more informative — a hunter can tell deer tracks from bison tracks, but can’t learn anything meaningful about an unknown creature. Also, powerful and subtle spirits are often able to disguise their airts. Any ancestor-spirit renowned as a great hunter can teach this Gift.\n\nSystem: Treat this exactly as a Garou identifying and tracking animals (by scent or by looking for tracks, at the Theurge’s discretion), but apply it to spirits instead. Note that Garou may not be able to go everywhere spirits do to follow the trail — remember, spirits can fly.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Get of Fenris",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Alberich’s Claws",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Alberich was a dwarf-king who had his castle below the ground, carved out of the rock itself. Get of Fenris with this Gift could well have been among the builders of that palace, for their claws can slice directly through stone, steel, or any other inanimate material as if it were butter. It is taught by a mole-spirit or earth elemental.\n\nSystem: The player spends one point of Rage. If the Fenrir’s next attack is performed with natural weaponry and strikes an inanimate object, it automatically does an extra ten levels of damage.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "Auspice",
+        "faction_value": "Galliard",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of The Wyrm",
+        "edition": "1st",
+        "names": {
+          "en": "Allies Below",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Black Spiral is able to give a howl that causes the very earth to tremble. The Wyrm creatures far below the surface can sense the use of this power and they will cause tremors of various sizes. The effects can vary. Individuals, including the Black Spiral, who have not adequately braced themselves will fall down. It is possible for buildings to collapse, underground tunnels to cave in, and large objects (such as trees, walls or sliding rocks) to fall on top of people. It costs two Gnosis points to release a howl of this nature.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Book of The Wyrm",
+        "edition": "2nd",
+        "names": {
+          "en": "Allies Below",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Howl, you crazy bastard! If you let forth a rousing yawp, the spirits of the Earth will answer you. Wyrm creatures far beneath the Earth’s crust will cause minor tremors in the ground above them.\n\nAlthough the terrible quakes caused by this Gift seem awful, they merely reflect the sort of test the Galliard must endure in the Shattered Labyrinth to learn it. The worst scenario is one in which the labyrinth collapses in on itself.\n\nSystem: The extent of the damage inflicted depends on the amount of Gnosis channeled into the Galliard’s “rousing yawp.” One point of Gnosis causes a minor tremor, possibly throwing people to the ground. Three points can collapse underground tunnels, knock down trees, or open sinkholes. Five points can cause structural damage to buildings, collapsing walls on anyone within several feet of it. In each case, victims should roll Dexterity + Dodge or Dexterity + Athletics to stay on their feet, escape from collapsing buildings, or dive for cover.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Ragabash",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Alter Scent",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can change one scent into another (such as replace his scent with that of a badger) or copy another’s scent. Roll Wits + Primal-Urge, difficulty six and spend a Gnosis point. The number of successes determines how baffled a tracker will be. The tracker must roll more successes to realize he has been fooled.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Alter Scent",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "While Blur of the Milky Eye works to evade sight-obsessed humans, other animals rely on other senses such as smell. This Gift allows the Ragabash to trick even them by changing his scent to anything he may have ever smelled. A skunk-spirit teaches the Gift.\n\nSystem: The player rolls Wits + Primal-Urge to mimic the scent of anything the Garou has previously encountered. A simple success is usually enough to mimic other animals (including humans), though three successes are needed to simulate inanimate objects or plants, and five are needed to reproduce accurately the smell of a specific individual. The Gift’s effects last for a scene.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Players Guide (2nd)",
+        "edition": "",
+        "names": {
+          "en": "Alter Scent",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can change his scent trail to evade a hunter or leave a false trail. The Garou can reproduce any scent he has encountered, from deer to diesel trucks. A Skunk-spirit teaches this Gift.\n\nSystem: The player rolls Wits + Primal-Urge to reproduce any scent the Garou has encountered (difficulty 6). The number of successes determines the accuracy of the false scent. Garou with this Gift can reproduce the aroma of other Garou or even inanimate objects.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Stargazers",
+        "faction_type": "Camp",
+        "faction_value": "Awakening the Serpent Fire",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Stargazers",
+        "edition": "",
+        "names": {
+          "en": "Anahata",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The heart center stirs, opening the Garou up to normally unseen perceptions concerning others. She can sense what they are feeling and know the best way to make them listen to her (although they cannot be coerced into acting against their wills).\n\nSystem: The player rolls Charisma + Empathy and spends one Gnosis point. For the rest of the scene, the Stargazer can sense the surface emotions (anger, frustration, joy, etc.) of those who directly interact with her. After three or more turns of interacting with that person, the player may make a Perception + Empathy roll; each success lowers difficulties on any rolls to sway that person, and he will be especially receptive to wisdom or advice from the Stargazer. The Stargazer can also attempt to avert any angry action against herself in such ways.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Stargazers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Stargazers (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Ancestral Incarnation",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The connection of a Stargazer to his ancestors can be deemed more “intense” than that of other Garou. This Gift is proof of that. The few Stargazers with this Gift are not only able to plumb the depths of ancestral memories for help, but are literally able to become one (or many) of their ancestors for a short time. The Stargazer glows with a pale nimbus of light and actually exhibits the physical traits (altering her appearance) of one or several of her ancestors. For a time, the Stargazer may also tap into the wealth of knowledge and ability of her forebears and use that to enhance her own actions for a time. This Gift is taught by an Epiphling of Truth.\n\nSystem: The player spends three Gnosis points. The Stargazer exhibits a number of ancestral traits equal to the dots in her Ancestors Background. (For instance, Naipurya Sunblade has an Ancestors score of three. She exhibits the traits of her ancestors that alter her appearance. From her ancestor Silverstar she gains a mane of gray hair, from her ancestor Fu-Kui-Kang she shows bright yellow eyes, and from her ancestor Gi-om Shows-the-Way she gains a long scar along the length of her muzzle.) For the remainder of the scene, the Stargazer may also add her Ancestors score to any roll she makes.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "Camp",
+        "faction_value": "Earth Guides",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Uktena",
+        "edition": "",
+        "names": {
+          "en": "Ancestral Recall",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By accustoming themselves to a particular area or tribal group, the Earth Guides can “recall” pertinent information about tribal practices or traditions that may have been lost over time. This might uncover hidden lore of the tribe or simply reveal everyday information not generally known by outsiders. The Gift is taught by an Uktena Ancestor-spirit. Garou using this Gift need not have Past Life.\n\nSystem: The Garou must have spent at least 24 hours in the presence of those whose tribal memories she is attempting to access. The player then rolls Perception + Enigmas (difficulty 7). The number of successes determines the strength and obscurity of the information available. If the Garou can access hidden or forgotten lore, the player must spend a point of Gnosis to learn it.\n\nSuccesses\tInformation\nOne\tCommon information\nTwo\tUncommon (When dancing their harvest rites, the tribe wore corn silk tied to their costumes)\nThree\tObscure (known to some tribal elders; i.e., the tribe once served as guardians of a particular fetish)\nFour\tHidden (known only to the greatest Medicine Worker, passed on only to a trusted successor; i.e., the tribe’s dancing place lies atop the resting place of a powerful evil spirit and their dances keep it pacified)\nFive+\tForgotten (known only to ancient ancestors; i.e. “Our people once knew this evil spirit’s true name. Perform this service for my descendants, and I will tell it to you.”)",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Glass Walkers",
+        "faction_type": "Camp",
+        "faction_value": "Tetrasomian",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Glass Walkers (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Angel Tricks",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "As the Glass Walker Gift Pennies from Heaven, but only turns silver pennies (worth one twelfth of a shilling) into gold angels (worth ten shillings). Difficulty is 8.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Children of Gaia",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Angel’s Semblance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Children of Gaia do not believe in terrifying humans without appropriate cause. This Gift allows the Child of Gaia to act in Crinos form without invoking the stark terror of the Delirium. Instead of seeing a werewolf, onlookers see an angelic figure of exceeding grace and holiness. Witnesses might remember a Child’s battle with a Wyrm-beast as an angel’s struggle with a demon, or a warning to leave the woods as the gracious guidance of a guardian angel. Onlookers need not be of the Christian faith to be affected; Islamic witnesses might remember one of Mohammed’s fiery messengers, while Norse pagans might think the Garou was a Valkyrie. A spirit of hope teaches this Gift.\n\nSystem: The player spends a Gnosis point; this Gift lasts for one scene. Use the Delirium chart to determine how strongly a witness is affected (using the converse, positive reaction). Responses of fear are replaced with rapture. Even “catatonic fear” should be seen as “complete bliss.”",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Wild West Companion",
+        "edition": "",
+        "names": {
+          "en": "Anger of the Goddess",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "With the force of Gaia Herself, the Black Fury elder strikes down even the most powerful enemies. Few can withstand the righteous anger of Gaia unleashed. The power can take many forms: a lightning bolt from the heavens, an avalanche, or even a tornado. The wrath of the Goddess blindly ravages the innocent and guilty alike. An avatar of Gaia Herself is the only spirit that teaches this Gift.\n\nSystem: The player spends three Rage points to summon Gaia’s wrath. The Storyteller determines what freak natural events follow, but the full force of the Goddess strikes the target (multiple lightning bolts, a tornado touching down at his feet, etc.). Unfortunately, the Gift affects everyone around the target as well, as the power of nature is indifferent to innocence.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Uktena (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Another’s Moccasins",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The human cultures of Uktena Kinfolk are too-frequently ignored or derided by the mainstream; their wolf Kin are persecuted as a matter of course. This Gift opens the eyes of the ignorant to life on the other side, showing them a new (and for awhile, at least) fascinating perspective. By speaking briefly with the subject about the culture or species in question, the Garou can instill curiosity or appreciation for the culture — or if particularly successful, an obsession with learning about and aiding the Kinfolk’s people. The Earth Guides in particular use this Gift to nudge adversaries (usually in government or the media) into the role of allies. An ancestor-spirit teaches this Gift.\n\nSystem: The character must have the subject’s undivided attention and engage in a brief conversation about the culture in question (for instance, the Navajo or wolves). The player rolls Manipulation + Subterfuge (difficulty is 9 minus the subject’s Intelligence). For one success, the subject may pick up a Hillerman novel, or admit to himself that wolves were important to the balance of nature, at least before humans changed things. For five successes, he might well involve himself in humanitarian efforts on the reservation, or spend his vacation trekking to Alaska in the hopes of having a Farley Mowat experience with a wolf pack. The Gift’s effects last about a week per success, but with luck a natural interest develops as the subject delves into his study of the culture.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Arion’s Burden",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Black Furies had many tribeswomen among the ancient Scythians, who were renowned for the use of cavalry. During their battles with other Garou tribes, the Furies often surprised their enemies by showing that they too could employ cavalry, thanks to this Gift. Most animals shy away from creatures of high Rage, and even the Glabro form tended to make a werewolf heavier than the horse could handle. But this Gift perfectly calms the mount’s mind, and makes the Black Fury as light as a child to it. It is taught by an avatar of Pegasus.\n\nSystem: The Black Fury rolls Charisma + Athletics (difficulty 6). A simple success is all that is needed to keep this Gift active for the rest of the scene. While this Gift works to calm any animal normally friendly to the Black Fury, it is most commonly employed on horses. Riding in Crinos form, even with this Gift, is a tricky business, requiring a Dexterity + Athletics (difficulty 7) roll.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Warders of Men",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Artisan’s Command",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By speaking with the spirits within mechanical devices, the character may operate the devices as he sees fit. He can discharge a crossbow, unbolt a door or raise a winch from a bowshot away. Any technological spirit teaches this Gift.\n\nSystem: The player spends a Willpower point and rolls Manipulation + Crafts (difficulty seven). The character’s control lasts for one scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Shadow Lords",
+        "faction_type": "Camp",
+        "faction_value": "Judges of Doom",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Shadow Lords (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Assassin’s Strike",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Like the Ratkin and the Nagah before them, the Judges of Doom have learned to quickly skip into and out of the Umbra so that they may surprise their prey. When using this Gift, the Judge disappears for a moment and reappears behind his victim, whereupon he may attack his victim with complete surprise. This Gift is taught by a cobra-spirit.\n\nSystem: The character spends one Gnosis and one Rage, then uses the Umbra to “skip” up to 50 feet and reappear in the physical world directly behind his target. The Judge may then attack his victim at -2 difficulty (minimum 4). This attack may not be dodged unless the victim has bolstered his senses with supernatural aid.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Homid",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Assimilation",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "A werewolf with this Gift may hide among a culture by mimicking its members perfectly. He could slip among Bedouin nomads as if he were one of them, or he could shop in a Chinese market without attracting attention. The Gift doesn’t hide racial differences, but it does allow the user to mimic the behaviors and manners of a native. It also grants the ability to speak and understand the culture’s language, although this knowledge vanishes as the Gift ends.\n\nSystem: The player rolls Manipulation + Empathy. If successful, the character interacts with members of another culture as if he were one of them. The difficulty depends on how alien the culture is. The Gift lasts for one scene or one day per Willpower point spent.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Assimilation",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "A werewolf blends perfectly into any culture.\n\nSystem: Roll Manipulation + Empathy. Difficulty depends on how alien the culture is. No social penalties while interacting; lasts one scene per Willpower point spent.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Assimilation",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou is able to blend smoothly into any culture, no matter how strange or alien the culture is. The Garou can slip in among Bedouin nomads as if he were one of them, or shop in a Chinese market without anyone noticing he does not belong. This Gift will not hide racial differences, but the behaviors and mannerisms of a native can be mimicked. This also allows the Garou to speak and understand the culture’s language, although it will be forgotten when the Gift wears off. This Gift is taught by an Ancestor-spirit.\n\nSystem: The Garou rolls Manipulation + Empathy. If successful, he is able to interact with members of another culture as if he were from that culture. The difficulty depends on how alien the culture is; the difficulty would be 5 for another Garou sept, but it could be as high as 9 when trying to assimilate into a Black Spiral Hive. The Garou will not suffer Social roll penalties when interacting with members of the culture, although she will not receive any special benefits. The Gift lasts for one scene plus one day per Willpower point spent when activating it.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Assimilation",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The homid can blend smoothly into any culture, no matter how peculiar or unfamiliar the culture is. A European Garou can hunt and gather with Indian tribes, or a Pure One can slip into the Europeans’ towns without anyone noticing he doesn’t belong. This Gift won’t hide racial differences, but the behaviors and mannerisms of the natives are mimicked. This also allows the werewolf to speak and understand any language, although when the Gift wears off, he forgets any languages he doesn’t normally know. This Gift is taught by an Ancestor-spirit.\n\nSystem: The Garou rolls Manipulation + Empathy. If successful, he is able to interact with members of another culture as if he were from that culture. The difficulty depends on how alien the culture is; the difficulty would be 5 for another Garou sept, but it could be as high as 9 when trying to assimilate into a Black Spiral Hive. The Garou will not suffer Social roll penalties when interacting with members of the culture, although she won’t receive any special benefits, either. The Gift lasts for one scene, plus one day per Willpower point spent when activating it.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Stargazers",
+        "faction_type": "Camp",
+        "faction_value": "World Tree",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Astral Mind",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can project his consciousness from his body into the Umbra. From there, his mind can enter realms denied physical beings. Since Garou are physical in the Umbra when they step sideways, they cannot usually enter these realms. Roll Intelligence + Occult, difficulty nine, and spend two Gnosis points. Success means the mind is released to roam where it will. The number of successes determines how far the Garou can go. One success and he can traverse the Near Umbra, with three successes, he can enter the unknown realms of thought. The Storyteller is encouraged to create strange adventures in these realms.\n\nNew abilities and powers can sometimes be discovered in these realms, and many Stargazers go on sojourns for unique knowledge and understanding. The Storyteller is encouraged to create new abilities that can be gained on such travels. These realms are realms of thought, and many odd enigmas spirits wait there to test trespassers with a riddle contest, a mathematical problem or a philosophical dilemma.\n\nWhile the Garou’s mind travels the Umbra, his body sits in the physical world in the state it was left and the Garou will appear to be in a coma. Finding one’s way back to one’s body is not always easy. It requires a Willpower roll against a difficulty; no successes means that the Garou is lost and must find a clue for passage back before he can roll again. If he botches this roll, the Storyteller must create a whole story concerning the search for the character’s body. The Garou’s fellow packmates may realize something is wrong and try to help — it is in the Storyteller’s hands. Some few Stargazers’ bodies have died while awaiting their minds to return from far travels.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Stargazers",
+        "faction_type": "Camp",
+        "faction_value": "Awakening the Serpent Fire",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Stargazers",
+        "edition": "",
+        "names": {
+          "en": "Atma",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The crown chakra stirs and the third eye opens. The Stargazer gains immense wisdom and occult perception.\n\nSystem: Roll Wits + Enigmas and spend one Gnosis point. Each success lowers the difficulty of any Enigmas roll by one and adds one to the character’s Enigmas skill. This effect lasts for one scene.\n\nIn addition, for the following scene, the character sees spirits interacting with the world, and knows if Gifts or other supernatural powers (Disciplines, Spheres, Cantrips, etc.) are active within his sight.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bone Gnawers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Glass Walker",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Silent Striders",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Warders of Men",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Wendigo",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Attunement",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou may commune with the spirits of a city or town and gain information about the area from them, including rough population, enclaves of Garou or other beings and secret tunnels. This Gift does not function in the wilderness, since the Bone Gnawers have lost the knack for conversing with such spirits easily. A rat-spirit teaches this Gift. \n\n Glass Walker: A cockroach-spirit teaches this Gift.\n\n Silent Striders: Exception: When the Garou learns the Gift, she must choose if it functions in the city or the wilderness. The “city” version is identical to the Bone Gnawer Gift. The “wilderness” version is similar, but the roll required is Perception + Survival.\n\nSystem: The player spends one Gnosis and rolls Perception + Streetwise. The amount and accuracy of the information depend on the number of successes rolled. On a botch, playful spirits lie (which can be fatal, depending on the nature of the misinformation).",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Attunement",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Warden can commune with the spirits of a given city or town and learn anything that these spirits know (which is often considerable). The werewolf learns rough population, the names and identities of any supernatural beings in the city, whether any of the inhabitants carry a plague, and so on. A cockroach-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis and rolls Perception + Enigmas (difficulty 6). The amount and accuracy of the information depends on the number of successes rolled. On a botch, the spirits playfully lie or are simply misinformed (which can be fatal, depending on the nature of the misinformation).",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Attunement",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By standing in a particular area, the character can commune with the spirits of the area, thus getting an overview of what exists or has happened in the area — rough population, secret tunnels, places of note and so on. This Gift is taught by a Rat-spirit.\n\nGlass Walker: This Gift is taught by a Cockroach-spirit.\n\nSilent Striders, Wendigo: This Gift is similar to the Bone Gnawer Gift, but may be used only in the wilderness. By standing in a particular area, the character can commune with the spirits of the area, thus getting an overview of what exists or has happened in the area — rough population, secret trails, places of note and so on. This Gift is taught by an Owl-spirit. Rolls Perception + Survival (difficulty 6).\n\nSystem: The Garou spends one Gnosis point and rolls Perception + Streetwise (difficulty 6). The amount of information gained depends on the number of successes; on a botch, the spirits lie. This Gift may only be used in urban areas, as the Gnawers have become desensitized to the wilderness.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Attunement",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By standing in a particular area of the wilderness, the character can commune with the spirits of that area, thus getting an overview of what exists or has happened in the area — rough population, secret trails, places of note and so on. This Gift is taught by an Owl- or Fox-spirit.\n\nSystem: The player spends a Gnosis point and rolls Perception + Survival (difficulty 6). The amount of information garnered depends on the number of successes. On a botch, the spirits lie.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Shadow Lords",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Aura of Confidence",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou projects a demeanor of control and superiority, preventing attempts to find flaws or read auras. This Gift does not prevent supernatural attempts to read these Garou’s thoughts, although it may make doing so difficult (Storyteller’s discretion). An ancestor-spirit teaches this Gift.\n\nSystem: The player rolls Charisma + Subterfuge (difficulty 7) to activate the Gift; the effects last for one scene.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Aura of Confidence",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Shadow Lord seems surrounded by a dark halo of strength and command. Others find it impossible to read his aura or detect any of his weaknesses; he reveals no flaws whatsoever. This Gift is taught by an ancestor-spirit.\n\nSystem: The player rolls Charisma + Subterfuge (difficulty 7). This roll must be made for each new encounter the Garou has. This Gift protects the Garou from the effects of the Auspex power Soulsight, but not from more sophisticated attempts to read his mind (such as Steel Secrets).",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Aura of Confidence",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou radiates an aura of strength and command, preventing any attempts to read the Garou’s aura or detect his weaknesses; he reveals no flaws whatsoever. This Gift is taught by an Ancestor-spirit.\n\nSystem: The Garou rolls Charisma + Subterfuge (difficulty 7). This must be rolled for each new encounter or situation in which the Garou finds himself.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Aura of Confidence",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The werewolf seems surrounded by a dark halo of strength and command. Others find it impossible to read her aura or detect any of her weaknesses; she reveals no flaws whatsoever. This Gift is taught by an Ancestor-spirit.\n\nSystem: The player rolls Charisma + Subterfuge (difficulty 7). This must be rolled for each new encounter or situation in which the Garou finds herself.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Wild West Companion",
+        "edition": "",
+        "names": {
+          "en": "Aura of Ferocity",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "As the Lupus Gift.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Shadow Lords",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Wild West Companion",
+        "edition": "",
+        "names": {
+          "en": "Aura of Nobility",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Even at her worst, this Garou looks her best. Despite her character, or lack thereof, the Shadow Lord seems to be above contempt or slander. A Cobra-spirit teaches this Gift.\n\nSystem: The Gift downplays the offensiveness of the Shadow Lord’s deeds or her connection to them in witnesses’ minds. The player needs only to spend one Gnosis point to avoid any loss of Honor.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Philodox",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Wild West Companion",
+        "edition": "",
+        "names": {
+          "en": "Aura of the Just",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "When the Gift user commits a just act, everyone around him knows it merely by gazing at him. The Aura of the Just proclaims to one and all that this Garou is in the right. Where circumstances or perceptions might cloud the judgment of witnesses, the Gift clears all doubts. Alternatively, those who know the Philodox can see his guilt when the Gift does not activate. A Falcon-spirit teaches this Gift.\n\nSystem: The user spends one Willpower point to activate this Gift. When the Garou commits a just and fair act, all who witness it know intuitively that it is so. While this Gift does not guarantee respect, anyone who sees the aura cannot doubt the Philodox’s merit.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Silver Fangs",
+        "faction_type": "House",
+        "faction_value": "Austere",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Silver Fangs (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Austere Mind",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Silver Fangs of House Austere Howl have always valued self-control. To this end, they successfully petitioned a stone elemental to teach them this Gift that grants them the emotional stoicism of a rock.\n\nSystem: The player spends one Gnosis; the difficulty to enter frenzy is raised by 3, and the character may add two dice to any roll to escape frenzy. This Gift’s effects last until the next sundown.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Avalanche",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou must be in a mountainous or otherwise tectonically unstable area. The Garou causes an avalanche, mudslide, etc. to engulf his foes. This Gift is taught by an earth elemental.\n\nSystem: The Garou spends one Gnosis point and rolls Manipulation + Survival (difficulty determined by the Storyteller based on the instability of the terrain). The more successes, the more powerful the effect. On a botch, the Garou is caught in the avalanche.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Avatar of the Wyrm",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Dancer assumes an awful and horrific visage, perhaps even a form of the Wyrm itself (albeit a small one). The Dancer increases in size, his skin becomes scaly and greenish-gray, and his claws increase in length to jagged, vicious knives dripping with venom. His howl becomes terrifyingly loud. Only a Maejin Incarna, one of the Wyrm’s most powerful avatars, can teach this Gift.\n\nSystem: Spend one Gnosis point and one Rage point. The Dancer must concentrate for a full turn, at the end of which the transformation occurs. The Dancer shifts to Crinos automatically (if he wasn’t already in that form), and adds an additional dot to all Physical Attributes, and one Bruised health level. Additionally, his claws inflict an additional die of damage and are unsoakable. Finally, the Delirium is three levels worse to onlookers.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Stargazers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (2nd)",
+        "edition": "",
+        "names": {
+          "en": "Avoid Fate",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "With this Gift, the Stargazer can dodge the wheels of fate for the moment. Through a supernatural connection between herself and the universe, she avoids certain disaster. A Cat-spirit teaches this Garou this Gift.\n\nSystem: Once per scene, the character can spend a Gnosis point to reroll any failed roll.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Metis",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Awaken Beast",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "This is the old ability out of legends and folklore: the power to change someone else into a werewolf by biting him. The metis must first make a successful bite attack against a target, and then roll Manipulation + Primal-Urge against a resisted roll of the target’s Willpower. The metis must also spend a Gnosis point. If successful, the Beast is awakened in the victim and he will begin to frenzy. The target will believe he has become a werewolf. If the target actually is a werecreature, his Primal-Urge score is added to his Willpower dice pool for the resistance roll. The effect lasts for one scene, although a human bit with this Gift may suffer a permanent derangement.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Silver Fangs",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Awe",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou, simply by her bearing and speech, proves to others her mastery and right to rule the other tribes. This Gift is taught by a Falcon-spirit.\n\nSystem: The Garou rolls Appearance + Empathy (difficulty of the target’s Willpower). If successful, the difficulties for all Social rolls made by the Garou against that target are reduced by one, and the target’s difficulty to hit the Garou in combat is increased by one.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Awe",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Fang proves her right to rule and mastery over a target by assuming a regal bearing. This Gift is taught by a Falcon-spirit.\n\nSystem: The player rolls Appearance + Empathy (difficulty of the target’s Willpower). If this roll is successful, the difficulties of all Social rolls made by the Garou against that target are reduced by one, and the target’s difficulty to hit the Garou in combat is increased by one. This Gift is ineffective against Garou of higher Rank.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Lupus",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Silent Striders",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Ways of the Wolf",
+        "edition": "",
+        "names": {
+          "en": "Axis Mundi",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By spending a Gnosis point, the lupus can center herself in relation to Gaia, and always know which direction she is traveling in or facing, no matter where she may be in the Gaia realms. In addition, the lupus senses her “territory” around her, in a mystical sense. Wolves will detect this, and concede her right to travel through their territories and hunt there. Even other lupus must make a Willpower roll not to recognize this, and not attack the intruder. Other animals will also recognize this.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Babble",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can spend a Gnosis point and roll Manipulation + Primal-Urge, difficulty seven, to make another lose the ability to read, write or speak any language. That person will only be able to grunt like an animal. The person gets to resist with an Intelligence + Linguistics roll, difficulty seven. The effect lasts for one scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (2nd)",
+        "edition": "",
+        "names": {
+          "en": "Bacchantes’ Rage",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 3\n\nWhen deep in the wilds, the Black Furies can use this Gift to inflict extra damage. Even the toughest Get have walked away with a battle scar due to the effects of this potent Gift — and some couldn’t walk away at all. This Gift is taught by a Wyld-spirit.\n\nSystem: The Garou spends two Gnosis points to activate the Gift. During combat, she may spend Rage points to deal extra damage after a wounding hit; every point spent causes one additional, unsoakable Health Level of damage.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Bacchantes’ Rage",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nThis Gift can only be used in the wilds. The Garou can channel the destructive power of the Wyld through her anger. The Garou spends two Gnosis points and can then spend Rage points to do extra damage to her opponents. Each Rage point spent adds one to the Garou’s damage successes. An opponent cannot soak this Rage-driven damage. This ensures that an enemy will not leave without at least one wound.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Metis",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Guardians Of The Caerns",
+        "edition": "",
+        "names": {
+          "en": "Badger’s Heart",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Metis often possess angry hearts, and in their own way, they have a keen understanding of Rage, no matter what their auspice. This Gift allows them to affect the Rage of other werewolves, causing their enemies to expend more of it than necessary. A Badger-spirit teaches this Gift.\n\nSystem: Spend a Gnosis point and roll Willpower, difficulty 7. Three successes are necessary, but if the roll is made, the target expends twice as many Rage points as he normally would. For example, if Merryk Winterchase successfully uses this Gift on Mari Obarah while they’re in combat, each time she spent one Rage point, she would actually use two, without gaining the benefits of the second Rage point. This Gift’s effects last for a day.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Stargazers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Balance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Stargazer is able to walk across any ledge, rope, etc., no matter how thin or slippery. Wind-spirits teach this Gift.\n\nSystem: No point expenditure or roll is required. Difficulties for climbing decrease by three.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Balance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou is able to walk across any ledge, rope, etc. no matter how thin or slippery. This Gift is taught by strange Wind-spirits known to the Stargazers.\n\nSystems: No point expenditure or roll is required. Difficulties for climbing are reduced by three.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Balance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou is able to walk along any narrow or precarious path without slipping or falling. This includes rail lines, mountain passes, ropes and telegraph lines, even when they’re slippery or wet. This Gift is taught by strange Wind-spirits known to the Stargazers.\n\nSystem: No rolls are made nor points spent to traverse a narrow path. Difficulties of climbing are reduced by three. The effect lasts for one scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Philodox",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Balance Man and Beast",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "A Philodox needs to keep a tight grip on his bestial side for fear of losing control and, perhaps worse still, allowing his passions to color his judgment. However, a Garou cannot deny his animal nature; rationality cannot reign alone. The Garou can calm or enrage himself in times of need. This Gift is taught by a Water-spirit.\n\nSystem: The character concentrates and meditates on her role as arbitrator and fair judge among the Garou. The player makes a Gnosis roll (difficulty 8). For every success, one point of Willpower or Rage is gained, as needed. This self-control can only be used once per scene.\n\nThis Gift also allows a Philodox to avoid entering frenzy by putting the character in a profound state of calm. The player spends one Willpower point and the character won’t frenzy for the duration of an entire scene, no matter what happens, unless the character seeks to make the change. Alternately, if a frenzy is ever necessary, the player can spend one point of Rage and the character automatically becomes a killing machine.",
+          "pl": ""
+        }
+      }
+    ]
+  },  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Wendigo",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Wendigo (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Balance of Wormwood",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "With this Gift, a character can learn to aid another Garou who has succumbed to the service of the Wyrm, and guard them from the Destroyer’s influence. Because Great Wendigo treasures the purity of his Tribe, he has conferred this Gift upon his children, to give them greater power to continue the fight against the Wyrm. Like a taste of wormwood, which brings clarity to the mind, two Garou learn to join their spirits together beneath the cleansing, eternal winds of Wendigo’s spirit. With this Gift, depending upon each other, they may resist the attraction of the Wyrm that drives werewolves into unspeakable acts and mindless vile savagery. An avatar of Great Wendigo teaches this Gift.\n\nSystem: The target character must already have fallen into the service of the Wyrm, by walking the Black Spiral or through other means. The Garou using this Gift must spend a point of Gnosis and make a Willpower + Manipulation roll against her target’s Willpower. If she succeeds, the target character may resist the horrific urges that the Wyrm brings for the remainder of the scene. This may be enough to allow the fallen Garou to attempt the long road back to Gaia’s graces, but those who are long fallen or far from Gaia’s grace may need much more than a simple application of this Gift. If the Gifted werewolf fails, her own current frenzy difficulty decreases by one, and she may be unable to avoid falling into the Thrall of the Wyrm.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Ragabash",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Bald-Faced Lie",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Those within earshot accept the Ragabash’s most blatant lies as truth, at least for a little while. This power can also be used to cheat at a game before someone’s very eyes and get away with it. This Gift is taught by a Fox-spirit.\n\nSystem: The player utters the lie or describes the manner in which his character blatantly cheats at a game, and rolls Wits + Subterfuge, whichever combination is most appropriate (difficulty is the subject’s Wits + Subterfuge, or the highest rating in a crowd). The roll is made against anyone who can hear the lie or who witnesses the character cheat. Two successes are required to overwhelm an individual; three are required to dupe two or more people.\n\nThe danger of using this Gift lies in not knowing if the marks will fall for it; the player rolls after his character lies or makes his play. If the roll succeeds, victims take the character’s words or actions as legitimate, at least for the duration of the scene (they might come looking for him later). A failed roll raises questions and suspicion. A botched roll makes people outright aggressive.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of The Wyrm (1st ed)",
+        "edition": "",
+        "names": {
+          "en": "Balefire",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Black Spiral can hurl spheres of sickly green flame at her opponent. If she hits (by rolling Dexterity + Athletics and comparing the results to the Firearms chart), the victim must roll Stamina + 4 and match or exceed the Black Spiral’s number of successes. If he fails, he will be mutated in some way as decided by the Storyteller. These mutations are always harmful, and each success on the Black Spiral’s roll is treated as a level of aggravated damage for the purpose of determining the length of convalescence.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Balefire",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Dancer can hurl balls of sickly green flame at her enemies. Balefire, as the very lifeblood of the Wyrm, is very dangerous to werewolves. It not only inflicts hideous and life-threatening mutations, as well as tainting its victim heavily. It is impossible to dodge Balefire — it moves with a sinister intelligence. It can only be resisted.\n\nSystem: Roll Dexterity + Athletics, taking the standard ranged-combat modifiers into account. The victim resists with Stamina (difficulty 8), and his roll must equal or exceed the Dancer’s successes. If the victim fails to resist, Balefire’s influence mutates her. Treat each success over resistance as one level of aggravated damage for the purposes of healing/rejecting the mutation. This damage is not soakable (the resistance roll is the soak roll). Afflicted werewolves may grow extra (useless) eyes, lose all of their hair, go blind, die or become anosmic (no sense of taste or smell) temporarily. Until she rejects the mutations and undergoes a Rite of Cleansing, the victim registers a strong taint to Gift: Sense Wyrm.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Balefire",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Through sheer force of will, the Black Spiral Dancer can summon and hurl spheres of sickly, green fire toward a target. A Balefire elemental teaches this Gift.\n\nSystem: Roll Dexterity + Athletics to hit (difficulty 7, modified for range). The victim must roll Stamina (difficulty 8) to resist, and his successes must equal or exceed the Dancer’s successes. If not, the Balefire begins to warp her very flesh. Any successes not counteracted on the Stamina roll translate to unsoakable aggravated damage. Other effects are also common — the target loses hair, grows useless vestigial eyes, loses all skin color, etc. Additionally, until the target undergoes a Rite of Cleansing, she registers strongly to the Gift: Sense Wyrm.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Balefire",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Dancer can hurl sickly green balls of flame at her opponent. If she hits, the target’s body is twisted in some fashion by the strange energies.\n\nSystem: With the expenditure of a Gnosis point, the Dancer can try to strike an opponent with the energies (difficulty 6; use the Firearms Chart for complications). The victim must roll Stamina (difficulty 8) and meet or exceed the Dancer’s number of successes. If he fails, he is mutated in a manner decided by the Storyteller. These mutations are always harmful and each level of the Dancer’s successes is treated as an aggravated Health Level of injury for the purpose of healing or rejecting the mutation.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Fianna",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Fianna",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Balor’s Gaze",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 3\n\nThis Gift emulates the power of one of the Fianna’s legendary enemies. One of the Garou’s eyes glows a livid red color, and all enemies caught in its gaze are stricken with pain. A pain-spirit teaches this Gift.\n\nSystem: The player spends one Rage and one Gnosis. She must then roll Perception + Occult (difficulty 8). For the rest of the scene, any foe at whom the Garou glances must roll Willpower (difficulty 8) and equal or exceed the player’s successes or double over in pain. Any beings thus affected take wound penalties as though they were at Crippled (-5 dice to all actions), regardless of their current health. Any characters already at Crippled are considered Incapacitated.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Balor’s Gaze",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nOne of the kings of the Fomorians, Balor, could kill opponents with a glance, or so Fianna legend has it. This Gift allows the Fianna to emulate this tribe’s great enemy, laying her opponents low with a wicked red light from her eye. A pain-spirit teaches this Gift.\n\nSystem: The player spends one Rage and one Gnosis, then rolls Perception + Occult (difficulty 8). For the remainder of the scene, any foe who meets the Fianna’s gaze must roll Willpower (difficulty 8) and equal or exceed the player’s successes, or take a -5 dice pool modifier (as though Crippled). A character who is already Crippled is considered Incapacitated. This Gift bypasses the pain-reducing effects of frenzy and the Gift: Resist Pain.",
+          "pl": ""
+        }
+      }
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Balor’s Gaze",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nOne of the Garou’s eyes begins to glow a baleful red. Its stare is horrifying, causing wracking pain in any being who meets its glare and whose resolve falters. This Gift is taught by a Pain-spirit.\n\nSystem: The Garou spends one Gnosis and one Rage point. He then rolls Perception + Occult (difficulty 8). Thereafter, for the remainder of the scene, any foe at whom he so much as glances must equal or exceed the Garou’s successes on a Willpower roll (difficulty 8) or double over in agony. Such a foe is treated as “Crippled” (-5 to actions) for the scene, even though the foe takes no actual wounds; foes who are already Crippled are effectively incapacitated. If a foe successfully resists, she is immune for the duration.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Balor’s Gaze",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nWhen a Fianna invokes this Gift, one of her eyes emits a baleful crimson glow, seeming to burn with the fires of damnation. Anyone without the resolve to meet Balor’s Gaze without flinching suffers wracking pains. A Pain-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis and one Rage point, and rolls Perception + Occult (difficulty 8). For the remainder of the scene, any enemy at whom the Fianna glances must equal or exceed the Garou’s successes on a Willpower roll (difficulty 8) or double over in agony. Such a foe is treated as “Crippled” (-5 to actions) for the scene, even though the foe takes no actual wounds. Already Crippled enemies are effectively Incapacitated. If a foe successfully resists, she is immune to the Gift for the duration of the scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of The Wyrm (1st ed)",
+        "edition": "",
+        "names": {
+          "en": "Bane Protector",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "This Gift allows a Black Spiral to summon any nearby Banes to come and help her. The Banes may resist, but as long as the Black Spiral is acting in the best interest of the Wyrm, the Banes will be inclined to help her. They will even fight for her if possible, but they will never allow themselves to be destroyed. The use of this gift requires the expenditure of one Gnosis point and a roll of Manipulation + Leadership.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Book of The Wyrm (2nd ed)",
+        "edition": "",
+        "names": {
+          "en": "Bane Protector",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Black Spiral can summon Banes to aid her. Before the servitors can act, the Black Spiral must convince them of her intent. Her actions must be in the best interest of the Wyrm. The servitors can fight for her, but will not allow themselves to be bound or destroyed. The spirits will also try to arrange a bargain, agreeing to help the summoner if she performs a service (or sacrifice) for them afterward.\n\nThis Gift is taught in the first circle of the Spiral Labyrinth. The dancer may find a way to deceive the Banes that torment her, convincing them to aid her instead. Alternatively, a Black Spiral who performs an especially difficult task for a Bane-totem might receive this knowledge in return.\n\nSystem: Use of Gift burns a point of Gnosis and requires a Manipulation + Leadership roll.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Bane Protector",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "In times of need, or when Black Spiral Dancer cannot carry out a task on her own, Banes can be summoned for myriad purposes to assist her. While the Banes summoned through the use of this Gift might choose to fight on behalf of or with the summoner, they will not allow themselves to be bound into fetishes or destroyed. Normally, the Banes who respond to the call of this Gift will charge a price of the Dancer for services rendered.\n\nSystem: Spend one point of Gnosis and roll Manipulation + Leadership (difficulty 7). Each success summons a single Bane. The Dancer cannot summon more Banes in one scene than his permanent Gnosis score.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Banish Totem",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By speaking words of forbidden power, the Uktena can bar pack or personal totems from giving their children aid. Doing so also disrupts the spiritual rapport between packmates, making it difficult for them to execute pack tactics or act in concert. An ancestor-spirit teaches this Gift.\n\nSystem: The Uktena must concentrate for a full turn, and he must know the totem his victims follow. The player spends one Gnosis point and one Willpower point, and he rolls Gnosis at a difficulty of the pack’s combined Totem score (maximum of 10). If successful, the pack members lose all Traits associated with their totem, and they cannot pack tactics or act in concert for the remainder of the scene. If the Uktena is rendered unconscious or killed, the Gift is canceled.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "Camp",
+        "faction_value": "Earth Guides",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Uktena",
+        "edition": "",
+        "names": {
+          "en": "Bare the Heart",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "This Gift utilizes the Uktena’s noted penchant for delving into the deepest secrets. The Earth Guides use this Gift to examine Bane Tenders for signs of Wyrm-taint. Using the clear sight granted him by this Gift, an Uktena can look beyond outward manifestations, internal manipulations and even magical disguises that might mask Wyrm-taint, corruption or evil intent and pierce straight to the heart of the truth. Thus, the Garou might note that an otherwise normal-looking person is really a fomor or a Black Spiral Dancer by use of this Gift. Garou using the Gift could also determine that someone is disguised (via cosmetic means or magical change), but only if that person has evil intent (i.e., intends to commit some evil — as defined by the Garou’s concept of evil — while so disguised). Thus, if a bank-robber was in the offing, the Garou might not see through the mask unless he cares about that bank, but he would unmask someone intending to clear-cut a virgin forest. This Gift is taught by an Incarna avatar.\n\nSystem: The Garou using this Gift must spend at least one turn intently observing the person he wishes to examine. While doing so, he attunes himself to the person’s innermost core, the truth of the heart, and spends two points of Gnosis. The player then rolls Perception + Empathy (difficulty 6). Even one success uncovers a falsehood if any exists and the nature of the mask (cosmetic, magical, etc.). Two successes pinpoint how deeply the taint runs and the exact nature of the hidden heart (i.e., if the target is Wyrm-corrupted, a Bane, a vampire, etc.), while three or more successes allows the Garou to discover such a creature’s immediate intent (i.e., what its plans are for the remainder of the scene).",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Wendigo",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Wendigo (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Bark of Willow",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Unlike Resist Pain, which allows a character to ignore pain through force of will, but still feel it, this Gift allows the Wendigo to numb herself to pain completely, enabling her to endure pain for much longer periods of time, even days. This causes the character to be unable to judge the severity of her wounds or fatigue, and may lead her to continue on unwisely, causing herself further damage during combat while frightening her enemy with her seeming imperviousness. If the pain inflicted upon the Garou is not combative, i.e., she is undergoing a surgical operation or needs to cross wall of flames, she may concentrate her will to keep from unwittingly furthering the damage to herself, and to bolster the confidence and courage of any Garou aiding her. This Gift is taught by a snake-spirit.\n\nSystem: The player spends a point of Gnosis, after which any sense of pain or physical discomfort fades entirely, and the character no longer takes wound penalties. The length of the Gift’s pain-numbing effects lasts for a number of days equal to a roll of Stamina + Primal-Urge. The Storyteller should hide the character’s wound levels from him while this Gift is active. If the character needs to assess how badly damaged she is during this time, she must make an additional roll of Wits + Primal-Urge, at difficulty 7, although characters with the Medicine knowledge can use it to diagnose wound levels normally.\n\nA Wendigo who nonchalantly carries severe wounds around is intimidating to his foes. Any character who wishes to attack a wounded Wendigo who is using Bark of Willow must first make a Manipulation + Intimidation roll, at the difficulty of the Garou’s Willpower. If the opponent fails that roll, she does not lose any actions, but she finds herself unable to attack the Gifted werewolf.\n\nThis Gift may not be used while the Garou is attempting to complete a rite that requires any check of Stamina.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Lupus",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Children of Gaia",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Beast Life",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The werewolf with this Gift can communicate with other wild animals and attract (or even command) them. Domesticated animals will speak with the werewolf, but they have given themselves to the ways of humans and must be persuaded to obey the Garou.\n\nChildren of Gaia: Children of Gaia who use this Gift never do so if the animals attracted would come to harm, unless the very heart of a caern is threatened.\n\nSystem: The player spends one Gnosis point and rolls Charisma + Animal Ken (difficulty 7). The character gains the ability to communicate with all animals automatically. One success can attract specific types of animals within a 10-mile radius, and those that can reach the werewolf in a reasonable amount of time will do so. Each additional success adds 10 miles. All wild animals become friendly to the character. They follow any reasonable request the character makes, and might even sacrifice themselves for the werewolf. The effect lasts for one scene, but the time may be extended by spending one Gnosis point per extra scene desired.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Beast Life",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Communicate with and command animals.\n\nSystem: Spend 1 Gnosis, roll Charisma + Animal Ken (difficulty 7).\nRange: 10 miles per success. Animals obey reasonable commands.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Beast Life",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou may not only communicate with animals, but can attract and command them. If there are no animals of the sort desired in the vicinity, none can be called. This Gift is taught by any Animal-spirit.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Animal Ken (difficulty 7). One success causes animals within a 10-mile radius to be affected. Each additional success adds 10 miles (two successes indicate a 20-mile radius). The effect lasts for one scene, but the time may be extended by spending one Gnosis point per extra scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Galliard",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Beast Speech",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The werewolf with this Gift may communicate with animals from whom this Gift does not change their basic reactions; most animals are still afraid of predators, such as werewolves. A spirit of nature can teach this Gift.\n\nSystem: The player simply rolls Charisma + Animal Ken, although each roll for a different type of animal requires a separate roll.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Beast Speech",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "This Gift allows a werewolf to speak with animals, from fish and insects to birds and mammals. This Gift does not influence the animal’s reaction, which might well be terror in the presence of a predator. Any animal spirit can teach this Gift.\n\nSystem: The player rolls Charisma + Animal Ken. Each separate encounter and animal type requires another roll. The Storyteller may rule that communication with specific, familiar animals eventually becomes easier, requiring no roll.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Beast Speech",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou may speak to animals, from pigeons in the park to beavers at their dam or fish in the sea. This does not change their basic reactions — a hungry tiger is still hungry and may well attack. This Gift is taught by a Nature-spirit.\n\nSystem: The Garou rolls Charisma + Animal Ken (difficulty 6). This roll must be made for each type of animal and for each encounter.",
+          "pl": ""
+        }
+      }
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Beast Speech",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The werewolf may speak with his animal brethren, whether docile, domesticated sheep, furious catamounts or cold-blooded rattlers. This doesn’t change the critter’s basic reactions — an enraged buffalo isn’t likely to spend time in conversation, and will probably attack regardless. This Gift is taught by a Nature-spirit.\n\nSystem: The Garou rolls Charisma + Animal Ken (difficulty 6). This roll must be made for each type of animal and for each encounter.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Beast Witch",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Like the witches of legend, some Black Furies can assume the shapes of animals. This Gift allows a warrior to become any normal beast from a dove to a buffalo. The animal’s powers (flight, speed, gills, etc.) come with the form. Animal totems pass this Gift to worthy Furies, and might revoke the favor if a wolf forgets her kinship to the Wyld.\n\nSystem: The Fury spends a Gnosis point and rolls Dexterity + Animal Ken. The difficulty depends on the animal she chooses; human-sized ones are easy (6), while radical changes in size or mass are difficult (7+).",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Beastmind",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can reduce the mental faculties of a target to those of an animal for a short time. The victim does not necessarily become less intelligent, but human thinking (logic, theology, language and the like) becomes impossible. An avatar of Griffin teaches this Gift.\n\nSystem: The player rolls Manipulation + Empathy against a difficulty equal to the target’s permanent Willpower. The effects last for one turn per success. The target is rendered to a base level of sentience for the duration of a scene. The target might drool, wet himself, cry or immediately run away from the character, chasing after a butterfly.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Beastmind",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can reduce the mental faculties of a target to those of an animal for a short time. This Gift is taught by an avatar of Griffin.\n\nSystem: The Garou rolls Manipulation + Empathy (difficulty of the target’s Willpower). The effect lasts for one turn per success.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Beastmind",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can reduce the mental faculties of a target to those of an animal for a short time. The victim doesn’t necessarily become less intelligent, but human thinking (logic, mathematics, language and the like) becomes impossible. This Gift is taught by an avatar of Griffin.\n\nSystem: The Garou rolls Manipulation + Empathy against a difficulty of the target’s Willpower. The target is affected for one turn per success.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of The Wyrm (2nd ed)",
+        "edition": "",
+        "names": {
+          "en": "Beautiful Lie",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "When the Veil is endangered, Gaia protects the minds of the innocent with the Delirium, granting false memories and delusions. Since Black Spirals commit particularly grisly crimes, they can use this Gift to channel the Delirium, producing further misdirection or even summoning false evidence to cover their activities.\n\nSpirits serving Kirijama and Hakken are both proficient in this sort of activity. They typically employ subterfuge to deceive those they wish to suborn. If a werewolf recruits enough servants for their schemes, this Gift may be taught in exchange. A Black Spiral with a particularly ingenious Dance of Cunning may also learn this Gift in the Shattered Labyrinth, especially if he exposes (or perpetuates) a particularly brilliant lie.\n\nSystem: A Black Spiral observing a particularly unsubtle crime may attempt to cover it up with a “beautiful lie.” He begins to chant a story of what humans nearby are actually seeing. The Dancer spends one point of Gnosis and rolls Wits + Subterfuge; the difficulty is 6 (as long as the story is vague and plausible). Mass delusions follow, and ephemeral evidence (e.g. animal footprints, a bloody chainsaw, saliva from a rabid dog) remains for an hour to obfuscate the truth.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 6
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Uktena (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Becoming Uktena",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The legends of the Cherokee say that a man was transformed into the Great Uktena to try to kill the sun. Great Uktena was around long before the Cherokee, but Garou have taken the form of his children on two or three occasions. Great Uktena teaches this Gift only to the most worthy of his Uktena followers; with it, the hero may transform into a creature even a Thunderwyrm would fear. After the crisis is resolved (assuming he lives), the new uktena slips into the nearest body of water and into the umbra, forever parting with his Garou brethren to join his father in Galunlati. Such a glorious end to an already legendary career is worthy of fireside retellings for generations.\n\nSystem: Once taught the Gift, the Uktena may call upon it at any time by invoking Great Uktena. The initial stage of the transformation takes three full turns, during which the werewolf’s body grows and changes to a 20’ foot horned serpent. The new uktena still retains the personality of the Garou at this point. After a period of time (usually no more than a scene), the final stage of the transformation begins as the mind of the Garou recedes and the uktena mindset takes over. The spirit creature heads unerringly towards the nearest source of water wide enough to encompass its diameter (not necessarily its whole bulk). As it slides into the water and crosses the Gauntlet, the transformation is complete; the hero’s former pack had best treat this uktena like any other of its kind.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Befriend the Beast Within",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can reduce the mental faculties of his victim to that of an animal for a short time. An avatar of Griffin teaches this Gift.\n\nSystem: The player rolls Manipulation + Empathy (difficulty of the target’s Willpower). The effects last for one turn per success, during which the target listens to only his most base instincts and behaves like a wild animal.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bone Gnawers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Beg",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can, by putting on a pathetic act of self-condemnation, invoke pity in others and get them to give him something for his troubles. Roll Manipulation + Performance and spend one Gnosis point. The difficulty depends on the audience: guilty white males are a five, while a Shadow Lord Ahroun might be a ten. The number of successes determines how good the reward will be: one success might be enough for a cup of coffee and a Danish, while five successes might bring a fetish.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Players Guide (2nd)",
+        "edition": "",
+        "names": {
+          "en": "Beg",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Playing upon the compassion of others, Bone Gnawers can generate an amazing amount of pity. By exaggerating her miserable state, a clever Bone Gnawer can gain favor with people who have too much money. By groveling or telling her particular sob story, she might get a handout, a favor or at least a good meal. A Pigeon-spirit teaches this Gift, which is one reason why Bone Gnawers aver learn it.\n\nSystem: The player must spend one Gnosis point and roll Manipulation + Performance. If the roleplaying is particularly moving, the player can forge the roll at the Storyteller’s discretion. The difficulty depends on the target: a charitable Child of Gaia might be 4, whereas an overbearing Get of Fenris might be a 9. The number of successes determine the amount of pity generated and the generosity of the favor.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bone Gnawers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Wild West Companion",
+        "edition": "",
+        "names": {
+          "en": "Beneath Notice",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "While others seek fame, the Bone Gnawers’ best bet is anonymity. This Gift allows the Garou to blend in with the features of a town or village by becoming too familiar to be noticed. Although no physical change takes place, normal people cannot remember details concerning the Garou. The Gift works in either Homid or Lupus form and causes people who encounter the user to remember a nondescript drifter or a mangy dog. A Dog-spirit teaches this Gift.\n\nSystem: The player spends one Willpower point to remain “anonymous” for the rest of the scene. No one who sees the Gnawer during that time can remember details concerning his appearance.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Get of Fenris",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Fenrir",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Get of Fenris",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Berserker’s Song",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 2\n\nThis fearsome battle song is in a language that has yet to be recognized — it’s certainly not Nordic, any Germanic language, nor Garou. Yet it is potent, for it both channels and increases Rage in the warrior who sings it. Some younger have begun experimenting with the tune and discovered that the lyrics can be sung in any method so long as they maintain the lyrics, and sing it in more modern styles (which outrages some elder Get). An ancestor-spirit teaches this Gift, but cannot explain its origins.\n\nSystem: After spending two Rage points, the player rolls Stamina + Expression or Performance, whichever is higher, against difficulty 6. For a number of rounds equal to the successes gained, the Get automatically frenzies, receiving the benefits of ignoring wounds, shifting immediately to Crinos, and immunity to mind influencing powers. However, he can pull out of this frenzy immediately and may use simple weapons like swords or bludgeons. If the Garou is stopped from singing, somehow, the effect automatically ends.",
+          "pl": ""
+        }
+      }
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Berserker’s Song",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nA Fenrir can sing himself into a controlled frenzy that allows him to ignore wounds and shock. In Crinos form and with additional Rage, he becomes resistant to mental and emotional attacks. He ends the frenzy when he chooses. A wolverine-spirit teaches this Gift.\n\nSystem: The Garou begins singing a battle song of his choice. The player spends two Rage points and rolls Charisma + Primal-Urge (difficulty 6). The frenzy lasts for two rounds per success and may be ended at any time. During the frenzy, the character uses more complicated battle tactics than the usual bite-and-claw techniques available in frenzy, but he gains the usual benefits of the berserk state. Also, all mental and emotional attacks against the Garou using this Gift are at +2 difficulty penalty.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Berserker’s Song",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nThe Garou can sing himself into a frenzy, or a frenzy, but it is a controlled state. During this frenzy, he receives all frenzy benefits (no dice pool modifiers due to wounds, etc.) but can stop the frenzy at any time by stopping his song and spending a Willpower point. Roll Stamina + Expression (or Performance), difficulty seven, and spend two Rage points. The number of successes is the number of turns the Garou can stay in frenzy.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Players Guide (2nd)",
+        "edition": "",
+        "names": {
+          "en": "Berserker’s Song",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 4\n\nThe Get can sing himself into a controlled frenzy. He can ignore wounds, shift to Crinos immediately, and he is immune to many mental Gifts or Charms. In this state, unlike a normal frenzy, the Get can pull out of the frenzy at any time. An angry Wolverine-spirit or Bear-spirit teaches this Gift to the Get.\n\nSystem: The Garou spends two Rage points and begins singing his particular song of Rage (many young Get prefer “death metal”). The number of successes on a Stamina + Expression (or Performance) roll (difficulty 6) equals the number of rounds the frenzy lasts. She can drop the frenzy earlier by spending a Willpower point.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Ragabash",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Ghost Town",
+        "edition": "",
+        "names": {
+          "en": "Beyond Fear",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Eschewed by urbane Ragabash, this “dark trick” shows the target of the Gift a haunting vision of her own death. The vision comes as a dream or trance-like revelation. This Gift is taught by Sickness-spirits and Wolf-spirits.\n\nSystem: This Gift has no mechanical system, per se, though the dreams it engenders are chilling enough to give even the bravest Garou pause.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bunyip",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Past Lives",
+        "edition": "",
+        "names": {
+          "en": "Billabong Bridge",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Great Bunjip was, among other things, a Water-spirit. His children use this Gift to successfully cross large expanses of Australian terrain by using water as a shortcut. The Garou may enter one body of fresh water and emerge from another such body any distance away; salt water “fouls” the Gift, and cannot transport the user. Both bodies of water must be personally well-known to the Garou using the Gift.\n\nSystem: The player spends two Gnosis points and announces her destination. At the Storyteller’s discretion, using this Gift to leave or arrive in an area of high Gauntlet may require a roll to step sideways to make the transition safely. The Gift user cannot take anyone with her while using this Gift; only those items dedicated to her completely (i.e. journey).",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Rage Across Australia",
+        "edition": "",
+        "names": {
+          "en": "Billabong Stride",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Bunyip may enter any body of fresh water and, after completely submerging herself, emerge from the waters of an utterly different lake, stream or river. The destination must be known to the Bunyip, and she must have actually bathed in that water before. This Gift is taught by servants of Mu-ru-bul Tu-ru-dun the Bunyip.\n\nSystem: The Bunyip must spend two Gnosis points.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Camp",
+        "value": "Trance Runners",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Stargazers (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Bird Bones",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Trance Runners are known for being notoriously light. Their bodies, little more than bones and tightly-corded muscle, can move fast and flexible partly due to their legendary “hollow” bones. It allows them to run quickly over almost any surface.\n\nSystem: The Trance Runner is able to run upon almost any surface without penalty. The roll is always Dexterity + Athletics, but the difficulty is variable depending on the danger, complexity, or frailty of the surface.\n\nSurface Type\tDifficulty\nWater\t5\nSnow\t6\nLava\t7\nRazors\t8\nWall\t9\nCeiling\t10",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Bite of the Bat",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Black Spiral Dancer develops razor-sharp teeth and an insatiable appetite for blood. When biting an opponent, the character can choose to drink the blood of a foe, quickly weakening an enemy while temporarily fortifying herself.\n\nSystem: With the expenditure of a Gnosis point and a Strength + Medicine roll (difficulty 7), the Dancer activates the Gift. For each success on the roll, the bitten victim loses one Health Level in addition to the bite damage. The victim must make a Stamina roll (difficulty 8) to resist this additional damage. For each Health Level of damage inflicted on an opponent by this Gift (and only this Gift), the Black Spiral Dancer gains +1 Stamina for the next turn, but only with a successful Gnosis roll (difficulty 8).",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Wendigo",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "The Wild West",
+        "edition": "",
+        "names": {
+          "en": "Bitter Wind",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Wendigo may call up a painfully cold blast of wind to strike his foes. This Gift is taught by a spirit servant of Wendigo.\n\nSystem: The player spends a Willpower point; to direct the wind in combat, he rolls Dexterity + Occult (difficulty 6). Anyone hit by the wind loses two dice from all actions taken that turn, and has one fewer die on the next turn. The wind might also knock foes into canyons, down mine shafts and the like. The range is calculated according to the modifiers for firearms. The medium range is 20 yards; twice that range (40 yards) is the farthest the wind can be directed, and the difficulty for such a distance is increased by one. On the other hand, attacks made at targets within a yard of the Garou are considered “point blank” (difficulty 4). The wind lasts for the entire scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bunyip",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Past Lives",
+        "edition": "",
+        "names": {
+          "en": "Black Swans",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Australian Aborigines attributed the Bunjip with the ability to transform people into black swans. Nobody remembers whether the folktales arose from use of this Gift, or if this Gift arose from the folktales, but the stories are certainly true. The Bunjip used this Gift as a means of punishing those who went against Gaia, and their ancestor-spirits teach it only to those inheritors who display a tremendous sense of justice.\n\nSystem: The Garou must successfully splash an opponent with water taken from the environment; bottled water would not work, while water taken from a local river and carried in a bottle would, and tap water is effective in urban environments. The player spends two Gnosis points and rolls Wits + Occult; supernatural targets (but not ordinary humans) may resist the roll with Willpower. If the player scores more successes than the target, the target is transformed into a black-feathered swan.\n\nThe swan loses access to most of its supernatural abilities while transformed, although its basic nature is unchanged; a vampire transformed into a black swan would have no heartbeat or pulse, and would have to drink blood to survive (although it could not expend blood to increase its Attributes or use Disciplines). Shapeshifters and other creatures that can take other forms (such as vampires with shapeshifting Disciplines) remain in swan form for the duration of the scene; for those with no shapeshifting ability, the transformation is permanent unless somehow reversed.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Ragabash",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Blank",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "“Consider it a bio-electrical blackout.” That’s how Pat O’Reidy described the Gift, and it remains the best description there is for it. For a short period, everyone in the room simply goes blank. They still stand upright (unless they were lying down to begin with) but eyes close, senses go dead, and nobody moves. Meanwhile, the Ragabash can move about without being seen, or can take actions they otherwise couldn’t. Any actual attempt to harm someone will break the communal trance, so slitting their throat while they remain unconscious won’t work. But you could certainly pick someone up, put him in a trunk of a car, and take him elsewhere. A spirit of electricity or electric eel-spirit teaches this Gift.\n\nSystem: The player spends three Rage and rolls Gnosis (difficulty 8). Each success “blanks” every person in a room for one turn. Supernatural creatures (including vampires, mages and imbued hunters) can make a resisted Willpower roll (again, difficulty 8) against the Ragabash’s Gnosis roll. Every extra success the Ragabash gains over his target blanks the victim for one turn.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Fenrir",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Blaze of Glory",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Any Fenrir knows his final battle will be a glorious one. A Fenrir may invoke this single-use Gift to devour everything around him, including himself and his enemies in a blazing burst of fiery power. Aging Fenrir elders often receive this Gift before their final quest. This Gift may only be attained from an avatar of Fenris after an arduous Umbral journey.\n\nSystem: The player spends one point each of Rage, Gnosis and Willpower and rolls Willpower (difficulty 6). Each success inflicts five aggravated levels of scorching fire damage on everyone and everything in a 30-foot radius, including the Garou himself. The Garou cannot soak this damage.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Uktena (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Blending",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Intruder legends tell of the uncanny ability of native peoples to hide in plain sight, even only yards away. This Gift allows the user to blend into the landscape simply by crouching and keeping still. It isn’t invisibility; rather, the Garou draws the landscape into himself to appear to the unwary as a natural part of the terrain. This Gift is especially common among caern guardians. Any stealthy spirit, such as chameleon, teaches this Gift.\n\nSystem: The Garou stands among terrain features (trees, thickets, etc) or simply hunkers down and wills herself to be one with the environment. A searcher must make a Perception + Alertness roll (difficulty 9) to recognize the Garou as something more interesting than a stump, and the expenditure of a Gnosis point negates three successes (this includes scent as well as sight). If the searcher is looking directly away, the Garou may move slowly in any direction, but even the slowest movement while in the searcher’s field of view reveals her instantly.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Red Talons",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Red Talons (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Blessing of the First Pack",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Red Talons believe that the very first pack of Garou set the standards for the auspices, and that only the Talons retain a strong enough connection to that First Pack to use this Gift. This may or may not be true, but no non-Talon Garou has ever exhibited this mighty Gift (but then, very few among the Talons even know of it). To learn this Gift, the Talon must have at least one dot in Ancestors. The Garou calls upon her originator of her auspice and is temporarily transformed into the pinnacle of her moon-sign. An avatar of Wolf or a powerful Lune may teach this Gift, but neither does so often.\n\nSystem: The player spends two Gnosis points and rolls Charisma + Ancestors (difficulty 8). If the roll succeeds, the character becomes infused with the very essence of her auspice. For the remainder of the scene, the character receives five dots of Pure Breed in addition to any she already possesses. She may also make use of any auspice Gift for her particular auspice of level 4 or lower. (Gifts taken from sources other than Werewolf are subject to Storyteller approval.) In addition, Blessing of the First Pack grants power based on the character’s auspice:\n\nAuspice\tBonus\nRagabash\t+3 to Stealth, +2 to Wits and Dexterity\nTheurge\t+3 to Enigmas, +2 to Intelligence and Gnosis\nPhilodox\t+3 to Rituals, +2 to Manipulation and Stamina\nGalliard\t+3 to Expression, +2 to Charisma and Strength\nAhroun\t+3 to Leadership, +2 to Strength and Rage",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bone Gnawers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Blink",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Using this Gift, a Bone Gnawer can duck into a shadowed area (an empty barrel, an alleyway or behind a church pew) and pop out in another shadowed area some distance away. This Gift is taught by a rat-spirit.\n\nSystem: The player spends one Gnosis point and rolls Manipulation + Stealth (difficulty 6). The character can increase the radius in which he may reappear by 20 yards for every success scored, but he must emerge from a likely (or logical) hiding place.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Ragabash",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bone Gnawers",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      },
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Silent Striders",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 2
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Blissful Ignorance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Two spirits can become completely invisible to all senses, spirits or monitoring minds. A chameleon-spirit teaches this Gift.\n\nSystem: The Garou’s player rolls Dexterity + Stealth (difficulty 7). Each success subtracts one success from the Perception + Alertness rolls of those looking for the character actively. If no one is doing so, then just one success indicates complete concealment.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Blissful Ignorance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Become invisible by remaining perfectly still.\n\nSystem: Roll Dexterity + Stealth (difficulty 7). Opponents must score successes on Perception + Alertness to notice.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Blissful Ignorance",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can become completely invisible to all senses, spirits or monitoring devices by remaining still. This Gift is taught by a Chameleon-spirit.\n\nSystem: The Garou rolls Dexterity + Stealth (difficulty 7); each success subtracts one success from the Perception + Alertness rolls of those actively looking for the character. If no one is so doing, then one success indicates complete concealment.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "Camp",
+        "faction_value": "Amazons of Diana",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Black Furies (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Blizzard of Arrows",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Black Fury who uses this Gift truly shows herself the equal of any man — or machine — on the battlefield. Once Blizzard of Arrows is activated, the Garou deals out nightmarish pain to the hordes that oppose her. Heroes with this Gift might single-handedly have turned cavalry charges, in the days when such things still took place. For today, however, the Fury with this Gift is the perfect ally when faced by hordes of Wyrm-creatures. This Gift is taught by a Porcupine-spirit.\n\nSystem: Spend a point of Willpower and two points of Rage, and you may take a single arrow shot (at no multi-action penalty) at every foe within 100 yards, to a maximum of 20 enemies. Simply roll to hit once, using the sight and range penalties for the hardest-to-hit foe in range, and apply that number of successes against each enemy, which individually may soak, dodge, etc, as the Storyteller sees fit.\n\nThis Gift is limited by the number of arrows you have on hand: all arrows that you intend to shoot must be someplace that they can easily be nocked and shot from (in a quiver on the back or waist, or stuck point-first into the ground in front of you; lying scattered nearby will not suffice). The bow and arrows may be of modern manufacture, but cannot use any exceptional Weaver-based equipment (such as laser sights or explosive tips) to gain any accuracy or damage bonus. However, a fetish bow shooting talen arrows is certainly acceptable.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Spiral Dancers",
+        "faction_type": "Auspice",
+        "faction_value": "Theurge",
+        "rank": 2
+      },
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "BSD - Theurge",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of The Wyrm (1st ed)",
+        "edition": "",
+        "names": {
+          "en": "Blood Omen",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 2\n\nThis allows the Black Spiral Theurge to utilize the age-old art of prophecy by “reading” the innards of freshly killed creatures. While a Garou or homid is an especially accurate medium, any warm-blooded creature will do. An Intelligence + Enigmas roll (difficulty 9) is required to discover some glimpse of the future. The difficulty is reduced to seven if a Garou, wolf or homid is used. The more successes, the more detailed and accurate the information. This Gift requires the expenditure of one Gnosis point.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Book of The Wyrm (2nd ed)",
+        "edition": "",
+        "names": {
+          "en": "Blood Omen",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Rank: 3\n\nBy examining the entrails of a freshly-killed creature, a Black Spiral Theurge can gain insights into a possible future. As expected, the vision is almost always tragic or violent.\n\nA Theurge can receive this Gift during the Dance of Cunning. Sometimes this visionquest involves the dismemberment of the mystic, who watches the violation of her own body. This grants her insights into her true nature by an examination of her own internal organs.\n\nSystem: This burns one point of Gnosis and requires an Intelligence + Enigmas roll; the difficulty depends on the type of creature used — 7 for a Garou, wolf or human, or 9 for any other warm-blooded creature. More successes will grant a clearer picture of the possible atrocity to come.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "White Howler",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Past Lives",
+        "edition": "",
+        "names": {
+          "en": "Blood-Scent",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Part of the White Howlers’ reputation as excellent trackers stemmed from Gifts such as this one. The Garou with this Gift finds it childishly easy to track down any human, beast or supernatural being whose blood she has tasted. The Howlers parlayed this Gift into the tactic of letting a wounded enemy escape, only to unerringly track him to his lair and the rest of his clan. Today, the Black Spiral Dancers continue this practice, although without the aid of the Blood-Scent Gift.\n\nSystem: Once learned, this Gift’s effects are permanent. The Garou receives two additional dice to any roll made to track prey whose blood she has tasted. These dice also apply to the use of tracking Gifts such as Sense of the Prey.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "White Howler",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Past Lives",
+        "edition": "",
+        "names": {
+          "en": "Blooding Fury",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Fianna often wondered if the White Howlers were the masters of their Rage, or if Rage was the master of the White Howlers. This Gift only added to the Fianna’s trepidation. By wounding herself, the Garou is able to tap into a fresh reservoir of Rage, for good or ill.\n\nSystem: The Garou must injure herself with a claw or bite; the character takes one level of unsoakable aggravated damage, and regains all her temporary Rage. This Gift can be used only once per scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Wendigo",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Bloody Feast",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "Great Wendigo, a hungry cannibalistic spirit, can teach his favored children the ability to gain added strength from an enemy’s flesh and blood. An avatar of Great Wendigo teaches this Gift.\n\nSystem: To activate this Gift, the Garou must first bite his opponent and be able to taste blood — meaning he must inflict at least one health level of damage, and his victim must have blood or be bleeding. If his opponent has no blood or none at all, this Gift will not work. The player then rolls Gnosis at a difficulty of the opponent’s Stamina + 3 (maximum of 10). The Wendigo gains one extra dot in Strength for every two health levels of damage inflicted by the bite (maximum of +5 to Strength). The extra Strength bonus lasts for one turn per success on the Gnosis roll. However, flesh and blood can be addictive. The Wendigo’s player must make an immediate frenzy roll after activating this Gift.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bunyip",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Rage Across Australia",
+        "edition": "",
+        "names": {
+          "en": "Bloody-Mindedness",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Bunyip gains the ability to dedicate himself to one particular task, be it combat or an artistic endeavor. Nothing will sway the Bunyip from that task. This Gift is taught by servants of Mu-ru-bul Tu-ru-dun the Bunyip.\n\nSystem: The Bunyip spends two Willpower points. Afterward, nothing save death can distract or dissuade the Bunyip from her chosen task. She need not eat or sleep. If the power is used in combat, the Bunyip becomes oblivious to any other opponents and consequently may not dodge their attacks. Her soak Dice Pool versus these attacks, however, is doubled. Versus the chosen opponent, the Bunyip gains one extra attack per round, and the difficulties of all actions against that target are reduced by one. She also becomes immune to supernatural attempts to dissuade her.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Ragabash",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 1
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Blur of the Milky Eye",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou’s form becomes a shimmering blur, allowing him to pass unnoticed among others. Once the Garou has been seen, however, this Gift is negated until the viewer has been distracted. A chameleon-spirit teaches this Gift.\n\nSystem: The player rolls Manipulation + Stealth (difficulty 8). Although he doesn’t become truly invisible, each success increases the difficulty of all Perception rolls made to detect him by one.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Blur of the Milky Eye",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou’s form becomes blurred and indistinct, allowing him to pass unnoticed unless closely observed.\n\nSystem: Roll Manipulation + Stealth (difficulty 7). Each success increases difficulty of Perception rolls to detect the Garou. Not true invisibility.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Blur of the Milky Eye",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou’s form becomes a shimmering blur, allowing him to pass unnoticed among others. Once the Garou has been seen, however, this Gift is negated until the viewer has again been distracted. This Gift is taught by a Chameleon-spirit.\n\nSystem: The Garou rolls Manipulation + Stealth (difficulty 8). Each success increases by one the difficulties of all Perception rolls made to detect him.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Homid",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      },
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Metis",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      },
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Lupus",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide (1st. Ed.)",
+        "edition": "",
+        "names": {
+          "en": "Body Shift",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can use her shapeshifting to alter her physical Traits. A level of Dexterity can be shifted to Strength or Stamina, or a level of Stamina could be shifted to Dexterity — whatever combination the player desires. Roll Stamina + Primal-Urge (difficulty 9). For every two successes, one Trait level can be shifted. The effect lasts for one scene only. A Rage point can not be spent to shift Traits instantly.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Core Rulebook (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Body Wrack",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Fury causes a target immense crippling pain. The Fury needs only point to the target for this Gift to be effective. A pain-spirit teaches this Gift.\n\nSystem: The player spends one Rage point and rolls Strength + Medicine (difficulty of the opponent’s Stamina + 3). Each success causes the victim to lose one die from all dice pools as pain wracks her body. The effects last one scene.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Dark Ages",
+        "edition": "",
+        "names": {
+          "en": "Body Wrack",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By focusing her anger and pointing her finger at an opponent, a Fury can cause immense, crippling pain. Victims of the pain fall to the ground and convulse for a short time. Furies use this Gift as an effective intimidation tactic. A pain-spirit teaches this Gift.\n\nSystem: The player spends a Gnosis point and rolls Gnosis (difficulty of the target’s Stamina + 3). If successful, the target is left stunned and convulsing for one round per success. Additionally, the target subtracts one per success from all Attribute rolls for the rest of the scene.",
+          "pl": ""
+        }
+      },
+      {
+        "book": "Werewolf: The Apocalypse (2nd Edition)",
+        "edition": "",
+        "names": {
+          "en": "Body Wrack",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Garou can cause a target to suffer immense pain. This Gift is taught by a Pain-spirit.\n\nSystem: The Garou spends a Gnosis point and rolls Dexterity + Medicine (difficulty of the opponent’s Stamina + 4). Each success causes the victim to lose one die from all Dice Pools as agonizing pain sweeps over his body.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Black Furies",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Tribebook - Black Furies (Revised)",
+        "edition": "",
+        "names": {
+          "en": "Bolster the True Name",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Crone has no need of a child’s rage, and her wiles are enough to let her survive the day that the Mother’s stalwart nature fails her. She can sacrifice her hatred and will to reinvigorate her spiritual connections. This Gift is taught by a Lune.\n\nSystem: A Crone using this Gift rolls Intelligence + Occult with a target of her own permanent Gnosis; she spends one point of temporary Rage and one temporary Willpower, and refills her Gnosis pool if the roll achieves 2 or more successes.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Philodox",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Players Guide to Garou",
+        "edition": "",
+        "names": {
+          "en": "Bonds that Tie Us",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Philodox is mediator and judge, but is also investigator. The Gift assists a Philodox with such matters by revealing any emotions and opinions that exist between two people. Many Garou detest this Gift, since it is indiscriminate, revealing any emotion that may exist. It is taught by an ant-spirit.\n\nSystem: The player spends one Rage as the Philodox taps deep into his own wellspring of emotion, connecting those emotions to those of his target. After this, the Philodox whispers the name of a person with whom the target has a relationship, and the Philodox will immediately feel every emotion toward that person that the target has. These emotions aren’t real (at least to the Philodox), but they certainly feel it, and it is wise to avoid the person to whom those emotions are directed for as long as the effect lasts (one scene). A Garou or other supernatural that doesn’t wish to cooperate with the Gift may roll their Willpower, difficulty of the Philodox’s Rage with success preventing the use of the Gift.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Auspice",
+        "value": "Galliard",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 4
+      }
+    ],
+    "versions": [
+      {
+        "book": "Book of Auspices",
+        "edition": "",
+        "names": {
+          "en": "Book of Years",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "The Galliard taps into a floodgate of knowledge from her ancestors. While the amount of information thus received is overwhelming, the Garou, if she keeps her head about her, can find information on nearly any topic. An ancestor-spirit teaches this Gift, although certain reptilian spirits have been known to impart it as well.\n\nSystem: The player rolls Wits + Enigmas or Ancestors (whichever is higher; the Garou need not have the Ancestors Background to learn this Gift) at a difficulty of the local Gauntlet. The character falls into a trance and is immediately immersed in a deluge of memories stretching back to the dawn of time. This flood continues until the character terminates the Gift, and the memories get older the longer she remains in the trance. For every hour the character remains under the Gift’s influence, the memories stretch back roughly five centuries. For each hour that the character remains in the trance, however, the player must roll Willpower (difficulty 7) to keep the character grounded in her own time. If the roll fails, the character must either immediately terminate the trance or lose a point of temporary Willpower as the memories threaten to consume her. If the roll botches, her body disappears and reappears somewhere in the Umbra; the Legendary Realm and the Battleground are both popular choices.\n\nWhile the character cannot hope to remember all or even most of the information she sees, she can attempt to search for specific moments in history. The result is a sort of vision quest; the Storyteller may choose to simply describe what the character sees or might lead the character on a quest through the memories of the Garou until she finds the information she needs.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Breed",
+        "value": "Lupus",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 5
+      }
+    ],
+    "versions": [
+      {
+        "book": "Ways of the Wolf",
+        "edition": "",
+        "names": {
+          "en": "Boon of Animal Fathers",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "By entreaty to a specific Animal Father, the Garou can gain that specific animal totem for one scene. If the Garou entreaties Father Moose, the Garou can gain Moose as his totem for that scene, gaining all the benefits as if she were allied to that totem. This does not give the special powers granted by the metis gift Totem Gift, only the regular benefits of a totem alliance. The Animal Fathers are believed to be different, more specific, aspects of the animal totems. This gift only works with totems that embody “real animals,” Unicorn or Pegasus cannot be entreated with this gift. The Garou must spend 2 Gnosis and make a successful Charisma + Primal-Urge roll. This gift may only be used once per scene.",
+          "pl": ""
+        }
+      }
+    ]
+  },
+  {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Uktena",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
+    "versions": [
+      {
+        "book": "Frontier Secrets",
+        "edition": "",
+        "names": {
+          "en": "Bounty of the Corn Maiden",
+          "pl": ""
+        },
+        "descriptions": {
+          "en": "A Garou can create a couple of corn kernels, a few nuts, a strip of dried meat or other small, edible object, the Garou may call forth enough food to feed herself, and possibly a few other people, seemingly from nothing. This Gift is taught by the spirit of the Corn Maiden.\n\nSystem: The player spends one Gnosis point and rolls Intelligence + Occult (difficulty 6). For each success she gains, she is able to create one meal consisting of the type of food used in the invocation. Thus, corn might produce ears of corn, cakes or tortillas or a corn mush, while meat might create a steak or beef hash. The food thus created will fully satisfy one person per meal created, being nutritious and sustaining. Botches result in no food being created and the destruction of the focus (nuts, meat strip, etc.).",
+          "pl": ""
+        }
+      }
+    ]
+  },
+	
+
+	
+	
+]

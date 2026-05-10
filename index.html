@@ -96,7 +96,7 @@
 
 	.gift-description {
 	  line-height: 1.5;
-	  white-space: pre-line;
+
 	  margin-top: 0;
 	}
 
@@ -475,13 +475,7 @@ function renderGifts(filteredGifts) {
         `).join("")}
       </select>
 
-      <div class="gift-description"
-           id="${descId}">
-
-        ${defaultVersion.descriptions.en}
-
-      </div>
-    `;
+      <div class="gift-description"id="${descId}">${defaultVersion.descriptions.en}</div>`;
 
     container.appendChild(card);
 

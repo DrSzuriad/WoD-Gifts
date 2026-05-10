@@ -214,81 +214,83 @@
   // INIT
   // =========================
 
-  function initializeApp() {
+function initializeApp() {
 
-    const garouGifts =
-      gifts.filter(g => g.race === "Garou");
+  // TYLKO GAROU
+  const garouGifts =
+    gifts.filter(g => g.race === "Garou");
 
-    // Breed
-    const breeds = [...new Set(
-      garouGifts
-        .filter(g => g.originType === "Breed")
-        .map(g => g.originValue)
-    )];
+  // Breed
+  const breeds = [...new Set(
+    garouGifts
+      .filter(g => g.originType === "Breed")
+      .map(g => g.originValue)
+  )];
 
-    // Auspice
-    const auspices = [...new Set(
-      garouGifts
-        .filter(g => g.originType === "Auspice")
-        .map(g => g.originValue)
-    )];
+  // Auspice
+  const auspices = [...new Set(
+    garouGifts
+      .filter(g => g.originType === "Auspice")
+      .map(g => g.originValue)
+  )];
 
-    // Tribe
-    const tribes = [...new Set(
-      garouGifts
-        .filter(g => g.originType === "Tribe")
-        .map(g => g.originValue)
-    )];
+  // Tribe
+  const tribes = [...new Set(
+    garouGifts
+      .filter(g => g.originType === "Tribe")
+      .map(g => g.originValue)
+  )];
 
-    // Other
-    const others = [...new Set(
-      garouGifts
-        .filter(g =>
-          !["Breed", "Auspice", "Tribe"]
-            .includes(g.originType)
-        )
-        .map(g => g.originValue)
-    )];
-	
-	const ranks = [1, 2, 3, 4, 5, 6];
+  // Other
+  const others = [...new Set(
+    garouGifts
+      .filter(g =>
+        !["Breed", "Auspice", "Tribe"]
+          .includes(g.originType)
+      )
+      .map(g => g.originValue)
+  )];
 
-    breedChoices =
-      fillSelect("breedSelect", breeds, "Breed");
+  // Rank
+  const ranks = [1, 2, 3, 4, 5, 6];
 
-    auspiceChoices =
-      fillSelect("auspiceSelect", auspices, "Auspice");
+  breedChoices =
+    fillSelect("breedSelect", breeds, "Breed");
 
-    tribeChoices =
-      fillSelect("tribeSelect", tribes, "Tribe");
+  auspiceChoices =
+    fillSelect("auspiceSelect", auspices, "Auspice");
 
-    otherChoices =
-      fillSelect("otherSelect", others, "Other");
+  tribeChoices =
+    fillSelect("tribeSelect", tribes, "Tribe");
 
-rankChoices =
-  fillSelect("rankSelect", ranks, "Rank");
+  otherChoices =
+    fillSelect("otherSelect", others, "Other");
 
-    document
-      .getElementById("breedSelect")
-      .addEventListener("change", filterGifts);
+  rankChoices =
+    fillSelect("rankSelect", ranks, "Rank");
 
-    document
-      .getElementById("auspiceSelect")
-      .addEventListener("change", filterGifts);
+  document
+    .getElementById("breedSelect")
+    .addEventListener("change", filterGifts);
 
-    document
-      .getElementById("tribeSelect")
-      .addEventListener("change", filterGifts);
+  document
+    .getElementById("auspiceSelect")
+    .addEventListener("change", filterGifts);
 
-    document
-      .getElementById("otherSelect")
-      .addEventListener("change", filterGifts);
-	  
-	document
-  .getElementById("rankSelect")
-  .addEventListener("change", filterGifts);
+  document
+    .getElementById("tribeSelect")
+    .addEventListener("change", filterGifts);
 
-    renderGifts(garouGifts);
-  }
+  document
+    .getElementById("otherSelect")
+    .addEventListener("change", filterGifts);
+
+  document
+    .getElementById("rankSelect")
+    .addEventListener("change", filterGifts);
+
+  renderGifts(garouGifts);
+}
 
   // =========================
   // SELECTY

@@ -49,13 +49,14 @@
       margin-bottom: 30px;
     }
 
-    .gift-list {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 20px;
-    }
+	.gift-list {
+	  display: flex;
+	  flex-direction: column;
+	  gap: 20px;
+	}
 
     .gift-card {
+	  max-width: 1200px;
       background: #1e1e1e;
       border-radius: 12px;
       padding: 16px;
@@ -142,6 +143,15 @@
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+  
+  .choices__list--dropdown .choices__item--selectable.is-highlighted {
+  background: #555 !important;
+  color: white !important;
+	}
+	.choices__list--multiple .choices__item {
+	  background: #444 !important;
+	  border: 1px solid #666 !important;
+	}
 
 <script>
 
@@ -448,14 +458,6 @@ function renderGifts(filteredGifts) {
 
       <br><br>
 
-      <div class="gift-meta"
-           id="${metaId}">
-
-        ${defaultVersion.book}
-        ${defaultVersion.edition}
-
-      </div>
-
       <div class="gift-description"
            id="${descId}">
 
@@ -484,10 +486,6 @@ function renderGifts(filteredGifts) {
       document.getElementById(titleId)
         .textContent =
           version.names.en;
-
-      document.getElementById(metaId)
-        .textContent =
-          `${version.book} ${version.edition}`;
 
       document.getElementById(descId)
         .textContent =

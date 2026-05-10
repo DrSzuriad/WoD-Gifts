@@ -112,7 +112,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.4
+  Version: v0.2.5
 </div>
 
   <div class="tabs">
@@ -575,6 +575,108 @@ function updateFactionOptions() {
     ], "value", "label", false);
 
   });
+}
+
+function initializeApp() {
+
+  const garouGifts = gifts.filter(gift =>
+    gift.requirements.some(r =>
+      r.race === "Garou"
+    )
+  );
+
+  // BREEDS
+  const breeds = [...new Set(
+
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r => r.type === "Breed")
+        .map(r => r.value)
+
+    )
+
+  )].sort();
+
+  // AUSPICES
+  const auspices = [...new Set(
+
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r => r.type === "Auspice")
+        .map(r => r.value)
+
+    )
+
+  )].sort();
+
+  // TRIBES
+  const tribes = [...new Set(
+
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r => r.type === "Tribe")
+        .map(r => r.value)
+
+    )
+
+  )].sort();
+
+  // FACTIONS
+  const others = [...new Set(
+
+    garouGifts.flatMap(gift =>
+
+      gift.requirements
+        .filter(r =>
+          r.faction_type !== "All"
+        )
+        .map(r => r.faction_value)
+
+    )
+
+  )].sort();
+
+  const ranks = [1,2,3,4,5,6];
+
+  breedChoices =
+    fillSelect("breedSelect", breeds, "Breed");
+
+  auspiceChoices =
+    fillSelect("auspiceSelect", auspices, "Auspice");
+
+  tribeChoices =
+    fillSelect("tribeSelect", tribes, "Tribe");
+
+  otherChoices =
+    fillSelect("otherSelect", others, "Faction");
+
+  rankChoices =
+    fillSelect("rankSelect", ranks, "Rank");
+
+  document
+    .getElementById("breedSelect")
+    .addEventListener("change", filterGifts);
+
+  document
+    .getElementById("auspiceSelect")
+    .addEventListener("change", filterGifts);
+
+  document
+    .getElementById("tribeSelect")
+    .addEventListener("change", filterGifts);
+
+  document
+    .getElementById("otherSelect")
+    .addEventListener("change", filterGifts);
+
+  document
+    .getElementById("rankSelect")
+    .addEventListener("change", filterGifts);
+
+  renderGifts(garouGifts);
 }
 
   // =========================

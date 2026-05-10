@@ -488,9 +488,14 @@ function renderGifts(filteredGifts) {
         `).join("")}
       </select>
 
-      <div class="gift-description"id="${descId}">${defaultVersion.descriptions.en}</div>`;
+	<div class="gift-description"
+		 id="${descId}"></div>
 
     container.appendChild(card);
+	
+	document.getElementById(descId)
+	  .textContent =
+		defaultVersion.descriptions.en;
 
     // =========================
     // VERSION SWITCHING

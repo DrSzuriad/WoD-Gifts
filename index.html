@@ -113,7 +113,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.9
+  Version: v0.2.10
 </div>
 
   <div class="tabs">
@@ -379,9 +379,10 @@ function renderGifts(filteredGifts) {
 
   container.innerHTML = "";
 
-  filteredGifts.forEach(gift => {
+  filteredGifts.forEach((gift, index) => {
 
-    const version = gift.versions[0];
+    const defaultVersion =
+      gift.versions[0];
 
     const requirementsText =
       gift.requirements.map(r => {
@@ -391,9 +392,8 @@ function renderGifts(filteredGifts) {
 
         if (r.faction_type !== "All") {
 
-          text += `
-            (${r.faction_type}: ${r.faction_value})
-          `;
+          text +=
+            ` (${r.faction_type}: ${r.faction_value})`;
         }
 
         text += ` | Rank ${r.rank}`;
@@ -407,24 +407,92 @@ function renderGifts(filteredGifts) {
 
     card.className = "gift-card";
 
+    // unique ids
+    const titleId =
+      `gift-title-${index}`;
+
+    const metaId =
+      `gift-meta-${index}`;
+
+    const descId =
+      `gift-desc-${index}`;
+
+    const selectId =
+      `gift-version-${index}`;
+
     card.innerHTML = `
-      <div class="gift-title">
-        ${version.names.en}
+
+      <div class="gift-title"
+           id="${titleId}">
+        ${defaultVersion.names.en}
       </div>
 
       <div class="gift-meta">
         ${requirementsText}
-        <br><br>
-        ${version.book}
-        ${version.edition}
       </div>
 
-      <div class="gift-description">
-        ${version.descriptions.en}
+      <br>
+
+      <select id="${selectId}">
+        ${gift.versions.map((v, i) => `
+
+          <option value="${i}">
+            ${v.book}
+            ${v.edition
+              ? ` (${v.edition})`
+              : ""}
+          </option>
+
+        `).join("")}
+      </select>
+
+      <br><br>
+
+      <div class="gift-meta"
+           id="${metaId}">
+
+        ${defaultVersion.book}
+        ${defaultVersion.edition}
+
+      </div>
+
+      <div class="gift-description"
+           id="${descId}">
+
+        ${defaultVersion.descriptions.en}
+
       </div>
     `;
 
     container.appendChild(card);
+
+    // =========================
+    // VERSION SWITCHING
+    // =========================
+
+    const select =
+      document.getElementById(selectId);
+
+    select.addEventListener("change", e => {
+
+      const versionIndex =
+        Number(e.target.value);
+
+      const version =
+        gift.versions[versionIndex];
+
+      document.getElementById(titleId)
+        .textContent =
+          version.names.en;
+
+      document.getElementById(metaId)
+        .textContent =
+          `${version.book} ${version.edition}`;
+
+      document.getElementById(descId)
+        .textContent =
+          version.descriptions.en;
+    });
   });
 }
 

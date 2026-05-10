@@ -144,6 +144,12 @@
 	  color: white !important;
 	}
 	
+	.choices__list--multiple .choices__item {
+	  background: #1a0000 !important;
+	  border: 1px solid #3a0000 !important;
+	  color: white !important;
+	}
+	
   </style>
 </head>
 <body>
@@ -550,24 +556,11 @@ function updateFactionOptions() {
 
     )];
 
-  } else {
+	} else {
 
-    // jeśli nic nie wybrano → wszystkie faction
-
-    factionValues = [...new Set(
-
-      gifts.flatMap(gift =>
-
-        gift.requirements
-          .filter(r =>
-            r.faction_type !== "All"
-          )
-          .map(r => r.faction_value)
-
-      )
-
-    )];
-  }
+	  // brak tribe = brak faction
+	  factionValues = [];
+	}
 
 	factionValues = [
 	  "All",

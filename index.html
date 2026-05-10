@@ -113,6 +113,7 @@
   <div id="garou-content">
 
     <div class="filters">
+	<select id="rankSelect" multiple></select>
       <select id="breedSelect" multiple></select>
       <select id="auspiceSelect" multiple></select>
       <select id="tribeSelect" multiple></select>
@@ -139,6 +140,7 @@
   let auspiceChoices;
   let tribeChoices;
   let otherChoices;
+  let rankChoices;
 
   // =========================
   // ŁADOWANIE JSON
@@ -247,6 +249,8 @@
         )
         .map(g => g.originValue)
     )];
+	
+	const ranks = [1, 2, 3, 4, 5, 6];
 
     breedChoices =
       fillSelect("breedSelect", breeds, "Breed");
@@ -259,6 +263,9 @@
 
     otherChoices =
       fillSelect("otherSelect", others, "Other");
+
+rankChoices =
+  fillSelect("rankSelect", ranks, "Rank");
 
     document
       .getElementById("breedSelect")
@@ -275,6 +282,10 @@
     document
       .getElementById("otherSelect")
       .addEventListener("change", filterGifts);
+	  
+	document
+  .getElementById("rankSelect")
+  .addEventListener("change", filterGifts);
 
     renderGifts(garouGifts);
   }
@@ -362,6 +373,9 @@
 
     const selectedOthers =
       otherChoices.getValue(true);
+	  
+	const selectedRanks =
+  rankChoices.getValue(true);
 
     const garouGifts =
       gifts.filter(g => g.race === "Garou");
@@ -400,11 +414,22 @@
       ) {
         return false;
       }
+	  
+	  if (
+  selectedRanks.length > 0 &&
+  !selectedRanks.includes(String(gift.rank))
+) {
+  return false;
+}
 
       return true;
     });
 
-    renderGifts(filtered);
+const sorted = filtered.sort((a, b) => {
+  return Number(a.rank) - Number(b.rank);
+});
+
+renderGifts(sorted);
   }
 
   // =========================

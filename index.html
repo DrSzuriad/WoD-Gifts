@@ -157,7 +157,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.2.11
+  Version: v0.2.12
 </div>
 
   <div class="tabs">
@@ -388,26 +388,7 @@ function filterGifts() {
   });
 
   // SORT
-  filtered.sort((a, b) => {
-
-    const rankA =
-      a.requirements[0].rank;
-
-    const rankB =
-      b.requirements[0].rank;
-
-    if (rankA !== rankB) {
-      return rankA - rankB;
-    }
-
-    const nameA =
-      a.versions[0].names.en;
-
-    const nameB =
-      b.versions[0].names.en;
-
-    return nameA.localeCompare(nameB);
-  });
+  sortGifts(filtered);
 
   renderGifts(filtered);
 }
@@ -674,6 +655,8 @@ function initializeApp() {
   document
     .getElementById("rankSelect")
     .addEventListener("change", filterGifts);
+	
+  sortGifts(garouGifts);
 
   renderGifts(garouGifts);
 }
@@ -713,6 +696,32 @@ function fillSelect(
   );
 
   return choices;
+}
+
+function sortGifts(giftsArray) {
+
+  return giftsArray.sort((a, b) => {
+
+    const rankA =
+      a.requirements[0].rank;
+
+    const rankB =
+      b.requirements[0].rank;
+
+    // najpierw rank
+    if (rankA !== rankB) {
+      return rankA - rankB;
+    }
+
+    // potem nazwa
+    const nameA =
+      a.versions[0].names.en;
+
+    const nameB =
+      b.versions[0].names.en;
+
+    return nameA.localeCompare(nameB);
+  });
 }
 
   // =========================

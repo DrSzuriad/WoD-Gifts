@@ -12661,7 +12661,6 @@
           "pl": ""
         }
       },
-    "versions": [
       {
         "book": "Players Guide (2nd)",
         "edition": "",
@@ -14034,7 +14033,7 @@
         "faction_type": "All",
         "faction_value": "All",
         "rank": 4
-      },
+      }
     ],
     "versions": [
       {
@@ -14380,7 +14379,7 @@
           "en": "When a Fenrir evokes this Gift, he summons Great Wolves to aid him. It cannot be used lightly, and it requires good standing with Fenris as well as a truly worthy circumstance. An avatar of Fenris teaches this Gift.\n\nSystem: The player may spend as many points of Rage and Gnosis points desired, then he rolls Charisma + Animal Ken (difficulty 6). The number of Great Wolves that appear is equal to the number of Rage and Gnosis points spent. The wolves are functionally identical to the Hounds of the Wild Hunt, and they remain for one scene.",
           "pl": ""
         }
-      }
+      },
       {
         "book": "Werewolf: The Apocalypse (2nd Edition)",
         "edition": "",
@@ -16230,7 +16229,7 @@
           "en": "The Garou plants herself on a patch of ground and channels the very force of Gaia through her body, essentially becoming one with the Earth. She may not retreat or even move from her chosen “turf” (and no force on Earth can make her!), but she gains many powers thereby. Only when all foes are defeated may she retreat or leave. This Gift is taught by an earth elemental.\n\nSystem: The Garou rolls Willpower (difficulty 8). Each success grants her one extra die to all her Dice Pools. Additionally, she may not be surprised, and all attacks against her are considered frontal.",
           "pl": ""
         }
-      },
+      }
     ]
   },
   {
@@ -16286,7 +16285,7 @@
     ]
   },
   {
-    "requirements": [,
+    "requirements": [
       {
         "race": "Garou",
         "type": "Breed",
@@ -16294,7 +16293,7 @@
         "faction_type": "All",
         "faction_value": "All",
         "rank": 1
-      }
+      },
       {
         "race": "Garou",
         "type": "Tribe",
@@ -16717,6 +16716,17 @@
       }
     ]
   },
+   {
+    "requirements": [
+      {
+        "race": "Garou",
+        "type": "Tribe",
+        "value": "Bunyip",
+        "faction_type": "All",
+        "faction_value": "All",
+        "rank": 3
+      }
+    ],
     "versions": [
       {
         "book": "Past Lives",
@@ -19187,9 +19197,7 @@
         "faction_type": "All",
         "faction_value": "All",
         "rank": 2
-      }
-    ],
-    "versions": [
+      },
       {
         "book": "Core Rulebook (Revised)",
         "edition": "",
@@ -20305,7 +20313,7 @@
         }
       }
     ]
-  },
+  }
 
 	
 	

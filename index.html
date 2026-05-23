@@ -193,7 +193,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.4.2
+    Version: v0.4.3
   </div>
 
   <div class="language-switch">
@@ -464,11 +464,17 @@ function getLocalizedText(obj) {
     return "";
   }
 
-  return (
-    obj[currentLanguage] ||
-    obj.en ||
-    ""
-  );
+  const value =
+    obj[currentLanguage];
+
+  if (
+    value &&
+    value.trim() !== ""
+  ) {
+    return value;
+  }
+
+  return obj.en || "";
 }
 
 function renderGifts(filteredGifts) {

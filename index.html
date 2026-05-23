@@ -122,11 +122,45 @@
       color: white !important;
     }
 	
-	.app-version {
-	  color: #888;
-	  margin-bottom: 20px;
-	  font-size: 14px;
-	}
+	.top-bar {
+
+      display: flex;
+
+      justify-content: space-between;
+
+      align-items: center;
+
+      margin-bottom: 20px;
+    }
+
+    .app-version {
+
+      color: #888;
+
+      font-size: 14px;
+    }
+
+    .language-switch {
+
+      display: flex;
+
+      align-items: center;
+
+      gap: 10px;
+    }
+
+    .language-switch select {
+
+      background: #1a0000;
+
+      color: white;
+
+      border: 1px solid #3a0000;
+
+      border-radius: 6px;
+
+      padding: 6px 10px;
+    }
   
 	.choices__list--dropdown .choices__item--selectable.is-highlighted {
 	  background: #555 !important;
@@ -156,8 +190,32 @@
 
   <h1>Garou Gifts</h1>
 
-<div class="app-version">
-  Version: v0.4.1
+<div class="top-bar">
+
+  <div class="app-version">
+    Version: v0.4.2
+  </div>
+
+  <div class="language-switch">
+
+    <label for="languageSelect">
+      Language:
+    </label>
+
+    <select id="languageSelect">
+
+      <option value="en">
+        English
+      </option>
+
+      <option value="pl">
+        Polski
+      </option>
+
+    </select>
+
+  </div>
+
 </div>
 
   <div class="tabs">
@@ -196,6 +254,8 @@
   let tribeChoices;
   let otherChoices;
   let rankChoices;
+
+  let currentLanguage = "en";
 
   // =========================
   // ŁADOWANIE JSON
@@ -397,6 +457,20 @@ function filterGifts() {
   // RENDER
   // =========================
 
+
+function getLocalizedText(obj) {
+
+  if (!obj) {
+    return "";
+  }
+
+  return (
+    obj[currentLanguage] ||
+    obj.en ||
+    ""
+  );
+}
+
 function renderGifts(filteredGifts) {
 
   const container =
@@ -452,7 +526,7 @@ function renderGifts(filteredGifts) {
         ${[...new Set(
 
           gift.requirements
-            .map(r => r.names.en)
+            .map(r => getLocalizedText(r.names))
 
         )].join(" / ")}
       </div>
@@ -474,7 +548,9 @@ function renderGifts(filteredGifts) {
         `).join("")}
       </select>
 
-      <div class="gift-description" id="${descId}">${defaultVersion.descriptions.en}</div>`;
+      <div class="gift-description" id="${descId}">${getLocalizedText(
+  defaultVersion.descriptions
+)}</div>`;
 
     container.appendChild(card);
 
@@ -496,7 +572,9 @@ function renderGifts(filteredGifts) {
 
       document.getElementById(descId)
         .textContent =
-          version.descriptions.en;
+          getLocalizedText(
+            version.descriptions
+          );
     });
   });
 }
@@ -657,6 +735,15 @@ function initializeApp() {
   document
     .getElementById("rankSelect")
     .addEventListener("change", filterGifts);
+
+  document
+    .getElementById("languageSelect")
+    .addEventListener("change", e => {
+
+      currentLanguage = e.target.value;
+
+      filterGifts();
+    });
 	
   sortGifts(garouGifts);
 
@@ -720,7 +807,7 @@ function sortGifts(giftsArray) {
       [...new Set(
 
         a.requirements
-          .map(r => r.names.en)
+          .map(r => getLocalizedText(r.names))
 
       )].join(" / ");
 
@@ -728,7 +815,7 @@ function sortGifts(giftsArray) {
       [...new Set(
 
         b.requirements
-          .map(r => r.names.en)
+          .map(r => getLocalizedText(r.names))
 
       )].join(" / ");
 

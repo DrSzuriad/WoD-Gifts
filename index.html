@@ -157,7 +157,7 @@
   <h1>Garou Gifts</h1>
 
 <div class="app-version">
-  Version: v0.4.0
+  Version: v0.4.1
 </div>
 
   <div class="tabs">
@@ -449,7 +449,12 @@ function renderGifts(filteredGifts) {
 
       <div class="gift-title"
            id="${titleId}">
-        ${defaultVersion.names.en}
+        ${[...new Set(
+
+          gift.requirements
+            .map(r => r.names.en)
+
+        )].join(" / ")}
       </div>
 
       <div class="gift-meta">
@@ -488,9 +493,6 @@ function renderGifts(filteredGifts) {
       const version =
         gift.versions[versionIndex];
 
-      document.getElementById(titleId)
-        .textContent =
-          version.names.en;
 
       document.getElementById(descId)
         .textContent =
@@ -715,10 +717,20 @@ function sortGifts(giftsArray) {
 
     // potem nazwa
     const nameA =
-      a.versions[0].names.en;
+      [...new Set(
+
+        a.requirements
+          .map(r => r.names.en)
+
+      )].join(" / ");
 
     const nameB =
-      b.versions[0].names.en;
+      [...new Set(
+
+        b.requirements
+          .map(r => r.names.en)
+
+      )].join(" / ");
 
     return nameA.localeCompare(nameB);
   });

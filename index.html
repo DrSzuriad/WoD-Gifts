@@ -737,69 +737,62 @@ function initializeApp() {
 
   rankChoices =
     fillSelect("rankSelect", ranks, "Rank");
-
+	
   document
     .getElementById("breedSelect")
-    .addEventListener("change", filterGifts);
+    .addEventListener("change", () => {
+		  saveSettings();
+		  filterGifts();
+		});
 
   document
     .getElementById("auspiceSelect")
-    .addEventListener("change", filterGifts);
+    .addEventListener("change", () => {
+		  saveSettings();
+		  filterGifts();
+		});
 
 	document
 	  .getElementById("tribeSelect")
 	  .addEventListener("change", () => {
-
 		updateFactionOptions();
-
+		saveSettings();
 		filterGifts();
 	  });
 
   document
     .getElementById("otherSelect")
-    .addEventListener("change", filterGifts);
+    .addEventListener("change", () => {
+		  saveSettings();
+		  filterGifts();
+		});
 
   document
     .getElementById("rankSelect")
-    .addEventListener("change", filterGifts);
+    .addEventListener("change", () => {
+		  saveSettings();
+		  filterGifts();
+		});
 
-  document
-    .getElementById("languageSelect")
-    .addEventListener("change", e => {
+	document
+	  .getElementById("languageSelect")
+	  .addEventListener("change", e => {
 
-      currentLanguage = e.target.value;
+		currentLanguage = e.target.value;
 
-      const selectedBreeds =
-        breedChoices.getValue(true);
+		saveSettings();
 
-      const selectedAuspices =
-        auspiceChoices.getValue(true);
-
-      const selectedTribes =
-        tribeChoices.getValue(true);
-
-      const selectedRanks =
-        rankChoices.getValue(true);
-
-      if (
-        selectedBreeds.length === 0 &&
-        selectedAuspices.length === 0 &&
-        selectedTribes.length === 0 &&
-        selectedRanks.length === 0
-      ) {
-
-        sortGifts(gifts);
-        renderGifts(gifts);
-
-      } else {
-
-        filterGifts();
-      }
-    });
+		filterGifts();
+	  });
 	
   sortGifts(garouGifts);
 
   renderGifts(garouGifts);
+  
+  loadSettings();
+
+  restoreSelections();
+  
 }
 
 function fillSelect(
@@ -947,6 +940,96 @@ function renderContent(version) {
   }
 
   return html;
+}
+
+function saveSettings() {
+
+  const settings = {
+
+    language:
+      currentLanguage,
+
+    breed:
+      breedChoices.getValue(true),
+
+    auspice:
+      auspiceChoices.getValue(true),
+
+    tribe:
+      tribeChoices.getValue(true),
+
+    faction:
+      otherChoices.getValue(true),
+
+    rank:
+      rankChoices.getValue(true)
+  };
+
+  localStorage.setItem(
+    "garou-gifts-settings",
+    JSON.stringify(settings)
+  );
+}
+
+function loadSettings() {
+
+  const raw =
+    localStorage.getItem(
+      "garou-gifts-settings"
+    );
+
+  if (!raw) {
+    return;
+  }
+
+  const settings =
+    JSON.parse(raw);
+
+  currentLanguage =
+    settings.language || "en";
+
+  document.getElementById(
+    "languageSelect"
+  ).value = currentLanguage;
+}
+
+function restoreSelections() {
+
+  const raw =
+    localStorage.getItem(
+      "garou-gifts-settings"
+    );
+
+  if (!raw) {
+    return;
+  }
+
+  const settings =
+    JSON.parse(raw);
+
+  breedChoices.setChoiceByValue(
+    settings.breed || []
+  );
+
+  auspiceChoices.setChoiceByValue(
+    settings.auspice || []
+  );
+
+  tribeChoices.setChoiceByValue(
+    settings.tribe || []
+  );
+
+  updateFactionOptions();
+
+  otherChoices.setChoiceByValue(
+    settings.faction || []
+  );
+
+  rankChoices.setChoiceByValue(
+    settings.rank || []
+  );
+
+  filterGifts();
 }
 
   // =========================

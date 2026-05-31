@@ -4138,7 +4138,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Call Earth Spirit",
-                    "pl": ""
+                    "pl": "Przyzwanie Ducha Ziemi"
                 }
             }
         ],
@@ -4164,7 +4164,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou may summon an Earth-spirit to do one task for him. The user must have some earth with him (a handful of dirt or a rock). The Earth-spirit crushes things in its path, including foes if directed against them. This Gift is taught by an earth elemental.\n\nSystem: The player spends one Gnosis point and rolls Manipulation + Occult (difficulty 8). The spirit’s rampage (in a straight line for up to 30 yards) causes 10 dice of damage (nonaggravated) to anything in its path. It knocks down whatever it hits, rolling over objects or victims, and continues along its way. A botch on the summoning roll calls up a spirit hostile to the Gift user.",
-                    "pl": ""
+                    "pl": "Garou może przyzwać Ducha Ziemi, aby wykonał dla niego jedno zadanie. Użytkownik musi mieć przy sobie trochę ziemi (garść gleby albo kamień). Duch Ziemi miażdży wszystko na swojej drodze, włącznie z przeciwnikami, przeciw którym zostanie skierowany. Daru uczy żywiołak ziemi.\n\nSystem: Gracz wydaje punkt Gnozy i wykonuje rzut Oddziaływanie + Okultyzm (trudność 8). Szarża ducha (po prostej linii do 30 metrów) powoduje 10 kości obrażeń (śmiertelnych) wszystkim, którzy znajdą się na jego drodze. Pozwala to również przetaczać się po obiektach lub ofiarach i kontynuować ruch. Pech przy rzucie przyzwania sprowadza ducha wrogiego użytkownikowi Daru."
                 }
             },
             {
@@ -15182,7 +15182,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Hand of the Earth Lords",
-                    "pl": ""
+                    "pl": "Dłoń Władców Ziemi"
                 }
             }
         ],
@@ -16167,18 +16167,6 @@
                 "race": "Garou",
                 "type": "Tribe",
                 "value": "Get of Fenris",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 4,
-                "names": {
-                    "en": "Hero’s Stand",
-                    "pl": ""
-                }
-            },
-            {
-                "race": "Garou",
-                "type": "Tribe",
-                "value": "Wendigo",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -18984,7 +18972,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Last Stand",
-                    "pl": ""
+                    "pl": "Ostatni zew"
                 }
             }
         ],
@@ -19002,7 +18990,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou plants herself on a patch of ground and channels the very force of Gaia through her body, essentially becoming one with the Earth. She may not retreat or even move from her chosen “turf” (and no force on Earth can make her!), but she gains many powers thereby. Only when all foes are defeated may she retreat or leave. This Gift is taught by an earth elemental.\n\nSystem: The Garou rolls Willpower (difficulty 8). Each success grants her one extra die to all her Dice Pools. Additionally, she may not be surprised, and all attacks against her are considered frontal.",
-                    "pl": ""
+                    "pl": "Pomiot Fenrisa Bastion Herosa"
                 }
             }
         ]
@@ -26630,7 +26618,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Resolute Vow",
-                    "pl": ""
+                    "pl": "Niezłomna Przysięga"
                 }
             }
         ],
@@ -26648,7 +26636,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Once a Garou with this Gift pursues a goal, nothing can stop her from achieving her ends. There are many legends of Croatan heroes who followed their vows of vengeance or spiritual quests against all odds, continuing on when less-resolute Garou turned back, fearful of failure. This Gift is taught by Wendigo Ancestor-spirits.\n\nSystem: The player spends a permanent point of Gnosis and declares her purpose or quest to all who can hear. From that point on, she must follow her quest through until the end. She adds six extra dice to any Willpower roll involving the quest (even if it takes her Willpower over 10 dice) and has six extra Willpower points to spend on the quest only. However, once spent, these points cannot be regained.\n\nIf the Garou chooses to give up her quest before it is completed, she loses any remaining bonus Willpower points and loses one permanent Willpower point for each of the bonus Willpower points that she spent after activating this Gift. The Garou may never gain permanently lost Willpower points. For instance, if the Garou gives up her quest after spending three of her bonus Willpower points, she may never have a Willpower rating higher than 7.\n\nNote that the quest does not have to succeed, but it must come to a definite resolution for the Garou not to lose permanent Willpower.",
-                    "pl": ""
+                    "pl": "Gdy Garou z tym Darem podejmuje się celu, nic nie może powstrzymać go przed jego osiągnięciem. Istnieje wiele legend o bohaterach Croatan, którzy podążali za swoimi przysięgami zemsty lub duchowymi misjami mimo wszelkich przeciwności, idąc dalej, gdy mniej zdeterminowani Garou zawracali ze strachu przed porażką. Dar ten jest teraz nauczany przez Duchy Przodków Wendigo.\n\nSystem: Gracz wydaje stały punkt Gnozy i ogłasza swój cel lub misję wszystkim, którzy mogą go usłyszeć. Od tego momentu musi podążać za swoją misją aż do końca. Dodaje sześć dodatkowych kości do każdego testu Siły Woli związanego z misją (nawet jeśli podnosi to Siłę Woli powyżej 10 kości) i ma sześć dodatkowych punktów Siły Woli do wydania wyłącznie na tę misję. Jednak gdy zostaną wydane, nie mogą być odzyskane.\nJeśli Garou zdecyduje się porzucić misję przed jej ukończeniem, traci wszystkie pozostałe dodatkowe punkty Siły Woli oraz traci jeden stały punkt Siły Woli za każdy bonusowy punkt Siły Woli, który wydał po aktywowaniu Daru. Garou nigdy nie może odzyskać trwale utraconych punktów Siły Woli. Na przykład, jeśli Garou porzuci misję po wydaniu trzech bonusowych punktów Siły Woli, nigdy nie może mieć wartości Siły Woli wyższej niż 7.\nNależy zauważyć, że misja nie musi się udać; musi dojść do wyraźnego zakończenia, aby Garou nie utracił stałych punktów Siły Woli."
                 }
             }
         ]
@@ -27172,7 +27160,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Salmon Swim",
-                    "pl": ""
+                    "pl": "Płynięcie Łososia"
                 }
             }
         ],
@@ -27190,7 +27178,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The character may move upon a river, lake or any other body of water as he does on land. This Gift is taught by a Salmon-spirit.\n\nSystem: The player spends one Gnosis and may walk and/or run upon water for a number of turns equal to the successes scored on a Dexterity + Athletics roll (difficulty 7). In addition, he may perform a jump similar to that provided by the Lupus Gift: Leap of the Kangaroo, as long as he starts and ends on water.",
-                    "pl": ""
+                    "pl": "Postać może poruszać się porzece, jeziorze lub jakimkolwiek innym zbiorniku wodnym tak, jak po lądzie. Daru tego uczy Duch Łososia.\n\nSystem: Gracz wydaje jeden punkt Gnozy i może chodzić i/lub biegać po wodzie przez liczbę tur równą sukcesom uzyskanym w teście Zręczność + Atletyka (trudność 7). Dodatkowo postać może wykonać skok podobny do Daru Lupusa: Kangurzy Skok, o ile zaczyna i kończy na wodzie."
                 }
             },
             {
@@ -37082,7 +37070,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Turtle Shell",
-                    "pl": ""
+                    "pl": "Skorupa Żółwia"
                 }
             }
         ],
@@ -37108,7 +37096,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou can form a mystic protective shield around herself. The shield appears as a giant turtle shell that encases the Garou. The shell is opaque on the outside but translucent on the inside (attackers can’t see in, but the Garou can see out). The Garou can choose to encase others in the shell. This Gift is taught by a Turtle-spirit.\n\nSystem: The player spends one Gnosis point and rolls Stamina + Survival (difficulty 6). For each success, the shell has two soak dice and two Health Levels (when the shell has no more Health Levels, it breaks apart).\n\nIn addition, two yards radius can be encased per success. A Crinos-form Garou requires about that much space, so with three successes, three Crinos-form Garou can fit into the shell (or perhaps six Homid- or Lupus-form Garou, or any such combination — Storyteller’s discretion).\n\nThe shell lasts for one scene or until a Garou decides to break it, whichever comes first. Once its time is up or it is broken (whether by a Garou inside or by an enemy pounding his way in), the shell disintegrates.",
-                    "pl": ""
+                    "pl": "Garou może stworzyć mistyczną ochronną tarczę wokół siebie. Tarcza wygląda jak gigantyczna skorupa żółwia otaczająca Garou. Skorupa jest nieprzezroczysta z zewnątrz, ale półprzezroczysta od środka (atakujący nie widzą wnętrza, lecz Garou widzi na zewnątrz). Garou może również zdecydować się objąć skorupą kogoś innego. Daru tego uczy Duch Żółwia.\n\nSystem: Gracz wydaje punkt Gnozy i wykonuje rzut Wytrzymałość + Sztuka Przetrwania (trudność 6). Za każdy sukces skorupa ma dwie kości pancerza i dwa Poziomy Zdrowia. Gdy tarcza straci wszystkie Poziomy Zdrowia, rozpada się.\nPromień skorupy może zostać zwiększony o dwa metry za każdy sukces. Garou w formie Crinos zajmuje mniej więcej tyle miejsca, ile trzy Garou w Crinos mogą zmieścić się w skorupie (lub sześciu w formie Homid lub Lupus albo dowolna kombinacja — według uznania Narratora).\nSkorupa trwa jedną scenę lub do czasu, aż Garou zdecyduje się ją przerwać, zależnie od tego, co nastąpi pierwsze. Gdy jej czas minie lub zostanie przełamana (czy to przez Garou wewnątrz, czy przez próbującego się wedrzeć), skorupa rozpada się."
                 }
             },
             {
@@ -39970,7 +39958,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Wistiplaju’s Bow",
-                    "pl": ""
+                    "pl": "Łuk Wisitiplaju"
                 }
             }
         ],
@@ -39988,7 +39976,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This Gift allows the Garou to shoot an arrow that can wrap around corners and hit targets out of sight. An Ancestor-spirit teaches this Gift.\n\nSystem: The player spends a Gnosis point and rolls Perception + Archery (difficulty 9). The range of the weapon does not change. The Wendigo must know roughly where her opponent is, although she need not know precisely; “a few feet down that alley over there” can suffice, for example.",
-                    "pl": ""
+                    "pl": "Dar ten pozwala Garou wystrzelić strzałę, która może zakręcić za róg i trafić cele poza zasięgiem wzroku. Daru uczy Duch Przodka.\n\nSystem: Gracz wydaje punkt Gnozy i rzuca Percepcja + Łucznictwo (trudność 9). Zasięg broni nie zmienia się. Wendigo musi orientacyjnie wiedzieć, gdzie znajduje się przeciwnik, choć nie musi wiedzieć dokładnie; „kilka metrów w dół tej alejki” może wystarczyć, na przykład."
                 }
             }
         ]
@@ -40496,7 +40484,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Wyld Sight",
-                    "pl": ""
+                    "pl": "Widzenie Dzikuna"
                 }
             }
         ],
@@ -40504,26 +40492,122 @@
             {
                 "book": "Croatan Song",
                 "edition": "",
-                "descriptions": {
-                    "en": "Some Croatan can see the ebb and flow of Wyld energy, catching hints of Wyld-related storms and other phenomena before they grow too powerful. By use of this Gift, a werewolf can feel the disturbances in the spirit world that presage a tornado, earthquake, wildfire or other such happening. She can also see Wyld-spirits in the Penumbra while she remains in the physical world, although her vision is somewhat clouded. This Gift is taught by a Wyld-spirit.\n\nSystem: The player rolls Perception + Enigmas, difficulty 6. If successful, the Garou understands the nature and source of the Wyld manifestation. The successes determine just how far in advance the Gift user can predict a Wyld event.\n\nSuccesses — Time Before the Event\nOne — 10 minutes\nTwo — 30 minutes\nThree — One hour\nFour — Three hours\nFive — One day",
-                    "pl": ""
-                }
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Some Croatan can see the ebb and flow of Wyld energy, catching hints of Wyld-related storms and other phenomena before they grow too powerful. By use of this Gift, a werewolf can feel the disturbances in the spirit world that presage a tornado, earthquake, wildfire or other such happening. She can also see Wyld-spirits in the Penumbra while she remains in the physical world, although her vision is somewhat clouded. This Gift is taught by a Wyld-spirit.\n\nSystem: The player rolls Perception + Enigmas, difficulty 6. If successful, the Garou understands the nature and source of the Wyld manifestation. The successes determine just how far in advance the Gift user can predict a Wyld event.",
+                        "pl": "Test PL"
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "nSuccesses", "Time Before the Event" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "10 minutes" ],
+                                "pl": [ "Jeden", "10 minut" ]
+                            },
+                            {
+                                "en": [ "Two", "30 minutes" ],
+                                "pl": [ "Dwa", "30 minut" ]
+                            },
+                            {
+                                "en": [ "Three", "One hour" ],
+                                "pl": [ "Trzy", "jedna godzina" ]
+                            },
+                            {
+                                "en": [ "Four", "Three hours" ],
+                                "pl": [ "Cztery", "trzy godziny" ]
+                            },
+                            {
+                                "en": [ "Five", "One day" ],
+                                "pl": [ "Pięć", "jeden dzień" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "book": "Past Lives",
                 "edition": "",
-                "descriptions": {
-                    "en": "The Croatan were able to foretell natural disasters and other such phenomena by attuning themselves to the Wyld itself. By use of this Gift, a character can perceive impending bursts of Wyld-related activity such as wildfires, tornadoes, earthquakes and the like. He can also perceive Wyld-spirits in the Penumbra while remaining in the physical world, although his vision is somewhat clouded.\n\nSystem: The player rolls Perception + Enigmas, difficulty 7. (In the Croatan’s day and homeland, the Wyld was stronger, and the difficulty was 6.) Success reveals the nature and general source of the upcoming Wyld manifestation, if any; the number of successes determines how far in advance the Gift can predict a given Wyld event.\n\nSuccesses — Time Before the Event\n1 — 10 minutes\n2 — 30 minutes\n3 — One hour\n4 — Three hours\n5+ — One day",
-                    "pl": ""
-                }
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Croatan were able to foretell natural disasters and other such phenomena by attuning themselves to the Wyld itself. By use of this Gift, a character can perceive impending bursts of Wyld-related activity such as wildfires, tornadoes, earthquakes and the like. He can also perceive Wyld-spirits in the Penumbra while remaining in the physical world, although his vision is somewhat clouded.\n\nSystem: The player rolls Perception + Enigmas, difficulty 7. (In the Croatan’s day and homeland, the Wyld was stronger, and the difficulty was 6.) Success reveals the nature and general source of the upcoming Wyld manifestation, if any; the number of successes determines how far in advance the Gift can predict a given Wyld event.",
+                        "pl": "Test PL"
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "nSuccesses", "Time Before the Event" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "1", "10 minutes" ],
+                                "pl": [ "1", "10 minut" ]
+                            },
+                            {
+                                "en": [ "2", "30 minutes" ],
+                                "pl": [ "2", "30 minut" ]
+                            },
+                            {
+                                "en": [ "3", "One hour" ],
+                                "pl": [ "3", "jedna godzina" ]
+                            },
+                            {
+                                "en": [ "4", "Three hours" ],
+                                "pl": [ "4", "trzy godziny" ]
+                            },
+                            {
+                                "en": [ "5", "One day" ],
+                                "pl": [ "5", "jeden dzień" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "book": "Tribebook - Wendigo",
                 "edition": "",
-                "descriptions": {
-                    "en": "The Garou can see Wyld energy in all its manifestations, thus allowing him to prevent it from growing too powerful or to defend himself against it. For instance, the Garou can see the mystic swirling of the Umbral wind that presages a tornado in the physical realm or feel the shaking of the Umbral earth before a real earthquake. A Garou using Wyld Sight in the physical world can also sense Wyld spirits in the nearby Penumbra, although the user must enter the Umbra to get more details. This Gift is taught by a Wyld-spirit.\n\nSystem: The player rolls Perception + Enigmas (difficulty 6). If successful, the Garou understands the nature of the Wyld manifestation and realizes what form of Wyld-spirit is causing it. Use the following table to determine how early a Garou can predict a Wyld event:\n\nSuccesses\tTime Before the Event\nOne\t10 minutes\nTwo\t30 minutes\nThree\tOne hour\nFour\tThree hours\nFive+\tOne day",
-                    "pl": ""
-                }
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Garou can see Wyld energy in all its manifestations, thus allowing him to prevent it from growing too powerful or to defend himself against it. For instance, the Garou can see the mystic swirling of the Umbral wind that presages a tornado in the physical realm or feel the shaking of the Umbral earth before a real earthquake. A Garou using Wyld Sight in the physical world can also sense Wyld spirits in the nearby Penumbra, although the user must enter the Umbra to get more details. This Gift is taught by a Wyld-spirit.\n\nSystem: The player rolls Perception + Enigmas (difficulty 6). If successful, the Garou understands the nature of the Wyld manifestation and realizes what form of Wyld-spirit is causing it. Use the following table to determine how early a Garou can predict a Wyld event:",
+                        "pl": "Garou potrafi widzieć energię Dzikuna we wszystkich jej przejawach, co pozwala mu zapobiegać jej nadmiernemu wzrostowi lub bronić się przed nią. Na przykład Garou może dostrzec mistyczne wiry Wiatrów Umbry zapowiadające tornado w świecie fizycznym lub poczuć drżenie ziemi w Umbrze przed prawdziwym trzęsieniem ziemi. Garou używający Widzenia Dzikuna w świecie fizycznym może również wyczuwać duchy Dzikuna w pobliskim Półcieniu, choć po więcej szczegółów musi wejść do Umbry. Daru tego uczy Duch Dzikuna.\n\nSystem: Gracz wykonuje rzut Percepcja + Zagadki (trudność 6). Przy sukcesie Garou rozumie naturę manifestacji Dzikuna i uświadamia sobie, jaki rodzaj ducha Dzikuna ją wywołuje. Ponadto może przewidzieć zdarzenie związane z Dzikunem:"
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "nSuccesses", "Time Before the Event" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "10 minutes" ],
+                                "pl": [ "Jeden", "10 minut" ]
+                            },
+                            {
+                                "en": [ "Two", "30 minutes" ],
+                                "pl": [ "Dwa", "30 minut" ]
+                            },
+                            {
+                                "en": [ "Three", "One hour" ],
+                                "pl": [ "Trzy", "jedna godzina" ]
+                            },
+                            {
+                                "en": [ "Four", "Three hours" ],
+                                "pl": [ "Cztery", "trzy godziny" ]
+                            },
+                            {
+                                "en": [ "Five+", "One day" ],
+                                "pl": [ "Pięć+", "jeden dzień" ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },

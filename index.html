@@ -193,7 +193,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.4.4
+    Version: v0.4.5
   </div>
 
   <div class="language-switch">
@@ -795,20 +795,22 @@ function fillSelect(
 
 function sortGifts(giftsArray) {
 
+  const selectedBreeds =
+    breedChoices ? breedChoices.getValue(true) : [];
+
+  const selectedAuspices =
+    auspiceChoices ? auspiceChoices.getValue(true) : [];
+
+  const selectedTribes =
+    tribeChoices ? tribeChoices.getValue(true) : [];
+
+  const hasTypeFilter =
+    selectedBreeds.length > 0 ||
+    selectedAuspices.length > 0 ||
+    selectedTribes.length > 0;
+
   return giftsArray.sort((a, b) => {
 
-    const rankA =
-      a.requirements[0].rank;
-
-    const rankB =
-      b.requirements[0].rank;
-
-    // najpierw rank
-    if (rankA !== rankB) {
-      return rankA - rankB;
-    }
-
-    // potem nazwa
     const nameA =
       [...new Set(
 
@@ -825,7 +827,35 @@ function sortGifts(giftsArray) {
 
       )].join(" / ");
 
+    // Jeśli wybrano Breed/Auspice/Tribe
+    // sortuj tylko alfabetycznie
+    if (hasTypeFilter) {
+
+      return nameA.localeCompare(nameB);
+
+    }
+
+    // W przeciwnym razie:
+    // Rank -> Nazwa
+
+    const rankA =
+      Math.min(
+        ...a.requirements.map(r => r.rank)
+      );
+
+    const rankB =
+      Math.min(
+        ...b.requirements.map(r => r.rank)
+      );
+
+    if (rankA !== rankB) {
+
+      return rankA - rankB;
+
+    }
+
     return nameA.localeCompare(nameB);
+
   });
 }
 

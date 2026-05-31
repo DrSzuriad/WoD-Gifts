@@ -40842,5 +40842,31 @@
                 }
             }
         ]
+    },
+    {
+        "requirements": [
+            {
+                "race": "Garou",
+                "type": "Breed",
+                "value": "Lupus",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 2,
+                "names": {
+                    "en": "Trapper’s Bane",
+                    "pl": ""
+                }
+            }
+        ],
+        "versions": [
+            {
+                "book": "Rage Across the World",
+                "edition": "W20",
+                "descriptions": {
+                    "en": "Dingoes throughout Australia, but especially near the dingo fence, face a constant threat from human traps — snares, steel traps, and poison. The dingoes have become adept at detecting these dangers and even disarming them. This Gift allows the werewolf to identify lures, traps, and even ambushes. Dingo spirits teach this Gift.\n\nSystem: The Storyteller rolls Perception + Primal Urge when the werewolf comes within (Gnosis × 5) yards of a trap’s trigger. The difficulty is 5 for the werewolf to detect simple snares, pits, and poisoned bait in the area. Identifying more technologically complex traps such as electrified objects and motion-activated traps is difficulty 6. Supernatural traps are difficulty 7. Additionally, whenever the werewolf approaches an ambush, the Storyteller rolls Perception + Primal Urge against difficulty 6 for the werewolf to recognize the ambush before it springs. The werewolf does not have to activate this Gift; it provides a “sixth sense” at all times.",
+                    "pl": ""
+                }
+            }
+        ]
     }
 ]

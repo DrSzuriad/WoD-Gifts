@@ -18314,10 +18314,38 @@
             {
                 "book": "Core Rulebook (Revised)",
                 "edition": "",
-                "descriptions": {
-                    "en": "The werewolf can cause technological devices to cease functioning, albeit temporarily, well within his reach. Even the simplest of shaped objects will refuse to perform its function. A Gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Manipulation + Crafts. The werewolf may choose what level of complexity she intends to “jam.” All technological devices (i.e., any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet cease functioning for one turn per success. Devices remain undamaged but inert: guns won’t fire, knives won’t cut, phones won’t ring, computers freeze, etc.\n\nDevice — Difficulty:\n\nComputer \t 4\nPhone \t 6\nAutomobile \t 8\nGun \t 9\nKnife \t 10",
-                    "pl": ""
-                }
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The werewolf can cause technological devices to cease functioning, albeit temporarily, well within his reach. Even the simplest of shaped objects will refuse to perform its function. A Gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Manipulation + Crafts. The werewolf may choose what level of complexity she intends to “jam.” All technological devices (i.e., any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet cease functioning for one turn per success. Devices remain undamaged but inert: guns won’t fire, knives won’t cut, phones won’t ring, computers freeze, etc.",
+                        "pl": "Test PL"
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Device", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Computer", "4" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Phone", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Automobile", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Knife", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "book": "Werewolf: The Apocalypse (2nd Edition)",
@@ -18356,22 +18384,16 @@
                                 "pl": [ "", "" ]
                             },
                             {
-                                "en": [ "Phone", "6"
-                                ],
-                                "pl": [ "", ""
-                                ]
+                                "en": [ "Phone", "6" ],
+                                "pl": [ "", "" ]
                             },
                             {
-                                "en": [ "Automobile", "8"
-                                ],
-                                "pl": [ "", ""
-                                ]
+                                "en": [ "Automobile", "8" ],
+                                "pl": [ "", "" ]
                             },
                             {
-                                "en": [ "Knife", "10"
-                                ],
-                                "pl": [ "", ""
-                                ]
+                                "en": [ "Knife", "10" ],
+                                "pl": [ "", "" ]
                             }
                         ]
                     }

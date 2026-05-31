@@ -220,7 +220,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.4.9
+    Version: v0.4.10
   </div>
 
   <div class="language-switch">
@@ -769,7 +769,32 @@ function initializeApp() {
 
       currentLanguage = e.target.value;
 
-      filterGifts();
+      const selectedBreeds =
+        breedChoices.getValue(true);
+
+      const selectedAuspices =
+        auspiceChoices.getValue(true);
+
+      const selectedTribes =
+        tribeChoices.getValue(true);
+
+      const selectedRanks =
+        rankChoices.getValue(true);
+
+      if (
+        selectedBreeds.length === 0 &&
+        selectedAuspices.length === 0 &&
+        selectedTribes.length === 0 &&
+        selectedRanks.length === 0
+      ) {
+
+        sortGifts(gifts);
+        renderGifts(gifts);
+
+      } else {
+
+        filterGifts();
+      }
     });
 	
   sortGifts(garouGifts);
@@ -819,17 +844,19 @@ function sortGifts(giftsArray) {
   return giftsArray.sort((a, b) => {
 
     const rankA =
-      a.requirements[0].rank;
+      Math.min(
+        ...a.requirements.map(r => r.rank)
+      );
 
     const rankB =
-      b.requirements[0].rank;
+      Math.min(
+        ...b.requirements.map(r => r.rank)
+      );
 
-    // najpierw rank
     if (rankA !== rankB) {
       return rankA - rankB;
     }
 
-    // potem nazwa
     const nameA =
       [...new Set(
 
@@ -846,7 +873,10 @@ function sortGifts(giftsArray) {
 
       )].join(" / ");
 
-    return nameA.localeCompare(nameB);
+    return nameA.localeCompare(
+      nameB,
+      currentLanguage
+    );
   });
 }
 

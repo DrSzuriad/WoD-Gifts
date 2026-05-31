@@ -184,7 +184,32 @@
 	  color: white !important;
 	}
 	
-  </style>
+  
+	.gift-table {
+
+	  width: 100%;
+	  border-collapse: collapse;
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+	}
+
+	.gift-table th,
+	.gift-table td {
+
+	  border: 1px solid #444;
+	  padding: 8px;
+	  text-align: left;
+	}
+
+	.gift-table th {
+	  background: #222;
+	}
+
+	.gift-table tr:nth-child(even) {
+	  background: #181818;
+	}
+
+</style>
 </head>
 <body>
 
@@ -477,6 +502,54 @@ function getLocalizedText(obj) {
   return obj.en || "";
 }
 
+
+function renderContent(version) {
+
+  if (!version.content) {
+    return `
+      <div class="gift-description">
+        ${getLocalizedText(version.descriptions)}
+      </div>
+    `;
+  }
+
+  let html = "";
+
+  for (const block of version.content) {
+
+    if (block.type === "text") {
+
+      html += `
+        <div class="gift-description">
+          ${getLocalizedText(block)}
+        </div>
+      `;
+    }
+
+    if (block.type === "table") {
+
+      html += `
+        <table class="gift-table">
+          <thead>
+            <tr>
+              ${block.headers.map(h => `<th>${h}</th>`).join("")}
+            </tr>
+          </thead>
+          <tbody>
+            ${block.rows.map(row => `
+              <tr>
+                ${row.map(cell => `<td>${cell}</td>`).join("")}
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      `;
+    }
+  }
+
+  return html;
+}
+
 function renderGifts(filteredGifts) {
 
   const container =
@@ -554,9 +627,9 @@ function renderGifts(filteredGifts) {
         `).join("")}
       </select>
 
-      <div class="gift-description" id="${descId}">${getLocalizedText(
-  defaultVersion.descriptions
-)}</div>`;
+      <div id="${descId}">
+  ${renderContent(defaultVersion)}
+</div>`;
 
     container.appendChild(card);
 
@@ -577,10 +650,8 @@ function renderGifts(filteredGifts) {
 
 
       document.getElementById(descId)
-        .textContent =
-          getLocalizedText(
-            version.descriptions
-          );
+        .innerHTML =
+          renderContent(version);
     });
   });
 }

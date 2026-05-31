@@ -72,7 +72,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Philodox",
                 "rank": 1,
@@ -84,7 +84,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ahroun",
                 "rank": 1,
@@ -294,7 +294,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Galliard",
                 "rank": 2,
@@ -362,7 +362,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -534,7 +534,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -964,7 +964,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Homid",
                 "rank": 1,
@@ -1470,7 +1470,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -1496,7 +1496,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 1,
@@ -1522,7 +1522,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -1876,7 +1876,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -2122,7 +2122,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -2156,7 +2156,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ragabash",
                 "rank": 1,
@@ -2748,7 +2748,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Metis",
                 "rank": 1,
@@ -4752,7 +4752,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Homid",
                 "rank": 3,
@@ -4900,7 +4900,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -5042,7 +5042,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -5144,7 +5144,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ragabash",
                 "rank": 4,
@@ -5452,7 +5452,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -5882,7 +5882,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -6042,7 +6042,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 5,
@@ -8270,7 +8270,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -8698,7 +8698,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -9226,7 +9226,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -9846,7 +9846,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -9880,7 +9880,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -10162,7 +10162,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -10222,7 +10222,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -11480,7 +11480,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Theurge",
                 "rank": 3,
@@ -11506,7 +11506,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Homid",
                 "rank": 4,
@@ -11728,7 +11728,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -13188,7 +13188,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -13870,7 +13870,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 3,
@@ -14048,7 +14048,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -14444,7 +14444,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -14568,7 +14568,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -14860,7 +14860,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -14990,7 +14990,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -15904,7 +15904,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -16274,7 +16274,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 2,
@@ -16682,7 +16682,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Galliard",
                 "rank": 4,
@@ -16742,7 +16742,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -16794,7 +16794,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 4,
@@ -16902,7 +16902,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Galliard",
                 "rank": 2,
@@ -17092,7 +17092,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -17264,7 +17264,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 3,
@@ -17884,7 +17884,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Lupus",
                 "rank": 5,
@@ -17910,7 +17910,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -17944,7 +17944,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -18287,20 +18287,8 @@
         "requirements": [
             {
                 "race": "Garou",
-                "type": "Breed",
-                "value": "Homid",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 1,
-                "names": {
-                    "en": "Jam Technology",
-                    "pl": ""
-                }
-            },
-            {
-                "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -18327,7 +18315,7 @@
                 "book": "Core Rulebook (Revised)",
                 "edition": "",
                 "descriptions": {
-                    "en": "Homid Rank: 1, Glass Walker Rank: 2\n\nThe werewolf can cause technological devices to cease functioning, albeit temporarily, well within his reach. Even the simplest of shaped objects will refuse to perform its function. A Gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Manipulation + Crafts. The werewolf may choose what level of complexity she intends to “jam.” All technological devices (i.e., any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet cease functioning for one turn per success. Devices remain undamaged but inert: guns won’t fire, knives won’t cut, phones won’t ring, computers freeze, etc.\n\nDevice — Difficulty:\n\nComputer — 4\nPhone — 6\nAutomobile — 8\nGun — 9\nKnife — 10",
+                    "en": "The werewolf can cause technological devices to cease functioning, albeit temporarily, well within his reach. Even the simplest of shaped objects will refuse to perform its function. A Gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Manipulation + Crafts. The werewolf may choose what level of complexity she intends to “jam.” All technological devices (i.e., any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet cease functioning for one turn per success. Devices remain undamaged but inert: guns won’t fire, knives won’t cut, phones won’t ring, computers freeze, etc.\n\nDevice — Difficulty:\n\nComputer \t 4\nPhone \t 6\nAutomobile \t 8\nGun \t 9\nKnife \t 10",
                     "pl": ""
                 }
             },
@@ -18335,7 +18323,7 @@
                 "book": "Werewolf: The Apocalypse (2nd Edition)",
                 "edition": "",
                 "descriptions": {
-                    "en": "Homid Rank: 1, Glass Walker Rank: 2\n\nThe Garou can cause technological devices to cease functioning, albeit temporarily. This Gift is taught by a Gremlin, a type of Wyld spirit that enjoys breaking things.\n\nSystem: The Garou spends one Gnosis point and rolls Manipulation + Repair. Technological devices within 50 feet cease functioning for one turn per success, though the devices are unharmed. The difficulty of the roll is based on the following chart:\n\nDevice\tDifficulty\nComputer\t4\nPhone\t6\nAutomobile\t8\nKnife\t10",
+                    "en": "The Garou can cause technological devices to cease functioning, albeit temporarily. This Gift is taught by a Gremlin, a type of Wyld spirit that enjoys breaking things.\n\nSystem: The Garou spends one Gnosis point and rolls Manipulation + Repair. Technological devices within 50 feet cease functioning for one turn per success, though the devices are unharmed. The difficulty of the roll is based on the following chart:\n\nDevice\t\tDifficulty\nComputer\t\t4\nPhone\t\t6\nAutomobile\t\t8\nKnife\t\t10",
                     "pl": ""
                 }
             },
@@ -18343,9 +18331,75 @@
                 "book": "Werewolf the Apocalypse",
                 "edition": "W20",
                 "descriptions": {
-                    "en": "Rank: 2\n\nWith a slight gesture, the werewolf unbalances the Wyld and Weaver energies within technological devices, either suffusing them with destructive chaos or amplifying their inherent stasis until they refuse to do anything at all. Computers crash, guns jam, cars stall, and even the simplest shaped objects refuse to function. A gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point, rolls (Manipulation + Crafts) and chooses the level of complexity she intends to jam. All technological devices (i.e. any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet (15 m) cease to function for two turns per success. The devices remain unchanged, but inert — knives won’t cut, gunpowder won’t ignite, gears won’t turn, and so on. The difficulty of the roll is based on the following chart:\n\nDevice\tDifficulty\nComputer\t4\nPhone\t5\nAutomobile\t7\nGun\t8\nKnife\t9",
+                    "en": "With a slight gesture, the werewolf unbalances the Wyld and Weaver energies within technological devices, either suffusing them with destructive chaos or amplifying their inherent stasis until they refuse to do anything at all. Computers crash, guns jam, cars stall, and even the simplest shaped objects refuse to function. A gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point, rolls (Manipulation + Crafts) and chooses the level of complexity she intends to jam. All technological devices (i.e. any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet (15 m) cease to function for two turns per success. The devices remain unchanged, but inert — knives won’t cut, gunpowder won’t ignite, gears won’t turn, and so on. The difficulty of the roll is based on the following chart:\n\nDevice\tDifficulty\nComputer\t4\nPhone\t5\nAutomobile\t7\nGun\t8\nKnife\t9",
                     "pl": ""
                 }
+            }
+            {
+                "book": "Core Rulebook (Revised) - test",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Gift allows the werewolf to interfere with nearby technology.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Device",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Phone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Automobile",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Knife",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            }
+                        ]
+                    },
+                ]
             }
         ]
     },
@@ -19766,7 +19820,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -20062,7 +20116,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Galliard",
                 "rank": 5,
@@ -20578,7 +20632,7 @@
                     "en": "Master of Fire",
                     "pl": ""
                 }
-			},
+            },
             {
                 "race": "Garou",
                 "type": "Tribe",
@@ -20960,7 +21014,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -21652,7 +21706,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -21894,7 +21948,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Metis",
                 "rank": 3,
@@ -21972,7 +22026,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -22338,7 +22392,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Philodox",
                 "rank": 5,
@@ -22734,7 +22788,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -22958,7 +23012,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -23140,7 +23194,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -23274,7 +23328,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ragabash",
                 "rank": 5,
@@ -23350,7 +23404,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -23526,7 +23580,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -23702,7 +23756,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -24030,7 +24084,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Theurge",
                 "rank": 2,
@@ -24056,7 +24110,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -24068,7 +24122,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Homid",
                 "rank": 2,
@@ -24196,7 +24250,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Theurge",
                 "rank": 6,
@@ -26152,7 +26206,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 1,
@@ -26284,7 +26338,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -26332,7 +26386,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -26460,7 +26514,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -28688,7 +28742,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -29304,7 +29358,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Galliard",
                 "rank": 2,
@@ -30414,7 +30468,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ragabash",
                 "rank": 4,
@@ -30620,7 +30674,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -31136,7 +31190,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -31402,7 +31456,7 @@
                     "en": "Song of the Siren",
                     "pl": ""
                 }
-			}
+            }
         ],
         "versions": [
             {
@@ -31880,7 +31934,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -32008,7 +32062,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -32996,7 +33050,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -33028,7 +33082,7 @@
                     "en": "Iron Coat",
                     "pl": ""
                 }
-			}
+            }
         ],
         "versions": [
             {
@@ -33134,7 +33188,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": " Bone Gnawer",
+                "value": " Bone Gnawers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -33270,7 +33324,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -33862,7 +33916,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ahroun",
                 "rank": 5,
@@ -33888,7 +33942,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -33968,7 +34022,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 2,
@@ -34020,7 +34074,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -34062,7 +34116,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 4,
@@ -34608,7 +34662,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Auspice",
                 "faction_value": "Ahroun",
                 "rank": 2,
@@ -34668,7 +34722,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -34774,7 +34828,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -35106,7 +35160,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -35532,7 +35586,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Lupus",
                 "rank": 3,
@@ -36204,7 +36258,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -36386,7 +36440,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -37618,7 +37672,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -37722,7 +37776,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Children of Gaia",
+                "value": "Children Of Gaia",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -38158,7 +38212,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -38258,7 +38312,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Metis",
                 "rank": 3,
@@ -38862,7 +38916,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Black Spiral Dancer",
+                "value": "Black Spiral Dancers",
                 "faction_type": "Breed",
                 "faction_value": "Lupus",
                 "rank": 1,
@@ -39076,7 +39130,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -39166,7 +39220,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Glass Walker",
+                "value": "Glass Walkers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,

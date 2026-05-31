@@ -184,32 +184,7 @@
 	  color: white !important;
 	}
 	
-  
-	.gift-table {
-
-	  width: 100%;
-	  border-collapse: collapse;
-	  margin-top: 10px;
-	  margin-bottom: 10px;
-	}
-
-	.gift-table th,
-	.gift-table td {
-
-	  border: 1px solid #444;
-	  padding: 8px;
-	  text-align: left;
-	}
-
-	.gift-table th {
-	  background: #222;
-	}
-
-	.gift-table tr:nth-child(even) {
-	  background: #181818;
-	}
-
-</style>
+  </style>
 </head>
 <body>
 
@@ -218,7 +193,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.4.6
+    Version: v0.4.7
   </div>
 
   <div class="language-switch">
@@ -489,65 +464,11 @@ function getLocalizedText(obj) {
     return "";
   }
 
-  const value =
-    obj[currentLanguage];
-
-  if (
-    value &&
-    value.trim() !== ""
-  ) {
-    return value;
-  }
-
-  return obj.en || "";
-}
-
-
-function renderContent(version) {
-
-  if (!version.content) {
-    return `
-      <div class="gift-description">
-        ${getLocalizedText(version.descriptions)}
-      </div>
-    `;
-  }
-
-  let html = "";
-
-  for (const block of version.content) {
-
-    if (block.type === "text") {
-
-      html += `
-        <div class="gift-description">
-          ${getLocalizedText(block)}
-        </div>
-      `;
-    }
-
-    if (block.type === "table") {
-
-      html += `
-        <table class="gift-table">
-          <thead>
-            <tr>
-              ${block.headers.map(h => `<th>${h}</th>`).join("")}
-            </tr>
-          </thead>
-          <tbody>
-            ${block.rows.map(row => `
-              <tr>
-                ${row.map(cell => `<td>${cell}</td>`).join("")}
-              </tr>
-            `).join("")}
-          </tbody>
-        </table>
-      `;
-    }
-  }
-
-  return html;
+  return (
+    obj[currentLanguage] ||
+    obj.en ||
+    ""
+  );
 }
 
 function renderGifts(filteredGifts) {
@@ -627,9 +548,9 @@ function renderGifts(filteredGifts) {
         `).join("")}
       </select>
 
-      <div id="${descId}">
-  ${renderContent(defaultVersion)}
-</div>`;
+      <div class="gift-description" id="${descId}">${getLocalizedText(
+  defaultVersion.descriptions
+)}</div>`;
 
     container.appendChild(card);
 
@@ -650,8 +571,10 @@ function renderGifts(filteredGifts) {
 
 
       document.getElementById(descId)
-        .innerHTML =
-          renderContent(version);
+        .textContent =
+          getLocalizedText(
+            version.descriptions
+          );
     });
   });
 }
@@ -866,22 +789,20 @@ function fillSelect(
 
 function sortGifts(giftsArray) {
 
-  const selectedBreeds =
-    breedChoices ? breedChoices.getValue(true) : [];
-
-  const selectedAuspices =
-    auspiceChoices ? auspiceChoices.getValue(true) : [];
-
-  const selectedTribes =
-    tribeChoices ? tribeChoices.getValue(true) : [];
-
-  const hasTypeFilter =
-    selectedBreeds.length > 0 ||
-    selectedAuspices.length > 0 ||
-    selectedTribes.length > 0;
-
   return giftsArray.sort((a, b) => {
 
+    const rankA =
+      a.requirements[0].rank;
+
+    const rankB =
+      b.requirements[0].rank;
+
+    // najpierw rank
+    if (rankA !== rankB) {
+      return rankA - rankB;
+    }
+
+    // potem nazwa
     const nameA =
       [...new Set(
 
@@ -898,35 +819,7 @@ function sortGifts(giftsArray) {
 
       )].join(" / ");
 
-    // Jeśli wybrano Breed/Auspice/Tribe
-    // sortuj tylko alfabetycznie
-    if (hasTypeFilter) {
-
-      return nameA.localeCompare(nameB);
-
-    }
-
-    // W przeciwnym razie:
-    // Rank -> Nazwa
-
-    const rankA =
-      Math.min(
-        ...a.requirements.map(r => r.rank)
-      );
-
-    const rankB =
-      Math.min(
-        ...b.requirements.map(r => r.rank)
-      );
-
-    if (rankA !== rankB) {
-
-      return rankA - rankB;
-
-    }
-
     return nameA.localeCompare(nameB);
-
   });
 }
 

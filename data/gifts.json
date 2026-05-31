@@ -18347,54 +18347,30 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [
-                                "Device",
-                                "Difficulty"
-                            ],
-                            "pl": [
-                                "",
-                                ""
-                            ]
+                            "en": [ "Device", "Difficulty" ],
+                            "pl": [ "", "" ]
                         },
                         "rows": [
                             {
-                                "en": [
-                                    "Computer",
-                                    "4"
+                                "en": [ "Computer", "4" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Phone", "6"
                                 ],
-                                "pl": [
-                                    "",
-                                    ""
+                                "pl": [ "", ""
                                 ]
                             },
                             {
-                                "en": [
-                                    "Phone",
-                                    "6"
+                                "en": [ "Automobile", "8"
                                 ],
-                                "pl": [
-                                    "",
-                                    ""
+                                "pl": [ "", ""
                                 ]
                             },
                             {
-                                "en": [
-                                    "Automobile",
-                                    "8"
+                                "en": [ "Knife", "10"
                                 ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Knife",
-                                    "10"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
+                                "pl": [ "", ""
                                 ]
                             }
                         ]

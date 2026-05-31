@@ -220,7 +220,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.4.8
+    Version: v0.4.9
   </div>
 
   <div class="language-switch">
@@ -546,40 +546,42 @@ function renderGifts(filteredGifts) {
     const selectId =
       `gift-version-${index}`;
 
-    card.innerHTML = `
+	card.innerHTML = `
 
-      <div class="gift-title"
-           id="${titleId}">
-        ${[...new Set(
+	  <div class="gift-title"
+		   id="${titleId}">
+		${[...new Set(
 
-          gift.requirements
-            .map(r => getLocalizedText(r.names))
+		  gift.requirements
+			.map(r => getLocalizedText(r.names))
 
-        )].join(" / ")}
-      </div>
+		)].join(" / ")}
+	  </div>
 
-      <div class="gift-meta">
-        ${requirementsText}
-      </div>
+	  <div class="gift-meta">
+		${requirementsText}
+	  </div>
 
-      <select id="${selectId}">
-        ${gift.versions.map((v, i) => `
+	  <select id="${selectId}">
+		${gift.versions.map((v, i) => `
 
-          <option value="${i}">
-            ${v.book}
-            ${v.edition
-              ? ` (${v.edition})`
-              : ""}
-          </option>
+		  <option value="${i}">
+			${v.book}
+			${v.edition
+			  ? ` (${v.edition})`
+			  : ""}
+		  </option>
 
-        `).join("")}
-      </select>
+		`).join("")}
+	  </select>
 
-<div id="${descId}">
-  ${renderContent(defaultVersion)}
-</div>;
+	  <div id="${descId}">
+		${renderContent(defaultVersion)}
+	  </div>
 
-    container.appendChild(card);
+	`;
+
+	container.appendChild(card);
 
     // =========================
     // VERSION SWITCHING

@@ -18350,27 +18350,11 @@
             {
                 "book": "Werewolf: The Apocalypse (2nd Edition)",
                 "edition": "",
-                "descriptions": {
-                    "en": "The Garou can cause technological devices to cease functioning, albeit temporarily. This Gift is taught by a Gremlin, a type of Wyld spirit that enjoys breaking things.\n\nSystem: The Garou spends one Gnosis point and rolls Manipulation + Repair. Technological devices within 50 feet cease functioning for one turn per success, though the devices are unharmed. The difficulty of the roll is based on the following chart:\n\nDevice\t\tDifficulty\nComputer\t\t4\nPhone\t\t6\nAutomobile\t\t8\nKnife\t\t10",
-                    "pl": ""
-                }
-            },
-            {
-                "book": "Werewolf the Apocalypse",
-                "edition": "W20",
-                "descriptions": {
-                    "en": "With a slight gesture, the werewolf unbalances the Wyld and Weaver energies within technological devices, either suffusing them with destructive chaos or amplifying their inherent stasis until they refuse to do anything at all. Computers crash, guns jam, cars stall, and even the simplest shaped objects refuse to function. A gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point, rolls (Manipulation + Crafts) and chooses the level of complexity she intends to jam. All technological devices (i.e. any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet (15 m) cease to function for two turns per success. The devices remain unchanged, but inert — knives won’t cut, gunpowder won’t ignite, gears won’t turn, and so on. The difficulty of the roll is based on the following chart:\n\nDevice\tDifficulty\nComputer\t4\nPhone\t5\nAutomobile\t7\nGun\t8\nKnife\t9",
-                    "pl": ""
-                }
-            },
-            {
-                "book": "Core Rulebook (Revised) - test",
-                "edition": "",
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Gift allows the werewolf to interfere with nearby technology.",
-                        "pl": ""
+                        "en": "The Garou can cause technological devices to cease functioning, albeit temporarily. This Gift is taught by a Gremlin, a type of Wyld spirit that enjoys breaking things.\n\nSystem: The Garou spends one Gnosis point and rolls Manipulation + Repair. Technological devices within 50 feet cease functioning for one turn per success, though the devices are unharmed. The difficulty of the roll is based on the following chart.",
+                        "pl": "Test PL"
                     },
                     {
                         "type": "table",
@@ -18393,6 +18377,42 @@
                             },
                             {
                                 "en": [ "Knife", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf the Apocalypse",
+                "edition": "W20",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "With a slight gesture, the werewolf unbalances the Wyld and Weaver energies within technological devices, either suffusing them with destructive chaos or amplifying their inherent stasis until they refuse to do anything at all. Computers crash, guns jam, cars stall, and even the simplest shaped objects refuse to function. A gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.\n\nSystem: The player spends one Gnosis point, rolls (Manipulation + Crafts) and chooses the level of complexity she intends to jam. All technological devices (i.e. any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet (15 m) cease to function for two turns per success. The devices remain unchanged, but inert — knives won’t cut, gunpowder won’t ignite, gears won’t turn, and so on. The difficulty of the roll is based on the following chart.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Device", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Computer", "4" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Phone", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Automobile", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Knife", "9" ],
                                 "pl": [ "", "" ]
                             }
                         ]

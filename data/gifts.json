@@ -1870,7 +1870,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Beast Life",
-                    "pl": ""
+                    "pl": "Życie zwierząt"
                 }
             },
             {
@@ -1882,7 +1882,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Beast Life",
-                    "pl": ""
+                    "pl": "Życie zwierząt"
                 }
             },
             {
@@ -1894,7 +1894,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Beast Life",
-                    "pl": ""
+                    "pl": "Życie zwierząt"
                 }
             }
         ],
@@ -1920,7 +1920,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou may not only communicate with animals, but can attract and command them. If there are no animals of the sort desired in the vicinity, none can be called. This Gift is taught by any Animal-spirit.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Animal Ken (difficulty 7). One success causes animals within a 10-mile radius to be affected. Each additional success adds 10 miles (two successes indicate a 20-mile radius). The effect lasts for one scene, but the time may be extended by spending one Gnosis point per extra scene.",
-                    "pl": ""
+                    "pl": "Dar ten pozwala wilkołakowi nie tylko porozumiewać się ze zwierzętami, ale także przywoływać je i wydawać im rozkazy, jeśli tylko poszukiwane zwierzę znajduje się w pobliskiej okolicy. Mocą tą władają duchy zwierząt.\n\nMechanika gry: Garou wydaje punkt Gnozy i wykonuje test Charyzma + Poskramianie Zwierząt (trudność 7). Jeden sukces oznacza, że promień działania Daru wynosi 15 kilometrów, zaś każdy dodatkowy dolicza jej kolejne 15 km (dwa sukcesy oznaczają więc zasięg 30 kilometrów). Dar działa przez jedną scenę, ale czas ten można wydłużyć wydając punkty Gnozy (jeden za każdą następną scenę)."
                 }
             },
             {
@@ -5288,7 +5288,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Catfeet",
-                    "pl": ""
+                    "pl": "Kocia zwinność"
                 }
             }
         ],
@@ -5306,7 +5306,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This Gift gives the Garou the agility of a cat, making him immune to falls under 100 feet (he lands on his feet just right). He also has perfect balance even on the most slippery surfaces, and the difficulties of all combat actions involving body slams and grappling are reduced by two. This Gift is taught by a Cat-spirit.\n\nSystem: The Garou does not need to expend points or roll for this ability; it becomes innate to those who learn the Gift.",
-                    "pl": ""
+                    "pl": "Dzięki temu Darowi garou staje się zwinny niczym kot, co pozwala mu m.in. spadać ze znacznych wysokości (do 30 metrów) bez uszczerbku dla zdrowia (i lądować na czterech łapach) oraz ułatwia zachowanie równowagi nawet na najbardziej niepewnej i śliskiej powierzchni — dzięki temu trudność wszystkich prób pochwycenia lub obalenia przeciwnika w walce zmniejsza się o 2. Mocą tą włada duch kota.\n\nMechanika gry: Garou nie wykonuje żadnych testów i nie wydaje żadnych punktów. Dla każdego, który opanuje ten Dar, staje się on niejako „wrodzoną” zdolnością."
                 }
             },
             {
@@ -9964,7 +9964,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Elemental Gift",
-                    "pl": ""
+                    "pl": "Dar żywiołów"
                 }
             }
         ],
@@ -9990,7 +9990,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou may call upon the primal force of Gaia Herself, thereby commanding the spirits of the elements. The Garou can cause the elements to rise up, undulate forward, and even engulf foes. This Gift summons an elemental spirit, not merely the raw matter of the elements. This Gift is taught by an elemental.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Occult (difficulty 8). If successful, he may control a large volume of air, earth, water or fire — approximately 20' by 20' per success. The effect lasts for one scene.",
-                    "pl": ""
+                    "pl": "Garou, odwołując się do pierwotnych mocy Gai, może rozkazywać duchom żywiołów, polecając im np. wznieść się jak fala i pochłonąć wrogów. Dar ten pozwala przywołać ducha, a nie surową materię żywiołu. Można się go nauczyć od żywiołaka.\n\nMechanika gry: Garou wydaje punkt Gnozy i wykonuje test Charyzma + Okultyzm (trudność 8). Powodzenie w teście pozwala mu sprawować kontrolę nad znacznymi ilościami powietrza, ziemi, wody lub ognia — mniej więcej 5 m³ materii. Działanie Daru utrzymuje się przez jedną scenę."
                 }
             },
             {
@@ -11351,7 +11351,7 @@
                 "book": "Tribebook - Glass Walkers (Revised)",
                 "edition": "",
                 "descriptions": {
-                    "en": "This Gift has now been lost, due to overly cautious protection and careless management. Only sept leaders of the Central House were permitted to learn it, those who did learn it were placed under intense scrutiny, and the greatest number of those who did belonged to the Wise Guys. At any one time, maybe only five Glass Walkers on Earth ever knew it. All died in a short period of time due to simple attrition and old age. The slow collapse of the house system and the quick collapse of the Wise Guys have sealed its fate, as few spirits that know the Gift teach it to anyone not of the (non-existent) house. However, it is included for those who wish to ignore the “official” setting, are playing a game set before its disappearance, or to run a chronicle centered around its rediscovery.\n\nThe Gift allows the player to call upon the ancestor-spirits of other tribes, provided they owed the Glass Walkers (or historical incarnations) a favor before their death. The Gift requires a Garou from the same tribe as the Ancestor spirit being called to be present (the “guest”), and that Garou must have the Ancestors background. The Gift is taught by any long-lived spirit, such as a turtle- or elephant-spirit, and often a similar spirit is called upon to bear witness to any agreements made between the Glass Walkers and the ancestor-spirit.\n\nSystem: The Garou spends one Willpower point and rolls Gnosis. The difficulty is 10, minus however many dots of Ancestors Background the guest possesses. If successful, the summoned ancestor literally possesses his descendant, and can negotiate the terms of repaying the debt.\n\nThe Central House used to maintain extensive records of debts owed to the tribe, employing vast amounts of resources to research them from before the Wise Guys’ time, and using this Gift required a committee vote to summon one of the debtors. While it was possible to use it without approval, such misuse was strongly frowned upon. The player should be allowed to create the original debt and debtor, though there should be a reason the character knows about the debt. This Gift also opens up a negotiation of the debt, not a straight demand of service. If the favor requested is too excessive, the Ancestor can refuse (Storyteller’s discretion).\n\nIn addition, while this Gift can be used with an unwilling guest, doing so is an excellent way to make an enemy.",
+                    "en": "This Gift has now been lost, due to overly cautious protection and careless management. Only sept leaders of the Central House were permitted to learn it, those who did learn it were placed under intense scrutiny, and the greatest number of those who did belonged to the Wise Guts. At any one time, maybe only five Glass Walkers on Earth ever knew it. All died in a short period of time due to simple attrition and old age. The slow collapse of the house system and the quick collapse of the Wise Guts have sealed its fate, as few spirits that know the Gift teach it to anyone not of the (non-existent) house. However, it is included for those who wish to ignore the “official” setting, are playing a game set before its disappearance, or to run a chronicle centered around its rediscovery.\n\nThe Gift allows the player to call upon the ancestor-spirits of other tribes, provided they owed the Glass Walkers (or historical incarnations) a favor before their death. The Gift requires a Garou from the same tribe as the Ancestor spirit being called to be present (the “guest”), and that Garou must have the Ancestors background. The Gift is taught by any long-lived spirit, such as a turtle- or elephant-spirit, and often a similar spirit is called upon to bear witness to any agreements made between the Glass Walkers and the ancestor-spirit.\n\nSystem: The Garou spends one Willpower point and rolls Gnosis. The difficulty is 10, minus however many dots of Ancestors Background the guest possesses. If successful, the summoned ancestor literally possesses his descendant, and can negotiate the terms of repaying the debt.\n\nThe Central House used to maintain extensive records of debts owed to the tribe, employing vast amounts of resources to research them from before the Wise Guts’ time, and using this Gift required a committee vote to summon one of the debtors. While it was possible to use it without approval, such misuse was strongly frowned upon. The player should be allowed to create the original debt and debtor, though there should be a reason the character knows about the debt. This Gift also opens up a negotiation of the debt, not a straight demand of service. If the favor requested is too excessive, the Ancestor can refuse (Storyteller’s discretion).\n\nIn addition, while this Gift can be used with an unwilling guest, doing so is an excellent way to make an enemy.",
                     "pl": ""
                 }
             },
@@ -14166,7 +14166,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Gnaw",
-                    "pl": ""
+                    "pl": "Potężne szczęki"
                 }
             },
             {
@@ -14178,7 +14178,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Gnaw",
-                    "pl": ""
+                    "pl": "Potężne szczęki"
                 }
             }
         ],
@@ -14204,7 +14204,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou may strengthen her jaws to the point that, given time, she can chew through just about anything. In addition, her jaws do more damage in combat. This Gift is taught by a Wolf-spirit.\n\nSystem: The Garou spends one Willpower point and rolls Stamina + Athletics against a variable difficulty (7 for wood, 6 for steel cables, 9 for a titanium door). The length of time it takes to gnaw through something is up to the Storyteller. When employing this power in combat, the Garou’s bite does an extra die of damage.",
-                    "pl": ""
+                    "pl": "Używający tego Daru garou może przegryźć się przez dowolny materiał, a jego ugryzienie w walce zadaje większe obrażenia. Mocą tą włada duch wilka.\n\nMechanika gry: Garou wydaje punkt Siły Woli i wykonuje test Wytrzymałość + 4 (trudność zmienna — dla drewna 3, dla stalowych lin – 6, dla tytanowych drzwi – 9). Narrator określa, ile czasu potrzebuje wilkołak, by rozewrzeć szczękami przeszkodę. Jeżeli ten Dar zostaje użyty podczas walki, garou dolicza dodatkową kostkę do obrażeń."
                 }
             },
             {
@@ -15310,7 +15310,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Hare’s Leap",
-                    "pl": ""
+                    "pl": "Kangurzy skok"
                 }
             },
             {
@@ -15322,17 +15322,17 @@
                 "rank": 1,
                 "names": {
                     "en": "Hare’s Leap",
-                    "pl": ""
+                    "pl": "Zajęczy skok"
                 }
             }
         ],
         "versions": [
             {
-                "book": "Core Rulebook (Revised)",
+                "book": "Werewolf: The Apocalypse (2nd Edition)",
                 "edition": "",
                 "descriptions": {
                     "en": "By invoking this Gift, the werewolf may leap incredible distances. Hare-, frog- and cat-spirits usually teach this Gift. The lost Bunyip knew this Gift as Leap of the Kangaroo, however marsupial-spirits seem loath to Gift “Leap of the Kangaroo” in their fallen cousins’ honor.\n\nSystem: The player rolls Stamina + Athletics (difficulty 7). If successful, she may double her normal jumping distance. (See Jumping, p. 197.)",
-                    "pl": ""
+                    "pl": "Jako pierwsi władali tym Darem Bunipowie (jedno ze Straconych Plemion). Pozwala on pokonywać niewiarygodne dystanse jednym skokiem. Wbrew temu, co sugeruje nazwa, mocy tej włada duch zająca i duch kota (w naszych czasach duchy torbaczy nienawidzą garou i nie zechciałyby im pomóc).\n\nMechanika gry: Garou wykonuje rzut Wytrzymałość + Wysportowanie (trudność 7), po czym, jeśli test się powiedzie, może podwoić dystans, na jaki zwykle skacze (patrz Tabela Skoków na stronie 212)."
                 }
             },
             {
@@ -16012,7 +16012,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Heightened Senses",
-                    "pl": ""
+                    "pl": "Wyostrzone zmysły"
                 }
             },
             {
@@ -16024,7 +16024,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Heightened Senses",
-                    "pl": ""
+                    "pl": "Wyostrzone zmysły"
                 }
             },
             {
@@ -16036,7 +16036,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Heightened Senses",
-                    "pl": ""
+                    "pl": "Wyostrzone zmysły"
                 }
             }
         ],
@@ -16062,7 +16062,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou may vastly increase her sensory input for a short time. When in Homid or Glabro form, her senses become as sharp as those of a wolf, while in her wolf forms, her senses become preternaturally potent. This Gift is taught by Wolf-spirits.\n\nSystem: The Garou spends a Gnosis point. The effects last for one scene. Homid and Glabro forms: Perception difficulties are reduced by two; roll Perception + Primal-Urge (difficulty 6) to perform sensory feats impossible to humans. Crinos, Hispo and Lupus forms: Perception difficulties are reduced by three; +1 to Primal-Urge Dice Pools.",
-                    "pl": ""
+                    "pl": "Pozwala (na krótko) znacznie wzmocnić nasilenie wrażeń zmysłowych. Zmysły garou w formie homid lub glabro stają się równie wyczulone jak u wilka, zaś w formie lupus zyskują wręcz nadnaturalną wrażliwość. Mocą tą władają duchy wilków.\n\nMechanika gry: Garou wydaje punkt Gnozy. Działanie Daru utrzymuje się przez jedną scenę, zaś jego efekty są następujące: dla form homid i glabro trudność testów Percepcji zmniejsza się o 2, zaś udany test Percepcja + Pierwotne Instynkty (trudność 6) pozwala korzystać ze zmysłów na poziomie niedostępnym zwykłym ludziom. Dla form crinos, hispo i lupus trudność testów Percepcji zmniejsza się o 3, a ponadto garou dodaje jedną kostkę do Puli Kostek przy testach Pierwotnych Instynktów."
                 }
             },
             {
@@ -19066,7 +19066,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Leap of the Kangaroo",
-                    "pl": ""
+                    "pl": "Kangurzy skok"
                 }
             },
             {
@@ -19078,7 +19078,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Leap of the Kangaroo",
-                    "pl": ""
+                    "pl": "Kangurzy skok"
                 }
             }
         ],
@@ -19088,7 +19088,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This Gift was originally developed by the lost Bunyip tribe. By invoking this Gift, Garou may leap incredible distances. Despite its name, this Gift is taught by Hare- or Cat-spirits (marsupial-spirits seem loath to aid the Garou these days…).\n\nSystem: The Garou rolls Stamina + Athletics (difficulty 7). If successful, she may double her normal jumping distance. See the Jumping Chart, pg. 212.",
-                    "pl": ""
+                    "pl": "Jako pierwsi władali tym Darem Bunipowie (jedno ze Straconych Plemion). Pozwala on pokonywać niewiarygodne dystanse jednym skokiem. Wbrew temu, co sugeruje nazwa, mocy tej włada duch zająca i duch kota (w naszych czasach duchy torbaczy nienawidzą garou i nie zechciałyby im pomóc).\n\nGarou wykonuje rzut Wytrzymałość + Wysportowanie (trudność 7), po czym, jeśli test się powiedzie, może podwoić dystans, na jaki zwykle skacze (patrz Tabela Skoków na stronie 212)."
                 }
             }
         ]
@@ -21771,7 +21771,7 @@
                 "book": "Core Rulebook (Revised)",
                 "edition": "",
                 "descriptions": {
-                    "en": "The Garou is able to heal the wounds of others (including aggravated), removing not only by laying hands over the afflicted area. The Garou may not heal herself; spirits of the undead with Gift. A bear- or unicorn-spirit teaches this Gift.\n\nGlass Walkers: Wise Guys using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The player spends one Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one health level. The Theurge may heal even Battle Scars in this manner if she uses the Gift in the same scene in which the scar was obtained and spends a second Gnosis point. There is no limit to how many times this Gift may be used on a person, but each use requires the expenditure of one Gnosis.",
+                    "en": "The Garou is able to heal the wounds of others (including aggravated), removing not only by laying hands over the afflicted area. The Garou may not heal herself; spirits of the undead with Gift. A bear- or unicorn-spirit teaches this Gift.\n\nGlass Walkers: Wise Guts using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The player spends one Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one health level. The Theurge may heal even Battle Scars in this manner if she uses the Gift in the same scene in which the scar was obtained and spends a second Gnosis point. There is no limit to how many times this Gift may be used on a person, but each use requires the expenditure of one Gnosis.",
                     "pl": ""
                 }
             },
@@ -21779,7 +21779,7 @@
                 "book": "Dark Ages",
                 "edition": "",
                 "descriptions": {
-                    "en": "The Garou channels healing energy through her hands, easing wounds of any living creature (including aggravated). Cannot heal spirits or undead.\n\nGlass Walkers: Wise Guys using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: Spend 1 Gnosis, roll Intelligence + Empathy (difficulty = target’s current Rage, or 5 if none). Each success heals one Health Level. Can heal Battle Scars (extra Gnosis if same scene).",
+                    "en": "The Garou channels healing energy through her hands, easing wounds of any living creature (including aggravated). Cannot heal spirits or undead.\n\nGlass Walkers: Wise Guts using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: Spend 1 Gnosis, roll Intelligence + Empathy (difficulty = target’s current Rage, or 5 if none). Each success heals one Health Level. Can heal Battle Scars (extra Gnosis if same scene).",
                     "pl": ""
                 }
             },
@@ -21787,7 +21787,7 @@
                 "book": "Werewolf: The Apocalypse (2nd Edition)",
                 "edition": "",
                 "descriptions": {
-                    "en": "The Garou is able to heal the wounds of others, aggravated or otherwise, simply by laying hands over the afflicted area. The Garou may not heal herself with this Gift. This Gift is taught by a Unicorn-spirit.\n\nGlass Walkers: Wise Guys using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The Garou spends one Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one Health Level. Even battle scars may be cured in this manner, but this must be done in the same scene the scar was obtained and requires the expenditure of a Gnosis point. There is no limit to how many times this may be used on a person, but each use requires a Gnosis point.",
+                    "en": "The Garou is able to heal the wounds of others, aggravated or otherwise, simply by laying hands over the afflicted area. The Garou may not heal herself with this Gift. This Gift is taught by a Unicorn-spirit.\n\nGlass Walkers: Wise Guts using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The Garou spends one Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one Health Level. Even battle scars may be cured in this manner, but this must be done in the same scene the scar was obtained and requires the expenditure of a Gnosis point. There is no limit to how many times this may be used on a person, but each use requires a Gnosis point.",
                     "pl": ""
                 }
             },
@@ -21795,7 +21795,7 @@
                 "book": "The Wild West",
                 "edition": "",
                 "descriptions": {
-                    "en": "The werewolf can heal the wounds of others (but not herself), aggravated or otherwise, simply by laying hands over the afflicted area. This Gift is taught by a Unicorn-spirit.\n\nGlass Walkers: Wise Guys using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The Garou spends a Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one Health Level. Even battle scars may be cured in this manner, but only in the same scene that the scar was obtained and with the expenditure of an additional Gnosis point. There is no limit to how many times this may be used on a person, but each use requires a Gnosis point.",
+                    "en": "The werewolf can heal the wounds of others (but not herself), aggravated or otherwise, simply by laying hands over the afflicted area. This Gift is taught by a Unicorn-spirit.\n\nGlass Walkers: Wise Guts using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The Garou spends a Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one Health Level. Even battle scars may be cured in this manner, but only in the same scene that the scar was obtained and with the expenditure of an additional Gnosis point. There is no limit to how many times this may be used on a person, but each use requires a Gnosis point.",
                     "pl": ""
                 }
             },
@@ -21803,7 +21803,7 @@
                 "book": "Werewolf the Apocalypse",
                 "edition": "W20",
                 "descriptions": {
-                    "en": "The Theurge channels spiritual power through her hands, mending the wounds of any other living creature. This Gift may not heal the werewolf herself, spirits, or the undead. A bear- or unicorn-spirit teaches it.\n\nGlass Walkers: Wise Guys using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The player spends one Gnosis point and rolls Intelligence + Empathy (difficulty is the target’s current Rage, or 5 for those with no Rage). Each success heals one level of lethal, bashing, or aggravated damage. The healer may even heal fresh Battle Scars (see p. 259) in this manner, if the Gift is applied during the same scene in which the scar is received and an extra Gnosis point is spent.",
+                    "en": "The Theurge channels spiritual power through her hands, mending the wounds of any other living creature. This Gift may not heal the werewolf herself, spirits, or the undead. A bear- or unicorn-spirit teaches it.\n\nGlass Walkers: Wise Guts using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The player spends one Gnosis point and rolls Intelligence + Empathy (difficulty is the target’s current Rage, or 5 for those with no Rage). Each success heals one level of lethal, bashing, or aggravated damage. The healer may even heal fresh Battle Scars (see p. 259) in this manner, if the Gift is applied during the same scene in which the scar is received and an extra Gnosis point is spent.",
                     "pl": ""
                 }
             }
@@ -21898,7 +21898,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Name the Spirit",
-                    "pl": ""
+                    "pl": "Poznanie ducha"
                 }
             },
             {
@@ -21910,7 +21910,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Name the Spirit",
-                    "pl": ""
+                    "pl": "Poznanie ducha"
                 }
             }
         ],
@@ -21944,7 +21944,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou is able to detect the type and approximate Trait levels (Rage, Power, etc.) of a spirit. This Gift is taught by a spirit servant of the Uktena totem.\n\nSystem: The Garou spends one Willpower point and rolls Perception + Occult (difficulty 8).",
-                    "pl": ""
+                    "pl": "Garou jest w stanie wykryć obecność i określić w przybliżeniu Cechy ducha (Szał, Moc itp.). Daru tego można nauczyć się od ducha służącego totemowi Uktena.\n\nMechanika gry: Garou wydaje punkt Siły Woli i wykonuje test Percepcja + Okultyzm (trudność 8)."
                 }
             },
             {
@@ -27478,7 +27478,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Scent of Sight",
-                    "pl": ""
+                    "pl": "Węch zamiast wzroku"
                 }
             }
         ],
@@ -27504,7 +27504,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou can use his sense of smell to compensate completely for his eyes; thus, he could attack invisible creatures normally, or roughly navigate in absolute darkness. This Gift is taught by a Wolf-spirit.\n\nSystem: The Garou rolls Perception + Primal-Urge against a Storyteller-determined difficulty (depends on how powerful local smells are). The Storyteller should not require rolls every turn, but only when something could cause the Garou to lose his opponent’s scent (he ran through water, they are fighting in a smelly alley, etc.).",
-                    "pl": ""
+                    "pl": "Dar ten pozwala garou na zastąpienie wzroku zmysłem powonienia, dzięki czemu może atakować istoty niewidzialne lub całkiem pewnie poruszać się w absolutnych ciemnościach. Mocą tą włada duch wilka.\n\nMechanika gry: Garou wykonuje test Percepcja + Pierwotne Instynkty (trudność ustala Narrator, zależnie od nasilenia rozmaitych woni w otoczeniu). Testów nie powinno wykonywać się w każdej turze, a tylko wówczas, gdy pojawiają się nowe okoliczności, które mogłyby sprawić, że garou „zgubi” zapach, za którym podąża (np. kierują tropioną istotę przebiegającą przez wodę, kiedy walka toczy się w cuchnącym zaułku itp.)."
                 }
             },
             {
@@ -28630,7 +28630,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Sense the Unnatural",
-                    "pl": ""
+                    "pl": "Wyczucie nadnaturalnego"
                 }
             },
             {
@@ -28642,7 +28642,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Sense the Unnatural",
-                    "pl": ""
+                    "pl": "Wyczucie nadnaturalnego"
                 }
             },
             {
@@ -28654,7 +28654,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Sense the Unnatural",
-                    "pl": ""
+                    "pl": "Wyczucie nadnaturalnego"
                 }
             },
             {
@@ -28666,7 +28666,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Sense the Unnatural",
-                    "pl": ""
+                    "pl": "Wyczucie nadnaturalnego"
                 }
             }
         ],
@@ -28692,7 +28692,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Lupus Rank: 2, Fianna Rank: 3\n\nThe Garou can sense any unnatural presence and determine its approximate strength and type. Supernatural presences can include: magic, spirits, the Wyrm, wraiths, etc. This will detect vampires, but only those with Humanity scores below 7. This Gift is taught by any spirit servant of Gaia.\n\nFianna: The Tuatha de Fionn have long delved into magic and have gained the ability to sense its presence.\n\nSystem: The Garou rolls Perception + Enigmas (difficulty 6). The more successes rolled, the more information is gained. However, understanding the information might require an Intelligence + Occult roll (Storyteller’s option).",
-                    "pl": ""
+                    "pl": "Lupus Ranga: 2, Fianna Ranga: 3\n\nGarou potrafi wykryć obecność istoty lub zjawiska nadnaturalnego (np. magii, duchy, Zjawi itp.) oraz w przybliżeniu określić jego moc. Używając tego Daru można wykryć również wampiry, jednak tylko takie, których Człowieczeństwo nie przekracza 6. Daru tego można nauczyć się od dowolnego ducha służącego Gai.\n\nGarou wykonuje test Percepcja + Zagadki (trudność 6) i uzyskuje tym więcej informacji, im więcej sukcesów uda mu się uzyskać. Uwaga: zrozumienie niedostępnych danych może wymagać dodatkowego testu Inteligencja + Okultyzm (decyzja należy do Narratora)."
                 }
             },
             {
@@ -31328,7 +31328,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Song of the Great Beast",
-                    "pl": ""
+                    "pl": "Pieśń Wielkiej Bestii"
                 }
             }
         ],
@@ -31354,7 +31354,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou must be in the deep wilderness to employ this Gift. If so, he can, by howling at the sky, call one of the Great Beasts — the ancient creatures that used to walk the Earth in ages past — to his aid. Examples of Beasts are the Sasquatch (Bigfoot), the Willawau (giant owl), the Yeti, the great megalodon sharks that swam the seas eons ago, and other legendary creatures. Who knows — there are rumors of surviving dinosaurs in the deep Congo… This Gift is taught by a Nature-spirit.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Primal-Urge (difficulty 9). More successes improve the Beast’s disposition.",
-                    "pl": ""
+                    "pl": "Aby skorzystać z tego Daru, garou musi znajdować się w głębokiej dziczy. Wówczas, wyjąc przeciągle, przyzywa na pomoc Wielką Bestię, jedną z prastarych istot, które przed wiekami zamieszkiwały Ziemię. Przykładami takich stworzeń są Sasquatch (Bigfoot, czyli Wielka Stopa), Willawau (olbrzymia sowa), yeti, ogromne rekiny — megalodony, które całe tysiąclecia temu przemierzały wody mórz i oceanów i wiele innych legendarnych stworów… ktoś może wiedzieć, co jeszcze — plotki mówią o dinozaurach, które przeżyły po dziś dzień w dorzeczu Kongo… Mocą tą włada duch Natury.\n\nMechanika gry: Garou wydaje punkt Gnozy i wykonuje test Charyzma + Pierwotne Instynkty (trudność 9). Im więcej sukcesów, tym bardziej skłonne do pomocy będzie wezwane stworzenie."
                 }
             },
             {
@@ -35727,7 +35727,7 @@
                 "book": "Tribebook - Glass Walkers (Revised)",
                 "edition": "",
                 "descriptions": {
-                    "en": "While one of the Wise Guys favorite gun Gifts (Trick Shot, rediscovered from the Iron Riders by Gianluigi Lucci) eventually leaked to the whole tribe, this one may well go with them to their grave. This Gift ensures that when spraying bullets from an automatic gun, not a single bullet misses its target. A bird spirit (though never a pigeon) teaches this Gift.\n\nSystem: The player spends one point of Gnosis and makes a standard Dexterity + Firearms roll to make a spray attack. (See Automatic Fire, Werewolf, p. 207.) However, the standard +2 difficulty does not apply. Before the attack is resolved, the Wise Guy may spend one Willpower point to turn one failed die into a success, and this may be repeated until all dice are considered successes. The only exception to this is if the roll is a botch, in which case no Willpower may be spent and every bullet misses their target by exactly an inch.\n\nIn addition, not one bullet is left at the scene, nor will any bullet hit anything but the Wise Guy’s opponents. This Gift cannot be used on a single enemy; the attack must be a spray involving at least two targets.",
+                    "en": "While one of the Wise Guts favorite gun Gifts (Trick Shot, rediscovered from the Iron Riders by Gianluigi Lucci) eventually leaked to the whole tribe, this one may well go with them to their grave. This Gift ensures that when spraying bullets from an automatic gun, not a single bullet misses its target. A bird spirit (though never a pigeon) teaches this Gift.\n\nSystem: The player spends one point of Gnosis and makes a standard Dexterity + Firearms roll to make a spray attack. (See Automatic Fire, Werewolf, p. 207.) However, the standard +2 difficulty does not apply. Before the attack is resolved, the Wise Guy may spend one Willpower point to turn one failed die into a success, and this may be repeated until all dice are considered successes. The only exception to this is if the roll is a botch, in which case no Willpower may be spent and every bullet misses their target by exactly an inch.\n\nIn addition, not one bullet is left at the scene, nor will any bullet hit anything but the Wise Guy’s opponents. This Gift cannot be used on a single enemy; the attack must be a spray involving at least two targets.",
                     "pl": ""
                 }
             }

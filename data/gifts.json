@@ -18658,11 +18658,40 @@
             {
                 "book": "Werewolf: The Apocalypse (2nd Edition)",
                 "edition": "",
-                "descriptions": {
-                    "en": "Specific animals, generally ones with which the Garou regularly associates, follow his commands willingly and unconditionally. They understand him and want to help. This Gift is taught by a Lion- or Falcon-spirit.\n\nSystem: The target must be within 100 feet, and the Garou rolls Charisma + Animal Ken against a difficulty based on his relationship with the animal:\n\nRelationship\tDifficulty\nA sibling\t3\nFeed and care for\t6\nStranger\t8\nHostile\t10\n\nThis power only works on one animal at a time, and it does not attract animals to the Garou’s vicinity.",
-                    "pl": ""
-                }
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Specific animals, generally ones with which the Garou regularly associates, follow his commands willingly and unconditionally. They understand him and want to help. This Gift is taught by a Lion- or Falcon-spirit.\n\nSystem: This power only works on one animal at a time, and it does not attract animals to the Garou’s vicinity. The target must be within 100 feet, and the Garou rolls Charisma + Animal Ken against a difficulty based on his relationship with the animal:",
+                        "pl": "Są wśród zwierząt takie, które ochoczo i bez wahania będą wykonywać polecenia garou, rozumieć go i służyć pomocą — chodzi tu głównie o zwierzęta, z którymi wilkołaki są blisko związane. Daru tego nauczyć się można od ducha lwa bądź ducha sokoła.\n\nMechanika gry: Obiekt działania Daru musi znajdować się nie dalej niż 30 metrów od garou, który wykonuje test Charyzma + Poskramianie zwierząt (trudność zależy od stopnia zażyłości ze zwierzęciem, patrz dalej). Można w ten sposób podporządkować sobie tylko jedno zwierzę naraz. Dar ten nie pozwala poza tym sprowadzić zwierzęcia w pobliże garou (patrz opis Daru lupusa z poziomu czwartego Życie zwierząt)."
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Relationship", "Difficulty" ],
+                            "pl": [ "Wzajemny stosunek", "Trudność" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "A sibling", "3" ],
+                                "pl": [ "Rodzeństwo", "3" ]
+                            },
+                            {
+                                "en": [ "Opiekun/żywiciel", "6" ],
+                                "pl": [ "Dwa", "6" ]
+                            },
+                            {
+                                "en": [ "Stranger", "8" ],
+                                "pl": [ "Obcy", "8" ]
+                            },
+                            {
+                                "en": [ "Hostile", "10" ],
+                                "pl": [ "Wrogowie", "10" ]
+                            }
+                        ]
+                    }
+                ]
             },
+			
             {
                 "book": "The Wild West",
                 "edition": "",
@@ -36918,7 +36947,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Philodox, as judges of the Litany, have the ability to sense whether others have spoken truth or falsehood. This Gift is taught by a Falcon-Gaffling.\n\nSystem: The Garou rolls Intelligence + Empathy (difficulty of the subject’s Manipulation + Subterfuge). This Gift reveals only whether the target speaks the truth or lies.",
-                    "pl": ""
+                    "pl": "Filodoksi, jako urodzeni sędziowie, strzegący przykazań Litanii, mają zdolność rozpoznawania, czy słowa, które słyszeli, są prawdą, czy kłamstwem. Mocą tą obdarza ich Szponiak-Sokół.\n\nMechanika gry: Garou wykonuje test Inteligencja + Empatia (trudność równa jest sumie Manipulacji i Przebiegłości ofiary). Zdolność ta pozwala jedynie stwierdzić, czy badany mówił prawdę, czy nie."
                 }
             },
             {

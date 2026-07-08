@@ -10,7 +10,7 @@
                 "rank": 3,
                 "names": {
                     "en": "A Thousand Eyes",
-                    "pl": "Test PL"
+                    "pl": ""
                 }
             }
         ],
@@ -20,7 +20,7 @@
                 "edition": "Revised",
                 "descriptions": {
                     "en": "The Child of Bat melds his consciousness with that of a swarm of bats, and may see and hear all that they see and hear for the duration of the night. Using this Gift requires a swarm of at least a thousand bats (easily found in most temperate or tropical areas). It is taught by a bat-spirit.\n\nSystem: The Garou spends three Gnosis and rolls Perception + Primal Urge (difficulty 8). Success indicates she slips into a deep meditative trance, and can see through the bats’ eyes and hear through their ears for one full night. With one success, she cannot control the bats’ movements; they go where they will, and she sees and hears what they happen to see and hear (generally lots of insects). With three or more successes, however, the Garou can subtly direct the movements of the swarm such that they are guided to a general area of interest to the Garou. She still cannot control individual bats, but they will show mild interest in whatever area it is that the Garou wants them to see.",
-                    "pl": "Test PL"
+                    "pl": ""
                 }
             }
         ]
@@ -4809,20 +4809,6 @@
     },
     {
         "requirements": [
-        ],
-        "versions": [
-            {
-                "book": "White Howlers - Tribebook ",
-                "edition": "W20",
-                "descriptions": {
-                    "en": "As the Philodox Gift: Call to Duty, but ",
-                    "pl": ""
-                }
-            }
-        ]
-    },
-    {
-        "requirements": [
             {
                 "race": "Garou",
                 "type": "Auspice",
@@ -4832,7 +4818,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Call to Duty",
-                    "pl": ""
+                    "pl": "Przywołanie ducha"
                 }
             },
             {
@@ -4844,7 +4830,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Call to Duty",
-                    "pl": ""
+                    "pl": "Przywołanie ducha"
                 }
             },
             {
@@ -4856,7 +4842,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Spectral Authority",
-                    "pl": ""
+                    "pl": "Duchowy Autorytet"
                 }
             }
         ],
@@ -4882,7 +4868,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou can summon common spirits if she knows their names, and may give them one command. Only one command may be given; after it is carried out, the spirits will depart. Spirit names can be discovered either through personal acquaintance or the Gift: Name the Spirit (Lupus and Theurge). This Gift is taught by an Incarna avatar.\n\nWhite Howler: Allows the Garou to command any ghost she knows by their full name. Unlike Call to Duty, this may only be used on a single ghost at one time. This gift is taught by a wolf-spirit.\n\nWayfarers: Wayfarers are quite prone to negotiating terms with spirits, as well as asking for the names of particular spirits as payment for their services.\n\nSystem: The Garou rolls Charisma + Leadership (difficulty of the spirit’s Willpower). If the Garou spends a Gnosis point, she can summon all spirits within one mile to protect or assist her, even if she does not know their names.",
-                    "pl": ""
+                    "pl": "Korzystając ze swojej mocy garou może przyzwać duchy, jeśli tylko zna ich imiona, i wydać im jedno polecenie (tylko jedno – po wykonaniu rozkazu duch odchodzi). Imienia ducha można zdobyć w czasie przygód, albo poznać je dzięki Darowi Poznanie ducha (Dar Lupusa i Teurga). Mocą tą włada awatar Incarna.\n\nBiałe Wyjce: Pozwala Garou rozkazywać dowolnemu duchowi, którego zna, używając jego pełnego imienia. W przeciwieństwie do „Przywołanie ducha”, zdolność ta może być użyta tylko wobec jednego ducha naraz. Dar ten przekazuje duch wilka.\n\nPoszukiwacze: Poszukiwacze mają skłonność do negocjowania warunków z duchami, a także do proszenia o imiona konkretnych duchów w zamian za swoje usługi.\n\nMechanika gry: Garou wykonuje test Charyzma + Autorytet (trudność równa się Sile Woli ducha). Jeśli zdecyduje się wydać jeden punkt Gnozy, może przywołać wszystkich duchów znajdujących się w promieniu paru kilometrów (nawet nie znając ich imion), by mu pomagały lub go strzegły."
                 }
             },
             {
@@ -6430,7 +6416,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Command Spirit",
-                    "pl": ""
+                    "pl": "Rozkazywanie duchom"
                 }
             }
         ],
@@ -6456,7 +6442,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The character can manipulate encountered spirits, giving simple commands and expecting their compliance. While she cannot summon spirits by name with this Gift, she can interact with those she meets. This Gift is taught by any Incarna avatar.\n\nSystem: The Garou must spend a Willpower point and roll Charisma + Leadership (difficulty of the spirit’s Gnosis). Each successive command requires the expenditure of another Willpower point. Note that the Garou cannot command spirits to leave areas to which they have been bound; that requires the Exorcism Gift (see below).",
-                    "pl": ""
+                    "pl": "Wilkołak może nie tylko porozumiewać się z duchami, ale także rozkazywać im, wydając proste polecenia; ma przy tym prawo oczekiwać posłuszeństwa. Dar ten nie pozwala przyzywać duchów po imieniu, ale umożliwia kontakt z przypadkowo napotkanymi. Mocą tą obdarza garou awatar Incarna.\n\nMechanika gry: Garou wydaje punkt Siły Woli i wykonuje test Charyzma + Autorytet (trudność równa jest Gnozie ducha). Każdy rozkaz, któremu duch ma być posłuszny, wymaga zużycia kolejnego punktu Siły Woli. Uwaga: garou nie mogą zmusić do odejścia duchów, które zostały w jakiś sposób przykute do miejsca, w którym się znajdują — do tego potrzebny jest Dar Egzorcyzm."
                 }
             },
             {
@@ -10306,7 +10292,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Exorcism",
-                    "pl": ""
+                    "pl": "Egzorcyzm"
                 }
             }
         ],
@@ -10332,7 +10318,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This is the Gift of ejecting spirits from places or objects, whether they are there voluntarily or are bound there. This Gift is taught by any Incarna avatar.\n\nSystem: If a spirit does not wish to leave, the character must make a Manipulation + Intimidation roll (difficulty of the spirit’s Willpower). If the spirit has been bound to its lodging place (or into a fetish), then the Exorcist must make a Wits + Subterfuge roll (difficulty 8) and gain more successes than the binder did when tying the spirit to its location.",
-                    "pl": ""
+                    "pl": "Ten Dar pozwala wypędzić ducha zamieszkującego wybrane miejsce lub przedmiot, bez względu na to, czy przebywa tam z własnej woli, czy też został jakoś zniewolony. Mocą tą obdarza garou awatar Incarna.\n\nMechanika gry: Jeśli duch nie chce odejść, garou wykonuje test Oddziaływanie + Zastraszanie (trudność równa jest wartości Siły Woli ducha). Jeśli zaś duch został w jakiś sposób związany z miejscem (lub fetyszem), egzorcysta musi wykonać test Spryt + Przebiegłość (trudność 8) i uzyskać w nim więcej sukcesów niż ten, kto nakazał duchowi pozostanie w tym miejscu/przedmiocie."
                 }
             },
             {
@@ -11700,7 +11686,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Feral Lobotomy",
-                    "pl": ""
+                    "pl": "Dzika lobotomia"
                 }
             }
         ],
@@ -11710,7 +11696,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "With but a thought, the Garou can devolve an opponent’s mind to that of an animal, effectively destroying his intelligence. This Gift is taught by a spirit servant of the Griffin totem.\n\nSystem: The Garou spends Gnosis (see below) and rolls Wits + Empathy (difficulty of the target’s Willpower + 3, maximum 10). If successful, the Garou can permanently destroy a target’s Intelligence Attribute. Two Gnosis points must be spent for each point of Intelligence destroyed, and the Garou cannot destroy more points than he rolls successes. Additionally, the target begins acting more animalistic with each point removed.",
-                    "pl": ""
+                    "pl": "Siłą własnego umysłu garou potrafi uszkodzić umysł wroga, obniżyć jego inteligencję i sprowadzić go do poziomu zwierzęcia. Mocą tą obdarza garou duch służący totemowi Gryfa.\n\nMechanika gry: Garou wydaje punkt Gnozy i wykonuje test Spryt + Empatia (trudność równa jest Siłe Woli wyznaczonej ofiary; maksimum 10). W wypadku powodzenia wilkołak na stałe obniża Inteligencję ofiary, w przeliczeniu: dwa wydane punkty Gnozy za jeden punkt Inteligencji, przy czym nie można ująć przeciwnikowi więcej punktów, niż wyrzucono sukcesów. Z każdym ubywającym punktem Inteligencji ofiara zaczyna coraz bardziej przypominać swoim zachowaniem zwierzę."
                 }
             },
             {
@@ -13330,7 +13316,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Geas",
-                    "pl": ""
+                    "pl": "Przymus"
                 }
             }
         ],
@@ -13356,7 +13342,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "A Geas causes others to do a Garou’s bidding, though the Geas-layer cannot make the targets act contrary to their basic instincts. Thus, she could send a group on a quest, but could not make its members attack and try to kill each other — unless they were psychotics or werewolves. This Gift is taught by an Incarna avatar.\n\nSystem: The Garou spends one Gnosis point and rolls Manipulation + Leadership (difficulty of the target’s Willpower). In the case of a group, the difficulty is the highest Willpower among its members.",
-                    "pl": ""
+                    "pl": "Istota, przeciw której garou wykorzysta ten Dar, postąpi zgodnie z jego życzeniem, aczkolwiek nie może zaprzeczyć własnym pierwotnym instynktom. Można w ten sposób zmusić grupę, by wyruszyła na wyprawę, ale nie uda się zmusić jej członków, by zaatakowali się i pozabijali nawzajem – chyba że mamy do czynienia z psychopatami lub wilkołakami. Mocy tej udziela garou awatar Incarna.\n\nMechanika gry: Garou wydaje punkt Gnozy, po czym wykonuje test Oddziaływanie + Autorytet (trudność równa jest Sile Woli wybranej ofiary; w grupie liczy się najwyższa Siła Woli)."
                 }
             },
             {
@@ -13380,7 +13366,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Ghost Dance",
-                    "pl": ""
+                    "pl": "Taniec Duchów"
                 }
             }
         ],
@@ -13390,7 +13376,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Preying on the fears of the European settlers, the Wendigo use this Gift to seed doubt and guilt amongst the invaders. A vision of the walking dead clouds the judgment of the targets, causing them to panic and flee. An Ancestor-spirit teaches this Gift.\n\nSystem: The player spends a Gnosis point to make the Gift active. He rolls Wits + Occult (difficulty 7). The number of successes indicates the number of people affected. People caught in the Gift’s spell see “spirits of the dead rise from their graves and advance. Most humans flee from the illusion. Garou and other supernaturals may try to interact with or even fight the visions.",
-                    "pl": ""
+                    "pl": "Wykorzystując lęki europejskich osadników, Wendigo posługują się tym Darem, by zasiać wątpliwości i poczucie winy wśród najeźdźców. Wizja chodzących trupów zaciemnia osąd ofiar, powodując, że wpadają w panikę i uciekają. Tego Daru uczy duch przodka.\n\nSystem: Gracz wydaje punkt Gnozy, aby aktywować ten Dar. Rzuca kośćmi na Spryt + Okultyzm (poziom trudności 7). Liczba sukcesów wskazuje liczbę osób, na które Dar oddziałuje. Osoby uwięzione w zaklęciu tego Daru widzą, jak „duchy zmarłych powstają z grobów i zbliżają się. Większość ludzi ucieka przed tą iluzją. Garou i inne istoty nadprzyrodzone mogą próbować wchodzić w interakcję z tymi wizjami, a nawet z nimi walczyć."
                 }
             }
         ]
@@ -14500,7 +14486,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Grasp the Beyond",
-                    "pl": ""
+                    "pl": "Zrozumienie niepojętego"
                 }
             }
         ],
@@ -14534,7 +14520,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This Gift allows the user to take objects out of the Umbra (or put them into it) without stepping sideways. After using the Gift: Umbral Sight, the Garou can reach through, pick up anything — into a pocketwatch or an unconscious Garou — and bring it into the physical world. The clever Raccoon-spirit teaches this Gift.\n\nSystem: Once the Garou knows what she wants to recover from the spirit world, she need only spend an appropriate amount of Willpower points and be able to lift the object. The player must spend one Willpower point for any small, handheld object and up to three for a larger item, such as a motorcycle. She can also place objects into the Penumbra in the same manner, though she cannot place sideways anything living (or undead) without its consent.",
-                    "pl": ""
+                    "pl": "Dzięki temu Darowi garou może przenosić przedmioty (i istoty żywe) z i do Umbry bez konieczności Przypisywania ich do własnej osoby (patrz opis Rytuału Przypisanie talizmanu na stronie 144). Działanie Daru obejmuje ludzi i zwierzęta, które mogą być przenoszone do Umbry zgodnie z ich wolą, jak i wbrew ich woli. Mocą tą władają duchy służące totemowi Uktena.\n\nMechanika gry: Garou musi uchwycić w łapę przedmiot lub stworzenie, z którym zamierza odbyć podróż, po czym wydaje punkty Siły Woli: w przypadku drobnych przedmiotów wystarczy jeden, większe (jak np. miecze) wymagają dwóch, zaś największe (w tym ludzie) — trzech. Następnie wykonuje normalny test Gnozy, by przebić się przez Barierę i zrobić skok w bok. Jeśli test będzie udany, garou znajdzie się w Umbrze wraz z przedmiotem/stworzeniem, które ze sobą zabierał. Obdarzony własną wolą obiekt może sprzeciwić się próbie przeniesienia go do Umbry — wykonuje wówczas test Siły Woli i każdy odniesiony sukces zmniejsza o 1 liczbę sukcesów garou (który potrzebuje co najmniej trzech sukcesów więcej w teście Gnozy, niż uzyska jego ofiara). Każdy, kto zostanie w ten sposób zabrany do Umbry, a sam nie potrafi zrobić skoku w bok, musi albo polegać na garou, jeśli chodzi o powrót ze świata duchów, albo znaleźć miejsce, w którym Bariera jest wyjątkowo cienka (np. cairn). Aby możliwe stało się samodzielne uwolnienie, jej wartość nie może przekraczać 3. Bez względu na to, jak cienka jest Bariera, nie można samodzielnie przekroczyć jej w drugą stronę."
                 }
             },
             {
@@ -21745,7 +21731,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Mother’s Touch",
-                    "pl": ""
+                    "pl": "Matczyny dotyk"
                 }
             },
             {
@@ -21757,7 +21743,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Mother’s Touch",
-                    "pl": ""
+                    "pl": "Matczyny dotyk"
                 }
             },
             {
@@ -21769,7 +21755,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Mother’s Touch",
-                    "pl": ""
+                    "pl": "Matczyny dotyk"
                 }
             },
             {
@@ -21781,7 +21767,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Mother’s Touch",
-                    "pl": ""
+                    "pl": "Matczyny dotyk"
                 }
             },
             {
@@ -21793,7 +21779,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Mother’s Touch",
-                    "pl": ""
+                    "pl": "Matczyny dotyk"
                 }
             }
         ],
@@ -21819,7 +21805,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou is able to heal the wounds of others, aggravated or otherwise, simply by laying hands over the afflicted area. The Garou may not heal herself with this Gift. This Gift is taught by a Unicorn-spirit.\n\nGlass Walkers: Wise Guts using this Gift often recite Luke 17:19 when using it. “And he said unto him, Arise, go thy way: thy faith hath made thee whole.\n\nSystem: The Garou spends one Gnosis point and rolls Intelligence + Medicine (difficulty of the wounded individual’s Rage, or 6 for non-Garou). Each success heals one Health Level. Even battle scars may be cured in this manner, but this must be done in the same scene the scar was obtained and requires the expenditure of a Gnosis point. There is no limit to how many times this may be used on a person, but each use requires a Gnosis point.",
-                    "pl": ""
+                    "pl": "Garou potrafi leczyć rany (zwykłe i prawdziwe) przez nałożenie rąk. Nie może w ten sposób leczyć własnych obrażeń. Mocą tą obdarza garou duch jednorożca.\n\nMechanika gry: Garou wydaje punkt Gnozy i wykonuje test Inteligencja + Medycyna (trudność równa jest wartości Szału rannego, zaś dla nie-garou wynosi 6). Każdy sukces zwiększa o jeden Stan Zdrowia rannego. Za pomocą tego Daru udaje się nawet usunąć blizny po odniesionych w bitwie ranach, pod warunkiem, że użyje się go jeszcze w tej samej scenie, w której rany zostały zadane oraz wyda dodatkowy punkt Gnozy. Daru można użyć dowolną liczbę razy, za każdym razem zużywając punkt Gnozy."
                 }
             },
             {
@@ -24781,7 +24767,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Pulse of the Invisible",
-                    "pl": ""
+                    "pl": "Tętno niewidzialności"
                 }
             },
             {
@@ -24793,7 +24779,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Pulse of the Invisible",
-                    "pl": ""
+                    "pl": "Tętno niewidzialności"
                 }
             }
         ],
@@ -24819,7 +24805,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Spirits fill the world around the Garou, and none knows this better than the Theurge. Those Garou with Pulse of the Invisible remain constantly aware of all that spirits do around them and can interact with them at will. While most of what occurs is barely worth watching, the Garou will be aware of any dramatic changes. This Gift is taught by any spirit.\n\nSystem: If the Garou’s Gnosis Dice Pool equals or exceeds the Gauntlet, he can automatically see into the Umbra. Otherwise, he must roll to pierce the Gauntlet, using Perception + Occult (difficulty of the Gauntlet). Only one success is required. The effect lasts for an entire scene or until the character enters an area with a higher Gauntlet.",
-                    "pl": ""
+                    "pl": "Cały świat wokół garou pełen jest duchów — któż wie o tym lepiej od Teurga? Obdarzone tą mocą wilkołaki zawsze wiedzą, co robią otaczające je duchy i mogą się z nimi kontaktować wedle własnej woli. Wprawdzie większość zachodzących w świecie duchów wydarzeń nie jest warta uwagi Teurga, ale Dar ten gwarantuje mu, że dowie się w porę o wszelkich istotnych sprawach. Tę moc może wilkołakowi przekazać dowolny duch.\n\nMechanika gry: Jeśli Pula Kostek Gnozy Teurga jest równa lub wyższa od obowiązującej w interesującym nas miejscu wartości Bariery, zyskuje on automatycznie wgląd w Umbrę. W przeciwnym wypadku przebicie Bariery wymaga wykonania testu Percepcja + Okultyzm (trudność równa jest wartości Bariery), przy czym wystarczy jeden sukces. Działanie Daru utrzymuje się do końca sceny lub do momentu, gdy bohater znajdzie się na obszarze, na którym Bariera ma wyższą wartość."
                 }
             },
             {
@@ -26353,7 +26339,7 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "nSuccesses", "Duration" ],
+                            "en": [ "Successes", "Duration" ],
                             "pl": [ "", "" ]
                         },
                         "rows": [
@@ -26410,7 +26396,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Resist Pain",
-                    "pl": ""
+                    "pl": "Odporność na ból"
                 }
             },
             {
@@ -26422,7 +26408,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Resist Pain",
-                    "pl": ""
+                    "pl": "Odporność na ból"
                 }
             },
             {
@@ -26434,7 +26420,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Resist Pain",
-                    "pl": ""
+                    "pl": "Odporność na ból"
                 }
             },
             {
@@ -26446,7 +26432,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Resist Pain",
-                    "pl": ""
+                    "pl": "Odporność na ból"
                 }
             },
             {
@@ -26458,7 +26444,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Resist Pain",
-                    "pl": ""
+                    "pl": "Odporność na ból"
                 }
             },
             {
@@ -26470,7 +26456,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Resist Pain",
-                    "pl": ""
+                    "pl": "Odporność na ból"
                 }
             }
         ],
@@ -26496,7 +26482,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Through force of will, the Garou is able to ignore the pain of his wounds and continue acting normally. This Gift is taught by a Bear-spirit.\n\nBlack Spirals who commonly use this Gift still feel pain, but that doesn’t impede their prowess in a fight. Some learn to enjoy the thrill of suffering horrible injuries and surviving.\n\nSystem: The Garou, by spending one Willpower point, may ignore all wound penalties for the duration of the scene.",
-                    "pl": ""
+                    "pl": "Dzięki ogromnej sile woli garou potrafi ignorować ból ran i działać, jakby nic się nie stało. Ten Dar Filodoksi zawdzięczają duchowi niedźwiedzia.\n\nMechanika gry: Wydając punkt Siły Woli garou staje się niewrażliwy na ograniczenia wynikłe z obrażeń (na czas trwania jednej sceny)."
                 }
             },
             {
@@ -26948,7 +26934,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Roll Over",
-                    "pl": ""
+                    "pl": "Pan i władca"
                 }
             },
             {
@@ -26960,7 +26946,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Roll Over",
-                    "pl": ""
+                    "pl": "Pan i władca"
                 }
             }
         ],
@@ -26986,7 +26972,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou has such a commanding presence that those encountered readily submit to her. Should she succeed in a test of wills, she dominates her foe, causing humans to fall to their knees, wolves to roll on their backs, etc. This Gift is taught by a Lion- or Wolf-spirit.\n\nSystem: The Garou must score at least three successes more than the opponent on a resisted Willpower contest.",
-                    "pl": ""
+                    "pl": "Z wilkołaka dysponującego tym Darem emanuje taka pewność siebie, że wszystkie napotkane istoty chętnie się mu podporządkowują. Jeśli zwycięży w pojedynku woli, sprawia, że ludzie padają przed nim na kolana, wilki odwracają się na grzbiet itp. Daru tego można się nauczyć od ducha lwa bądź ducha wilka.\n\nMechanika gry: Garou musi odnotować przynajmniej o trzy sukcesy więcej od przeciwnika w obustronnym teście Siły Woli (działanie sporne)."
                 }
             },
             {
@@ -27370,7 +27356,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Scent of Beyond",
-                    "pl": ""
+                    "pl": "Przeniesienie zmysłów"
                 }
             }
         ],
@@ -27396,7 +27382,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou can bring all his senses to bear on one spot (even an Umbral site) with which he is familiar, no matter how far away that spot is. The Garou senses the site from a point of view as if he were standing in the middle of the area being scanned. This Gift is taught by a Bird-spirit.\n\nSystem: The Garou rolls Perception + Enigmas (difficulty 8). If the spot is in the Umbra, the difficulty is 8 or the Gauntlet rating (whichever is higher).",
-                    "pl": ""
+                    "pl": "Dar ten umożliwia garou skupienie wszystkich zmysłów na jednym, znanym mu miejscu (które może znajdować się dowolnie daleko od niego, nawet w Umbrze). Wilkołak korzystający z tej mocy czuje się, jakby stał w samym środku badanego obszaru. Mocą tą władają duchy ptaków.\n\nMechanika gry: Garou wykonuje test Percepcja + Zagadki (trudność 8). Jeśli „podglądane” miejsce leży w Umbrze, trudność wynosi 8 lub równa jest wartości Bariery (wybieramy wyższą liczbę)."
                 }
             },
             {
@@ -27720,7 +27706,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Scent of the True Form",
-                    "pl": ""
+                    "pl": "Wyczucie prawdziwej postaci"
                 }
             }
         ],
@@ -27746,7 +27732,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This Gift allows the Garou to determine what a subject really is. This information is conveyed as an olfactory sensation — it is actually a scent of the target’s true nature. This Gift is taught by any spirit servant of Gaia.\n\nSystem: The Garou can automatically tell when someone is a werewolf, and can detect vampires and faeries on a Perception + Primal-Urge roll (difficulty 8). Even mages can be detected (difficulty 9).",
-                    "pl": ""
+                    "pl": "Dzięki temu Darowi garou potrafi stwierdzić, czym w istocie jest interesujący go obiekt. Odczucie to przypomina wrażenie zapachowe – tak, jakby wilkołak wyczuwał zmysłem powonienia prawdziwą naturę rzeczy. Daru tego można się nauczyć od dowolnego ducha służącego Gai.\n\nMechanika gry: Garou automatycznie rozpoznaje, czy ktoś jest wilkołakiem, zaś wampiry i istoty faerie rozpoznaje po udanym teście Percepcja + Pierwotne Instynkty (trudność 8). Rozpoznanie maga wymaga podobnego testu (trudność 9)."
                 }
             },
             {
@@ -30242,7 +30228,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Sight from Beyond",
-                    "pl": ""
+                    "pl": "Wizje"
                 }
             },
             {
@@ -30254,7 +30240,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Sight from Beyond",
-                    "pl": ""
+                    "pl": "Wizje"
                 }
             }
         ],
@@ -30280,7 +30266,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "When danger stalks the Garou, or momentous events are in the offing, visions begin striking the Garou without warning. Her dreams are haunted by images of the Cainite elder stalking her; she begins seeing symbols of the Wyrm wherever she looks; the sky itself opens to show her images of the glorious battle to come. This Gift is taught by a Crow-spirit.\n\nSystem: Interpreting these signs is best handled through roleplaying, but the Storyteller can require the Garou to roll Wits + Occult (difficulty 7) if appropriate.",
-                    "pl": ""
+                    "pl": "Garou doświadcza wizji, w których zostają mu objawione czyhające zagrożenia bądź mające właśnie nastąpić przełomowe wydarzenia — w snach nawiedza go chodzący za nim krok w krok zabójca; gdzie spojrzy, dostrzega symbole obecności Żmija; niebo otwiera się przed jego oczami, by ujrzał nadchodzącą bitwę. Tym Darem obdarza wilkołaki duch kruka.\n\nMechanika gry: Problem interpretacji znaków i omenów najlepiej uzależnić od tego, jak gracz odgrywa swoją postać, ale Narrator może zażądać testu Spryt + Okultyzm (trudność 7), jeśli uzna to za stosowne."
                 }
             },
             {
@@ -32108,7 +32094,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Spirit Drain",
-                    "pl": ""
+                    "pl": "Wyssanie Mocy"
                 }
             }
         ],
@@ -32126,7 +32112,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "The Garou may drain power from a spirit to feed his own resolve. This Gift is taught by a spirit servant of the Uktena totem.\n\nSystem: If the Garou succeeds in a resisted Gnosis vs. Gnosis roll while combating a spirit, the spirit loses one Power point per success for the rest of the scene. For every two points drained, the Garou gains a temporary Willpower point, but loses any points exceeding her maximum at the end of the scene.",
-                    "pl": ""
+                    "pl": "Dzięki temu Darowi garou może odebrać duchowi część mocy, by posłużyć się nią do własnych celów. Mocą tą władają duchy służące totemowi Uktena.\n\nMechanika gry: Jeśli garou zwycięży w pojedynku z duchem (akcja sporna, test Gnozy), odbiera mu 1 punkt Mocy za każdy swój sukces (do końca sceny), a za każde dwa punkty wilkołak zyskuje czasowo punkt Siły Woli. Wraz z końcem sceny garou traci punkty Siły Woli, o które przekroczył własny poziom maksymalny."
                 }
             },
             {
@@ -32592,7 +32578,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Spirit Speech",
-                    "pl": ""
+                    "pl": "Mowa duchów"
                 }
             },
             {
@@ -32604,7 +32590,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Spirit Speech",
-                    "pl": ""
+                    "pl": "Mowa duchów"
                 }
             }
         ],
@@ -32630,7 +32616,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "This Gift allows the Garou to communicate with encountered spirits. The Garou is thus able to address them whether they wish to be addressed or not. Of course, nothing (usually) prevents the spirit from leaving. This Gift can be taught by any spirit.\n\nSystem: Once learned, this Gift allows the Garou to understand the communication of spirits intuitively. Some spirits, such as Banes, may not always be understood.",
-                    "pl": ""
+                    "pl": "Umożliwia wilkołakowi porozumiewanie się z napotkanymi duchami, pozwalając mu przemawiać do nich, nawet jeśli sobie tego nie życzą. Oczywiście zazwyczaj nic nie jest w stanie powstrzymać ducha przed odejściem, jeśli zechce on to uczynić. Tego Daru można nauczyć się od dowolnego ducha.\n\nMechanika gry: Garou, który opanuje tę moc, instynktownie rozumie większość duchów, choć nie zawsze udaje mu się pojąć, o czym „mówią” np. Żmory."
                 }
             },
             {
@@ -33704,7 +33690,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Strength of Purpose",
-                    "pl": ""
+                    "pl": "Świadomość celu"
                 }
             },
             {
@@ -33716,7 +33702,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Strength of Purpose",
-                    "pl": ""
+                    "pl": "Świadomość celu"
                 }
             }
         ],
@@ -33742,7 +33728,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Some Garou feel so strongly about their place in the pack, the tribe and the world that they can draw on this resolve in times of need. The Garou can pull new resolve from his deepest reserves. This Gift is taught by a Wolf-spirit.\n\nSystem: Once per scene, when the character feels she needs Willpower, she can roll Stamina + Rituals (difficulty 7). For every two successes, she recovers one point of Willpower up to her maximum.",
-                    "pl": ""
+                    "pl": "Niektórzy garou tak znakomicie czują, gdzie jest ich miejsce w organizacji watahy, plemienia i w porządku świata, że w razie potrzeby mogą czerpać z tego moc, sięgając do najgłębiej ukrytych rezerw własnego organizmu.\n\nMechanika gry: Raz w trakcie sceny, kiedy bohater czuje, że przydałoby mu się więcej Siły Woli, może wykonać test Wytrzymałość + Obrzędy (trudność 7) i za każde dwa sukcesy odzyskać jeden punkt Siły Woli (nie przekraczając poziomu maksymalnego)."
                 }
             },
             {
@@ -35306,7 +35292,7 @@
                 "rank": 5,
                 "names": {
                     "en": "The Malleable Spirit",
-                    "pl": ""
+                    "pl": "Giętki duch"
                 }
             }
         ],
@@ -35314,10 +35300,34 @@
             {
                 "book": "Werewolf: The Apocalypse (2nd Edition)",
                 "edition": "",
-                "descriptions": {
-                    "en": "The Garou can change a spirit’s form or purpose. This Gift is taught by a Chimerling.\n\nSystem: The Garou must best the spirit in a resisted Gnosis vs. Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.\n\nChange\tDifficulty\nCharacteristics (Willpower, Rage, Gnosis; one point changed per success)\t6\nDisposition (Friendly, Neutral, Hostile)\t8\nType (Nature, Elemental, Bane, etc.)\t10",
-                    "pl": ""
-                }
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Garou can change a spirit’s form or purpose. This Gift is taught by a Chimerling.\n\nSystem: The Garou must best the spirit in a resisted Gnosis vs. Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
+                        "pl": "Władający tym Darem garou potrafi wpłynąć na formę i/lub postępowanie napotkanego ducha. Mocą tą włada Chimera.\n\nMechanika gry: Garou musi pokonać ducha w spornym teście Gnozy, którego trudność zależy od efektu, jaki stara się osiągnąć. Dla ducha trudność testu równa jest wartości Gnozy wilkołaka."
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Change", "Difficulty" ],
+                            "pl": [ "Zmiana", "Trudność" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Characteristics (Willpower, Rage, Gnosis; one point changed per success)", "6" ],
+                                "pl": [ "Cecha (Siła Woli, Szał, Gnoza; każdy sukces oznacza zmianę o 1 punkt)", "6" ]
+                            },
+                            {
+                                "en": [ "Disposition (Friendly, Neutral, Hostile)", "8" ],
+                                "pl": [ "Nastawienie (przyjacielskie, obojętne, wrogie)", "8" ]
+                            },
+                            {
+                                "en": [ "Type (Nature, Elemental, Bane, etc.)", "10" ],
+                                "pl": [ "Rodzaj (Natura, Żywiołak, Zmora itp.)", "10" ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -37360,7 +37370,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Ultimate Argument of Logic",
-                    "pl": ""
+                    "pl": "Ostateczny argument logiczny"
                 }
             },
             {
@@ -37372,7 +37382,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Ultimate Argument of Logic",
-                    "pl": ""
+                    "pl": "Ostateczny argument logiczny"
                 }
             },
             {
@@ -37384,7 +37394,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Ultimate Argument of Logic",
-                    "pl": ""
+                    "pl": "Ostateczny argument logiczny"
                 }
             }
         ],
@@ -37394,7 +37404,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Rank: 4\n\nThose who speak with the Garou leave convinced of some fact they might otherwise have disbelieved. If successful, the Garou can cause the target to believe implicitly in one aspect of existence (true or false) — from the “fact” that the sun revolves around the Earth to the “truth” that the wolf’s inherent nature is that of the pawn. This Gift is taught by a Coyote-spirit.\n\nSystem: The Garou needs three successes on a Manipulation + Performance roll (difficulty of the target’s Wits + Enigmas).",
-                    "pl": ""
+                    "pl": "Ranga: 4\n\nDysponujący tym Darem garou potrafi przekonać każdego rozmówcę o prawdziwości faktów, w które w przeciwnym wypadku ten nigdy by nie uwierzył — jeśli próba będzie uwieńczona powodzeniem, ofiara uwierzy zarówno w takie „fakty”, jak w to, że Słońce obraca się wokół Ziemi, jak i w „truizm” o tym, że przyrodzonym zadaniem wilka jest rola pionka w grze. Tego Daru można nauczyć się od ducha kojota.\n\nMechanika gry: Garou potrzebuje trzech sukcesów w teście Oddziaływanie + Występy Publiczne (trudność równa się sumie Sprytu i Zagadek ofiary)."
                 }
             },
             {
@@ -38718,7 +38728,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Wall of Granite",
-                    "pl": ""
+                    "pl": "Granitowy mur"
                 }
             },
             {
@@ -38730,7 +38740,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Wall of Granite",
-                    "pl": ""
+                    "pl": "Granitowy mur"
                 }
             }
         ],
@@ -38748,7 +38758,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Philodox have a stronger relationship with the elementals of the earth than do other Garou, for just as the earth upholds those upon it, the Philodox uphold their people’s ways. While in contact with earth or rock, the Philodox can invoke a wall to protect himself. This wall will move with the Garou, defending him from all angles. This Gift is taught by earth elementals.\n\nSystem: The Garou spends one Gnosis point. The wall’s dimensions are three yards high, two yards long and one yard thick; it can soak damage as though it had 10 dice, and 10 Health Levels must be inflicted to penetrate it at any point. The wall lasts for one scene or until released into the earth by the Garou.",
-                    "pl": ""
+                    "pl": "Filodoks łączy z żywiołem ziemi silniejsze więzy niż inne garou. Dzieje się tak dlatego, że tak jak ziemia służy oparciem tym, którzy po niej stąpają, tak Filodoks dba o podtrzymanie tradycji swego ludu. Jeśli Półksiężyc dotyka ziemi lub skały, może stworzyć kamienną ścianę, która będzie go chronić przed atakami ze wszystkich kierunków i poruszać się wraz z nim. Mocą tą władają Żywiołaki ziemi.\n\nMechanika gry: Garou wydaje punkt Gnozy. Mur ma następujące wymiary: trzy metry wysokości, dwa długości i metr grubości. Wyparowuje obrażenia, jakby miał 10 kostek, zaś przebicie go w dowolnym miejscu wymaga uszkodzenia równego 10 Poziomom Kondycji. Ściana istnieje przez całą scenę lub do momentu, gdy garou pozwoli jej z powrotem zapaść się w ziemię."
                 }
             },
             {
@@ -39090,7 +39100,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Weak Arm",
-                    "pl": ""
+                    "pl": "Osłabienie ciosu"
                 }
             }
         ],
@@ -39108,7 +39118,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "Philodox are more attuned to others than most Garou. Accordingly, they can use this perceptiveness against their foes. Merely watching an opponent’s fighting style lets the Garou determine its strengths and weaknesses. This Gift is taught by a Snake- or Wind-spirit.\n\nSystem: The Garou rolls Perception + Brawl (difficulty 8). A number of bonus dice equal to her successes may be divided between (or among) her attack and damage rolls. This Gift may only be used against a given foe once per scene, and the benefits are lost at the end of the scene. The Garou must concentrate for a full turn to use this Gift.",
-                    "pl": ""
+                    "pl": "Filodoksi są z natury bardziej wyczuleni na zachowanie innych i zdolność tę wykorzystują przeciwko swoim wrogom. Wystarczy, że przyjrzą się stylowi walki przeciwnika, a będą w stanie wykryć jego silne i słabe punkty. Mocą tą obdarza garou duch wilka lub duch wiatru.\n\nMechanika gry: Garou wykonuje test Percepcja + Bójka (trudność 8). Liczba odniesionych w teście sukcesów oznacza liczbę dodatkowych kostek, które może podzielić między rzut na atak i rzut określający zadane obrażenia. Daru tego można użyć przeciwko każdemu wrogowi tylko raz w trakcie sceny. Wraz z jej końcem traci się wszystkie płynące z niego korzyści. Garou, który chce się posłużyć tym Darem, musi być skoncentrowany przez całą turę."
                 }
             },
             {
@@ -39922,7 +39932,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Wisdom of the Ancient Ways",
-                    "pl": ""
+                    "pl": "Mądrość starszych"
                 }
             },
             {
@@ -39934,7 +39944,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Wisdom of the Ancient Ways",
-                    "pl": ""
+                    "pl": "Mądrość starszych"
                 }
             }
         ],
@@ -39952,7 +39962,7 @@
                 "edition": "",
                 "descriptions": {
                     "en": "All Garou have an innate connection to their ancestors, a form of racial unconscious accessible through intense meditation. The Garou, by tapping into these deep memories, can remember ancient facts and lore. This Gift is taught by a Garou Ancestor-spirit.\n\nSystem: The Garou must meditate for a short time, concentrating on the past. The Garou then rolls Gnosis (difficulty 9, -1 for each point of Past Life the Garou possesses).",
-                    "pl": ""
+                    "pl": "Wszystkie garou są blisko związane ze swymi przodkami, dysponując dzięki temu swoistą nieświadomością rasową, do której dostęp możliwy jest dzięki medytacji. Korzystając z nagromadzonych wspomnień wilkołaki sięgają po zapomnianą wiedzę i sekrety. Mocą tą obdarza garou duch przodka.\n\nMechanika gry: Garou musi na chwilę oddać się medytacji i skoncentrować na przeszłości, po czym wykonuje test Gnozy (trudność 9, −1 za każdy punkt Pamięci Przodków, który garou posiada)."
                 }
             },
             {
@@ -40572,12 +40582,12 @@
                     {
                         "type": "text",
                         "en": "Some Croatan can see the ebb and flow of Wyld energy, catching hints of Wyld-related storms and other phenomena before they grow too powerful. By use of this Gift, a werewolf can feel the disturbances in the spirit world that presage a tornado, earthquake, wildfire or other such happening. She can also see Wyld-spirits in the Penumbra while she remains in the physical world, although her vision is somewhat clouded. This Gift is taught by a Wyld-spirit.\n\nSystem: The player rolls Perception + Enigmas, difficulty 6. If successful, the Garou understands the nature and source of the Wyld manifestation. The successes determine just how far in advance the Gift user can predict a Wyld event.",
-                        "pl": "Test PL"
+                        "pl": ""
                     },
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "nSuccesses", "Time Before the Event" ],
+                            "en": [ "Successes", "Time Before the Event" ],
                             "pl": [ "", "" ]
                         },
                         "rows": [
@@ -40612,12 +40622,12 @@
                     {
                         "type": "text",
                         "en": "The Croatan were able to foretell natural disasters and other such phenomena by attuning themselves to the Wyld itself. By use of this Gift, a character can perceive impending bursts of Wyld-related activity such as wildfires, tornadoes, earthquakes and the like. He can also perceive Wyld-spirits in the Penumbra while remaining in the physical world, although his vision is somewhat clouded.\n\nSystem: The player rolls Perception + Enigmas, difficulty 7. (In the Croatan’s day and homeland, the Wyld was stronger, and the difficulty was 6.) Success reveals the nature and general source of the upcoming Wyld manifestation, if any; the number of successes determines how far in advance the Gift can predict a given Wyld event.",
-                        "pl": "Test PL"
+                        "pl": ""
                     },
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "nSuccesses", "Time Before the Event" ],
+                            "en": [ "Successes", "Time Before the Event" ],
                             "pl": [ "", "" ]
                         },
                         "rows": [
@@ -40657,8 +40667,8 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "nSuccesses", "Time Before the Event" ],
-                            "pl": [ "", "" ]
+                            "en": [ "Successes", "Time Before the Event" ],
+                            "pl": [ "Sukcesy", "Czas przed zdarzeniem" ]
                         },
                         "rows": [
                             {

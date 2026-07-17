@@ -220,7 +220,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.5.1
+    Version: v0.5.3
   </div>
 
   <div class="language-switch">
@@ -507,9 +507,6 @@ function renderGifts(filteredGifts) {
 
   filteredGifts.forEach((gift, index) => {
 
-    const defaultVersion =
-      gift.versions[0];
-
     const requirementsText =
       gift.requirements.map(r => {
 
@@ -576,7 +573,7 @@ function renderGifts(filteredGifts) {
 	  </select>
 
 	  <div id="${descId}">
-		${renderContent(defaultVersion)}
+		${renderContent(gift.versions[0])}
 	  </div>
 
 	`;
@@ -875,67 +872,61 @@ function sortGifts(giftsArray) {
 
 function renderContent(version) {
 
-  if (!version.content) {
-    return `
-      <div class="gift-description">
-        ${getLocalizedText(version.descriptions)}
-      </div>
-    `;
-  }
-
   let html = "";
 
   for (const block of version.content) {
+	
+	switch (block.type) {
+	  case "text":
 
-    if (block.type === "text") {
+        html += `
+          <div class="gift-description">
+            ${getLocalizedText(block)}
+          </div>
+        `;
+		break;
 
-      html += `
-        <div class="gift-description">
-          ${getLocalizedText(block)}
-        </div>
-      `;
-    }
+    case "table":
 
-    if (block.type === "table") {
+        const headers =
+          block.headers[currentLanguage] ||
+          block.headers.en ||
+          [];
 
-      const headers =
-        block.headers[currentLanguage] ||
-        block.headers.en ||
-        [];
+        html += `
+          <table class="gift-table">
+  
+            <thead>
+              <tr>
+                ${headers
+                  .map(h => `<th>${h}</th>`)
+                  .join("")}
+              </tr>
+            </thead>
+  
+            <tbody>
 
-      html += `
-        <table class="gift-table">
+              ${block.rows.map(row => {
 
-          <thead>
-            <tr>
-              ${headers
-                .map(h => `<th>${h}</th>`)
-                .join("")}
-            </tr>
-          </thead>
+                const cells =
+                  row[currentLanguage] ||
+                  row.en ||
+                  [];
 
-          <tbody>
+                return `
+                  <tr>
+                    ${cells
+                      .map(cell => `<td>${cell}</td>`)
+                      .join("")}
+                  </tr>
+                `;
+              }).join("")}
 
-            ${block.rows.map(row => {
+            </tbody>
 
-              const cells =
-                row[currentLanguage] ||
-                row.en ||
-                [];
-
-              return `
-                <tr>
-                  ${cells
-                    .map(cell => `<td>${cell}</td>`)
-                    .join("")}
-                </tr>
-              `;
-            }).join("")}
-
-          </tbody>
-
-        </table>
-      `;
+          </table>
+        `;
+		break;
     }
   }
 

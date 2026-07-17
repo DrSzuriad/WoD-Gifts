@@ -35157,14 +35157,6 @@
                     "en": "Silver Claws",
                     "pl": "Srebrne pazury"
                 }
-            },
-            {
-                "book": "Werewolf the Apocalypse",
-                "edition": "W20",
-                "descriptions": {
-                    "en": "Luna sends her children to teach this powerful but painful Gift to those warriors who gain her favor. When invoked, it transforms the werewolf’s claws into silver.\n\nSystem: The player rolls Gnosis (difficulty 7) to activate this Gift. Silver claws inflict aggravated damage to all targets, and are naturally unsoakable to Garou and most other Fera. The Ahroun suffers searing agony while manifesting these silver claws. Each turn, she gains an automatic Rage point, and all non-combat difficulties increase by one because of the distraction. On each turn that her Rage points exceed her Willpower, she must check for frenzy. The Gift lasts for one scene, unless the Garou takes a turn to voluntarily end it sooner.",
-                    "pl": ""
-                }
             }
         ],
         "versions": [
@@ -35208,6 +35200,17 @@
                     {
                         "type": "text",
                         "en": "Few Ahroun care to rely on silver bullets to put down renegade Garou; a more deadly option is to turn one’s own claws into silver and let instinct take over. This Gift is taught by a Lune.\n\nSystem: The player rolls Gnosis (difficulty 7). Success transmutes the werewolf’s claws into silver, allowing her to inflict aggravated damage which can’t be soaked by Garou. However, silver hurts. Each turn her claws remain silver, she gains an automatic Rage point; furthermore, all noncombat difficulties are increased by one because of the distraction. When her Rage points exceed her Willpower, she must check for frenzy.",
+                        "pl": ""
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf the Apocalypse",
+                "edition": "W20",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Luna sends her children to teach this powerful but painful Gift to those warriors who gain her favor. When invoked, it transforms the werewolf’s claws into silver.\n\nSystem: The player rolls Gnosis (difficulty 7) to activate this Gift. Silver claws inflict aggravated damage to all targets, and are naturally unsoakable to Garou and most other Fera. The Ahroun suffers searing agony while manifesting these silver claws. Each turn, she gains an automatic Rage point, and all non-combat difficulties increase by one because of the distraction. On each turn that her Rage points exceed her Willpower, she must check for frenzy. The Gift lasts for one scene, unless the Garou takes a turn to voluntarily end it sooner.",
                         "pl": ""
                     }
                 ]

@@ -220,7 +220,7 @@
 <div class="top-bar">
 
   <div class="app-version">
-    Version: v0.5.3
+    Version: v0.5.4
   </div>
 
   <div class="language-switch">
@@ -288,32 +288,44 @@
   // ŁADOWANIE JSON
   // =========================
 
-  async function loadData() {
+async function loadData() {
 
     try {
 
-      const response = await fetch("./data/gifts.json");
+        console.log("Loading gifts.json...");
 
-      gifts = await response.json();
+        const response = await fetch("./data/gifts.json");
 
-      initializeApp();
+        if (!response.ok) {
+            throw new Error(
+                `HTTP ${response.status} ${response.statusText}`
+            );
+        }
+
+        gifts = await response.json();
+
+        console.log(`Loaded ${gifts.length} gifts.`);
+
+        initializeApp();
 
     } catch (error) {
 
-      console.error(error);
+        console.error("loadData()", error);
 
-      document.getElementById("giftList").innerHTML = `
-        <div style="
-          color:red;
-          padding:20px;
-          background:#220000;
-          border-radius:12px;
-        ">
-          Nie udało się wczytać gifts.json
-        </div>
-      `;
+        document.getElementById("giftList").innerHTML = `
+            <div style="
+                color:#ff8080;
+                background:#220000;
+                padding:20px;
+                border-radius:12px;
+            ">
+                <b>Failed to load gifts.json</b><br><br>
+
+                ${error.message}
+            </div>
+        `;
     }
-  }
+}
 
   // =========================
   // INIT
@@ -871,6 +883,18 @@ function sortGifts(giftsArray) {
 }
 
 function renderContent(version) {
+
+  console.log(version);
+
+    if (!Array.isArray(version.content)) {
+
+        console.error("Invalid version:", version);
+
+        throw new Error(
+            `"${version.book}" has invalid content. Expected an array, got ${typeof version.content}.`
+        );
+    }
+
 
   let html = "";
 

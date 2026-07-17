@@ -1802,7 +1802,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Balefire",
-                    "pl": ""
+                    "pl": "Zatruty płomień"
                 }
             }
         ],
@@ -1859,6 +1859,17 @@
                         "type": "text",
                         "en": "The word balefire typically refers to unholy green flame fueled by the corruption of the Wyrm. Black Spirals who learn this Gift can project burning globules of balefire, typically by spewing corrosive spittle, summoning and hurling spheres by hand, or through mutated flesh capable of violent discharge.\n\nSystem: The Black Spiral rolls Dexterity + Athletics (difficulty 6, modified by the same factors that affect Firearms, pg. 293); the victim can attempt a Stamina roll (difficulty 8) to resist those levels of damage. A victim who can’t match or succeed the Black Spiral’s successes receives a Wyrm-fueled mutation.\n\nThese mutations are always harmful and more than horrific disfigurements: each success is treated as a level of aggravated damage. Healing these mutations takes as long as aggravated damage normally requires, but the process requires the use of acid, fire, surgical implements, or other tools that can remove those mutated disfigurements. Until those wounds are healed, the victim is considered tainted for the purposes of the Sense Wyrm Gift.",
                         "pl": ""
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf: The Apocalypse (2nd Edition)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Dancer can hurl spheres of sickly green flame at her opponent. If she hits (Dexterity + Athletics; difficulty 6 — use the Firearms Chart for complications), the victim must roll Stamina (difficulty 8) and match or exceed the Dancer's number of successes. If he fails, he is mutated in a manner decided by the Storyteller. These mutations are always harmful, and each success on the Dancer's roll is treated as a level of aggravated damage for the purpose of healing/rejecting the mutation. \n\nSystem: The Dancer rolls Dexterity + Athletics (difficulty 6 — use the Firearms Chart for complications). If the attack hits, the victim rolls Stamina (difficulty 8) and must match or exceed the Dancer's successes. Failure results in a harmful mutation determined by the Storyteller. Each success on the Dancer's roll counts as one level of aggravated damage for the purpose of healing or rejecting the mutation.",
+                        "pl": "Tancerz może miotać w przeciwników kulami zielonego płomienia. Jeśli dotrą trafić (test Zręczność + Wysportowanie, trudność 6, użyj Tabeli broni palnych aby określić stopień trudności), ofiara musi wykonać test Wytrzymałości (trudność 8) i dorównać lub przewyższyć liczbę sukcesów, które uzyskał Tancerz. Jeśli to się nie uda, następuje mutacja, określona przez Narratora. Są to zawsze szkodliwe zmiany, a każdy sukces Tancerza należy traktować jako poziom prawdziwych obrażeń ze względu na leczenie/odrzucenie mutacji."
                     }
                 ]
             }
@@ -8511,7 +8522,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Crawling Poison",
-                    "pl": ""
+                    "pl": "Pełzająca trucizna"
                 }
             }
         ],
@@ -8568,6 +8579,17 @@
                         "type": "text",
                         "en": "The Black Spiral can infect other shapeshifters with a slow-acting poison transmitted by a successful claw or bite attack. Ordinary, natural creatures react by becoming queasy or ill.\n\nSystem: After a successful claw or bite attack, the Dancer must make a Gnosis roll opposed by the victim’s Stamina (both rolls are difficulty 8.) If the Black Spiral gets more successes than his opponent, his victim cannot use her regeneration. Each success suppresses regeneration for one hour.",
                         "pl": ""
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf: The Apocalypse (2nd Edition)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "This Gift enables the Black Spiral Dancer to infect other Garou with a slow poison. This poison, when injected into a Garou via claw or bite, inhibits her regenerative powers. The Dancer rolls Gnosis (difficulty of the victim's Stamina); the effect lasts for one hour per success. \n\nSystem: The Dancer rolls Gnosis (difficulty of the victim's Stamina). The effect lasts for one hour per success.",
+                        "pl": "Ten Dar pozwala Tancerzowi wprowadzać do organizmów innych garou powolną truciznę. Jeśli zostanie ona wprowadzona za pomocą pazurów lub ukąszenia, blokuje zdolności regeneracyjne. \n\nSystem: Tancerz musi wykonać test Gnozy (trudność jest równa Wytrzymałości ofiary). Efekt utrzymuje się przez jedną godzinę za każdy uzyskany sukces."
                     }
                 ]
             }
@@ -11121,7 +11143,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Dreamchaser",
-                    "pl": ""
+                    "pl": "Mowa snu"
                 }
             },
             {
@@ -11133,7 +11155,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Dreamchaser",
-                    "pl": ""
+                    "pl": "Mowa snu"
                 }
             },
             {
@@ -11145,7 +11167,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Dreamchaser",
-                    "pl": ""
+                    "pl": "Mowa snu"
                 }
             }
         ],
@@ -11179,7 +11201,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 2 \n\nThe Garou enters another’s dream and can thereby affect the course of that dream. The Garou does not have to be anywhere near the target, but must know or have seen the dreamer. This Gift is taught by a Chimerling.\n\nSystem: The Garou rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the Garou is still within the dream, the Garou is thrown out of the dream world and loses a Gnosis point.",
-                        "pl": ""
+                        "pl": "Wilkołak przenika do czyjegoś snu i zyskuje możliwość wpływania na jego przebieg, przy czym nie musi wcale znajdować się w pobliżu – wystarczy, że zna lub kiedyś widział tę osobę. Mocą tą włada Chimerzak. \n\nSystem: Wilkołak wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, zanim Galiard opuści jego sen z własnej woli, garou zostaje wyrzucony ze Świata Snu i traci punkt Gnozy."
                     }
                 ]
             },
@@ -11543,7 +11565,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Ears of the Bat",
-                    "pl": ""
+                    "pl": "Uszy nietoperza"
                 }
             }
         ],
@@ -11556,6 +11578,17 @@
                         "type": "text",
                         "en": "As per the Black Spiral Dancer Gift, save that it is taught by an uncorrupted bat-spirit, and that the Shadow Lord’s ears do not actually change form.",
                         "pl": ""
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf: The Apocalypse (2nd Edition)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Black Spiral Dancers with this Gift have large, batlike ears in their wolf forms; even in their human forms, their ears are abnormally large. This Gift enables the Black Spiral Dancer to use sonar like a bat, allowing him to sense objects and foes even in total darkness.",
+                        "pl": "Tancerze Czarnej Spirali, posiadający ten Dar, mają w postaci wilka wielkie, nietoperzowate uszy (nawet w ludzkiej formie ich uszy są olbrzymie). Tancerz obdarzony takimi uszami może używać ich tak samo jak nietoperze (sonar) do wyczuwania przedmiotów i przeciwników nawet w całkowitej ciemności."
                     }
                 ]
             }
@@ -14670,6 +14703,17 @@
                         "pl": ""
                     }
                 ]
+            },
+            {
+                "book": "Werewolf: The Apocalypse (2nd Edition)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Dancer's mouth bubbles and foams with a greenish fluid. Anyone bitten must succeed in a Stamina roll (difficulty 8) or fly into a rabid frenzy. ",
+                        "pl": "Pysk Tancerza ocieka pieniącą się, zielonkawą cieczą. Każdy, kto zostanie nią ukąszony, musi wykonać test Wytrzymałości albo wpada we wściekłość."
+                    }
+                ]
             }
         ]
     },
@@ -17133,7 +17177,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the user to take objects out of the Umbra (or put them into it) without stepping sideways. After using the Gift: Umbral Sight, the Garou can reach through, pick up anything — into a pocketwatch or an unconscious Garou — and bring it into the physical world. The clever Raccoon-spirit teaches this Gift.\n\nSystem: Once the Garou knows what she wants to recover from the spirit world, she need only spend an appropriate amount of Willpower points and be able to lift the object. The player must spend one Willpower point for any small, handheld object and up to three for a larger item, such as a motorcycle. She can also place objects into the Penumbra in the same manner, though she cannot place sideways anything living (or undead) without its consent.",
-                        "pl": "Dzięki temu Darowi garou może przenosić przedmioty (i istoty żywe) z i do Umbry bez konieczności Przypisywania ich do własnej osoby (patrz opis Rytuału Przypisanie talizmanu na stronie 144). Działanie Daru obejmuje ludzi i zwierzęta, które mogą być przenoszone do Umbry zgodnie z ich wolą, jak i wbrew ich woli. Mocą tą władają duchy służące totemowi Uktena.\n\nMechanika gry: Garou musi uchwycić w łapę przedmiot lub stworzenie, z którym zamierza odbyć podróż, po czym wydaje punkty Siły Woli: w przypadku drobnych przedmiotów wystarczy jeden, większe (jak np. miecze) wymagają dwóch, zaś największe (w tym ludzie) — trzech. Następnie wykonuje normalny test Gnozy, by przebić się przez Barierę i zrobić skok w bok. Jeśli test będzie udany, garou znajdzie się w Umbrze wraz z przedmiotem/stworzeniem, które ze sobą zabierał. Obdarzony własną wolą obiekt może sprzeciwić się próbie przeniesienia go do Umbry — wykonuje wówczas test Siły Woli i każdy odniesiony sukces zmniejsza o 1 liczbę sukcesów garou (który potrzebuje co najmniej trzech sukcesów więcej w teście Gnozy, niż uzyska jego ofiara). Każdy, kto zostanie w ten sposób zabrany do Umbry, a sam nie potrafi zrobić skoku w bok, musi albo polegać na garou, jeśli chodzi o powrót ze świata duchów, albo znaleźć miejsce, w którym Bariera jest wyjątkowo cienka (np. cairn). Aby możliwe stało się samodzielne uwolnienie, jej wartość nie może przekraczać 3. Bez względu na to, jak cienka jest Bariera, nie można samodzielnie przekroczyć jej w drugą stronę."
+                        "pl": ""
                     }
                 ]
             },
@@ -17144,7 +17188,7 @@
                     {
                         "type": "text",
                         "en": "The Garou may take things to and from the Umbra without having to Dedicate them to herself (see Rite of Talisman Dedication, pg. 144). This includes humans and animals, both willing and unwilling. Garou often use this power to take loyal Kinfolk with them on Umbral quests or to heal injured Kinfolk — both body and soul — in mystic Glens.\n\nSystem: The Garou must grasp the object or person he wishes to take to the spirit world. He must then spend a number of Willpower points: one for small items, two for larger items (swords, etc.), and three for huge items (including people). He makes the usual Gnosis roll to pierce the Gauntlet and step sideways; if successful, both he and the desired object or person pass into the Umbra. An unwilling target may resist with a Willpower roll; each success subtracts one from the Garou’s successes. A Garou attempting to abduct an unwilling victim must achieve at least three successes on his Gnosis roll.\n\nAny person taken to the Umbra, unless she has the ability to step sideways, must rely on the Garou to escape, or else find an area with a very thin Gauntlet, such as a caern. The Gauntlet rating must be 3 or lower for a victim to exit of his own accord. If he does exit, he may not reenter the Umbra, no matter what the Gauntlet rating.",
-                        "pl": ""
+                        "pl": "Dzięki temu Darowi garou może przenosić przedmioty (i istoty żywe) z i do Umbry bez konieczności Przypisywania ich do własnej osoby (patrz opis Rytuału Przypisanie talizmanu na stronie 144). Działanie Daru obejmuje ludzi i zwierzęta, które mogą być przenoszone do Umbry zgodnie z ich wolą, jak i wbrew ich woli. Mocą tą władają duchy służące totemowi Uktena.\n\nMechanika gry: Garou musi uchwycić w łapę przedmiot lub stworzenie, z którym zamierza odbyć podróż, po czym wydaje punkty Siły Woli: w przypadku drobnych przedmiotów wystarczy jeden, większe (jak np. miecze) wymagają dwóch, zaś największe (w tym ludzie) — trzech. Następnie wykonuje normalny test Gnozy, by przebić się przez Barierę i zrobić skok w bok. Jeśli test będzie udany, garou znajdzie się w Umbrze wraz z przedmiotem/stworzeniem, które ze sobą zabierał. Obdarzony własną wolą obiekt może sprzeciwić się próbie przeniesienia go do Umbry — wykonuje wówczas test Siły Woli i każdy odniesiony sukces zmniejsza o 1 liczbę sukcesów garou (który potrzebuje co najmniej trzech sukcesów więcej w teście Gnozy, niż uzyska jego ofiara). Każdy, kto zostanie w ten sposób zabrany do Umbry, a sam nie potrafi zrobić skoku w bok, musi albo polegać na garou, jeśli chodzi o powrót ze świata duchów, albo znaleźć miejsce, w którym Bariera jest wyjątkowo cienka (np. cairn). Aby możliwe stało się samodzielne uwolnienie, jej wartość nie może przekraczać 3. Bez względu na to, jak cienka jest Bariera, nie można samodzielnie przekroczyć jej w drugą stronę."
                     }
                 ]
             },
@@ -27457,7 +27501,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Patagia",
-                    "pl": ""
+                    "pl": "Patagia"
                 }
             },
             {
@@ -27469,7 +27513,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Patagia",
-                    "pl": ""
+                    "pl": "Patagia"
                 }
             },
             {
@@ -27481,7 +27525,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Patagia",
-                    "pl": ""
+                    "pl": "Patagia"
                 }
             }
         ],
@@ -27527,6 +27571,17 @@
                         "type": "text",
                         "en": "Rank: 3\n\nThe Black Spiral has membranous flaps of skin under her arms, similar to those of a pterodactyl or flying squirrel. This disfigurement can be concealed, but it’s present in all of the werewolf’s forms.\n\nSystem: When combined with the werewolf’s supernatural blessings, this allows a Black Spiral to glide up to a speed of 25 miles per hour, although the creature cannot gain altitude without spending Rage. The creature moves faster while using Patagia, but her speed in a turn cannot exceed twice her usual move speed. A furious Dancer can burn a point of Rage to surge upward or increase her move speed by a number of yards/meters equal to her Dexterity. Deploying Patagia is a reflexive action, available the moment a Black Spiral falls or jumps down from a great height.",
                         "pl": ""
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf: The Apocalypse (2nd Edition)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Rank: 3\n\nThe Dancer has flaps of skin under her arms, resembling the membranes of a pterodactyl or flying squirrel. By outstretching her arms and leaping from a height, she may glide at 25 mph. The Dancer has these patagia in all forms",
+                        "pl": "Ranga: 3\n\nTancerz posiada płaty skóry, rozpięte pod ramionami, przypominające błony skrzydłowe pterodaktyla lub latającej wiewiórki. Rozkładając ramiona i skacząc z wysoka, może dzięki temu szybować z prędkością około 40 km/h. Błony bywają najróżniejsze."
                     }
                 ]
             }

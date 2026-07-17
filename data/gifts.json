@@ -17300,7 +17300,7 @@
                             {
                                 "en": [ "Automobile", "8" ],
                                 "pl": [ "Samochód", "8" ]
-                            },,
+                            },
                             {
                                 "en": [ "Gun", "9" ],
                                 "pl": [ "Pistolet", "9" ]
@@ -17376,7 +17376,7 @@
                             {
                                 "en": [ "Car", "7" ],
                                 "pl": [ "Samochód", "7" ]
-                            },,
+                            },
                             {
                                 "en": [ "Gun", "8" ],
                                 "pl": [ "Pistolet", "8" ]
@@ -31801,7 +31801,7 @@
                     {
                         "type": "text",
                         "en": "This Gift summons a horde of malcontent spirits to provoke the inhabitants of a city to violent rioting. The Gift plays on the hatred and fear of the downtrodden of the city — the homeless, the poor and even stray animals. The Gnawer can direct the riot to a degree, but such things tend to escalate, and the Garou has no power to stop the riot from doing so. A rat-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Wits + Subterfuge (difficulty 8). If successful, the spirits incite their hosts against a target of the Garou’s choice. The different hosts, however, will not necessarily work together — they may even begin to fight each other as the mob mentality takes over. The number of successes determines the area affected:",
-                        "pl": ""\n\n\n — \n — \n — \n — 
+                        "pl": ""
                     },
                     {
                         "type": "table",
@@ -32251,7 +32251,7 @@
                         "type": "text",
                         "en": "This Gift derives from Turtle’s intimate connection with the living earth. The Garou can will the earth to open up, creating a small cave that can hold up to six Garou in Crinos, or more creatures in smaller forms. The werewolf can will the opening to close once inside the cave, concealing the cave’s presence from outsiders (although supernatural means may detect the cave or the inhabitants within).\n\nSystem: The player spends one Gnosis and rolls Charisma + Survival, difficulty 7, to open the cave mouth; the Garou must decide whether to seal the cave or not within three turns; the entrance cannot open and close at will. The cave lasts for a period of time dependent on the successes rolled; once the duration expires (or the Garou chooses to end the Gift’s effects prematurely), all within the cave pop out of the earth again as the cave disappears.",
                         "pl": ""
-                    }
+                    },
                     {
                         "type": "table",
                         "headers": {

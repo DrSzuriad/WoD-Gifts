@@ -597,8 +597,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "By accustoming themselves to a particular area or tribal group, the Earth Guides can “recall” pertinent information about tribal practices or traditions that may have been lost over time. This might uncover hidden lore of the tribe or simply reveal everyday information not generally known by outsiders. The Gift is taught by an Uktena Ancestor-spirit. Garou using this Gift need not have Past Life.\n\nSystem: The Garou must have spent at least 24 hours in the presence of those whose tribal memories she is attempting to access. The player then rolls Perception + Enigmas (difficulty 7). The number of successes determines the strength and obscurity of the information available. If the Garou can access hidden or forgotten lore, the player must spend a point of Gnosis to learn it.\n\nSuccesses\tInformation\nOne\tCommon information\nTwo\tUncommon (When dancing their harvest rites, the tribe wore corn silk tied to their costumes)\nThree\tObscure (known to some tribal elders; i.e., the tribe once served as guardians of a particular fetish)\nFour\tHidden (known only to the greatest Medicine Worker, passed on only to a trusted successor; i.e., the tribe’s dancing place lies atop the resting place of a powerful evil spirit and their dances keep it pacified)\nFive+\tForgotten (known only to ancient ancestors; i.e. “Our people once knew this evil spirit’s true name. Perform this service for my descendants, and I will tell it to you.”)",
+                        "en": "By accustoming themselves to a particular area or tribal group, the Earth Guides can “recall” pertinent information about tribal practices or traditions that may have been lost over time. This might uncover hidden lore of the tribe or simply reveal everyday information not generally known by outsiders. The Gift is taught by an Uktena Ancestor-spirit. Garou using this Gift need not have Past Life.\n\nSystem: The Garou must have spent at least 24 hours in the presence of those whose tribal memories she is attempting to access. The player then rolls Perception + Enigmas (difficulty 7). The number of successes determines the strength and obscurity of the information available. If the Garou can access hidden or forgotten lore, the player must spend a point of Gnosis to learn it.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Information" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "Common information" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "Uncommon (When dancing their harvest rites, the tribe wore corn silk tied to their costumes)" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "Obscure (known to some tribal elders; i.e., the tribe once served as guardians of a particular fetish)" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "Hidden (known only to the greatest Medicine Worker, passed on only to a trusted successor; i.e., the tribe’s dancing place lies atop the resting place of a powerful evil spirit and their dances keep it pacified)" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five+", "Forgotten (known only to ancient ancestors; i.e. “Our people once knew this evil spirit’s true name. Perform this service for my descendants, and I will tell it to you." ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -2941,8 +2970,41 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Trance Runners are known for being notoriously light. Their bodies, little more than bones and tightly-corded muscle, can move fast and flexible partly due to their legendary “hollow” bones. It allows them to run quickly over almost any surface.\n\nSystem: The Trance Runner is able to run upon almost any surface without penalty. The roll is always Dexterity + Athletics, but the difficulty is variable depending on the danger, complexity, or frailty of the surface.\n\nSurface Type\tDifficulty\nWater\t5\nSnow\t6\nLava\t7\nRazors\t8\nWall\t9\nCeiling\t10",
+                        "en": "Trance Runners are known for being notoriously light. Their bodies, little more than bones and tightly-corded muscle, can move fast and flexible partly due to their legendary “hollow” bones. It allows them to run quickly over almost any surface.\n\nSystem: The Trance Runner is able to run upon almost any surface without penalty. The roll is always Dexterity + Athletics, but the difficulty is variable depending on the danger, complexity, or frailty of the surface.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Surface Type", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Water", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Snow", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Lava", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Razors", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Wall", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Ceiling", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -3144,8 +3206,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Red Talons believe that the very first pack of Garou set the standards for the auspices, and that only the Talons retain a strong enough connection to that First Pack to use this Gift. This may or may not be true, but no non-Talon Garou has ever exhibited this mighty Gift (but then, very few among the Talons even know of it). To learn this Gift, the Talon must have at least one dot in Ancestors. The Garou calls upon her originator of her auspice and is temporarily transformed into the pinnacle of her moon-sign. An avatar of Wolf or a powerful Lune may teach this Gift, but neither does so often.\n\nSystem: The player spends two Gnosis points and rolls Charisma + Ancestors (difficulty 8). If the roll succeeds, the character becomes infused with the very essence of her auspice. For the remainder of the scene, the character receives five dots of Pure Breed in addition to any she already possesses. She may also make use of any auspice Gift for her particular auspice of level 4 or lower. (Gifts taken from sources other than Werewolf are subject to Storyteller approval.) In addition, Blessing of the First Pack grants power based on the character’s auspice:\n\nAuspice\tBonus\nRagabash\t+3 to Stealth, +2 to Wits and Dexterity\nTheurge\t+3 to Enigmas, +2 to Intelligence and Gnosis\nPhilodox\t+3 to Rituals, +2 to Manipulation and Stamina\nGalliard\t+3 to Expression, +2 to Charisma and Strength\nAhroun\t+3 to Leadership, +2 to Strength and Rage",
+                        "en": "The Red Talons believe that the very first pack of Garou set the standards for the auspices, and that only the Talons retain a strong enough connection to that First Pack to use this Gift. This may or may not be true, but no non-Talon Garou has ever exhibited this mighty Gift (but then, very few among the Talons even know of it). To learn this Gift, the Talon must have at least one dot in Ancestors. The Garou calls upon her originator of her auspice and is temporarily transformed into the pinnacle of her moon-sign. An avatar of Wolf or a powerful Lune may teach this Gift, but neither does so often.\n\nSystem: The player spends two Gnosis points and rolls Charisma + Ancestors (difficulty 8). If the roll succeeds, the character becomes infused with the very essence of her auspice. For the remainder of the scene, the character receives five dots of Pure Breed in addition to any she already possesses. She may also make use of any auspice Gift for her particular auspice of level 4 or lower. (Gifts taken from sources other than Werewolf are subject to Storyteller approval.) In addition, Blessing of the First Pack grants power based on the character’s auspice:",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Auspice", "Bonus" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Ragabash", "+3 to Stealth, +2 to Wits and Dexterity" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Theurge", "+3 to Enigmas, +2 to Intelligence and Gnosis" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Philodox", "+3 to Rituals, +2 to Manipulation and Stamina" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Galliard", "+3 to Expression, +2 to Charisma and Strength" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Ahroun", "+3 to Leadership, +2 to Strength and Rage" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -4663,8 +4754,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "A werewolf can temporarily “restrain” her inner wolf and appear to be a normal human.\n\nSystem: The player spends one Gnosis point and rolls Gnosis (difficulty = target’s Willpower). If successful, the character appears human to all senses. Rage is reduced by successes. Duration:\n\n1 success: one scene\n2: 12 hours\n3: one day\n4: one week\n5: one lunar cycle",
+                        "en": "A werewolf can temporarily “restrain” her inner wolf and appear to be a normal human.\n\nSystem: The player spends one Gnosis point and rolls Gnosis (difficulty = target’s Willpower). If successful, the character appears human to all senses. Rage is reduced by successes.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Duration" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "1", "one scene" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "2", "12 hours" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "3", "one day" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "4", "one week" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "5", "one lunar cycle" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -4674,8 +4794,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The war against the Wyrm isn’t always a matter of slashing claws and righteous fury — sometimes duplicity is required. A werewolf can temporarily “restrain” her inner wolf and appear to be a normal human. An ancestor-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Gnosis (difficulty of her own Willpower). Success causes the character to appear human to all supernatural scrutiny. The Gift also nullifies the Curse and makes spending Rage impossible, and locks her in homid form so long as its effects persist. The number of successes determines the Gift’s duration; to “free the wolf” before that time elapses requires a full turn of concentration and another point of Gnosis.\n\nSuccesses\tDuration\nOne\tOne scene\nTwo\t12 hours\nThree\tOne day\nFour\tOne week\nFive\tOne lunar cycle",
+                        "en": "The war against the Wyrm isn’t always a matter of slashing claws and righteous fury — sometimes duplicity is required. A werewolf can temporarily “restrain” her inner wolf and appear to be a normal human. An ancestor-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Gnosis (difficulty of her own Willpower). Success causes the character to appear human to all supernatural scrutiny. The Gift also nullifies the Curse and makes spending Rage impossible, and locks her in homid form so long as its effects persist. The number of successes determines the Gift’s duration; to “free the wolf” before that time elapses requires a full turn of concentration and another point of Gnosis.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Duration" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "One scene" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "12 hours" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "One day" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "One week" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "One lunar cycle" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -6360,22 +6509,6 @@
         ]
     },
     {
-        "requirements": [],
-        "versions": [
-            {
-                "book": "Tribebook - Glass Walkers (Revised)",
-                "edition": "",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "As per the Wendigo Level Four Gift Chill of the Early Frost. ",
-                        "pl": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "requirements": [
             {
                 "race": "Garou",
@@ -7527,7 +7660,51 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Just as easily as occasional forest fire to cleanse away the dead underbrush, cities too are said to require the occasional blaze to sweep away the filth and allow new life to grow. The cities of the Dark Medieval, however, are often trapped, thatched firetraps. This Gift allows a Warden to direct the inevitable fire, urging it toward areas that can suffer the burning and guiding it away from valuable territory (such as libraries or the homes of Kinfolk). This Gift is taught by a fire elemental.\n\nSystem: The player must spend a Gnosis point and roll Willpower (difficulty 7). The character’s area of control originates around him. The more successes the roll achieves, the further the character’s area of control stretches.\n\nSuccesses — Radius of Control\nOne — Arm’s reach\nTwo — One room\nThree — A medium-sized building, such as an inn\nFour — A city block or a small keep\nFive — Three city blocks; a castle\nSix+ — An entire city\n\nThe Warden’s consciousness extends with the fire within his area of control. It must be one single blaze, however, rather than a number of separate fires. The Warden must remain still with eyes closed and concentrate to maintain control. If he is attacked or otherwise distracted, the control is lost and the Gift must be initiated again to regain control of the fire. The fire cannot travel underwater or across bare stone, but it can otherwise leap and twist in an unnatural fashion. The flames can extend up to 15 feet away from their fuel sources.",
+                        "en": "Just as easily as occasional forest fire to cleanse away the dead underbrush, cities too are said to require the occasional blaze to sweep away the filth and allow new life to grow. The cities of the Dark Medieval, however, are often trapped, thatched firetraps. This Gift allows a Warden to direct the inevitable fire, urging it toward areas that can suffer the burning and guiding it away from valuable territory (such as libraries or the homes of Kinfolk). This Gift is taught by a fire elemental.\n\nSystem: The player must spend a Gnosis point and roll Willpower (difficulty 7). The character’s area of control originates around him. The more successes the roll achieves, the further the character’s area of control stretches.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Successes",
+                                "Radius of Control"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "Arm’s reach" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "One room" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "A medium-sized building, such as an in" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "A city block or a small keep" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "Three city blocks; a castle" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Six+", "An entire city" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "The Warden’s consciousness extends with the fire within his area of control. It must be one single blaze, however, rather than a number of separate fires. The Warden must remain still with eyes closed and concentrate to maintain control. If he is attacked or otherwise distracted, the control is lost and the Gift must be initiated again to regain control of the fire. The fire cannot travel underwater or across bare stone, but it can otherwise leap and twist in an unnatural fashion. The flames can extend up to 15 feet away from their fuel sources.",
                         "pl": ""
                     }
                 ]
@@ -9562,7 +9739,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Garou can flood a target’s mind with the glory and love of Gaia, rendering him harmless for a short while. A unicorn-spirit teaches this Gift.\n\nSystem: The player rolls Charisma + Empathy. The difficulty varies according to the target:\n\nNormal human — 4\nPackmate — 5\nGarou (even frenzied) — 6\nWyrm creature (including Black Spiral Dancers) — 8\nAlien or demon creatures (vampires) — 9\n\nOr Dazzle rarely works to pacify spirits that don’t feel emotions or that have a specific emotional focus (like hate-spirits). Success indicates that the target stares down and stays there, contemplating Gaia’s love quietly, for the rest of the scene. Attacking the target will disrupt the effects of this Gift. Dazzle can be used on a given target only once per scene.",
+                        "en": "The Garou can flood a target’s mind with the glory and love of Gaia, rendering him harmless for a short while. A unicorn-spirit teaches this Gift.\n\nSystem: The player rolls Charisma + Empathy. The difficulty varies according to the target:",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Normal human", "4" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Packmate", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Garou (even frenzied)", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Wyrm creature (including Black Spiral Dancers)", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Alien or demon creatures (vampires)", "9" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Or Dazzle rarely works to pacify spirits that don’t feel emotions or that have a specific emotional focus (like hate-spirits). Success indicates that the target stares down and stays there, contemplating Gaia’s love quietly, for the rest of the scene. Attacking the target will disrupt the effects of this Gift. Dazzle can be used on a given target only once per scene.",
                         "pl": ""
                     }
                 ]
@@ -11178,7 +11385,45 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "As she sings to the Wind-spirits, the Wendigo summons a driving cloud of wind and dust. Although no one (including the werewolf or her friends) is immune to the dust, any Wendigo knows that a brown haze on the horizon means trouble.\n\nSystem: The player calls Gnosis, to call up the wind and dirt. The roll’s difficulty depends on the area.\n\nTerrain\tDifficulty\nDesert\t5\nPlains\t6\nTown\t7\nMountains\t8\nWoods\t9\nCity\t10\n\nOnce called, the storm whips through the area for two turns per success, blinding everyone (half Perception Dice Pools), fouling machinery and coating everything in a fine, gritty dust. In colder regions, snow or ice substitutes for dust, while leaves and bark make up a woodland storm.",
+                        "en": "As she sings to the Wind-spirits, the Wendigo summons a driving cloud of wind and dust. Although no one (including the werewolf or her friends) is immune to the dust, any Wendigo knows that a brown haze on the horizon means trouble.\n\nSystem: The player calls Gnosis, to call up the wind and dirt. The roll’s difficulty depends on the area.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Terrain", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Desert", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Plains", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Town", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Mountains", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Woods", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "City", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Once called, the storm whips through the area for two turns per success, blinding everyone (half Perception Dice Pools), fouling machinery and coating everything in a fine, gritty dust. In colder regions, snow or ice substitutes for dust, while leaves and bark make up a woodland storm.",
                         "pl": ""
                     }
                 ]
@@ -11189,7 +11434,45 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "By singing to the spirits of wind and dust — or ice and snow, or leaves and bark, depending on the locale — the Wendigo summons a driving cloud of wind and dust. This Gift is taught by any Wind-spirit.\n\nSystem: The player makes a Gnosis roll to summon the dust storm. The difficulty depends on the terrain:\n\nTerrain\tDifficulty\nDesert\t5\nPlains\t6\nTown\t7\nMountains\t8\nWoods\t9\nCity\t10\n\nA summoned dust storm blankets an area of up to a mile (1.6 km) radius for two turns per success. Everyone within the storm can barely see or hear anything; all Perception-related dice pools are halved. The storm has appropriate elemental effects on the area, such as befouling machinery, extinguishing small fires, or fanning the flames of large ones.",
+                        "en": "By singing to the spirits of wind and dust — or ice and snow, or leaves and bark, depending on the locale — the Wendigo summons a driving cloud of wind and dust. This Gift is taught by any Wind-spirit.\n\nSystem: The player makes a Gnosis roll to summon the dust storm. The difficulty depends on the terrain:",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "", "" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Desert", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Plains", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Town", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Mountains", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Woods", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "City", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "A summoned dust storm blankets an area of up to a mile (1.6 km) radius for two turns per success. Everyone within the storm can barely see or hear anything; all Perception-related dice pools are halved. The storm has appropriate elemental effects on the area, such as befouling machinery, extinguishing small fires, or fanning the flames of large ones.",
                         "pl": ""
                     }
                 ]
@@ -13285,7 +13568,29 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Black Spiral Dancer’s claws are covered with barbed hooks, which catch and absorb the tattered power of slain spirits, refreshing the werewolf. A Thinbones teaches this Gift.\n\nSystem: The player spends one point of Willpower when the character deals a blow that destroys the last of a spirit’s Essence. The character gains Gnosis depending on the power of the destroyed spirit:\n\n1 point for a Jaggling\n2 for a Gaffling\n3 for any stronger spirit\n\nThis cannot raise the character’s Gnosis points above her maximum value, but is in addition to any Gnosis gained by harvesting the depleted spirit.",
+                        "en": "The Black Spiral Dancer’s claws are covered with barbed hooks, which catch and absorb the tattered power of slain spirits, refreshing the werewolf. A Thinbones teaches this Gift.\n\nSystem: The player spends one point of Willpower when the character deals a blow that destroys the last of a spirit’s Essence. The character gains Gnosis depending on the power of the destroyed spirit:",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "1 point for a Jaggling" ],
+                            "pl": [ "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "2 for a Gaffling" ],
+                                "pl": [ "" ]
+                            },
+                            {
+                                "en": [ "3 for any stronger spirit" ],
+                                "pl": [ "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "This cannot raise the character’s Gnosis points above her maximum value, but is in addition to any Gnosis gained by harvesting the depleted spirit.",
                         "pl": ""
                     }
                 ]
@@ -16974,8 +17279,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Ragabash can cause a technological device to malfunction merely by touching it. This Gift actually disrupts the spirit energy within the device that aids its function. If the Garou can frighten the spirit sufficiently, it will flee the device, causing it to malfunction permanently. A Gremlin teaches this Gift.\n\nSystem: The player rolls Manipulation + Intimidation; the difficulty is determined by the complexity of the item. The more successes the Garou obtains, the more the device is damaged. Five successes disable the device permanently (the spirit has fled). Odd or rare devices might even warrant one to three additional dice at the discretion of the Storyteller.\n\nDevice / Difficulty:\n\nComputer — 4\nPhone — 6\nAutomobile — 8\nGun — 9\nKnife — 10",
+                        "en": "The Ragabash can cause a technological device to malfunction merely by touching it. This Gift actually disrupts the spirit energy within the device that aids its function. If the Garou can frighten the spirit sufficiently, it will flee the device, causing it to malfunction permanently. A Gremlin teaches this Gift.\n\nSystem: The player rolls Manipulation + Intimidation; the difficulty is determined by the complexity of the item. The more successes the Garou obtains, the more the device is damaged. Five successes disable the device permanently (the spirit has fled). Odd or rare devices might even warrant one to three additional dice at the discretion of the Storyteller.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Device", "Difficulty" ],
+                            "pl": [ "Urządzenie", "Trudność" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Computer", "4" ],
+                                "pl": [ "Komputer", "4" ]
+                            },
+                            {
+                                "en": [ "Phone", "6" ],
+                                "pl": [ "Telefon", "6" ]
+                            },
+                            {
+                                "en": [ "Automobile", "8" ],
+                                "pl": [ "Samochód", "8" ]
+                            },,
+                            {
+                                "en": [ "Gun", "9" ],
+                                "pl": [ "Pistolet", "9" ]
+                            },
+                            {
+                                "en": [ "Knife", "10" ],
+                                "pl": [ "Nóż", "10" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -16991,14 +17325,8 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [
-                                "Device",
-                                "Difficulty"
-                            ],
-                            "pl": [
-                                "Urządzenie",
-                                "Trudność"
-                            ]
+                            "en": [ "Device", "Difficulty" ],
+                            "pl": [ "Urządzenie", "Trudność" ]
                         },
                         "rows": [
                             {
@@ -17027,8 +17355,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Ragabash can cause a technological device to malfunction merely by touching it. This Gift actually causes the spirit energy within the device to work counter to its function. If the Garou can frighten the spirit sufficiently, it will flee the device, causing it to malfunction permanently. A Gremlin teaches this Gift.\n\nSystem: The player rolls Manipulation + Intimidation; the difficulty is determined by the complexity of the item. The more successes the Garou obtains, the more the device is damaged. Three successes disables the device permanently (the spirit has fled). Good roleplaying might certainly warrant one to three additional dice, at the Storyteller’s discretion.\n\nDevice\tDifficulty\nComputer\t4\nPhone\t6\nCar\t7\nGun\t8\nKnife\t9",
+                        "en": "The Ragabash can cause a technological device to malfunction merely by touching it. This Gift actually causes the spirit energy within the device to work counter to its function. If the Garou can frighten the spirit sufficiently, it will flee the device, causing it to malfunction permanently. A Gremlin teaches this Gift.\n\nSystem: The player rolls Manipulation + Intimidation; the difficulty is determined by the complexity of the item. The more successes the Garou obtains, the more the device is damaged. Three successes disables the device permanently (the spirit has fled). Good roleplaying might certainly warrant one to three additional dice, at the Storyteller’s discretion.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Device", "Difficulty" ],
+                            "pl": [ "Urządzenie", "Trudność" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Computer", "4" ],
+                                "pl": [ "Komputer", "4" ]
+                            },
+                            {
+                                "en": [ "Phone", "6" ],
+                                "pl": [ "Telefon", "6" ]
+                            },
+                            {
+                                "en": [ "Car", "7" ],
+                                "pl": [ "Samochód", "7" ]
+                            },,
+                            {
+                                "en": [ "Gun", "8" ],
+                                "pl": [ "Pistolet", "8" ]
+                            },
+                            {
+                                "en": [ "Knife", "9" ],
+                                "pl": [ "Nóż", "9" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -17172,7 +17529,41 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "None could stay the words of Djeheuty, the messenger of the Gods. Those who have this Gift do not even have to accompany the message, but can send it on its way and be assured that it will reach its destination. The spirit of any migrating animal teaches this Gift.\n\nSystem: The player spends two points of Gnosis and rolls Charisma + Occult, difficulty 8, while the Strider loudly states the message’s destination. The message must be written on something physical (paper, tablet, bone shard). A simple success imbues the message with a Gaffling that will ensure it arrives at the stated destination. The method of delivery is a matter of coincidence; the message is picked up by someone curious, ends up on a truck heading that direction, floats on the wind, etc. The number of additional successes determines how long this takes, regardless of distance.\n\nNumber of Successes\tLength of Transit\n1\tA year\n2\tSix months\n3\tOne season\n4\tOne week\n5\tOne day\n\nWhile the message is in transit, the Silent Strider cannot regain the two points of Gnosis invested in it. Nor can they revoke the message. As a result, this Gift tends to be used only when all other avenues have been tried and failed, or if the Strider’s death is certain. The Strider’s death will not disrupt this Gift.",
+                        "en": "None could stay the words of Djeheuty, the messenger of the Gods. Those who have this Gift do not even have to accompany the message, but can send it on its way and be assured that it will reach its destination. The spirit of any migrating animal teaches this Gift.\n\nSystem: The player spends two points of Gnosis and rolls Charisma + Occult, difficulty 8, while the Strider loudly states the message’s destination. The message must be written on something physical (paper, tablet, bone shard). A simple success imbues the message with a Gaffling that will ensure it arrives at the stated destination. The method of delivery is a matter of coincidence; the message is picked up by someone curious, ends up on a truck heading that direction, floats on the wind, etc. The number of additional successes determines how long this takes, regardless of distance.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Number of Successes", "Length of Transit" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "1", "A year" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "2", "Six months" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "3", "One season" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "4", "One week" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "5", "One day" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "While the message is in transit, the Silent Strider cannot regain the two points of Gnosis invested in it. Nor can they revoke the message. As a result, this Gift tends to be used only when all other avenues have been tried and failed, or if the Strider’s death is certain. The Strider’s death will not disrupt this Gift.",
                         "pl": ""
                     }
                 ]
@@ -18064,7 +18455,52 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Furies are healers as well as warriors. By bringing forth the Earth’s healing powers, a Fury can dispel the worst effects of Wyrm-taint and injury like cool breeze blows across the mortal and spirit worlds alike when this Gift is used.\n\nSystem: The Fury rolls her permanent Gnosis and spends one point per success. The roll’s difficulty depends on how corrupted the area is.\n\nCorruption\tDifficulty\nMildly Tainted (a battlefield)\t6\nTainted (fomori bunks)\t7\nCorrupted (a Wyrm-cult’s lodge)\t8\nBlighted (an Umbral Blight)\t9\nHopeless (an Anchorhead to Malfeas)\t10\n\nThe presence of Wyrm-creatures in the area raises the difficulty by one (maximum 10).\n\nEach success reduces the corruption by one level. The Healing covers an area roughly 100 feet by 100 feet; a Fury can spend double the Gnosis to heal twice that area. While the Gift’s effects aren’t immediately noticeable, the place begins to “recover” from the Wyrm’s effects. In time, the Penumbra reshapes itself into a more “neutral” state. Any Wyrm-creature caught within a 20-foot radius of the Garou when she casts the Gift suffers one aggravated Health Level (nonsoakable) per success.",
+                        "en": "Furies are healers as well as warriors. By bringing forth the Earth’s healing powers, a Fury can dispel the worst effects of Wyrm-taint and injury like cool breeze blows across the mortal and spirit worlds alike when this Gift is used.\n\nSystem: The Fury rolls her permanent Gnosis and spends one point per success. The roll’s difficulty depends on how corrupted the area is.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Corruption",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Mildly Tainted (a battlefield)", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Tainted (fomori bunks)", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Corrupted (a Wyrm-cult’s lodge)", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Blighted (an Umbral Blight)", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Hopeless (an Anchorhead to Malfeas)", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "The presence of Wyrm-creatures in the area raises the difficulty by one (maximum 10).",
+                        "pl": ""
+                    },
+                    {
+                        "type": "text",
+                        "en": "",
                         "pl": ""
                     }
                 ]
@@ -18586,7 +19022,7 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The werewolf’s senses become extremely sharp.\n\nSystem: The player spends 1 Gnosis.\n\nHomid/Glabro: –2 difficulty to Perception rolls\nLupus/Crinos/Hispo: –3 difficulty + one extra die\nLasts one scene.",
+                        "en": "The werewolf with this Gift tunes in to the world around her, increasing her senses vastly. When she is in Homid or Glabro form, her senses become as sharp as a wolf's, allowing her to hear sounds beyond her normal range. In wolf forms, her senses become preternaturally potent, allowing her to perform feats that border on precognition. Wolf-spirits teach this Gift.\n\nSystem: The player spends a Gnosis point. The effects last for one scene. In Homid or Glabro forms, all Perception difficulties decrease by two, and the character can perform sensory feats that are impossible for humans, such as tracking by scent (which requires a successful Perception + Primal-Urge roll from the player). In Crinos, Hispo and Lupus forms, Perception difficulties decrease by three (which is not cumulative with the ordinary Lupus-form Perception bonuses), and the werewolf gains an extra die to Primal-Urge dice pools.",
                         "pl": ""
                     }
                 ]
@@ -20379,8 +20815,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Sometimes, one must give information to get information. Perhaps an explanation is necessary to get the curious to go away. However, Uktena are notoriously tightfisted with secrets. With this Gift, the Uktena can share a bit of knowledge that later vanishes from the subject’s memory. An ancestor-spirit teaches this Gift. Both Raiders and Pathdancers commonly learn this Gift, though it can be found throughout the tribe.\n\nSystem: When telling the choice bit of lore, the player rolls Wits + Subterfuge (difficulty is the opponent’s Wits + Subterfuge). The number of successes, shown below, determines the effects of the Gift. The Uktena decides beforehand how long the knowledge remains clear, but never longer than 24 hours.\n\nSuccess\tEffect\nBotch\tSecret retained with unusual clarity\nOne\tSecret becomes elusive and garbled\nTwo\tSecret is maddeningly beyond reach\nThree\tSubject forgets he was told the secret\nFour\tSubject’s own part in discussion is vague\nFive\tSubject forgets the conversation took place",
+                        "en": "Sometimes, one must give information to get information. Perhaps an explanation is necessary to get the curious to go away. However, Uktena are notoriously tightfisted with secrets. With this Gift, the Uktena can share a bit of knowledge that later vanishes from the subject’s memory. An ancestor-spirit teaches this Gift. Both Raiders and Pathdancers commonly learn this Gift, though it can be found throughout the tribe.\n\nSystem: When telling the choice bit of lore, the player rolls Wits + Subterfuge (difficulty is the opponent’s Wits + Subterfuge). The number of successes, shown below, determines the effects of the Gift. The Uktena decides beforehand how long the knowledge remains clear, but never longer than 24 hours.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Success", "Effect" ],
+                            "pl": [ "Botch", "Secret retained with unusual clarity" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "Secret becomes elusive and garbled" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "Secret is maddeningly beyond reach" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "Subject forgets he was told the secret" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "Subject’s own part in discussion is vague" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "Subject forgets the conversation took place" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -21553,8 +22018,33 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "As the Philodox’s authority extends even into the realm of beasts, such that he can command the loyalty of any specific animal. If successful, the animal follows his commands willingly and unconditionally. A lion- or falcon-spirit teaches this Gift.\n\nSystem: The Philodox must choose one target within 100 feet. The player rolls Charisma + Animal Ken against a difficulty based on the werewolf’s relationship with the animal. The power works on only one animal at a time, and it does not attract animals to the Garou’s vicinity.\n\nRelationship / Difficulty:\n\nA sibling — 3\nFeed and care for — 6\nStranger — 8\nHostile — 10",
+                        "en": "As the Philodox’s authority extends even into the realm of beasts, such that he can command the loyalty of any specific animal. If successful, the animal follows his commands willingly and unconditionally. A lion- or falcon-spirit teaches this Gift.\n\nSystem: The Philodox must choose one target within 100 feet. The player rolls Charisma + Animal Ken against a difficulty based on the werewolf’s relationship with the animal. The power works on only one animal at a time, and it does not attract animals to the Garou’s vicinity.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Relationship", "Difficulty" ],
+                            "pl": [ "Wzajemny stosunek", "Trudność" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "A sibling", "3" ],
+                                "pl": [ "Rodzeństwo", "3" ]
+                            },
+                            {
+                                "en": [ "Feed and care for", "6" ],
+                                "pl": [ "Opiekun/żywiciel", "6" ]
+                            },
+                            {
+                                "en": [ "Stranger", "8" ],
+                                "pl": [ "Obcy", "8" ]
+                            },
+                            {
+                                "en": [ "Hostile", "10" ],
+                                "pl": [ "Wrogowie", "10" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -21570,14 +22060,8 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [
-                                "Relationship",
-                                "Difficulty"
-                            ],
-                            "pl": [
-                                "Wzajemny stosunek",
-                                "Trudność"
-                            ]
+                            "en": [ "Relationship", "Difficulty" ],
+                            "pl": [ "Wzajemny stosunek", "Trudność" ]
                         },
                         "rows": [
                             {
@@ -21585,8 +22069,8 @@
                                 "pl": [ "Rodzeństwo", "3" ]
                             },
                             {
-                                "en": [ "Opiekun/żywiciel", "6" ],
-                                "pl": [ "Dwa", "6" ]
+                                "en": [ "Feed and care for", "6" ],
+                                "pl": [ "Opiekun/żywiciel", "6" ]
                             },
                             {
                                 "en": [ "Stranger", "8" ],
@@ -22202,7 +22686,7 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The werewolf senses nearby caerns.\n\nSystem: Spend 1 Gnosis, roll Perception + Enigmas (difficulty 7).\n\n1 success: sense nearby caern\n3: distance/direction\n5+: exact location (map-level awareness)",
+                        "en": "The werewolf can instinctively sense where the nearest caern is, though what tribe controls it remains unknown. Depending on the number of her successes, she can determine how far away and how powerful it is. An owl-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Perception + Enigmas (difficulty 7). With one success, the werewolf gets a sense that there is a caern nearby. Three successes give her the approximate distance and direction, and five successes or more tell her its exact location so that she could pinpoint it on a map (if she can read one, that is).",
                         "pl": ""
                     }
                 ]
@@ -22690,8 +23174,45 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "By rolling a Dexterity + Drive (or Athletics for a bicycle) versus the local Gauntlet and spending one Gnosis point, the Garou may decrease actual travel time between two points while driving in a vehicle. The number of successes on this roll dictates the amount of time the Garou effectively travels for brief moments into a timeless zone of the Umbra, thus decreasing the amount of time needed to travel from place to place.\n\nSuccesses — % Time Required\nBotch — 25% more\n1 — 5% less\n2 — 10% less\n3 — 25% less\n4 — 50% less\n5 — 75% less\n6+ — 80%",
+                        "en": "By rolling a Dexterity + Drive (or Athletics for a bicycle) versus the local Gauntlet and spending one Gnosis point, the Garou may decrease actual travel time between two points while driving in a vehicle. The number of successes on this roll dictates the amount of time the Garou effectively travels for brief moments into a timeless zone of the Umbra, thus decreasing the amount of time needed to travel from place to place.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "% Time Required" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Botch", "25% more" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "1", "5% less" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "2", "10% less" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "3", "25% less" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "4", "50% less" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "5", "75% less" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "6+", "80%" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -23382,8 +23903,29 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Garou can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The Garou’s player must beat the spirit in a contested Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.\n\nChange Difficulty:\n\nCharacteristics (Willpower, Rage, Gnosis) — 6\nOne point changed per success\nDisposition (Friendly, Neutral, Hostile) — 8\nType (Nature, Elemental, Bane, etc.) — 10",
+                        "en": "The Garou can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The Garou’s player must beat the spirit in a contested Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Change", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Characteristics (Willpower, Rage, Gnosis) one point changed per success", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Disposition (Friendly, Neutral, Hostile)", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Type (Nature, Elemental, Bane, etc.)", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -23393,8 +23935,29 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Reshape a spirit’s nature (traits, disposition, type).\n\nSystem: Resisted Gnosis roll. Difficulty depends on change:\n\nTraits: 6\nDisposition: 8\nType: 10",
+                        "en": "Reshape a spirit’s nature (traits, disposition, type).",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Change", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Characteristics (Willpower, Rage, Gnosis) one point changed per success", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Disposition", "8" ],
+                                "pl": [ "Disposition (Friendly, Neutral, Hostile) or Affiliation within Type (water to fire, etc.)", "8" ]
+                            },
+                            {
+                                "en": [ "Type (Naturae, Elemental, Bane, etc.)", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -23404,8 +23967,29 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The werewolf can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The player must best the spirit in a resisted Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.\n\nChange\tDifficulty\nCharacteristics (Willpower, Rage, Gnosis; one point changed per success)\t6\nDisposition (Friendly, Neutral, Hostile)\t7\nType (Naturae, Elemental, Bane, etc.)\t9",
+                        "en": "The werewolf can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The player must best the spirit in a resisted Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Change", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Characteristics (Willpower, Rage, Gnosis) one point changed per success", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Disposition", "8" ],
+                                "pl": [ "Disposition (Friendly, Neutral, Hostile)", "8" ]
+                            },
+                            {
+                                "en": [ "Type (Naturae, Elemental, Bane, etc.)", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -27084,7 +27668,59 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Glass Walker convinces money spirits to change their denomination. The coin or note simply metamorphoses into the appropriate denomination. Money spirits teach the Gift.\n\nAngel Tricks: Only turns silver pennies (worth one twelfth of a shilling) into gold angels (worth ten shillings). Difficulty is 8.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Politics. What value the money becomes determines the difficulty regardless of the original denomination:\n\nDenomination changed to\tDifficulty\nPenny\t3\nNickel\t4\nDime\t5\nQuarter\t6\nDollar\t7\nFive Dollar\t8\nTwenty Dollar\t9\nOne Hundred Dollar\t10\n\nEach success can change one coin or note into another denomination. Foreign currencies can also be converted in similar fashion, and it is also possible to convert a currency of one country to a different denomination of another.",
+                        "en": "The Glass Walker convinces money spirits to change their denomination. The coin or note simply metamorphoses into the appropriate denomination. Money spirits teach the Gift.\n\nAngel Tricks: Only turns silver pennies (worth one twelfth of a shilling) into gold angels (worth ten shillings). Difficulty is 8.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Politics. What value the money becomes determines the difficulty regardless of the original denomination:",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Denomination changed to",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Penny", "3" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Nickel", "4" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Dime", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Quarter", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Dollar", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five Dollar", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Twenty Dollar", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "One Hundred Dollar", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Each success can change one coin or note into another denomination. Foreign currencies can also be converted in similar fashion, and it is also possible to convert a currency of one country to a different denomination of another.",
                         "pl": ""
                     }
                 ]
@@ -27095,7 +27731,94 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Garou can convince money spirits to improve the value of his money by changing the denominations of the coinage or currency. This Gift is taught by money spirits.\n\nAngel Tricks: Only turns silver pennies (worth one twelfth of a shilling) into gold angels (worth ten shillings). Difficulty is 8.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Politics. The difficulty depends on the final desired denomination. It doesn’t matter what the money already is, although few Garou will change dollars into pennies at a loss. The amount of money changed depends on the number of successes.\n\nDenomination changed to\tDifficulty\nPenny\t3\nNickel\t4\nDime\t5\nQuarter\t6\nDollar bill\t7\nFive dollar bill\t8\nTwenty dollar bill\t9\nAny other currency\t10\nSuccesses\tAmount (in coins or bills)\n1\t5\n2\t10\n3\t20\n4\t50\n5\t100\n\nGlass Walker financial managers frown on the blatant use of this Gift, since it tends to attract the attention of other supernaturals who are concerned with money (such as the mage Syndicate). If too much of this mutant money hits the market too quickly, there will surely be supernatural retribution from other parties.",
+                        "en": "The Garou can convince money spirits to improve the value of his money by changing the denominations of the coinage or currency. This Gift is taught by money spirits.\n\nAngel Tricks: Only turns silver pennies (worth one twelfth of a shilling) into gold angels (worth ten shillings). Difficulty is 8.\n\nSystem: The Garou spends one Gnosis point and rolls Charisma + Politics. The difficulty depends on the final desired denomination. It doesn’t matter what the money already is, although few Garou will change dollars into pennies at a loss. The amount of money changed depends on the number of successes.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Denomination changed to",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Penny", "3" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Nickel", "4" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Dime", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Quarter", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Dollar bill", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five Dollar bill", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Twenty Dollar bill", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Any other currency", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Successes",
+                                "Amount (in coins or bills)"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "1", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "2", "10" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "3", "2-" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "4", "50" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "5", "100" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Glass Walker financial managers frown on the blatant use of this Gift, since it tends to attract the attention of other supernaturals who are concerned with money (such as the mage Syndicate). If too much of this mutant money hits the market too quickly, there will surely be supernatural retribution from other parties.",
                         "pl": ""
                     }
                 ]
@@ -27897,8 +28620,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "By speaking with the spirits of electricity, the Garou may cause a blackout over a widespread area. This Gift is taught by an electricity elemental.\n\nSystem: The Garou spends one Gnosis point and rolls Wits + Science (difficulty 7). The area blacked or browned out depends on the number of successes rolled.\n\nSuccesses\tArea Affected\nOne\tRoom\nTwo\tHouse or Single Story\nThree\tLarge Building\nFour\tCity Block\nFive\tNeighborhood",
+                        "en": "By speaking with the spirits of electricity, the Garou may cause a blackout over a widespread area. This Gift is taught by an electricity elemental.\n\nSystem: The Garou spends one Gnosis point and rolls Wits + Science (difficulty 7). The area blacked or browned out depends on the number of successes rolled.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Area Affected" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "Room" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "House or Single Story" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "Large Building" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "City Block" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "Neighborhood" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -29334,7 +30086,47 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Suffused with the pure energy of the Wyld, the user of this Gift rants and raves in a torrent of nonsensical language. Only others who are properly attuned to his magic silver-hammered closely dimension can penetrate his tinfoil hat. More precisely, any member of his pack or the Bone Gnawer tribe can decode whatever nonsense he is saying. He can also project these thoughts at a distance into one listener; the ranting Garou chooses which individual receives his psychic transmission.\n\nThe listener does not have to actually hear the ranting Garou. As long as he’s within the same city, or even the same state or province, there’s a chance he’ll receive the message. (Unlike the Gift: Mindspeak, one side of this link not always required.) Ranting Bone Gnawers have been known to hold entire conversations from opposite sides of the same city, taking turns shouting violent imprecations to no one in particular. A Wyldling spirit teaches this Gift.\n\nSystem: The ranting Garou spends one Gnosis for each werewolf he wants to receive his secret message; the duration is one scene. Each one of the targets must either be a member of his pack or a Bone Gnawer. (This is allowable if he’s temporarily joined a pack with the Bone Gnawer Gift: Tagalong.) Roll the ranter’s Appearance + Expression (difficulty 6); the number of successes limits how far away his recipient can be.\n\nSuccesses\tRange\nOne\tline of sight (as per Mindspeak)\nTwo\tsame building\nThree\tsame city block\nFour\tsame city\nFive\tsame state or province\n\nFor Wyld reasons no one can understand, the most powerful application of this Gift actually does have a longer range in Texas or Alaska than in Rhode Island, New Hampshire, or Vermont. Bone Gnawer Deserters have gone on epic Umbral quests to deduce the reason why, but have never returned with any sufficiently logical answer.",
+                        "en": "Suffused with the pure energy of the Wyld, the user of this Gift rants and raves in a torrent of nonsensical language. Only others who are properly attuned to his magic silver-hammered closely dimension can penetrate his tinfoil hat. More precisely, any member of his pack or the Bone Gnawer tribe can decode whatever nonsense he is saying. He can also project these thoughts at a distance into one listener; the ranting Garou chooses which individual receives his psychic transmission.\n\nThe listener does not have to actually hear the ranting Garou. As long as he’s within the same city, or even the same state or province, there’s a chance he’ll receive the message. (Unlike the Gift: Mindspeak, one side of this link not always required.) Ranting Bone Gnawers have been known to hold entire conversations from opposite sides of the same city, taking turns shouting violent imprecations to no one in particular. A Wyldling spirit teaches this Gift.\n\nSystem: The ranting Garou spends one Gnosis for each werewolf he wants to receive his secret message; the duration is one scene. Each one of the targets must either be a member of his pack or a Bone Gnawer. (This is allowable if he’s temporarily joined a pack with the Bone Gnawer Gift: Tagalong.) Roll the ranter’s Appearance + Expression (difficulty 6); the number of successes limits how far away his recipient can be.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Successes",
+                                "Range"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "line of sight (as per Mindspeak)" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "same building" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "same city block" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "same city" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "same state or province" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "For Wyld reasons no one can understand, the most powerful application of this Gift actually does have a longer range in Texas or Alaska than in Rhode Island, New Hampshire, or Vermont. Bone Gnawer Deserters have gone on epic Umbral quests to deduce the reason why, but have never returned with any sufficiently logical answer.",
                         "pl": ""
                     }
                 ]
@@ -29484,7 +30276,41 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "This Gift lays the curse of certain death by arrows on the Shadow Lord’s enemy. While the curse is in effect, arrows, bolts, hurled spears and other missile weapons are strangely attracted to the target. Although this Gift can be used in battle situations, most Shadow Lords prefer to use it secretly on a chosen foe just before a battle begins, ensuring an “unfortunate accident.” This Gift is taught by a raven-spirit.\n\nSystem: The Shadow Lord simply touches the intended target with his fingertips. At that time, the player spends one Gnosis and rolls Manipulation + Archery (difficulty 7). The number of successes determines the curse’s duration.\n\nSuccesses — Duration\nOne — One Hour\nTwo — One Day\nThree — One Month\nFour — One Year\nFive+ — Until the curse is broken\n\nThe difficulty to strike the target with any sort of missile weapon drops by two; archers in battle situations are also more likely to fire at the cursed target than at any other targets around him. Raven’s Curse can be broken by certain methods at the Storyteller’s discretion. A Rite of Cleansing, for instance, is usually effective.",
+                        "en": "This Gift lays the curse of certain death by arrows on the Shadow Lord’s enemy. While the curse is in effect, arrows, bolts, hurled spears and other missile weapons are strangely attracted to the target. Although this Gift can be used in battle situations, most Shadow Lords prefer to use it secretly on a chosen foe just before a battle begins, ensuring an “unfortunate accident.” This Gift is taught by a raven-spirit.\n\nSystem: The Shadow Lord simply touches the intended target with his fingertips. At that time, the player spends one Gnosis and rolls Manipulation + Archery (difficulty 7). The number of successes determines the curse’s duration.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Duration" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "One Hour" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "One Day" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "One Month" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "One Year" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five+", "Until the curse is broken" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "The difficulty to strike the target with any sort of missile weapon drops by two; archers in battle situations are also more likely to fire at the cursed target than at any other targets around him. Raven’s Curse can be broken by certain methods at the Storyteller’s discretion. A Rite of Cleansing, for instance, is usually effective.",
                         "pl": ""
                     }
                 ]
@@ -30421,8 +31247,43 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Through the understanding of the Weaver, the Garou can reshape once-living material (but not undead) into a variety of objects. Thus tree branches become bows and arrows, animal hides become armor, and fallen trees become shelters. The item will in some way resemble the object from which it was created (the armor is a buffalohide chestplate, not metal). This Gift is taught by a Weaver-spirit.\n\nSystem: The Garou rolls Manipulation + Crafts against a variable difficulty (5 to turn a broken tree limb into a spear, 8 to turn a plank into a floatable raft). The created object is not necessarily permanent; it will last a length of time according to the chart below. Expending a Gnosis point allows a created weapon to inflict aggravated damage (this effect is not permanent unless a permanent Gnosis point is spent).\n\nSuccesses\tDuration\nOne\t5 minutes\nTwo\t10 minutes\nThree\tOne Scene\nFour\tOne Story\nFive\tPermanent",
+                        "en": "Through the understanding of the Weaver, the Garou can reshape once-living material (but not undead) into a variety of objects. Thus tree branches become bows and arrows, animal hides become armor, and fallen trees become shelters. The item will in some way resemble the object from which it was created (the armor is a buffalohide chestplate, not metal). This Gift is taught by a Weaver-spirit.\n\nSystem: The Garou rolls Manipulation + Crafts against a variable difficulty (5 to turn a broken tree limb into a spear, 8 to turn a plank into a floatable raft). The created object is not necessarily permanent; it will last a length of time according to the chart below. Expending a Gnosis point allows a created weapon to inflict aggravated damage (this effect is not permanent unless a permanent Gnosis point is spent).",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Successes",
+                                "Duration"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "5 minutes" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "10 minutes" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "One Scene" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "One Story" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "Permanent" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -30939,8 +31800,33 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "This Gift summons a horde of malcontent spirits to provoke the inhabitants of a city to violent rioting. The Gift plays on the hatred and fear of the downtrodden of the city — the homeless, the poor and even stray animals. The Gnawer can direct the riot to a degree, but such things tend to escalate, and the Garou has no power to stop the riot from doing so. A rat-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Wits + Subterfuge (difficulty 8). If successful, the spirits incite their hosts against a target of the Garou’s choice. The different hosts, however, will not necessarily work together — they may even begin to fight each other as the mob mentality takes over. The number of successes determines the area affected:\n\nOne — Block\nTwo — Block\nThree — Neighborhood\nFour — District (the South Side, etc.)\nFive — Entire City",
-                        "pl": ""
+                        "en": "This Gift summons a horde of malcontent spirits to provoke the inhabitants of a city to violent rioting. The Gift plays on the hatred and fear of the downtrodden of the city — the homeless, the poor and even stray animals. The Gnawer can direct the riot to a degree, but such things tend to escalate, and the Garou has no power to stop the riot from doing so. A rat-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and rolls Wits + Subterfuge (difficulty 8). If successful, the spirits incite their hosts against a target of the Garou’s choice. The different hosts, however, will not necessarily work together — they may even begin to fight each other as the mob mentality takes over. The number of successes determines the area affected:",
+                        "pl": ""\n\n\n — \n — \n — \n — 
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "One", "Building" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Two", "Block" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "Neighborhood" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "District (the South Side, etc.)" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "Entire City" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -30950,8 +31836,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Garou summons a horde of malevolent spirits to provoke the hatreds and fears of the down-and-out — the homeless, the gangs, the urban animals such as alley cats and stray dogs, etc. This Gift is taught by a Rat-spirit.\n\nSystem: The Garou spends one Gnosis point and one Rage point. He then rolls Wits + Subterfuge (difficulty 8). If successful, these spirits direct their material hosts against a target of the Garou’s choosing, though the disparate elements of the riot will by no means work together (they may not even be aware that others are trying to accomplish the same thing). The number of successes determines the extent of the riot:\n\nSuccesses\tExtent\nOne\tBuilding\nTwo\tBlock\nThree\tNeighborhood\nFour\tDistrict\nFive\tEntire City",
+                        "en": "The Garou summons a horde of malevolent spirits to provoke the hatreds and fears of the down-and-out — the homeless, the gangs, the urban animals such as alley cats and stray dogs, etc. This Gift is taught by a Rat-spirit.\n\nSystem: The Garou spends one Gnosis point and one Rage point. He then rolls Wits + Subterfuge (difficulty 8). If successful, these spirits direct their material hosts against a target of the Garou’s choosing, though the disparate elements of the riot will by no means work together (they may not even be aware that others are trying to accomplish the same thing). The number of successes determines the extent of the riot:",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Extent" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "Building" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "Block" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "Neighborhood" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "District" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five", "Entire City" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -31289,7 +32204,41 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Garou can cause the earth to split before him, creating a hole into a small cave that can hold up to five more Crinos-sized people. The hole can be sealed once within the cave, so that no one outside can discern its presence without supernatural means. Any burrowing or Earth-spirit can teach this Gift.\n\nSystem: The player must expend one Gnosis point and make a Charisma + Survival roll, difficulty 7, to open the cave. The decision of whether or not to seal the cave must be made within three turns; the Garou can’t just open and close the cave once it’s been created. The cave lasts for a variable amount of time; once the duration expires, anyone in the cave pops out of the earth again as the cave disappears.\n\nSuccesses — Duration\nOne — One minute\nTwo — Ten minutes\nThree — An hour\nFour — Six hours\nFive+ — Twelve hours\n\nThe cave dwellers are safe from physical attack, but some Gifts (such as Hand of the Earth Lord) can still affect them, as can any concerted burrowing effort that can dig down into the cave and break its seal.",
+                        "en": "The Garou can cause the earth to split before him, creating a hole into a small cave that can hold up to five more Crinos-sized people. The hole can be sealed once within the cave, so that no one outside can discern its presence without supernatural means. Any burrowing or Earth-spirit can teach this Gift.\n\nSystem: The player must expend one Gnosis point and make a Charisma + Survival roll, difficulty 7, to open the cave. The decision of whether or not to seal the cave must be made within three turns; the Garou can’t just open and close the cave once it’s been created. The cave lasts for a variable amount of time; once the duration expires, anyone in the cave pops out of the earth again as the cave disappears.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Duration" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "One", "One minute" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Two", "Ten minutes" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Three", "An hour" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Four", "Six hours" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Five+", "Twelve hours" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "The cave dwellers are safe from physical attack, but some Gifts (such as Hand of the Earth Lord) can still affect them, as can any concerted burrowing effort that can dig down into the cave and break its seal.",
                         "pl": ""
                     }
                 ]
@@ -31300,7 +32249,41 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "This Gift derives from Turtle’s intimate connection with the living earth. The Garou can will the earth to open up, creating a small cave that can hold up to six Garou in Crinos, or more creatures in smaller forms. The werewolf can will the opening to close once inside the cave, concealing the cave’s presence from outsiders (although supernatural means may detect the cave or the inhabitants within).\n\nSystem: The player spends one Gnosis and rolls Charisma + Survival, difficulty 7, to open the cave mouth; the Garou must decide whether to seal the cave or not within three turns; the entrance cannot open and close at will. The cave lasts for a period of time dependent on the successes rolled; once the duration expires (or the Garou chooses to end the Gift’s effects prematurely), all within the cave pop out of the earth again as the cave disappears.\n\nSuccesses — Duration\n1 — One minute\n2 — 10 minutes\n3 — One hour\n4 — Six hours\n5+ — Twelve hours\n\nThose within the cave cannot be physically attacked from outside, but some Gifts (such as Hand of Earth Lords) can still affect them, as can any burrowing effort strong enough to dig down into the cave and break its seal. The cave provides fresh air; those within are not in danger of suffocation. This Gift can only be used on natural earth, mud or sand; bare rock, wood, metal or manmade materials such as concrete are not affected by the Gift.",
+                        "en": "This Gift derives from Turtle’s intimate connection with the living earth. The Garou can will the earth to open up, creating a small cave that can hold up to six Garou in Crinos, or more creatures in smaller forms. The werewolf can will the opening to close once inside the cave, concealing the cave’s presence from outsiders (although supernatural means may detect the cave or the inhabitants within).\n\nSystem: The player spends one Gnosis and rolls Charisma + Survival, difficulty 7, to open the cave mouth; the Garou must decide whether to seal the cave or not within three turns; the entrance cannot open and close at will. The cave lasts for a period of time dependent on the successes rolled; once the duration expires (or the Garou chooses to end the Gift’s effects prematurely), all within the cave pop out of the earth again as the cave disappears.",
+                        "pl": ""
+                    }
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Successes", "Duration" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "1", "One minute" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "2", "10 minutes" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "3", "One hour" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "4", "Six hours" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "5+", "Twelve hours" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Those within the cave cannot be physically attacked from outside, but some Gifts (such as Hand of Earth Lords) can still affect them, as can any burrowing effort strong enough to dig down into the cave and break its seal. The cave provides fresh air; those within are not in danger of suffocation. This Gift can only be used on natural earth, mud or sand; bare rock, wood, metal or manmade materials such as concrete are not affected by the Gift.",
                         "pl": ""
                     }
                 ]
@@ -34246,8 +35229,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Victims with twisted arms and crushed legs are much easier prey. The Ahroun with this Gift can destroy bone with a single punch, regardless of the damage inflicted by the blow. A Hyena-spirit teaches this Gift.\n\nSystem: Before striking an opponent, the Ahroun must spend a Willpower point and a Rage point. The Garou must target a specific limb, which increases the attack’s difficulty. The player must score at least three successes. Also, he must spend the Willpower and Rage even if the blow does not connect before resolving whether the successes. The successful use of this Gift crushes whatever bone structure lies beneath the targeted flesh and causes a number of Health Levels of damage equal to the number of successes in the attack roll -3. Broken arms and legs subsequently handicap an opponent in any combat. Broken ribs hinder movement and can possibly puncture a lung. A fractured skull renders the victim unconscious in most cases. A broken spine causes paralysis. This attack is unsoakable but does not cause aggravated wounds.\n\nTarget\tDifficulty Modifier\tSpecial Effect\nSkull\t+3\tStamina roll (difficulty 8) to remain conscious\nArm\t+2\tDexterity roll to hold items; target cannot use broken limb to attack\nLeg\t+1\tDexterity roll to remain standing; target cannot run or attack with broken limb\nRib\t+2\tStamina roll (difficulty 6) to avoid puncturing a lung\nSpine\t+4\tMust attack target from rear; target remains paralyzed until wound heals",
+                        "en": "Victims with twisted arms and crushed legs are much easier prey. The Ahroun with this Gift can destroy bone with a single punch, regardless of the damage inflicted by the blow. A Hyena-spirit teaches this Gift.\n\nSystem: Before striking an opponent, the Ahroun must spend a Willpower point and a Rage point. The Garou must target a specific limb, which increases the attack’s difficulty. The player must score at least three successes. Also, he must spend the Willpower and Rage even if the blow does not connect before resolving whether the successes. The successful use of this Gift crushes whatever bone structure lies beneath the targeted flesh and causes a number of Health Levels of damage equal to the number of successes in the attack roll -3. Broken arms and legs subsequently handicap an opponent in any combat. Broken ribs hinder movement and can possibly puncture a lung. A fractured skull renders the victim unconscious in most cases. A broken spine causes paralysis. This attack is unsoakable but does not cause aggravated wounds.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Target", "Difficulty", "Special Effect" ],
+                            "pl": [ "", "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Skull", "+3", "Stamina roll (difficulty 8) to remain conscious" ],
+                                "pl": [ "", "", "" ]
+                            },
+                            {
+                                "en": [ "Arm", "+2", "Dexterity roll to hold items; target cannot use broken limb to attack" ],
+                                "pl": [ "", "", "" ]
+                            },
+                            {
+                                "en": [ "Leg", "+1", "Dexterity roll to remain standing; target cannot run or attack with broken limb" ],
+                                "pl": [ "", "", "" ]
+                            },
+                            {
+                                "en": [ "Rib", "+2", "Stamina roll (difficulty 6) to avoid puncturing a lung" ],
+                                "pl": [ "", "", "" ]
+                            },
+                            {
+                                "en": [ "Spine", "+4", "Must attack target from rear; target remains paralyzed until wound heals" ],
+                                "pl": [ "", "", "" ]
+                            }
+                        ]
                     }
                 ]
             }
@@ -36377,7 +37389,7 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Galliard Rank: 4\n Black Furies Rank: 3\n\nThe sound of the Garou’s voice can entrance anyone who hears it. Typically, the Garou sings or howls while using this Gift, though some modern Glass Walkers have taken to poetry recital. This Gift can make an opponent pause before a fight but can rarely stop a heated combat already in progress. A Songbird-spirit teaches this Gift.\n\nSystem: The player rolls Charisma + Performance versus the target’s Willpower and spends one Gnosis point. Enchanted listeners cannot perform any actions for a number of turns equal to the number of successes rolled. The audience can spend Willpower to overcome the enchanting effects; to free herself, a listener must spend one point for each of the Galliard’s successes.",
+                        "en": "Galliard Rank: 4\n\n Black Furies Rank: 3\n\nThe sound of the Garou’s voice can entrance anyone who hears it. Typically, the Garou sings or howls while using this Gift, though some modern Glass Walkers have taken to poetry recital. This Gift can make an opponent pause before a fight but can rarely stop a heated combat already in progress. A Songbird-spirit teaches this Gift.\n\nSystem: The player rolls Charisma + Performance versus the target’s Willpower and spends one Gnosis point. Enchanted listeners cannot perform any actions for a number of turns equal to the number of successes rolled. The audience can spend Willpower to overcome the enchanting effects; to free herself, a listener must spend one point for each of the Galliard’s successes.",
                         "pl": ""
                     }
                 ]
@@ -37835,7 +38847,49 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The inventions of the invaders are an affront to the Old Ways. This Gift breaks them down to the elements they came from. Many spirits, from the Termite to the West Wind, teach this blessing to their favored ones.\n\nSystem: The player rolls Manipulation + Enigmas and spends a Rage point; the Wendigo can then make one unliving item crumble into dust or debris. The roll’s difficulty depends on the strength of the item.\n\nMaterial\tDifficulty\nPaper, Cardboard\t4\nCloth, Leather, Rope\t5\nThin Wood, Bone\t6\nThick Wood, Glass\t7\nThin Metal, Stone\t8\nThick Metal\t9\n\nItems made of several materials (guns, houses) may go by the weakest material involved; a steel axe is useless without its wooden handle. Really large targets (trains, boulders) may require five or 10 successes to destroy. The item falls apart one turn after the Gift is used. This Gift does not make a vampire decay completely, but he suffers one aggravated Health Level for each success against him (difficulty 8).",
+                        "en": "The inventions of the invaders are an affront to the Old Ways. This Gift breaks them down to the elements they came from. Many spirits, from the Termite to the West Wind, teach this blessing to their favored ones.\n\nSystem: The player rolls Manipulation + Enigmas and spends a Rage point; the Wendigo can then make one unliving item crumble into dust or debris. The roll’s difficulty depends on the strength of the item.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "", "" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Material", "Difficulty" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Paper, Cardboard", "4" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Cloth, Leather, Rope", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Thin Wood, Bone", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Thick Wood, Glass", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Thin Metal, Stone", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Thick Metal", "9" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Items made of several materials (guns, houses) may go by the weakest material involved; a steel axe is useless without its wooden handle. Really large targets (trains, boulders) may require five or 10 successes to destroy. The item falls apart one turn after the Gift is used. This Gift does not make a vampire decay completely, but he suffers one aggravated Health Level for each success against him (difficulty 8).",
                         "pl": ""
                     }
                 ]
@@ -39608,7 +40662,45 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "A long time ago, the Stargazers of Tibet made a pact with an ancient tribe of mountain spirits called the Chu-Mong (snow goblins). The pact was one of mutual protection, and a Stargazer using this Gift can reawaken the usefulness of the pact, at least temporarily. It summons the spirit of a Chu-Mong to help protect the Stargazer in question. Only a Chu-Mong can teach this Gift.\n\nSystem: The player spends a Gnosis point and rolls the Stargazer’s Gnosis. The difficulty isn’t the area’s Gauntlet — the difficulty is actually reliant upon the temperature. The warmer the temperature, the harder it is to summon a Chu-Mong.\n\nTemperature\tDifficulty\nBelow 0 degrees F\t5\n0-32 degrees F\t6\n32-49 degrees F\t7\n49-65 degrees F\t8\n65-80 degrees F\t9\nAbove 80 degrees F\t10\n\nBotching the roll summons a snow goblin that is hostile toward the Stargazer using the Gift.",
+                        "en": "A long time ago, the Stargazers of Tibet made a pact with an ancient tribe of mountain spirits called the Chu-Mong (snow goblins). The pact was one of mutual protection, and a Stargazer using this Gift can reawaken the usefulness of the pact, at least temporarily. It summons the spirit of a Chu-Mong to help protect the Stargazer in question. Only a Chu-Mong can teach this Gift.\n\nSystem: The player spends a Gnosis point and rolls the Stargazer’s Gnosis. The difficulty isn’t the area’s Gauntlet — the difficulty is actually reliant upon the temperature. The warmer the temperature, the harder it is to summon a Chu-Mong.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "Temperature", "Difficulty" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "Below 0 degrees F", "5" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "0-32 degrees F", "6" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "32-49 degrees F", "7" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "49-65 degrees F", "8" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "65-80 degrees F", "9" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "Above 80 degrees F", "10" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "en": "Botching the roll summons a snow goblin that is hostile toward the Stargazer using the Gift",
                         "pl": ""
                     }
                 ]
@@ -43919,8 +45011,37 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "If your home has no walls, sleeping can be a nightmare. There’s no guarantee that someone won’t sneak up on you to steal your stuff… or even take your life. Some werewolves solve this problem by sleeping in packs, but the veteran’s take extra precautions. Rural Garou set twigs and branches that easily snap underfoot; Bone Gnawers rig the same warnings with tin cans, tripwires, or even broken glass. With a little mystical aid, a werewolf can enlist spirits in similar defenses. The werewolf can never be sure exactly where the boundary of the urban ward is set, but he may be paranoid enough to spend more time setting multiple layers of trash around his encampment. This Gift is taught by a Rat-spirit, who usually warns its student to always collect trash and shiny things for just this purpose.\n\nSystem: By spending one Gnosis, a Bone Gnawer can ward an area against intrusion. The “area” can be anywhere between the size of a room and the size of a building. Trash is set around the periphery, usually junk that makes noise when its disturbed. If anyone crosses this imaginary boundary, the Bone Gnawer hears the spirits scream a silent warning to him. The ward remains in effect for eight hours (or in some cases, from dusk ’til dawn).\n\nThe Storyteller secretly rolls the character’s Wits + Enigmas (difficulty 6). Any supernatural creature attempting to use its powers to overcome the Urban Ward (for instance, with the vampire Discipline: Obfuscate) must score more successes on its roll to activate the proper supernatural power than the Garou did. For more mundane creatures, like humans, crossing the boundary automatically warns the Garou, who may consciously decide whether to wake up. If the trespasser is also using Stealth, the sleeping Garou can make an opposed Perception + Alertness roll without penalty, as if she awoke. Creatures that “teleport” in by means of Gifts such as Shadow Step still count as having crossed the boundary; instantaneous passage through the Umbra is still Umbral passage across the boundary.\n\nMET: Using this Gift costs one Gnosis Trait and requires a rather unusual prop: a ball of string. The Garou stomps out a roughly circular area at least five giant steps in diameter (see Giant Steps sidebar for more details). Alternatively, if the game is played indoors, string can be laid across the threshold of each door and window leading into a room — the Gift can ward an area roughly as large as a hotel room. If the game is held in a home, hotel, or public area, the urban ward could be laid across a hallway instead (although this is at the Narrator’s discretion, so ask first). The characters in the game don’t see a piece of string, of course. They will notice, however, trash, detritus, bottles and whatnot scattered throughout the area where the urban ward has been left. You may want to attach some sort of colored tag to the string to make its presence clear, especially if you use string boundaries to delineate other effects.\n\nIf anything crosses the ward, the Garou using this Gift receives a mental warning only he can hear. He can set this as anything from a whisper on the wind to a ratlike scream. (Imagine it however you like.) Even if the creature crossing the ward is using Stealth, Blur of the Milky Eye, Blissful Ignorance, Camouflage, or vampire Disciplines: Obfuscate or Otenebration, or any other obfuscative supernatural power, the Garou knows that something is there. If any of the aforementioned powers are used, he’ll still need to make the appropriate challenge to figure out exactly what it is. This power can even be used when the character is asleep (although it’s rather pointless for a player to use it while sleeping).\n\nSince the Bone Gnawer has to be sleeping in the area this Gift, it’s the player’s responsibility to stay in the area — not to force a Narrator to wait and then come get him if something crosses the boundary.",
+                        "en": "If your home has no walls, sleeping can be a nightmare. There’s no guarantee that someone won’t sneak up on you to steal your stuff… or even take your life. Some werewolves solve this problem by sleeping in packs, but the veteran’s take extra precautions. Rural Garou set twigs and branches that easily snap underfoot; Bone Gnawers rig the same warnings with tin cans, tripwires, or even broken glass. With a little mystical aid, a werewolf can enlist spirits in similar defenses. The werewolf can never be sure exactly where the boundary of the urban ward is set, but he may be paranoid enough to spend more time setting multiple layers of trash around his encampment. This Gift is taught by a Rat-spirit, who usually warns its student to always collect trash and shiny things for just this purpose.\n\nSystem: By spending one Gnosis, a Bone Gnawer can ward an area against intrusion. The “area” can be anywhere between the size of a room and the size of a building. Trash is set around the periphery, usually junk that makes noise when its disturbed. If anyone crosses this imaginary boundary, the Bone Gnawer hears the spirits scream a silent warning to him. The ward remains in effect for eight hours (or in some cases, from dusk ’til dawn).\n\nThe Storyteller secretly rolls the character’s Wits + Enigmas (difficulty 6). Any supernatural creature attempting to use its powers to overcome the Urban Ward (for instance, with the vampire Discipline: Obfuscate) must score more successes on its roll to activate the proper supernatural power than the Garou did. For more mundane creatures, like humans, crossing the boundary automatically warns the Garou, who may consciously decide whether to wake up. If the trespasser is also using Stealth, the sleeping Garou can make an opposed Perception + Alertness roll without penalty, as if she awoke. Creatures that “teleport” in by means of Gifts such as Shadow Step still count as having crossed the boundary; instantaneous passage through the Umbra is still Umbral passage across the boundary.",
                         "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [ "", "" ],
+                            "pl": [ "", "" ]
+                        },
+                        "rows": [
+                            {
+                                "en": [ "", "" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "", "" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "", "" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "", "" ],
+                                "pl": [ "", "" ]
+                            },
+                            {
+                                "en": [ "", "" ],
+                                "pl": [ "", "" ]
+                            }
+                        ]
                     }
                 ]
             }

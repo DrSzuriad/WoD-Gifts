@@ -1,201 +1,199 @@
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #111;
-      color: white;
-      margin: 0;
-      padding: 20px;
-    }
 
-    h1 {
-      margin-bottom: 20px;
-    }
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
 
-    .tabs {
-      display: flex;
-      gap: 10px;
-      margin-bottom: 20px;
-    }
+h1 {
+  margin-bottom: 20px;
+}
 
-    .tab {
-      padding: 10px 16px;
-      background: #222;
-      border-radius: 8px;
-      cursor: pointer;
-    }
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
 
-    .tab.active {
-      background: #444;
-    }
+.tab {
+  padding: 10px 16px;
+  background: #222;
+  border-radius: 8px;
+  cursor: pointer;
+}
 
-    .filters {
-      display: grid;
-	  grid-template-columns:
-	    repeat(auto-fit, minmax(220px, 1fr));
-      gap: 16px;
-      margin-bottom: 30px;
-    }
+.tab.active {
+  background: #444;
+}
 
-	.gift-list {
-	  display: flex;
-	  flex-direction: column;
-	  gap: 20px;
-	}
+.filters {
+  display: grid;
+  grid-template-columns:
+	repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-bottom: 30px;
+}
 
-    .gift-card {
-	  max-width: 1200px;
-      background: #1e1e1e;
-      border-radius: 12px;
-      padding: 16px;
-      border: 1px solid #333;
-    }
+.gift-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 
-	.gift-card select {
+.gift-card {
+  max-width: 1200px;
+  background: #1e1e1e;
+  border-radius: 12px;
+  padding: 16px;
+  border: 1px solid #333;
+}
 
-	  display: block;
+.gift-card select {
 
-	  width: fit-content;
+  display: block;
+
+  width: fit-content;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  padding: 4px 8px;
+
+  background: #222;
+
+  color: white;
+
+  border: 1px solid #444;
+
+  border-radius: 6px;
+}
+
+.gift-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.gift-meta {
+  color: #aaa;
+  margin-bottom: 10px;
+}
+
+.gift-description {
+  line-height: 1.5;
+  white-space: pre-line;
+  margin-top: 0;
+}
+
+.coming-soon {
+  padding: 40px;
+  text-align: center;
+  color: #888;
+  font-size: 24px;
+}
+
+.choices__inner {
+  background: #222 !important;
+  color: white !important;
+  border: 1px solid #444 !important;
+}
+
+.choices__list--dropdown {
+  background: #222 !important;
+  color: white !important;
+}
+
+.choices__item {
+  color: white !important;
+}
+
+.top-bar {
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  margin-bottom: 20px;
+}
+
+.app-version {
+
+  color: #888;
+
+  font-size: 14px;
+}
+
+.language-switch {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 10px;
+}
+
+.language-switch select {
+
+  background: #1a0000;
+
+  color: white;
+
+  border: 1px solid #3a0000;
+
+  border-radius: 6px;
+
+  padding: 6px 10px;
+}
+
+.choices__list--dropdown .choices__item--selectable.is-highlighted {
+  background: #555 !important;
+  color: white !important;
+}
+
+.choices__list--dropdown .choices__item--disabled {
+  background: #555 !important;
+  color: white !important;
+}
+
+.choices__list--multiple .choices__item {
+  background: #006d8f !important;
+  border: 1px solid #008db8 !important;
+  color: white !important;
+}
+
+.choices__list--multiple .choices__item {
+  background: #1a0000 !important;
+  border: 1px solid #3a0000 !important;
+  color: white !important;
+}
+
+.gift-table {
+
+	  width: 100%;
+	  border-collapse: collapse;
 
 	  margin-top: 10px;
 	  margin-bottom: 10px;
+	}
 
-	  padding: 4px 8px;
-
-	  background: #222;
-
-	  color: white;
+	.gift-table th,
+	.gift-table td {
 
 	  border: 1px solid #444;
-
-	  border-radius: 6px;
+	  padding: 8px;
+	  text-align: left;
 	}
 
-    .gift-title {
-      font-size: 20px;
-      margin-bottom: 10px;
-      font-weight: bold;
-    }
+	.gift-table th {
 
-    .gift-meta {
-      color: #aaa;
-      margin-bottom: 10px;
-    }
-
-	.gift-description {
-	  line-height: 1.5;
-	  white-space: pre-line;
-	  margin-top: 0;
+	  background: #222;
 	}
 
-    .coming-soon {
-      padding: 40px;
-      text-align: center;
-      color: #888;
-      font-size: 24px;
-    }
+	.gift-table tr:nth-child(even) {
 
-    .choices__inner {
-      background: #222 !important;
-      color: white !important;
-      border: 1px solid #444 !important;
-    }
-
-    .choices__list--dropdown {
-      background: #222 !important;
-      color: white !important;
-    }
-
-    .choices__item {
-      color: white !important;
-    }
-	
-	.top-bar {
-
-      display: flex;
-
-      justify-content: space-between;
-
-      align-items: center;
-
-      margin-bottom: 20px;
-    }
-
-    .app-version {
-
-      color: #888;
-
-      font-size: 14px;
-    }
-
-    .language-switch {
-
-      display: flex;
-
-      align-items: center;
-
-      gap: 10px;
-    }
-
-    .language-switch select {
-
-      background: #1a0000;
-
-      color: white;
-
-      border: 1px solid #3a0000;
-
-      border-radius: 6px;
-
-      padding: 6px 10px;
-    }
-  
-	.choices__list--dropdown .choices__item--selectable.is-highlighted {
-	  background: #555 !important;
-	  color: white !important;
-	}
-
-	.choices__list--dropdown .choices__item--disabled {
-	  background: #555 !important;
-	  color: white !important;
-	}
-
-	.choices__list--multiple .choices__item {
-	  background: #006d8f !important;
-	  border: 1px solid #008db8 !important;
-	  color: white !important;
-	}
-	
-	.choices__list--multiple .choices__item {
-	  background: #1a0000 !important;
-	  border: 1px solid #3a0000 !important;
-	  color: white !important;
-	}
-	
-	.gift-table {
-
-		  width: 100%;
-		  border-collapse: collapse;
-
-		  margin-top: 10px;
-		  margin-bottom: 10px;
-		}
-
-		.gift-table th,
-		.gift-table td {
-
-		  border: 1px solid #444;
-		  padding: 8px;
-		  text-align: left;
-		}
-
-		.gift-table th {
-
-		  background: #222;
-		}
-
-		.gift-table tr:nth-child(even) {
-
-		  background: #181818;
-	}
-	
-  </style>
+	  background: #181818;
+}

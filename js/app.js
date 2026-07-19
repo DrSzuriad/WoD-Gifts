@@ -1,4 +1,4 @@
-<script>
+
 
   let gifts = [];
 
@@ -778,5 +778,3 @@ function restoreSelections() {
   // =========================
 
   loadData();
-
-</script>

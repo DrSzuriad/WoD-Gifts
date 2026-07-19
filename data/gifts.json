@@ -477,7 +477,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Alter Scent",
-                    "pl": ""
+                    "pl": "Zmiana zapachu"
                 }
             }
         ],
@@ -489,7 +489,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can change one scent into another (such as replace his scent with that of a badger) or copy another’s scent. Roll Wits + Primal-Urge, difficulty six and spend a Gnosis point. The number of successes determines how baffled a tracker will be. The tracker must roll more successes to realize he has been fooled.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou zmieniać zapach (na przykład wilkołak będzie pachniał jak borsuk). Musi wykonać test Spryt + Pierwotne Instynkty (stopień trudności 6) oraz poświęcić punkt Gnozy. Liczba sukcesów określa, czy uda się oszukać tropiciela, gdyż musi on osiągnąć więcej sukcesów niż garou, aby się zorientować, że został wyprowadzony w pole."
                     }
                 ]
             },
@@ -891,7 +891,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Astral Mind",
-                    "pl": ""
+                    "pl": "Astralny umysł"
                 }
             }
         ],
@@ -903,7 +903,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can project his consciousness from his body into the Umbra. From there, his mind can enter realms denied physical beings. Since Garou are physical in the Umbra when they step sideways, they cannot usually enter these realms. Roll Intelligence + Occult, difficulty nine, and spend two Gnosis points. Success means the mind is released to roam where it will. The number of successes determines how far the Garou can go. One success and he can traverse the Near Umbra, with three successes, he can enter the unknown realms of thought. The Storyteller is encouraged to create strange adventures in these realms.\n\nNew abilities and powers can sometimes be discovered in these realms, and many Stargazers go on sojourns for unique knowledge and understanding. The Storyteller is encouraged to create new abilities that can be gained on such travels. These realms are realms of thought, and many odd enigmas spirits wait there to test trespassers with a riddle contest, a mathematical problem or a philosophical dilemma.\n\nWhile the Garou’s mind travels the Umbra, his body sits in the physical world in the state it was left and the Garou will appear to be in a coma. Finding one’s way back to one’s body is not always easy. It requires a Willpower roll against a difficulty; no successes means that the Garou is lost and must find a clue for passage back before he can roll again. If he botches this roll, the Storyteller must create a whole story concerning the search for the character’s body. The Garou’s fellow packmates may realize something is wrong and try to help — it is in the Storyteller’s hands. Some few Stargazers’ bodies have died while awaiting their minds to return from far travels.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou przenieść własną świadomość z ciała do Umbry, skąd może przedostać się do królestw, do których byty fizyczne nie mają wstępu. Wilkołaki nie mogą wchodzić do tego rodzaju krain, ponieważ przenoszą się do Umbry fizycznie. Należy wykonać test Inteligencja + Okultyzm (stopień trudności 9) oraz poświęcić dwa punkty Gnozy. Sukces oznacza uwolnienie umysłu, który może podróżować gdzie zechce. Liczba sukcesów określa, jak daleko garou może się przenieść. Jeden sukces pozwala przejść do Bliskiej Umbry, trzy sukcesy umożliwiają podróż do nieznanych królestw myśli. Narrator powinien przygotować zupełnie inne przygody, w których wezmą udział umysły postaci. Podróżując do nieznanych królestw można odkryć nowe moce i zdolności, dlatego wielu Patrzących w Gwiazdy wybiera się tam w poszukiwaniu wiedzy. Narrator powinien opracować zestaw nowych zdolności, które po powrocie będzie posiadał podróżnik. Garou przenosi się do królestw myśli, w których żyje wiele dziwnych duchów-zagadek, wyzywających intruzów na pojedynki zagadek, problemów matematycznych czy dylematów filozoficznych. Podczas gdy umysł garou podróżuje, jego ciało pozostaje w fizycznym świecie w stanie, w jakim je pozostawił; wilkołak wydaje się żyć w śpiączce. Odnalezienie drogi powrotnej nie zawsze jest łatwe. Należy wykonać test Siły Woli (stopień trudności 5). Brak sukcesów oznacza, że garou zabłądził i musi znaleźć jakąś wskazówkę dotyczącą drogi powrotnej, zanim będzie wolno mu wykonać kolejny test. Jeżeli test zakończy się Pechem, Narrator będzie musiał przygotować całą opowieść o poszukiwaniu przez garou własnego ciała. Przyjaciele garou mogą zorientować się, że coś poszło nie tak i próbować mu pomóc (wszystko zależy od Narratora). Ciała wielu Patrzących w Gwiazdy umarły, gdyż umysły poszukujących wiedzy garou nigdy do nich nie powróciły."
                     }
                 ]
             }
@@ -1346,7 +1346,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Awaken Beast",
-                    "pl": ""
+                    "pl": "Przebudzenie bestii"
                 }
             }
         ],
@@ -1358,7 +1358,7 @@
                     {
                         "type": "text",
                         "en": "This is the old ability out of legends and folklore: the power to change someone else into a werewolf by biting him. The metis must first make a successful bite attack against a target, and then roll Manipulation + Primal-Urge against a resisted roll of the target’s Willpower. The metis must also spend a Gnosis point. If successful, the Beast is awakened in the victim and he will begin to frenzy. The target will believe he has become a werewolf. If the target actually is a werecreature, his Primal-Urge score is added to his Willpower dice pool for the resistance roll. The effect lasts for one scene, although a human bit with this Gift may suffer a permanent derangement.",
-                        "pl": ""
+                        "pl": "Jest to starodawna moc, znana z legend i wierzeń; moc przekazania klątwy wilkołactwa poprzez ugryzienie. Metys musi najpierw ugryźć ofiarę, a następnie poświęcić punkt Gnozy i wykonać test sporny Oddziaływanie + Pierwotne Instynkty przeciwko Sile Woli ofiary. Jeżeli zakończy się on powodzeniem, to w ugryzionym przebudzi się bestia, która wywołuje furię. Ofiara będzie przekonana, że przemieniła się w wilkołaka. Jeżeli ugryziony pochodzi z ras zmiennokształtnych, to do Siły Woli należy dodać wartość jego talentu Pierwotne Instynkty i dopiero potem wykonywać test. Dar działa jedną scenę. Człowiek, który będzie ofiarą jego działania, może nabawić się psychicznego urazu."
                     }
                 ]
             }
@@ -1456,7 +1456,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Babble",
-                    "pl": ""
+                    "pl": "Bełkot"
                 }
             }
         ],
@@ -1468,7 +1468,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can spend a Gnosis point and roll Manipulation + Primal-Urge, difficulty seven, to make another lose the ability to read, write or speak any language. That person will only be able to grunt like an animal. The person gets to resist with an Intelligence + Linguistics roll, difficulty seven. The effect lasts for one scene.",
-                        "pl": ""
+                        "pl": "Poświęcając punkt Gnozy i wykonując test Oddziaływanie + Pierwotne Instynkty (stopień trudności 7) garou może sprawić, że ofiara utraci umiejętności czytania, pisania i porozumiewania się w dowolnym języku – będzie w stanie tylko chrząkać jak zwierzę. Osoba poddana działaniu tego daru może wykonać test sporny Inteligencja + Lingwistyka (stopień trudności 7). Bełkot działa jedną scenę."
                     }
                 ]
             }
@@ -1485,7 +1485,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Bacchantes’ Rage",
-                    "pl": ""
+                    "pl": "Ukierunkowany gniew"
                 }
             },
             {
@@ -1497,7 +1497,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Bacchantes’ Rage",
-                    "pl": ""
+                    "pl": "Ukierunkowany gniew"
                 }
             }
         ],
@@ -1520,7 +1520,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 4\n\nThis Gift can only be used in the wilds. The Garou can channel the destructive power of the Wyld through her anger. The Garou spends two Gnosis points and can then spend Rage points to do extra damage to her opponents. Each Rage point spent adds one to the Garou’s damage successes. An opponent cannot soak this Rage-driven damage. This ensures that an enemy will not leave without at least one wound.",
-                        "pl": ""
+                        "pl": "Ranga: 4\n\nTego daru wolno używać tylko w dziczy. Wilkołak, korzystając ze swego gniewu, może ukierunkować niszczycielską moc Dzikuna. Poświęca dwa punkty Gnozy na uaktywnienie daru, po czym za każdy poświęcony punkt Szału zadaje przeciwnikowi dodatkowe obrażenia. Każdy punkt Szału zwiększa o jeden liczbę sukcesów w teście określającym zadane obrażenia. Przeciwnik nie może wyparowywać ran, które wywołał Ukierunkowany gniew. W ten sposób garou zyskuje pewność, że wróg otrzyma przynajmniej jedno obrażenie."
                     }
                 ]
             }
@@ -2648,7 +2648,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Beg",
-                    "pl": ""
+                    "pl": "Błaganie"
                 }
             }
         ],
@@ -2660,7 +2660,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can, by putting on a pathetic act of self-condemnation, invoke pity in others and get them to give him something for his troubles. Roll Manipulation + Performance and spend one Gnosis point. The difficulty depends on the audience: guilty white males are a five, while a Shadow Lord Ahroun might be a ten. The number of successes determines how good the reward will be: one success might be enough for a cup of coffee and a Danish, while five successes might bring a fetish.",
-                        "pl": ""
+                        "pl": "Garou poddają się żałosnej samokrytyce, wzbudzając w ten sposób litość i otrzymując jałmużnę lub pomoc. Należy wykonać test Oddziaływanie + Występy Publiczne oraz poświęcić punkt Gnozy. Stopień trudności zależy od publiczności: biali mężczyźni dręczeni poczuciem winy – 5; Ahroun Władca Cienia – 10. Liczba sukcesów określa, jak wysoki będzie datek: jeden wystarczy zaledwie na filiżankę kawy, podczas gdy pięć może oznaczać nawet otrzymanie fetyszu."
                     }
                 ]
             },
@@ -2717,7 +2717,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Berserker’s Song",
-                    "pl": ""
+                    "pl": "Pieśń berserkerów"
                 }
             },
             {
@@ -2729,7 +2729,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Berserker’s Song",
-                    "pl": ""
+                    "pl": "Pieśń berserkerów"
                 }
             },
             {
@@ -2741,7 +2741,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Berserker’s Song",
-                    "pl": ""
+                    "pl": "Pieśń berserkerów"
                 }
             }
         ],
@@ -2775,7 +2775,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 4\n\nThe Garou can sing himself into a frenzy, or a frenzy, but it is a controlled state. During this frenzy, he receives all frenzy benefits (no dice pool modifiers due to wounds, etc.) but can stop the frenzy at any time by stopping his song and spending a Willpower point. Roll Stamina + Expression (or Performance), difficulty seven, and spend two Rage points. The number of successes is the number of turns the Garou can stay in frenzy.",
-                        "pl": ""
+                        "pl": "Ranga: 4\n\nGarou śpiewając wprowadza się w stan kontrolowanej furii i otrzymuje wszystkie związane z tym korzyści (obrażenia nie powodują modyfikacji Puli Kości itp.). Ponadto wilkołak może w dowolnym momencie wyrwać się z objęć szału, przerywając śpiew i wydając punkt Siły Woli. Należy poświęcić dwa punkty Szału oraz wykonać test Wytrzymałość + Ekspresja (lub Występy Publiczne), stopień trudności 7. Liczba sukcesów określa liczbę tur, przez które Garou pozostaje w furii."
                     }
                 ]
             },
@@ -3787,7 +3787,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Body Shift",
-                    "pl": ""
+                    "pl": "Przemiana"
                 }
             },
             {
@@ -3799,7 +3799,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Body Shift",
-                    "pl": ""
+                    "pl": "Przemiana"
                 }
             },
             {
@@ -3811,7 +3811,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Body Shift",
-                    "pl": ""
+                    "pl": "Przemiana"
                 }
             },
             {
@@ -3823,7 +3823,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Body Shift",
-                    "pl": ""
+                    "pl": "Przemiana"
                 }
             },
             {
@@ -3835,7 +3835,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Body Shift",
-                    "pl": ""
+                    "pl": "Przemiana"
                 }
             }
         ],
@@ -3847,7 +3847,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can use her shapeshifting to alter her physical Traits. A level of Dexterity can be shifted to Strength or Stamina, or a level of Stamina could be shifted to Dexterity — whatever combination the player desires. Roll Stamina + Primal-Urge (difficulty 9). For every two successes, one Trait level can be shifted. The effect lasts for one scene only. A Rage point can not be spent to shift Traits instantly.",
-                        "pl": ""
+                        "pl": "Garou potrafi w dowolny sposób zmieniać swe cechy fizyczne, tzn. na przykład poziom Zręczności może zamienić na poziom Siły lub Wytrzymałości, a poziom Wytrzymałości na Zręczność; dozwolona jest każda kombinacja. Należy wykonać test Wytrzymałość + Pierwotne Instynkty (stopień trudności 9). Każde dwa sukcesy uprawniają do zmiany jednego poziomu cechy. Dar działa tylko przez jedną scenę. Do natychmiastowej zamiany cech nie można wykorzystać punktów Szału."
                     }
                 ]
             },
@@ -4272,7 +4272,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Brew",
-                    "pl": ""
+                    "pl": "Bimber"
                 }
             }
         ],
@@ -4284,7 +4284,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can take any liquid substance (about a pitcher full) and turn it into an alcoholic drink. The Garou must roll Wits + Medicine (difficulty 7) and spend a Gnosis point. The “proof” of this brew is determined by the number of successes: one success creates beer, three successes create whiskey and five create an old and fine wine. A botch will create beer, but all who drink it will suffer horrible hangovers the next morning and afternoon (treat as Inured -1 to Dice Pools). This Gift cannot nullify poisons: if the liquid was poisonous before the transmutation, it will be poisonous alcohol.",
-                        "pl": ""
+                        "pl": "Garou może zamienić dowolną ciecz (pełny dzban) w alkohol. Należy wykonać test Spryt + Medycyna (stopień trudności 7) oraz poświęcić punkt Gnozy. „Jakość” bimbru jest określana liczbą sukcesów: jeden to piwo, trzy – whisky, a pięć – stare, wyśmienite wino. W przypadku Pecha otrzymujemy piwo, po wypiciu którego ma się okropnego kaca przez cały następny poranek i popołudnie (skacowany czuje się jak „lekko ranny”; ma o jeden mniejszą Pulę Kostek). Ten dar nie jest w stanie zneutralizować trucizny – jeżeli płyn był zatruty przed przemianą, to będzie i po niej."
                     }
                 ]
             },
@@ -6014,7 +6014,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Camera Eye",
-                    "pl": ""
+                    "pl": "Oko kamery"
                 }
             }
         ],
@@ -6026,7 +6026,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can “film” events simply by looking at them. They will be recorded in her retina and can later be transferred to videotape or still film. Any sight that the Garou witnesses can be captured with the expenditure of a Gnosis point and a roll of Perception + Alertness (difficulty 5). To transfer the images to a viewable medium (video, photos, etc.), the Garou must stare at the object (tape, film roll, etc.) and spend a Willpower point. If the Garou wishes to take pictures or shots that can pass as art, Performance is a complementary skill.",
-                        "pl": ""
+                        "pl": "Pozwala „filmować” wydarzenia widziane przez garou, które zostają uwiecznione na siatkówce, a które można później przenieść, na przykład na taśmę wideo. Można zarejestrować wszystko, co wilkołak jest w stanie zaobserwować. W tym celu należy poświęcić punkt Gnozy i wykonać test Percepcja + Czujność (stopień trudności 5). Garou musi patrzeć na taki nośnik (taśma filmowa, klisza fotograficzna, itd.) oraz poświęcić punkt Siły Woli, aby przenieść obraz na standardowe nośniki (wideo, fotografia itp.). Wilkołak, który pragnie wykonać artystyczne ujęcia, musi skorzystać z Występów Publicznych, uzupełniających jego możliwości."
                     }
                 ]
             }
@@ -6450,7 +6450,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Chant of Morpheus",
-                    "pl": ""
+                    "pl": "Pieśń Morfeusza"
                 }
             }
         ],
@@ -6462,7 +6462,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can lull another into a deep sleep. She must roll Charisma + Enigmas (resisted by the target’s Willpower) and spend a Gnosis point. The number of successes is the number of hours the target will sleep. During this time, the Garou may not attack the sleeper, nor may she allow him to come to harm. If any attack is directed against the sleeper, he will instantly awaken. When the sleep ends naturally, however, he will be disinclined to carry out any actions that would harm the user of this Gift; he must spend a Willpower point to do so. This effect lasts for the remainder of the scene.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala wprowadzać ofiary w głęboki sen. Należy wykonać test Charyzma + Zagadki (przeciwko Silnej Woli ofiary) oraz poświęcić punkt Gnozy. Liczba sukcesów określa, ile godzin prześpi ofiara. W tym czasie garou nie może atakować śpiącego, ani dopuścić, aby coś mu się stało. Każdy atak automatycznie budzi ofiarę. Kiedy uśpiony przebudzi się w sposób naturalny, nie będzie w stanie skrzywdzić wilkołaka, który korzystał z daru (chyba że atakujący poświęci punkt Siły Woli). Czas działania obejmuje całą scenę."
                     }
                 ]
             },
@@ -7467,7 +7467,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Combat Healing",
-                    "pl": ""
+                    "pl": "Bojowe leczenie"
                 }
             }
         ],
@@ -7479,7 +7479,7 @@
                     {
                         "type": "text",
                         "en": "With the expenditure of two Rage points, the Garou is able to regenerate during combat while remaining active and without having to make a roll for battle scars. The Garou does not need to make the Stamina roll to heal; it is automatic no matter what activity he is engaged in or what form he is wearing (even Homid). However, he cannot heal aggravated wounds with this Gift. The effect lasts for one scene.",
-                        "pl": ""
+                        "pl": "Poświęcając dwa punkty Szału, garou może regenerować się w trakcie walki, nie przerywając jej; ponadto nie wykonuje testu na zaszycie rany. Wilkołak nie musi przejść testu Wytrzymałości, aby się wyleczyć. Garou leczy się natychmiast, bez względu na to, co właśnie robi i w jakiej jest postaci (może przyjąć nawet formę homid). Ten dar nie pozwala, niestety, leczyć prawdziwych obrażeń. Po uaktywnieniu efekt utrzymuje się przez jedną scenę."
                     }
                 ]
             },
@@ -8177,7 +8177,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Corner Shot",
-                    "pl": ""
+                    "pl": "Strzał zza rogu"
                 }
             }
         ],
@@ -8189,7 +8189,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows gunfire to wrap around corners and hit targets out of sight. Roll Perception + Firearms, difficulty nine, and spend a Gnosis point. The range is the range of the weapon. Only single shots can be fired with this Gift — autofire will not work. Glass Walker godfathers are feared because of this Gift.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala schować się za rogiem i trafić w cel, który nie znajduje się w polu widzenia. Należy wykonać test Percepcja + Broń Palna (stopień trudności 9) oraz poświęcić punkt Gnozy. Dar pozwala wykonać tylko jeden strzał, a nie serię z automatu. Ta zdolność wsławiła gangsterów Tubylców Betonu."
                     }
                 ]
             },
@@ -8286,7 +8286,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Counting Coup",
-                    "pl": ""
+                    "pl": "Wyliczanie zasług"
                 }
             },
             {
@@ -8298,7 +8298,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Counting Coup",
-                    "pl": ""
+                    "pl": "Wyliczanie zasług"
                 }
             },
             {
@@ -8310,7 +8310,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Counting Coup",
-                    "pl": ""
+                    "pl": "Wyliczanie zasług"
                 }
             }
         ],
@@ -8322,7 +8322,7 @@
                     {
                         "type": "text",
                         "en": "Tribe: Wendigo\n\nThe Garou can take Renown from someone by hitting him. The Garou makes a normal attack maneuver (punch, kick, club, etc.), and spends a Gnosis point, but must do no damage; roll damage as normal, but if anything gets through the target’s soak, this Gift will not work. The Garou can declare that he is pulling his blow and do no damage, but his attack difficulty is one higher. For every success (as long as no damage was done) the target loses 25 Glory Renown. This can only be performed on a single target once per scene. Every time this Gift is used against a Wyrm creature, the Garou gains 25 Glory Renown for every success on his roll, for being so bold as to strike a Wyrm creature but do no damage (he can hit again afterwards and do damage if he wants). This can only be done once per battle with Wyrm forces.",
-                        "pl": ""
+                        "pl": "Plemię: Wendigo\n\nTen dar pozwala garou zabrać sławę zaatakowanej osobie. Należy wykonać normalny atak (uderzenie pięścią, pałką, kopniak itp.) oraz poświęcić punkt Gnozy. Nie wolno zadać żadnych obrażeń. Test określający zadawane obrażenia wykonuje się zgodnie ze standardową procedurą, jeśli jednak ofiara nie zdoła wyparować wszystkich ran, to dar nie zadziała. Garou może zadeklarować, że chce, by cios nie zranił przeciwnika, ale wówczas stopień trudności ataku jest o jeden wyższy. Za każdy sukces (jeśli nie zadano obrażeń) ofiara traci punkt Chwały. Daru można użyć tylko raz na scenę przeciwko danej osobie. Wilkołak, który wykorzystuje Wylizanie zasług przeciwko stworowi Żmija, otrzymuje punkt Chwały za każdy otrzymany sukces, docenia się w ten sposób jego odwagę – wszak atakuje przebrzydły pomiot nie zadając ran (potem można uderzyć jeszcze raz i zadać obrażenia). Daru można użyć tylko raz podczas jednej walki z siłami Żmija."
                     }
                 ]
             },
@@ -8991,7 +8991,7 @@
                     {
                         "type": "text",
                         "en": "The Garou summons an eerie, chilling fog to shroud the landscape, unnerving her enemies. The Garou can see through the fog, but others will have trouble navigating the mists. This Gift is taught by a spirit servant of Aeolus, a totem spirit.\n\nWendigo: Warpath members use this Gift to shroud their eco-warrior activities.\n\nSystem: The Garou rolls Gnosis against a variable difficulty (4 near the sea, 6 normally, 9 in a desert). The Garou’s vision is unhindered by the mist, but all others halve their Perception rolls. Additionally, the mist is creepy and unnerving to enemies; -1 to Willpower rolls.",
-                        "pl": "Przywołana przez garou niesamowita, lodowata mgła spowija okolicę, napełniając lękiem przeciwników. Sam garou widzi przez nią bez problemu, ale inni będą mieli kłopoty z orientacją. Mocą tą obdarza wilkołaka duch służący Eolowi (jeden z duchów-totemów). \n\nSystem: Garou wykonuje test Gnozy (trudność zmienna – od 4 niedaleko od brzegu morza, poprzez 6 na zwykłym terenie, po 9 na pustyni). Opar nie przeszkadza wilkołowi w żaden sposób, za to wszyscy jego przeciwnicy mają na wyniki testów Percepcji, a ponadto, oślepieni zimnymi mackami nieprzyjemnej, dziwnej mgły, odejmują 1 od wyników testów Siły Woli."
+                        "pl": "Przywołana przez garou niesamowita, lodowata mgła spowija okolicę, napełniając lękiem przeciwników. Sam garou widzi przez nią bez problemu, ale inni będą mieli kłopoty z orientacją. Mocą tą obdarza wilkołaka duch służący Eolowi (jeden z duchów-totemów).\n\nCzłonkowie Ścieżki Wojennej posługują się Klątwą Eola, by zamaskować działalność ekowojowników. \n\nSystem: Garou wykonuje test Gnozy (trudność zmienna – od 4 niedaleko od brzegu morza, poprzez 6 na zwykłym terenie, po 9 na pustyni). Opar nie przeszkadza wilkołowi w żaden sposób, za to wszyscy jego przeciwnicy mają na wyniki testów Percepcji, a ponadto, oślepieni zimnymi mackami nieprzyjemnej, dziwnej mgły, odejmują 1 od wyników testów Siły Woli."
                     }
                 ]
             },
@@ -9723,7 +9723,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Data Flow",
-                    "pl": ""
+                    "pl": "Przepływ danych"
                 }
             }
         ],
@@ -9735,7 +9735,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows a Glass Walker to manipulate a computer without touching it. By closing her eyes and concentrating, she can make out visual data from the computer with her inner eye, and “hear” noises the computer makes. This Gift requires a Wits + Computer roll, difficulty seven, and the Garou must spend a Gnosis point to make the connection. The connection lasts up to an hour, or until the Garou is taken from the line of sight of the computer. Any Garou using this Gift must concentrate, and thus receives a plus three on all Perception rolls.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala Tubylcom Betonu manipulować komputerami bez dotykania ich. Zamykając oczy i koncentrując się, potrafią przeglądać dane zapisane na dysku (i nie tylko). Nawiązanie połączenia wymaga wykonania testu Spryt + Komputery (stopień trudności 7) oraz poświęcenia punktu Gnozy, a utrzymuje się ono przez godzinę lub do czasu, kiedy komputer znajdzie się poza zasięgiem wzroku garou. Użycie tego daru wymaga koncentracji, co z kolei zwiększa o trzy stopnie trudności wszystkie testy Percepcji."
                     }
                 ]
             },
@@ -10398,7 +10398,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Directing the Soul",
-                    "pl": ""
+                    "pl": "Kierowanie duszą "
                 }
             }
         ],
@@ -10410,7 +10410,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the Garou to expend either Rage points, Gnosis points or Health Levels (treat as aggravated loss) to gain a one time bonus to her successes. For each point or level used, the Garou gains an extra success to her roll, similar to the way Willpower is usually spent, but this can be used with all the above listed Traits. No roll is necessary to activate this power, simply the expenditure of the chosen Trait.",
-                        "pl": ""
+                        "pl": "Garou poświęca punkty Gnozy, Szału lub Stanu Zdrowia (traktowane jak prawdziwe rany), dzięki czemu uzyskuje jednorazową premię do sukcesów przy dowolnym teście. Za każdy poświęcony punkt (lub poziom) wilkołak otrzymuje dodatkowy sukces, tak jakby korzystał z Siły Woli, tyle tylko, że może posłużyć się dowolną z podanych wyżej cech. Aktywacja mocy nie wymaga żadnego testu."
                     }
                 ]
             },
@@ -10438,7 +10438,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Disfigurement",
-                    "pl": ""
+                    "pl": "Szpetota"
                 }
             }
         ],
@@ -10450,7 +10450,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can inflict another with an ugly disfigurement, such as a scar or diseased blotch, or she can make all the target’s fur fall out. If the disfigurement is a scar, it will be in a decidedly dishonorable place (the rear end, for example) and will not pass for a battle scar. The disfigurement will heal by the next scene, but until then, the target will suffer a two-dice penalty to social rolls. Roll Manipulation + Primal-Urge (difficulty 7) and spend a Willpower point.",
-                        "pl": ""
+                        "pl": "Pozwala bardzo paskudnie zeszpecić inną osobę; pojawiają się np. blizny lub krosty, linieje całe futro. Jeżeli ofiarę szpeci blizna, to będzie się ona znajdowała w miejscu godzącym w honor (jak np. pośladki) i na pewno nie może uchodzić za zaszczytną ranę. Psujące wygląd paskudztwo zniknie dopiero w następnej scenie, ale do tego czasu zeszpecony ma o dwa mniejszą Pulę Kości wszystkich testów społecznych. Uaktywnienie daru wymaga poświęcenia punktu Siły Woli oraz wykonania testu Oddziaływanie + Pierwotne Instynkty (stopień trudności 7)."
                     }
                 ]
             },
@@ -12973,7 +12973,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Faerie Blood",
-                    "pl": ""
+                    "pl": "Krew istot faerie"
                 }
             }
         ],
@@ -12985,7 +12985,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can temporarily transform his blood into that of a Faerie. This allows him immunity to silver; however, iron will have the same effect on him that silver normally does. Any Gnosis roll will be at a -1 difficulty; also, the Garou does not have to spend a Gnosis point on any Gift or magic which requires the expenditure of Gnosis (although those with a cost of two or more require the full expenditure). In addition, he can walk into Arcadia from the Umbra without having to worry about guardians or time-shift effects.\n\nThe character will be considered to have potent blood to the Kindred: each blood point is worth two for their feeding — but there is always a side effect for the vampire drinking this fey blood. The Storyteller is free to get wild with the effect: anything from hallucinations to transforming into a donkey-headed vampire princess. Any Kindred who consumes the Faerie Blood as special, even for a werewolf. The Garou does not need to roll for this Gift, but he must spend two Gnosis points to activate it. This Gift lasts for one scene.",
-                        "pl": ""
+                        "pl": "Garou może czasowo przemienić swą krew w krew istot faerie. Jest dzięki temu odporny na działanie srebra, ale za to żelazo jest dla niego bardzo niebezpieczne (działa tak, jak do tej pory srebro). Wszystkie testy Gnozy należy wykonywać z modyfikatorem -1 do stopnia trudności. Ponadto garou nie musi poświęcać punktów Gnozy korzystając z darów itd., które wymagają tylko jednego punktu Gnozy (ale w przypadku dwóch lub więcej punktów trzeba zapłacić pełny koszt). Będzie on mógł również przejść z Umbry do Arkadii, nie obawiając się strażników ani efektów przesunięcia czasu. Bohatera należy traktować tak, jakby posiadał silniejszą krew (dla celów odżywczych każdy punkt krwi wart jest dwa punkty). U wampirów, które wypiją tak wzbogaconą krew, wystąpią efekty uboczne (zależnie od Narratora: poczynając od halucynacji, a kończąc na transformacji głowy wampira w ośli łeb na całą scenę). Każdy członek Rodziny znający dyscyplinę Nadwrażliwość (Widzenie Aury) na poziomie dwa rozpozna krew garou jako coś bardzo specjalnego nawet jak na zmiennokształtnego. Wilkołak nie musi wykonywać testu, aby uaktywnić dar, a jedynie poświęcić dwa punkty Gnozy. Krew istot faerie działa jedną scenę."
                     }
                 ]
             }
@@ -14604,7 +14604,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Fly Feet",
-                    "pl": ""
+                    "pl": "Stopy muchy"
                 }
             }
         ],
@@ -14616,7 +14616,7 @@
                     {
                         "type": "text",
                         "en": "This allows a Garou to climb vertical surfaces as if she were an insect. Roll Dexterity + Athletics. The difficulty depends on the surface. Wood and rough stone would be five, glass and smooth marble would be nine. Upside down movement adds plus one or two to the difficulty. The ability lasts for one scene. Movement rate is halved unless five or more successes are rolled.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou wspinać się po pionowych powierzchniach, tak jak gdyby był owadem. Należy wykonać test Zręczność + Wysportowanie. Stopień trudności zależy od rodzaju powierzchni: drewno i chropowaty kamień – pięć; szkło i gładki marmur – dziewięć. Poruszanie się głową w dół zwiększa stopień trudności o jeden lub dwa. Zdolność działa jedną scenę. Jeżeli podczas testu wypadły cztery sukcesy lub mniej, wówczas prędkość poruszania zmniejsza się o połowę."
                     }
                 ]
             },
@@ -14961,7 +14961,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Fool’s Luck",
-                    "pl": ""
+                    "pl": "Szczęście głupców"
                 }
             }
         ],
@@ -14973,7 +14973,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the Garou to negate botches. For each scene, the Garou spends one Gnosis point and makes a Gnosis roll (difficulty nine); each success allows the character to negate one botch. The character can choose when to use this throughout the scene. Fool’s Luck only works in situations involving trickery, coercion, stealth, etc. It does not apply to combat, tracking, or any other active skill.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala ignorować Pecha. W danej scenie garou wykonuje test Gnozy (stopień trudności 9) oraz poświęca punkt tego atrybutu. Każdy sukces pozwala mu anulować jeden Pech. Bohater może sam określić, kiedy skorzysta z tego przywileju. Szczęście głupców działa tylko w sytuacjach związanych z podstępem, przymusem, skradaniem się itp. Nie funkcjonuje w walce, podczas tropienia lub przy wykorzystaniu innych podobnych umiejętności."
                     }
                 ]
             }
@@ -16429,7 +16429,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Gift of the Termite",
-                    "pl": ""
+                    "pl": "Dar termitów"
                 }
             }
         ],
@@ -16441,7 +16441,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can cause wood to rot at an incredible rate. Roll Intelligence + Repair, difficulty seven, and spend one Gnosis point. The number of successes determines how much wood is affected: one success will rot a post or a board, three successes will collapse part of a floor, and five successes will collapse a room.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala wywołać postępującą w zastraszającym tempie próchnicę drewna. Należy wykonać test Inteligencja + Naprawa (stopień trudności 7) oraz poświęcić punkt Gnozy. Liczba sukcesów określa skuteczność działania daru: jeden spowoduje rozpadnięcie się słupka lub deski, trzy zaowocują zarwaniem kawałka podłogi, a pięć zawaleniem dachu."
                     }
                 ]
             },
@@ -16698,7 +16698,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Gluttony",
-                    "pl": ""
+                    "pl": "Obżarstwo"
                 }
             }
         ],
@@ -16710,7 +16710,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can swallow other things or beings whole. Roll Stamina + Primal-Urge (difficulty 8). Beings can resist with Dexterity + Dodge. In the case of a very large being or object, one success is required for every Health Level the target possesses beyond the normal seven, or for every extra being or object size beyond the Garou (obviously, Crinos form is best for this Gift). This Gift is a specialized variant of the shapeshift power, allowing the Garou to widen the mouth and swallow nearly anything. Swallowed objects or beings wind up in the Umbra, in a subrealm that is a mystical “stomach” of the Glutton. The Garou can belch these objects out later. Objects can be held for a number of hours equal to the Glutton’s Stamina; after this time, the Garou automatically regurgitates them back into the physical world. The objects appear next to the Garou, and are unharmed.",
-                        "pl": ""
+                        "pl": "Garou może połykać w całości żywe istoty i przedmioty. Należy wykonać test Wytrzymałość + Pierwotne Instynkty (stopień trudności 8). Żywe istoty mogą się opierać (test Zręczność + Uniki). W przypadku bardzo dużych stworzeń lub przedmiotów, obżerający się garou musi uzyskać jeden dodatkowy sukces na każdy Stan Zdrowia powyżej siódmego lub na każdy metr, o który jest mniejszy (dlatego najlepiej używać tego daru w postaci crinosa). Ta moc pozwala garou poszerzać swój otwór gębowy i połknąć prawie wszystko. Ofiary przenoszą się do Umbry, do mistycznego żołądka obżartucha; wilkołak może je później zwymiotować. Wszystkie połknięte rzeczy mogą być przechowywane przez liczbę godzin równą Wytrzymałości obżartucha; po tym czasie garou automatycznie zwraca je do świata fizycznego – pojawiają się nie uszkodzone obok niego."
                     }
                 ]
             },
@@ -16990,7 +16990,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Gorgon’s Gaze",
-                    "pl": ""
+                    "pl": "Spojrzenie Gorgony"
                 }
             }
         ],
@@ -17002,7 +17002,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can turn a target to stone with her gaze. Roll Perception + Occult (difficulty equal to the target’s Gnosis). The number of successes is the number of turns the target is changed to stone. During this time, he can neither move nor act but he receives five extra dice to soak rolls. If five successes are scored, the target is permanently turned to stone until some external counter the effect; this “something” is up to the Storyteller, but it could be a quest for atonement or for the blessings of Gaia. Another Garou with this power can reverse the effect (roll Perception + Occult and beat the successes) once back to flesh. It is also possible to turn this Gift back on its user: if a mirror can catch the gaze and reflect it back, the Garou can turn herself into stone, with the same effects above. This requires a mirror and a roll of Dexterity + Subterfuge (difficulty 9).",
-                        "pl": ""
+                        "pl": "Ten dar pozwala spojrzeniem przemieniać w kamień. Należy wykonać test Percepcja + Okultyzm (stopień trudności = Gnoza ofiary). Liczba sukcesów oznacza liczbę tur, podczas których nieszczęśnik jest posągiem. Przemieniony nie może się poruszać ani wykonywać jakichkolwiek działań, ale otrzymuje za to pięć dodatkowych kostek do testów wyparowań. Jeżeli garou uzyska pięć sukcesów, wówczas ofiara zostaje zamieniona w kamień na stałe, a raczej do czasu, aż coś zneutralizuje efekt działania daru. To „coś” zależy wyłącznie od Narratora – może trzeba będzie zorganizować jakąś wyprawę lub zdobyć błogosławieństwo Gai. Garou, który zna ten dar, może przywrócić ofierze Spojrzenia Gorgony zwykłą postać (wymagane pięć sukcesów przy teście Percepcja + Okultyzm). Tego samego daru pozwala również korzystającemu z niego wilkołakowi przemienić siebie, wystarczy tylko spojrzeć w lustro i wykonać test Zręczność + Przebiegłość (stopień trudności 9)."
                     }
                 ]
             },
@@ -17498,8 +17498,8 @@
                 "faction_value": "All",
                 "rank": 2,
                 "names": {
-                    "en": "Growl",
-                    "pl": ""
+                    "en": "Grovel",
+                    "pl": "Płaszczenie się"
                 }
             }
         ],
@@ -17511,7 +17511,7 @@
                     {
                         "type": "text",
                         "en": "By showing your throat to an enemy, you can stop them from harming you further. Roll Charisma + Performance resisted by attacker’s Rage, and spend one Gnosis point. If successful, other Garou will instinctively cease to fight you. This does not mean they will leave you alone. They may continue to watch you and may verbally berate you, but they will not harm you as long as you do not initiate any attack. If you make an attack, the effect of this Gift wears off. It normally lasts for one scene. This Gift costs 50 Honor every time it is used.",
-                        "pl": ""
+                        "pl": "Odsłaniając krtań, metys może powstrzymać dowolnego garou przed wyrządzeniem mu krzywdy. Należy poświęcić punkt Gnozy oraz wykonać test sporny Charyzma + Występy Publiczne kontra Szał atakującego. Jeżeli metys zwycięży, przeciwnik instynktownie zaprzestanie walki. Nie oznacza to, że pozostawi go w spokoju. Będzie obserwował metysa i może rzucać obelgi, ale nie skrzywdzi płaszczącego się, dopóki ten nie sprowokuje ataku. Jeżeli chroniony wilkołak zaatakuje, działanie daru natychmiast się skończy. Płaszczenie się zwykle działa przez jedną scenę. Każde użycie tego daru kosztuje punkt Honoru."
                     }
                 ]
             }
@@ -17677,8 +17677,8 @@
                 "faction_value": "All",
                 "rank": 3,
                 "names": {
-                    "en": "Guise of the Hound",
-                    "pl": ""
+                    "en": "The Guilty Mind",
+                    "pl": "Poczucie winy"
                 }
             }
         ],
@@ -17690,7 +17690,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the Garou to force another to do things through shaming him on a guilt trip. Roll Manipulation + Expression (or Intimidation) versus the target’s Willpower. If successful, the target will be suckered into doing something because he feels he has no other ethical choice. The number of successes determines how extreme the action can be. Five successes would be needed to get a Get of Fenris to fall on his knees and apologize to a wronged female, while only one would be needed to get a Bone Gnawer to do the same thing (they’re used to falling to their knees).",
-                        "pl": ""
+                        "pl": "Ten dar pozwala zmusić ofiarę do działania wynikającego z poczucia winy. Należy wykonać test Oddziaływanie + Ekspresja (lub Zastraszanie przeciwko Sile Woli nieszczęśnika). Jeżeli test się powiedzie, ofiara poczuje przymus wykonania jakiegoś działania, ponieważ uzna, że jest to słuszne i etyczne. Liczba sukcesów określa, jak bardzo nietypowo zachowa się „winny”. Zmuszenie Pomiotu Fenrisa, aby upadł na kolana i przeprosił rozpuszczoną kobietę, wymaga pięciu sukcesów, podczas gdy spowodowanie takiej samej reakcji u Gnatożuja – jednego (te garou są przyzwyczajone do padania na kolana)."
                     }
                 ]
             }
@@ -18125,7 +18125,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Harano",
-                    "pl": ""
+                    "pl": "Harano"
                 }
             }
         ],
@@ -18136,8 +18136,8 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "Camp: Ghost Dance\n\nThis Gift permits the Wendigo to force a state of Harano on a single opponent with a successful Manipulation + Expression roll, difficulty eight. This lasts for only one scene, unless five or more successes are rolled, in which case a quest must be undertaken to escape the morbid depression. During the period of effect, the target is so depressed he cannot initiate an action without a successful Willpower roll (difficulty 7). This Gift does not affect Native Americans or Native American Garou (or anyone from a culture that has been severely oppressed).",
-                        "pl": ""
+                        "en": "This Gift permits the Wendigo to force a state of Harano on a single opponent with a successful Manipulation + Expression roll, difficulty eight. This lasts for only one scene, unless five or more successes are rolled, in which case a quest must be undertaken to escape the morbid depression. During the period of effect, the target is so depressed he cannot initiate an action without a successful Willpower roll (difficulty 7). This Gift does not affect Native Americans or Native American Garou (or anyone from a culture that has been severely oppressed).",
+                        "pl": "Ten dar pozwala wprowadzić pojedynczego przeciwnika w stan Harano. Należy wykonać test Oddziaływanie + Ekspresja (stopień trudności 8). Czas działania to jedna scena, chyba że wypadło pięć lub więcej sukcesów – wówczas pozbycie się chorobliwej depresji będzie wymagało wykonania jakiejś misji. Ofiara daru znajduje się w tak silnej depresji, że nie jest w stanie podjąć żadnego działania, chyba że uda jej się przejść test Siły Woli (stopień trudności 6). Harano nie działa na Indian i na pochodzących od nich garou (tzn. na kogoś, kto wywodzi się ze zniewolonych kultur)."
                     }
                 ]
             },
@@ -18924,7 +18924,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Heat Metal",
-                    "pl": ""
+                    "pl": "Rozgrzanie metalu"
                 }
             }
         ],
@@ -18936,7 +18936,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows a Garou to heat metal objects. Roll Intelligence + Repair, and spend one Gnosis point. The difficulty depends on the metal’s melting point; lead is less difficult than steel. If cast on a sword, it will do heat damage to the victim but also to the wielder, unless she has protection; the hot metal will do one level of aggravated damage to anyone failing their soak roll. This can be used to forge metals.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala rozgrzewać metalowe przedmioty. Należy poświęcić punkt Gnozy oraz wykonać test Inteligencja + Naprawa. Stopień trudności testu zależy od temperatury topnienia metalu (ołów jest łatwiejszy do rozgrzania niż stal). Rozgrzany miecz zadaje więcej obrażeń, jednak nie tylko tym, którzy zostaną nim trafieni, ale także dzierżącej go osobie (chyba że jest ona w jakiś sposób chroniona). Gorący metal zadaje jeden poziom prawdziwych obrażeń każdemu, komu nie powiedzie się test wyparowania. Z tego daru korzystają również kowale."
                     }
                 ]
             },
@@ -20692,7 +20692,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Ignore Wound",
-                    "pl": ""
+                    "pl": "Niewrażliwość na obrażenia"
                 }
             }
         ],
@@ -20704,7 +20704,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can choose to ignore damage during the scene. This must be a wound from a single blow, but it does not matter how much damage was done. Once the wound is ignored, it is as though it never happened. This is a power gained from the Silver Fang’s legendary secret about Death, and allows the Silver Fang to slip away from a devastating wound. The Garou must spend one Willpower point. This Gift may be used only once per scene.",
-                        "pl": ""
+                        "pl": "Garou może zignorować zadane jednym ciosem obrażenia (ich liczba nie gra roli); wilkołak po prostu ich nie otrzymał. Tę moc Srebrne Kły czerpią z tajemnej wiedzy o śmierci, a pozwala ona uniknąć straszliwych, zabójczych ran. Garou musi poświęcić jeden punkt Siły Woli. Z tego daru można korzystać tylko raz w danej scenie."
                     }
                 ]
             }
@@ -21272,7 +21272,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Invent",
-                    "pl": ""
+                    "pl": "Wynalazczość"
                 }
             }
         ],
@@ -21284,7 +21284,7 @@
                     {
                         "type": "text",
                         "en": "This allows a Garou to use pseudo-science to create minor gadgets and devices to help him out of a fix. Roll Intelligence + Repair, generally difficulty eight, but this can be easier or harder depending on how crazy the idea is. A Gnosis point must be spent to bend the laws of physics.\n\nExample: Larry has been locked in a janitor’s closet by a fomor who has gone to get his boss. Larry finds some bleach and other cleaning agents, mixes them together, spends his Gnosis point and makes his roll, and — voilà! — acid acid to burn away the door lock. Larry is gone before the Pentex exec can arrive.",
-                        "pl": ""
+                        "pl": "Pozwala garou wykorzystywać pseudonaukę do tworzenia drobnych gadżetów i urządzeń pomagających wykaraskać się z kłopotów. Należy wykonać test Inteligencja + Naprawa, stopień trudności wynosi na ogół osiem, chociaż może być większy lub mniejszy, zależnie od tego, jak zwariowany jest pomysł. Nagięcie praw fizyki wymaga poświęcenia punktu Gnozy. Przykład: Fomor zamknął Lary'ego w pomieszczeniu dozorcy i poszedł po swojego szefa. Garou znalazł trochę wybielacza i innych środków czyszczących, zmieszał je razem, poświęcił punkt Gnozy, wykonał test i... voila! Ma szybko działający kwas, który przepali zamek. Lary zmył się, zanim przybył pracownik Pentexu."
                     }
                 ]
             }
@@ -22766,7 +22766,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Ley Lines",
-                    "pl": ""
+                    "pl": "Blokada"
                 }
             },
             {
@@ -22778,7 +22778,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Ley Lines",
-                    "pl": ""
+                    "pl": "Blokada"
                 }
             }
         ],
@@ -22790,7 +22790,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can seal up his path behind him, preventing others from following him. Roll Wits + Occult, difficulty seven, and spend a Gnosis point. If successful, pursuers or trackers will be unable to follow the Garou’s trail — it will simply disappear. If they are too close to the Garou, something will lead them away; the surrounding perspective will change so that they perceive the road as going to the left when it really goes forward. A pursuer can outwit this magic by rolling Perception + Occult, difficulty eight; he must beat the number of successes the Garou scored on his roll. This does not mean the pursuers can find the Garou — he must still track him or find him with a Perception roll, as usual for finding someone who is hiding.",
-                        "pl": ""
+                        "pl": "Pozwala zablokować drogę, uniemożliwiając innym podążanie śladem garou. Należy wykonać test Spryt + Okultyzm (stopień trudności 7) oraz poświęcić punkt Gnozy. Jeżeli test zakończy się pozytywnie, ścigający nie będą w stanie podążać tropem wilkołaka, gdyż ten po prostu zniknie. W przypadku, gdy wrogowie są zbyt blisko garou, coś ich odciągnie w inne miejsce (na przykład otoczenie ulegnie takiej zmianie, że ścigającym będzie się wydawało, iż droga skręca w lewo, gdy w rzeczywistości biegnie prosto). Biorący udział w pościgu mogą oprzeć się działaniu daru, wykonując test Percepcja + Okultyzm (stopień trudności 8) i uzyskując w nim więcej sukcesów niż korzystający z Blokady garou. Nie oznacza to wcale, że ścigający znajdą wilkołaka – nadal muszą go wytropić (wykonując test Percepcji i stosując się do zasad szukania ukrywającej się osoby)."
                     }
                 ]
             },
@@ -23225,7 +23225,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Long Running",
-                    "pl": ""
+                    "pl": "Długi bieg"
                 }
             }
         ],
@@ -23237,42 +23237,42 @@
                     {
                         "type": "text",
                         "en": "By rolling a Dexterity + Drive (or Athletics for a bicycle) versus the local Gauntlet and spending one Gnosis point, the Garou may decrease actual travel time between two points while driving in a vehicle. The number of successes on this roll dictates the amount of time the Garou effectively travels for brief moments into a timeless zone of the Umbra, thus decreasing the amount of time needed to travel from place to place.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala skrócić czas podróży. Garou poświęca punkt Gnozy i wykonuje test Zręczność + Prowadzenie Pojazdów (lub Wysportowanie w przypadku roweru); stopień trudności równa się lokalnej wartości Bariery. Liczba sukcesów określa ilość zaoszczędzonego czasu. W rzeczywistości garou przez krótkie chwile podróżuje w bezczasowej strefie Umbry, „skracając” w ten sposób podróż."
                     },
                     {
                         "type": "table",
                         "headers": {
                             "en": [ "Successes", "% Time Required" ],
-                            "pl": [ "", "" ]
+                            "pl": [ "Liczba sukcesów", "Wymagany czas" ]
                         },
                         "rows": [
                             {
                                 "en": [ "Botch", "25% more" ],
-                                "pl": [ "", "" ]
+                                "pl": [ "Pech", "25% mniej" ]
                             },
                             {
                                 "en": [ "1", "5% less" ],
-                                "pl": [ "", "" ]
+                                "pl": [ "1", "5% mniej" ]
                             },
                             {
                                 "en": [ "2", "10% less" ],
-                                "pl": [ "", "" ]
+                                "pl": [ "2", "10% mniej" ]
                             },
                             {
                                 "en": [ "3", "25% less" ],
-                                "pl": [ "", "" ]
+                                "pl": [ "3", "25% mniej" ]
                             },
                             {
                                 "en": [ "4", "50% less" ],
-                                "pl": [ "", "" ]
+                                "pl": [ "4", "50% mniej" ]
                             },
                             {
                                 "en": [ "5", "75% less" ],
-                                "pl": [ "", "" ]
+                                "pl": [ "5", "75% mniej" ]
                             },
                             {
-                                "en": [ "6+", "80%" ],
-                                "pl": [ "", "" ]
+                                "en": [ "6+", "80% less" ],
+                                "pl": [ "6+", "80% mniej" ]
                             }
                         ]
                     }
@@ -24235,7 +24235,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Mark of the Enemy",
-                    "pl": ""
+                    "pl": "Napiętnowanie wroga"
                 }
             },
             {
@@ -24247,7 +24247,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Mark of the Enemy",
-                    "pl": ""
+                    "pl": "Napiętnowanie wroga"
                 }
             }
         ],
@@ -24270,7 +24270,7 @@
                     {
                         "type": "text",
                         "en": "This allows a target to be mystically marked with a symbol that only the Swords can see. The mark is placed on targets that have been chosen for destruction. Any Sword who sees it is under obligation to try to destroy the bearer of the Mark. To place the Mark, roll Manipulation + Occult, difficulty eight. Other Swords can notice the mark with a Perception + Occult roll, difficulty eight.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala napiętnować ofiarę mistycznym znakiem, który tylko Miecze Heimdala potrafią dostrzec. Oznacza to, że dana osoba ma zostać zgładzona. Każdy miecz, który dostrzeże piętno, jest zobowiązany zniszczyć noszącego je nieszczęśnika. Napiętnowanie wymaga wykonania testu Oddziaływanie + Okultyzm (stopień trudności 8), zaś ujrzenie znaku – testu Percepcja + Okultyzm (stopień trudności 8)."
                     }
                 ]
             },
@@ -25023,7 +25023,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Message Glance",
-                    "pl": ""
+                    "pl": "Wiadomość w spojrzeniu"
                 }
             }
         ],
@@ -25035,7 +25035,7 @@
                     {
                         "type": "text",
                         "en": "The Strider can formulate a message of words or symbols that can be delivered with a single glance to a recipient’s mind, and easily remembered by the recipient. Roll Intelligence + Linguistics, difficulty seven, to formulate the message. The number of successes determines the length of the message. One = one symbol or five words. Two = doubles this, and so on. One Gnosis must be expended to deliver the message and the target must be in sight.",
-                        "pl": ""
+                        "pl": "Wędrowiec potrafi sformułować wiadomość złożoną ze słów lub symboli i za pomocą pojedynczego spojrzenia przesłać ją do umysłu odbiorcy, który nie będzie miał problemów z jej zapamiętaniem. Należy wykonać test Inteligencja + Lingwistyka (stopień trudności 7) i poświęcić punkt Gnozy. Liczba sukcesów określa długość wiadomości. Jeden sukces oznacza pojedynczy symbol lub pięć słów; dwa sukcesy – dwa razy więcej itd. Osoba odbierająca wiadomość musi znajdować się w zasięgu wzroku."
                     }
                 ]
             }
@@ -28248,19 +28248,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Phone Travel",
-                    "pl": ""
-                }
-            },
-            {
-                "race": "Garou",
-                "type": "Tribe",
-                "value": "Glass Walkers",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 4,
-                "names": {
-                    "en": "Long Running",
-                    "pl": ""
+                    "pl": "Telefoniczna podróż"
                 }
             }
         ],
@@ -28272,7 +28260,7 @@
                     {
                         "type": "text",
                         "en": "The Random Interrupt can effectively reach into a telephone line and emerge on the other end. She must first dial the number of where she wishes to arrive and someone must answer. A Pattern Spider teaches this Gift.\n\nLong Running: The Garou can step sideways into the phone net and instantly step out again on the other end, one simple phone call away. He must first dial the number to which he wishes to go and someone must answer. The phone receiver must be physically picked up — the Garou cannot travel if she is answering machine.\n\nSystem: After the phone is picked up, the Random Interrupt rolls Gnosis, the difficulty being the local Gauntlet. As with stepping sideways, three successes are needed to transmit instantly. If fewer successes are rolled, and the other side hangs up before she emerges at the other end, the Garou is spat back out at her phone and takes three levels of lethal damage.",
-                        "pl": ""
+                        "pl": "Garou może przeniknąć do sieci telefonicznej i natychmiast wyjść z niej w innym miejscu („odległym o telefon”, jeżeli można się tak wyrazić). Wilkołak musi najpierw wykręcić numer miejsca, do którego pragnie się udać. Następnie ktoś powinien odpowiedzieć – słuchawka telefonu musi zostać podniesiona (garou nie może podróżować, jeśli połączy się z automatyczną sekretarką czy faksem)."
                     }
                 ]
             }
@@ -28463,7 +28451,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Pointing the Bone",
-                    "pl": ""
+                    "pl": "Wskazanie kością"
                 }
             }
         ],
@@ -28475,7 +28463,7 @@
                     {
                         "type": "text",
                         "en": "This allows the Garou to inflict damage from a distance by pointing a bone at someone in sight. The bone must be gathered from a dead creature’s remains by the Garou herself. However, it requires no incantation; any old bone will do. To use this Gift, roll Perception + Athletics, difficulty eight, and spend one Gnosis point. The number of successes is the amount of aggravated damage that is inflicted (this damage is soakable by normal defenses).",
-                        "pl": ""
+                        "pl": "Pozwala zadawać obrażenia na odległość; wystarczy wycelować kością w wybraną ofiarę. Fragment szkieletu musi pochodzić ze szczątków martwej osoby, a znaleźć winien ją garou, korzystający z tego daru. Nadaje się do tego każda stara kość (nie trzeba jej błogosławić itp.). Należy wykonać test Percepcja + Wysportowanie (stopień trudności 8) oraz poświęcić punkt Gnozy. Liczba sukcesów określa liczbę prawdziwych obrażeń zadanych ofierze (można je normalnie wyparowywać)."
                     }
                 ]
             },
@@ -29216,7 +29204,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Princely Bearing",
-                    "pl": ""
+                    "pl": "Książęca postawa"
                 }
             }
         ],
@@ -29228,7 +29216,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows a Garou to temporarily raise her Rank. During this time, she is considered to be of that Rank, and thus can issue challenges and rulings appropriate to that Rank. However, she cannot gain the Gifts of the Rank. Roll Charisma + Leadership against a nine difficulty and spend one Willpower point. One success raises the Garou by one Rank level. For every two successes after that, another Rank level is gained. Thus, three successes will raise a Garou two Ranks while five successes will raise her three Ranks. The maximum number of Ranks obtainable this way is limited by the Garou’s Leadership score. The effect lasts for one scene.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala tymczasowo zwiększyć rangę garou. Dopóki dar działa, wszyscy traktują korzystającego z niego wilkołaka tak, jakby rzeczywiście posiadał wyższą rangę. Może on dzięki temu rzucać wyzwania i wydawać rozkazy, które przysługują nowej pozycji. Uaktywnienie daru wymaga poświęcenia punktu Siły Woli i punktu Gnozy oraz wykonania testu Charyzma + Autorytet (stopień trudności 9). Pierwszy sukces podnosi rangę garou o jeden poziom; każde dwa następne zwiększają ją o kolejny poziom. Tak więc trzy sukcesy zwiększają rangę o dwa poziomy, natomiast pięć sukcesów – o trzy. Można w ten sposób osiągnąć rangę, która nie przekracza Autorytetu garou korzystającego z Książęcej postawy. Dar działa jedną scenę."
                     }
                 ]
             }
@@ -29831,7 +29819,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Questioning",
-                    "pl": ""
+                    "pl": "Zastrzeżenie"
                 }
             }
         ],
@@ -29843,7 +29831,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the Garou to doubt the very nature of reality for an instant — and thus ignore the results of a single roll against her or a roll of her own that she didn’t like. This requires an expenditure of one Gnosis point. It can be used only once per scene.",
-                        "pl": ""
+                        "pl": "Garou może na jedną turę podać w wątpliwość naturę rzeczywistości, co pozwala mu zignorować wynik jednego, wybranego przez siebie testu (własnego lub czyjegoś, ale związanego z jego osobą). Należy poświęcić punkt Gnozy. Dar można wykorzystać tylko raz w danej scenie."
                     }
                 ]
             }
@@ -31045,7 +31033,7 @@
                 "rank": 6,
                 "names": {
                     "en": "Renew the Cycle",
-                    "pl": ""
+                    "pl": "Odnowienie cyklu"
                 }
             }
         ],
@@ -31057,7 +31045,7 @@
                     {
                         "type": "text",
                         "en": "This is one of the most potent powers of the Garou. It is a very rare Gift, as only Silver Fang of Rank Six can obtain it. It grants the Garou the power to return a grievous wrong to Gaia’s natural cycle: an undead creature can be returned to the earth with a single glance. Roll the Garou’s Gnosis resisted by the opposing vampire’s Willpower, both difficulty eight, and spend three permanent Gnosis points. If successful, the vampire dies and his body is reduced to its true state of putrefaction: a necrotic mass turned into a months-old corpse, while an elder will be reduced to mind-blown ash. This can also be used against a mummy. It will not “kill” the mummy, but only force him into a dead season of sleep.",
-                        "pl": ""
+                        "pl": "Jest to jedna z najpotężniejszych mocy garou i jednocześnie bardzo rzadki dar, posiadany tylko przez Srebrne Kły o randze sześć. Odnowienie cyklu pozwala przywrócić Gai naturalny porządek. Dzięki potędze tego daru można, na przykład, jednym spojrzeniem odesłać nieumarłą istotę z powrotem do grobu. Należy poświęcić na stałe trzy punkty Gnozy i wykonać test sporny Gnoza garou przeciwko Sile Woli wampira (stopnie trudności obu testów wynoszą 8). Jeżeli wilkołak zwycięży, to pijawka zostanie zniszczona, a jej ciało natychmiast przybierze aktualny stopień rozkładu: młody wampir przemieni się w gnijące od miesiąca zwłoki, podczas gdy stary w pył. Ten dar może zostać także wykorzystany przeciwko mumiom, których jednak nie niszczy, a wprowadza w stan uśpienia."
                     }
                 ]
             },
@@ -32208,7 +32196,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Rot Weavertetch",
-                    "pl": ""
+                    "pl": "Zniszczenie urządzeń Tkaczki"
                 }
             }
         ],
@@ -32220,7 +32208,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can cause selected manifestations of the Weaver to rot away. This includes technological devices, from guns to toasters. It also includes buildings made of stone, metal or glass, but not rough-hewn wooden buildings (log cabins), or the Renaissance era be affected with this Gift. Roll Rage against a difficulty dependent on the object attacked: the more complex or “technological” the object, the higher the difficulty. A flashlight would be a four difficulty, while a particle accelerator would be a 10.",
-                        "pl": ""
+                        "pl": "Garou sprawia, że wybrane manifestacje Tkaczki ulegają rozkładowi. Dotyczy to urządzeń technologicznych (od broni palnej po opiekacze do tostów), a także budowli z kamienia, metalu i szkła, ale nie konstrukcji z grubo ciosanego drewna (pomieszczenia z bali drewnianych) czy chat. Ogólnie rzecz biorąc, darem tym można potraktować każdą technologiczną innowację od czasów renesansu. Należy wykonać test Szału; stopień trudności zależy od zaatakowanego obiektu – im bardziej skomplikowany lub technologicznie zaawansowany, tym będzie większy: w przypadku flesza – 4, a dla akceleratora cząsteczek – 10."
                     }
                 ]
             }
@@ -33174,7 +33162,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Scrying",
-                    "pl": ""
+                    "pl": "Podglądanie"
                 }
             }
         ],
@@ -33186,7 +33174,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can use a mirror, a pool of water or a crystal ball to see far-off events or spy on certain people. Roll Perception + Occult, difficulty seven, and spend one Gnosis point. If the Garou does not have an object from the place he wishes to spy on, or something which belongs to the person he wants to watch, then the difficulty is 10. This is an invisible power; there is no sign to the subject of observation that he is being watched. However, some mages and Tremere vampires have defenses which alert them to magical clairvoyance or prevent Scrying altogether. These defenses are usually spirits or spells that provide assistance or opposition to the Scryer’s roll. A Garou can use this Gift in conjunction with Umbral Sight or Pulse of the Umbra to spy into the Umbra or a realm within the Umbra.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou oglądać odległe wydarzenia lub szpiegować określone osoby poprzez lustro, taflę wody lub kryształową kulę. Należy wykonać test Percepcja + Okultyzm (stopień trudności 7) oraz poświęcić jeden punkt Gnozy. Jeżeli garou nie posiada przedmiotu z miejsca, które chce podglądać, wówczas stopień trudności wynosi 10. Nie widać żadnych śladów działania tej mocy – ofiara nie ma prawa nawet przypuszczać, że jest podglądana. Niektórzy magowie oraz wampiry Tremere umieją chronić się przed magiczną obserwacją i zapobiegać Podglądaniu – korzystają z mocy duchów lub zaklęć (należy wykonać test sporny). Garou, który posługuje się tym darem, w połączeniu z Widzeniem w Umbrze oraz Pulsem niewidzialności, może szpiegować miejsca lub istoty znajdujące się w Umbrze i należących do niej królestwach."
                     }
                 ]
             },
@@ -33265,7 +33253,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Secrets",
-                    "pl": ""
+                    "pl": "Tajemnice"
                 }
             }
         ],
@@ -33277,7 +33265,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can learn one deeply held secret from a particular target. The Garou must formulate a question, such as “Where is that vampire’s haven?” and then must touch the target. Roll Perception + Enigmas, difficulty eight, and spend one Gnosis point. The number of successes determines how great a secret is gained. A vampire’s haven may require four successes or more, depending on how paranoid he is about revealing it. If the target suspects someone is trying to discover his secrets, either magically or otherwise, he can resist the roll with his Willpower.",
-                        "pl": ""
+                        "pl": "Garou może wejść w posiadanie głęboko strzeżonego sekretu danej osoby. Wilkołak musi sformułować pytanie (np. „Gdzie jest schronienie tego wampira?”), a następnie dotknąć ofiary. Należy wykonać test Percepcja + Zagadki (stopień trudności 8) oraz poświęcić punkt Gnozy. Liczba sukcesów określa, jaki sekret zostanie ujawniony. Ujawnienie schronienia wampira może wymagać czterech lub więcej sukcesów, zależnie od tego, jak bardzo strzeże on tej tajemnicy. Ofiara, która podejrzewa, że ktoś próbuje sięgnąć do jej umysłu, może wykonać test sporny Siły Woli."
                     }
                 ]
             },
@@ -33593,7 +33581,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Sense Guilt",
-                    "pl": ""
+                    "pl": "Wyczucie winy"
                 }
             },
             {
@@ -33605,7 +33593,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Sense Guilt",
-                    "pl": ""
+                    "pl": "Wyczucie winy"
                 }
             },
             {
@@ -33617,7 +33605,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Sense Guilt",
-                    "pl": ""
+                    "pl": "Wyczucie winy"
                 }
             }
         ],
@@ -33640,7 +33628,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can sense whether or not a target is guilty of a crime; it must be something that a Get of Fenris would consider a crime (Storyteller’s discretion). Roll Perception + Intimidation while staring into the eyes of the accused, difficulty eight. One success will tell if the subject is guilty of something but not what, while three successes will reveal the crime.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou wyczuć, czy dana osoba jest winna przestępstwa czy nie (musi to być czyn, który Pomiot Fenrisa uważa za przestępstwo; ostateczny głos w tej sprawie ma Narrator). Należy wykonać test Percepcja + Zastraszanie (stopień trudności 8) i spojrzeć w oczy oskarżonego. Jeden sukces wystarczy do określenia, czy dana osoba ma coś na sumieniu, ale brak dokładnych informacji na ten temat; trzy sukcesy ujawnią przestępstwo."
                     }
                 ]
             },
@@ -35021,7 +35009,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Shadowplay",
-                    "pl": ""
+                    "pl": "Gra cieni"
                 }
             },
             {
@@ -35033,7 +35021,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Shadowplay",
-                    "pl": ""
+                    "pl": "Gra cieni"
                 }
             }
         ],
@@ -35056,7 +35044,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 5\n\nThe Garou can cause his shadow to come to life and perform actions. The shadow is an exact replica of the Garou in every attribute and ability. The Garou must play “shadow puppets” to get it to act, mimicking the action it makes with his hands. No light need be present, though. To activate the shadow, roll Dexterity + Enigmas, difficulty eight, and spend a Gnosis point. This is similar to the Shadow Lord Gift: Shadow Pack, but multiple shadows may not be summoned, and the Garou must create the shadow’s actions. However, the shadow can operate out of sight of its puppeteer; its range is three yards per success rolled.",
-                        "pl": ""
+                        "pl": "Ranga: 5\n\nTen dar pozwala garou ożywić własny cień, który może wykonać kilka czynności. Cień dokładnie odzwierciedla wilkołaka, zarówno co do atrybutów, jak i umiejętności. Garou musi naśladować rękoma wszelkie czynności, jakie ma wykonać stworzona przez dar istota. Korzystanie z Gry cieni nie wymaga żadnego oświetlenia. Należy wykonać test Zręczność + Zagadki (stopień trudności 8) oraz poświęcić punkt Gnozy. Ta zdolność jest podobna do Watahy cieni (dar Władców Cieni), nie pozwala jednak na przywołanie wielu odzwierciedleń, a ponadto garou musi sam określać działania cienia. W zamian za to cień może operować poza polem widzenia korzystającego z daru wilkołaka; zasięg wynosi 10 metrów na każdy sukces."
                     }
                 ]
             }
@@ -35407,7 +35395,7 @@
                 "rank": 1,
                 "names": {
                     "en": "Shed",
-                    "pl": ""
+                    "pl": "Wyszarpnięcie"
                 }
             }
         ],
@@ -35441,7 +35429,7 @@
                     {
                         "type": "text",
                         "en": "This allows the metis to escape from grabs and holds by releasing a layer of fur. If the metis is grabbed in a successful Immobilize, Jaw Lock, or Overbear attack, he can roll Dexterity + Primal-Urge, difficulty seven. If successful, he slips from the opponent’s grasp, and the opponent is left with only a handful of fur. The metis can also use this to help him squeeze through tight places, shedding fur as a slick surface to ease passage. In these cases, subtract one from the difficulty of Escaping rolls. Hair loss may be temporary, but it often comes with a cost.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala wyrwać się z uchwytu kosztem utraty kawałka futra. Metys, który padnie ofiarą ataku typu unieruchomienie, zaciśnięcie szczęk lub pochwycenie, może wykonać test Zręczność + Pierwotne Instynkty (stopień trudności 7). Jeżeli zakończy się on pozytywnie, to garou wyślizgnie się przeciwnikowi, pozostawiając mu tylko garść futra. Dar ułatwia również przeciskanie się przez wąskie przejścia; w tym przypadku sierść pełni rolę smaru. Bezwłosi garou nie mogą korzystać z Wyszarpnięcia."
                     }
                 ]
             },
@@ -36141,7 +36129,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Silence",
-                    "pl": ""
+                    "pl": "Cisza"
                 }
             }
         ],
@@ -36153,7 +36141,7 @@
                     {
                         "type": "text",
                         "en": "With an expenditure of two Gnosis points, the Garou can completely silence an area so that no sound can be heard whatsoever. Roll Manipulation + Stealth, difficulty eight, for the area of effect: five yards radius per success. Any Gifts which require the use of sound (Clap of Thunder) will cause the two Gift users to make a resisted Gnosis roll, difficulty six. The winner’s Gift takes precedence over the loser’s. Thus, a Clap of Thunder can still ring out in the empty silence.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou otoczyć dany obszar sferą ciszy tak, że nie będzie w ogóle słychać żadnych dźwięków. W tym celu wilkołak musi poświęcić dwa punkty Gnozy. Następnie wykonuje się test Oddziaływanie + Ukrycie się, stopień trudności osiem. Dar będzie działał w promieniu 5 metrów na każdy sukces. Dar, którego wykorzystanie wiąże się z dźwiękiem (np. Huk gromu), zmusza oba wilkołaki do wykonania spornego testu Gnozy; stopień trudności sześć. Na danym obszarze będzie dominować moc zwycięzcy. W ten sposób Huk gromu może zadziałać nawet w Ciszy."
                     }
                 ]
             }
@@ -37175,7 +37163,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Song of the Dire",
-                    "pl": ""
+                    "pl": "Straszliwy zew"
                 }
             },
             {
@@ -37187,7 +37175,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Song of the Dire",
-                    "pl": ""
+                    "pl": "Straszliwy zew"
                 }
             }
         ],
@@ -37199,7 +37187,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can sing a battle lullaby to rouse his comrades when entering the fray. Roll Manipulation + Performance, difficulty eight. Each success adds one die to the Dice Pools of all the Garou’s comrades (limited by the Garou’s Performance skill). The singing Garou must be in Hispo form and spend two Gnosis points. He must keep singing throughout the battle — this means he must always have at least a two Dice Pool (one for Manipulation, the other for Performance) set aside for singing, although he does not have to roll it. If he is ever wounded, he must make a Willpower roll to keep howling. The difficulty for this roll is the number of Health Levels he has taken +3.",
-                        "pl": ""
+                        "pl": "Wilkołak potrafi wydać z siebie zew bojowy, który wspomaga towarzyszy broni. Należy wykonać test Oddziaływanie + Występy Publiczne (stopień trudności 8). Każdy sukces zwiększa o jeden Pulę Kości wszystkich sprzymierzonych garou (liczbę tę ogranicza wartość umiejętności Występy Publiczne). Wyjący garou musi być w postaci hispo oraz winien poświęcić dwa punkty Gnozy. Ponadto nie może przerwać zewu aż do końca walki – oznacza to, że przez cały czas powinien przeznaczać dwie kości ze swej Puli na śpiewanie (jeden na Oddziaływanie i jeden na Występy Publiczne), chociaż nie wykonuje żadnego testu. Jeżeli zostanie ranny, musi wykonać test Siły Woli; w przypadku niepowodzenia przerywa zew. Stopień trudności tego testu jest równy poziomowi otrzymanych obrażeń +3."
                     }
                 ]
             },
@@ -37404,7 +37392,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Song of the Siren",
-                    "pl": ""
+                    "pl": "Pieśń syreny"
                 }
             },
             {
@@ -37416,7 +37404,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Song of the Siren",
-                    "pl": ""
+                    "pl": "Pieśń syreny"
                 }
             },
             {
@@ -37428,7 +37416,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Song of the Siren",
-                    "pl": ""
+                    "pl": "Pieśń syreny"
                 }
             },
             {
@@ -37440,7 +37428,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Song of the Siren",
-                    "pl": ""
+                    "pl": "Pieśń syreny"
                 }
             }
         ],
@@ -37452,7 +37440,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 3\n\nThe Garou can enchant another with her singing. Roll Charisma + Performance against the target’s Willpower as a difficulty and spend one Gnosis. The Garou must sing uninterrupted. The victim will be unable to perform any action for a number of turns equal to the number of successes rolled.",
-                        "pl": ""
+                        "pl": "Ranga: 4\n\nTen dar pozwala garou oczarować słuchaczy śpiewem. Należy wykonać test Charyzma + Występy Publiczne (stopień trudności = Siła Woli ofiary) oraz poświęcić punkt Gnozy. Śpiewu garou nie można przerwać. Ofiara nie będzie w stanie wykonywać żadnych działań przez tyle tur, ile sukcesów wypadło w teście."
                     }
                 ]
             },
@@ -38732,7 +38720,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Spirit Vessel",
-                    "pl": ""
+                    "pl": "Duchowe naczynie"
                 }
             },
             {
@@ -38744,7 +38732,7 @@
                 "rank": 5,
                 "names": {
                     "en": "Spirit Vessel",
-                    "pl": ""
+                    "pl": "Duchowe naczynie"
                 }
             }
         ],
@@ -38767,7 +38755,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 5\n\nThe Garou can channel a particular spirit and temporarily gain some of its abilities. This is similar to Past Life, but allows the Garou to use spirit Charms. Thus, a Garou can temporarily gain the Charm Airt Sense or Fire Lightning Bolts, if he channels an Electricity Elemental. The effect lasts for one scene. Roll Gnosis and spend a Gnosis point; use the Rite of Summoning chart to determine the target difficulty for the spirit channeled. The number of successes equals the power of the Charm that the Garou can use. One success allows use of one point cost Charm (such as Airt Sense), while three successes allows a three point Charm. However, if the player botches his roll, the Garou accidentally channels a Bane. The Bane will completely take over the Garou’s body, just as if it had possessed him, and run rampant; it is up to the Storyteller to run this stray Bane.",
-                        "pl": ""
+                        "pl": "Ranga: 5\n\nTen dar pozwala garou połączyć się z określonym duchem i czasowo zyskać niektóre z jego umiejętności. Ta umiejętność bardzo przypomina Pamięć Przodków, pozwala jednak wilkołakowi korzystać z zaklęć, które posiada duch. W ten sposób garou może przez pewien czas korzystać z takich mocy jak, na przykład, Wyczucie Airtów czy Błyskawica – wystarczy, że połączy się z żywiołakiem elektryczności. Dar działa jedną scenę. Należy wykonać test Gnozy i poświęcić punkt tego atrybutu. Stopień trudności połączenia z duchem określa się korzystając z tabeli Przyzwanie ducha. Liczba sukcesów określa moc zaklęcia dostępnego garou. Jeden sukces pozwala korzystać z tych, które kosztują jeden punkt Mocy (np. Wyczucie Airtów), podczas gdy trzy sukcesy – z kosztujących trzy punkty. Jeśli wypadnie Pech, wówczas garou przez pomyłkę połączy się ze zmorą, która całkowicie zawładnie jego ciałem. Od tej pory opętany wilkołak przechodzi pod całkowitą kontrolę Narratora."
                     }
                 ]
             },
@@ -39521,7 +39509,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Stench of the Peasant",
-                    "pl": ""
+                    "pl": "Smród parobka"
                 }
             }
         ],
@@ -39533,7 +39521,7 @@
                     {
                         "type": "text",
                         "en": "A Garou can make others appear to be inept, contemptible and base. Roll Manipulation + Subterfuge, difficulty seven, and spend one Gnosis point; the number of successes determines how many can be affected by this Gift. Those affected subtract four from their Social dice pools. In addition, the Shadow Lord gains a plus two to his Expression dice pool when making disparaging comments about these “lowly fools.” Others will be more inclined to believe the Shadow Lord’s proclamations concerning the enemies they thus curse. The effect lasts for one scene. While those affected suffer no Renown loss, they will find it hard to speak at moots and will be considered last for honorable missions (which the Shadow Lord can maneuver to be assigned to his pack instead).",
-                        "pl": ""
+                        "pl": "Ofiary tego daru sprawiają wrażenie godnych pogardy kmiotków z nizin społecznych. Garou musi wykonać test Oddziaływanie + Przebiegłość (stopień trudności 7) oraz poświęcić jeden punkt Gnozy. Liczba sukcesów określa, ile osób znalazło się pod działaniem daru. Wszystkie ofiary zmniejszają o cztery swą Pulę Kości wszystkich testów społecznych. Ponadto Władca Cieni zwiększa o dwa swą Pulę Ekspresji, jeżeli w tym czasie wypowie jakąś uwłaczającą uwagę na temat tych „prostaczków”. Inne osoby będą bardziej skłonne uwierzyć oświadczeniom garou niż jego wrogów, znajdujących się pod wpływem daru. Smród parobka działa jedną scenę. Ofiary nie tracą sławy, ale mimo to będą miały problemy podczas publicznych wystąpień, a ponadto staną się ostatnimi kandydatami branymi pod uwagę do honorowych zadań (co Władca Cieni może wykorzystać i postarać się, aby misja została przyznana jego wataże)."
                     }
                 ]
             }
@@ -39848,7 +39836,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Strange Rain",
-                    "pl": ""
+                    "pl": "Niezwykły deszcz"
                 }
             }
         ],
@@ -39860,7 +39848,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can evoke a rain of something truly strange and unnatural: frogs, cockroaches, slugs, etc. This can be extremely unnerving to enemies or even allies. This acts like the Bone Gnawer Gift: Infest in every other way.",
-                        "pl": ""
+                        "pl": "Garou potrafi przywołać naprawdę niezwykły i nienaturalny deszcz: żab, karaluchów, ślimaków itp. Może być to nad wyraz denerwujące zjawisko tak dla przeciwnika, jak i przyjaciół. Dar działa podobnie jak Inwazja robactwa (dar Gnatożujów)."
                     }
                 ]
             }
@@ -40599,7 +40587,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Summon Stormcrow",
-                    "pl": ""
+                    "pl": "Przywołanie Kruka Burzy"
                 }
             },
             {
@@ -40611,7 +40599,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Summon Stormcrow",
-                    "pl": ""
+                    "pl": "Przywołanie Kruka Burzy"
                 }
             }
         ],
@@ -40623,7 +40611,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can summon a Stormcrow, one of the servants of Grandfather Thunder. The crow can be sent to spy on others, returning with secrets and privileged information. The crow will be invisible to anyone not in the Umbra or using a Gift, and even then a Perception roll will be required. To call the crow, the Garou must roll Charisma + Intimidation (difficulty 8) and spend a Gnosis point. The number of successes determines how well the crow performs its task; Storyteller discretion. The crow may only be ordered to perform one task, but this task can be general enough to include many things. Examples: “Go watch the Theurge elder and alert me if he summons any Banes,” or “Spy on the Red Talon moot and tell me all that takes place there.”",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou przywołać i wysłać na rekonesans Kruka Burzy, jednego ze sług Pradziada Groma. Ptak po jakimś czasie powróci, znając strzeżone tajemnice i informacje. Kruk widzi jedynie osoby znajdujące się w Umbrze lub korzystające z daru Przywołanie Kruka Burzy, a i tak musi jeszcze przejść test Percepcji. Należy wykonać test Charyzma + Zastraszanie (stopień trudności 8) oraz poświęcić punkt Gnozy, aby przywołać sługę Pradziada Groma. Liczba sukcesów określa, jak dobrze wykona on zadanie (wszystko zależy od Narratora). Kruk podejmie się tylko jednej misji, ale może być ona tak długotrwała i ogólna, że będzie się składać z wielu elementów. Na przykład: „Obserwuj starszego Teurga i powiadom mnie, jeśli przywoła jakąś zmorę” lub „Szpieguj zgromadzenie Czerwonych Szponów i przekaż mi wszystko, co się tam wydarzy”."
                     }
                 ]
             },
@@ -40662,7 +40650,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Summon Talisman",
-                    "pl": ""
+                    "pl": "Przywołanie talizmanu"
                 }
             }
         ],
@@ -40685,7 +40673,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can “call” any hand-held object to her, provided said object has been dedicated to her by the Rite of Talisman Dedication. It will disappear from its location and appear in the Garou’s hand. The Garou must spend two Gnosis points and concentrate for a turn. Objects in the Umbra cannot be called, unless the Garou is in the Umbra or has the Gift: Grasp the Beyond. The Garou must declare which of his dedicated items he summons; the Talisman can be summoned for every two points of Gnosis the Garou possesses. Striders use this to place a fetish or important message in a safe location before they risk the trials of a dangerous journey, only calling the item once they have safely reached their destination.",
-                        "pl": ""
+                        "pl": "Garou może „wezwać” dowolny mieszczący się w dłoni przedmiot, nad którym odprawił rytuał Przypisanie talizmanu. Przedmiot znika z miejsca, w którym się znajdował, i pojawia w dłoni wilkołaka. Należy poświęcić dwa punkty Gnozy i koncentrować się przez turę. Nie można przywołać obiektu znajdującego się w Umbrze, chyba że posługująca się tym darem osoba także znajduje się w świecie duchów lub posiada dar Zrozumienie niepojętego. Garou musi zadeklarować, które z przypisanych mu przedmiotów mogą być przywołane; nie może ich być więcej niż połowa Gnozy wilkołaka. Wędrowcy często chowają fetysze lub ważne wiadomości w bezpiecznych miejscach, następnie wyruszają w podróż, a dopiero po dotarciu do celu przywołują je korzystając z Przywołania talizmanu."
                     }
                 ]
             },
@@ -41032,7 +41020,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Tail of the Monkey",
-                    "pl": ""
+                    "pl": "Małpi ogon"
                 }
             },
             {
@@ -41044,7 +41032,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Tail of the Monkey",
-                    "pl": ""
+                    "pl": "Małpi ogon"
                 }
             }
         ],
@@ -41056,7 +41044,7 @@
                     {
                         "type": "text",
                         "en": "The Garou has a prehensile tail. This tail cannot perform fine manipulation tasks, but it can wrap around a tree branch and allow the Garou to hang (if her Strength equals or exceeds her Stamina) or it can be used to hit an opponent in combat, in which case it is difficulty eight to hit and Strength -1 for damage. A roll of Dexterity + Athletics must be made for most uses except combat, in which case Brawl is substituted for Athletics.",
-                        "pl": ""
+                        "pl": "Garou posiada chwytny ogon. Nie może nim wykonywać precyzyjnych czynności, potrafi za to okręcić go wokół gałęzi drzewa i zawisnąć (jeżeli jego Siła jest równa lub przewyższa Wytrzymałość). Ogonem można również atakować przeciwnika — w takim przypadku stopień trudności trafienia wynosi osiem, natomiast obrażenia to Siła -1. Każda próba użycia tego członka wymaga wykonania testu Zręczność + Wysportowanie; wyjątek stanowi walka, w której Wysportowanie zastępujemy Bójką."
                     }
                 ]
             }
@@ -41073,7 +41061,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Take the True Form",
-                    "pl": ""
+                    "pl": "Przybranie prawdziwej postaci"
                 }
             }
         ],
@@ -41085,7 +41073,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows a Garou to force a shapeshifter to assume her natural breed form (either Homid, Lupus, or Crinos if metis). Roll Manipulation + Primal-Urge, difficulty seven. The number of successes is the number of turns the target cannot shift into any other form.",
-                        "pl": ""
+                        "pl": "Daru zmusza zmiennokształtnego do przybrania naturalnej postaci (homid, lupus, a w przypadku metysów – crinos). Należy wykonać test Oddziaływanie + Pierwotne Instynkty (stopień trudności 7). Liczba sukcesów określa liczbę tur, przez którą ofiara nie może przybrać innej niż naturalna postaci. Garou może wykorzystać ten dar przeciw dowolnemu zmiennokształtnemu."
                     }
                 ]
             },
@@ -41631,7 +41619,7 @@
                 "rank": 4,
                 "names": {
                     "en": "The Crawling Hand",
-                    "pl": ""
+                    "pl": "Pełzająca dłoń"
                 }
             }
         ],
@@ -41643,7 +41631,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can detach his hand, allowing it to crawl off and perform tasks (such as untying his bonds). Roll Dexterity + Primal-Urge (difficulty 9). The Garou must concentrate for his hand to act and must allocate at least one die from the character’s Dice Pool to the hand per turn. To perform fine manual tasks, the Garou must lend his Dexterity + Athletics Dice Pool to the hand, in any amount he chooses. The character must retrieve his hand before the end of the scene or it cannot be reconnected; he must regenerate another (as if he lost four aggravated Health Levels, but they “heal” at a rate of one per week). The range the hand may travel from the body is equal to the Garou’s Wits x 3 in yards.",
-                        "pl": ""
+                        "pl": "Garou może oderwać swoją dłoń, pozwalając jej odpełznąć i wykonać jakieś zadanie (na przykład rozwiązać krępujące go więzy). Wymagania: test Zręczność + Pierwotne Instynkty (stopień trudności 9). Wilkołak musi się koncentrować na tym, co robi dłoń, a także co turę przekazywać jej co najmniej jedną kostkę ze swojej puli. Ręka może wykonać precyzyjne czynności manualne, jednak w tym wypadku garou musi zaopatrzyć ją w wybraną przez siebie część puli Zręczność + Wysportowanie. Bohater, który nie odzyska dłoni przed końcem sceny, będzie musiał ją zregenerować (traci jakby cztery Stany Zdrowia – prawdziwe obrażenia – które „leczą” się z prędkością jednego poziomu na tydzień). Ręka może odpełznąć od ciała na odległość Spryt × 3 metry."
                     }
                 ]
             }
@@ -42477,7 +42465,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Tongues",
-                    "pl": ""
+                    "pl": "Języki"
                 }
             },
             {
@@ -42489,7 +42477,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Tongues",
-                    "pl": ""
+                    "pl": "Języki"
                 }
             },
             {
@@ -42501,7 +42489,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Tongues",
-                    "pl": ""
+                    "pl": "Języki"
                 }
             }
         ],
@@ -42524,7 +42512,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the possessor to read and write any language encountered, even obscure or long-forgotten tongues. Roll Intelligence + Linguistics and spend one Willpower point. The difficulty depends on the rarity of the language. Something as common as French would be a four, while ancient Sumerian would be a 10. This ability lasts for one scene, after which the language is forgotten.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala czytać i pisać w każdym języku, nawet nieznanym i dawno zapomnianym. Należy wykonać test Inteligencja + Lingwistyka oraz poświęcić jeden punkt Siły Woli. Stopień trudności zależy od języka. Popularny francuski będzie miał stopień trudności cztery, podczas gdy starożytny sumeryjski — dziesięć. Umiejętność ta działa jedną scenę, po czym garou zapomina dany język."
                     }
                 ]
             },
@@ -42734,7 +42722,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Touch of Death",
-                    "pl": ""
+                    "pl": "Dotknięcie śmierci"
                 }
             },
             {
@@ -42758,7 +42746,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can touch a target; the target will then receive a premonition of his own death, as if someone “walked on his grave.” The Garou must touch the target (normal combat action), spend two Gnosis points, and roll Manipulation + Occult (difficulty 8). The number of successes is the number of dice removed from the target’s physical Trait Dice Pool (allocated by the Storyteller); these lost dice are “healed” as if they were aggravated wounds. The Garou will not know what the target sees, and the target will not remember afterward, but the target’s fur/hair will be streaked with white thereafter. This may be used only once on a given target — ever.",
-                        "pl": ""
+                        "pl": "Garou dotyka jakąś osobę i wywołuje u niej przeczucie własnej śmierci; ofiara czuje się tak, „jakby była już jedną nogą w grobie”. Wilkołak musi dotknąć nieszczęśnika (normalny manewr walki), poświęcić dwa punkty Gnozy i wykonać test Oddziaływanie + Okultyzm (stopień trudności 8). Liczba sukcesów to liczba kostek, o które maleje pula cech fizycznych ofiary (wyznaczanych przez Narratora); utracone kostki odzyskuje się tak, jak gdyby były to prawdziwe obrażenia. Garou nie wie, co widzi osoba poddana działaniu daru, a i ona z czasem o tym zapomni. Dotknięcie śmierci spowoduje posiwienie włosów/futra. Dana osoba może tylko raz zostać ofiarą tego daru."
                     }
                 ]
             },
@@ -43211,7 +43199,7 @@
                 "rank": 2,
                 "names": {
                     "en": "Trash Magnet",
-                    "pl": ""
+                    "pl": "Magnes na odpady"
                 }
             }
         ],
@@ -43223,7 +43211,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can cause the refuse in an area to move toward a target and engulf him. This can include Wyrm toxins. Roll Charisma + Streetwise (difficulty 7). The trash utilized depends on what’s in the area. The degree to which the target is enveloped depends on the number of successes: one success causes annoying old newspapers to blow about the target (+1 to difficulty rolls from the distraction), while five successes wrap the target in a cocoon of trash (treat as an Overbear maneuver to break free). In addition, the target may suffer penalties to soak rolls because of the stench from the trash.",
-                        "pl": ""
+                        "pl": "Garou może siłą umysłu przesunąć odpady (nawet żmijowe) znajdujące się na danym terenie i zasypać nimi wybrane ofiary. Należy wykonać test Charyzma + Cwaniactwo (stopień trudności 7). Rodzaj odpadów zależy od danego obszaru. Stopień, w jakim ofiara zostanie przysypana, zależy od liczby sukcesów: jeden spowoduje oblepienie uciążliwą stertą starych gazet (+1 do stopni trudności), podczas gdy pięć uwięzi ją w kokonie śmieci (odpowiada manewrowi pochwycenie, przy próbie wydostania się). Ponadto smród utrudnia kontakty z innymi, więc nieszczęśnik otrzymuje ujemne modyfikatory do testów społecznych."
                     }
                 ]
             },
@@ -43474,7 +43462,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Troll’s Bridge",
-                    "pl": ""
+                    "pl": "Most trolli"
                 }
             }
         ],
@@ -43486,7 +43474,7 @@
                     {
                         "type": "text",
                         "en": "The Garou can set up a temporary fortress. Despite the name, it does not have to be near a bridge. It does have to be in a relatively enclosed area, such as in a gully or a thick grove of trees. Roll Wits + Repair, difficulty six. The number of successes +5 is the Defensive Factor of the lair; the amount of Strength an intruder must possess to break through the magical barrier as per the Strength Feat chart in Werewolf. Enemies cannot gang up to assault the barrier; they must attack individually. Each intruder who breaks through will lower the Defensive Factor by one. The effect lasts for a number of hours equal to the Defensive Factor.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou stworzyć tymczasową fortecę. Pomimo nazwy nie musi ona znajdować się koło mostu. Potrzebna jest do tego w miarę osłonięta przestrzeń, taka jak łeb lub gęsty zagajnik. Należy wykonać test Spryt + Naprawa (stopień trudności 6). Współczynnik Obrony jest równy liczbie sukcesów +5; jest to wartość Siły, jaką intruz musi posiadać, aby przełamać magiczną barierę (stosuje się zasadę taką, jak przy próbach siłowych, patrz Wilkołak str. 212). Przeciwnicy nie mogą przełamywać bariery grupą – muszą to zrobić indywidualnie. Każdy intruz, który przebije się przez osłonę, obniża Współczynnik Obrony o jeden. Dar działa przez jedną godzinę na każdy punkt Współczynnika Obrony."
                     }
                 ]
             }
@@ -44844,7 +44832,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Unicorn’s Grace",
-                    "pl": ""
+                    "pl": "Wdzięk Jednorożca"
                 }
             }
         ],
@@ -44856,7 +44844,7 @@
                     {
                         "type": "text",
                         "en": "Allows the Garou to spend a Gnosis point and regress his Rage for a scene. During the remainder of the scene the Garou can only spend a number of Rage points equal to his Empathy; however, he will not frenzy at any time during the scene.",
-                        "pl": ""
+                        "pl": "Garou może pohamować Szał na jedną scenę, poświęcając punkt Gnozy. Przez pozostałą jej część wilkołak może wykorzystać tylko tyle punktów Szału, ile posiada Empatii, ale za to ani razu nie wpadnie w furię."
                     }
                 ]
             },
@@ -45160,7 +45148,7 @@
                 "rank": 4,
                 "names": {
                     "en": "Venom",
-                    "pl": ""
+                    "pl": "Jad"
                 }
             }
         ],
@@ -45172,7 +45160,7 @@
                     {
                         "type": "text",
                         "en": "This Gift allows the Garou to emit poison through her bite. A successful bite attack is required, then the Garou must roll Stamina + Primal-Urge in a resisted roll of the target’s Stamina +4. The number of successes is the amount of poison damage (non-soakable); this is in addition to the normal bite damage. This poison attacks Stamina, and for every damage success, the target loses one Stamina level. The can be healed at the same rate as aggravated wound damage. When a target is brought to Stamina 0 or less, he is unconscious and in a coma (as soon as he has healed back to at least Stamina 1, he awakens). Successive poison bites will attack the target’s Health Levels; if he is reduced to below Incapacitated this way, he is dead.",
-                        "pl": ""
+                        "pl": "Ten dar pozwala garou wstrzyknąć przeciwnikowi truciznę podczas ugryzienia. Lupus zatapia zęby w ciele ofiary, a następnie wykonuje test sporny Wytrzymałość + Pierwotne Instynkty kontra Wytrzymałość +4 nieszczęśnika. Liczba sukcesów określa wartość obrażeń spowodowanych trucizną (nie można ich wyparować), które dodaje się do ran wynikających z ugryzienia. Jad wpływa również na Wytrzymałość ofiary — każde spowodowane przezeń obrażenie obniża Wytrzymałość o jeden. Leczenie przebiega tak, jak w przypadku prawdziwych obrażeń. Jeżeli Wytrzymałość spadnie do zera lub poniżej, ofiara traci przytomność i wpada w letarg (do czasu, kiedy Wytrzymałość osiągnie wartość jeden). Jadowite ugryzienia niszczą także żywotność — ofiara umiera, jeżeli jej zdrowie spadnie poniżej stanu „zmasakrowany”."
                     }
                 ]
             },
@@ -46758,7 +46746,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Whispering Wind",
-                    "pl": ""
+                    "pl": "Szepczący wiatr"
                 }
             }
         ],
@@ -46770,7 +46758,7 @@
                     {
                         "type": "text",
                         "en": "Only Kailindo practitioners may learn this Gift. It can tell the user what his opponent’s next combat maneuver will be. Roll Perception + Kailindo, difficulty equal to his opponent’s combat skill (Brawl, Melee or Kailindo) +4, and spend a Gnosis point. The spirits of the wind will whisper an opponent’s attack plan to the Garou. Any successes will reveal the opponent’s next maneuver, thus canceling any modifiers the opponent may have received for that maneuver. The Kailindost will receive a -1 difficulty to attack his opponent next action (in addition to any other modifiers). Also, it gives the user plus one die to his Initiative dice pool equal to the number of successes gained on this roll. Another Kailindost with this Gift may use his roll to resist.",
-                        "pl": ""
+                        "pl": "Tego daru nauczane są tylko wilkołaki znające Kailindo. Szepczący wiatr pozwala podczas walki przewidzieć następny manewr przeciwnika. Należy poświęcić punkt Gnozy i wykonać test Percepcja + Kailindo, stopień trudności równy jest umiejętności walki przeciwnika (Bójka, Walka Wręcz lub Kailindo) +4. Jeżeli test będzie udany, duchy wiatru wyszepczą garou plany przeciwnika. Każdy sukces odsłania następny manewr, negując w ten sposób wszelkie korzyści, jakie płyną z jego wykonania. Ponadto garou ma o jeden mniejsze stopnie trudności, jeśli kontratakuje przewidziane chwilę wcześniej działania przeciwnika (poza innymi modyfikatorami). Ponadto wilkołak otrzymuje premię do Puli Kości w teście inicjatywy, równą liczbie sukcesów uzyskanych podczas testu. Jeżeli przeciwnik posiada ten sam dar, może go wykorzystać – w tym przypadku należy wykonać test sporny."
                     }
                 ]
             }
@@ -47070,7 +47058,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Wings of Pegasus",
-                    "pl": ""
+                    "pl": "Skrzydła Pegaza"
                 }
             }
         ],
@@ -47082,7 +47070,7 @@
                     {
                         "type": "text",
                         "en": "The Garou may sprout majestic wings when in Hispo form; these allow her to fly at will. These wings are large and resemble the feathery wings of the totem Pegasus. To fly, roll Stamina + Athletics (difficulty 7 to launch). The difficulty for flight maneuvers is up to the Storyteller. The Garou can carry others as long as her strength allows it. Her flight speed is approximately 50 mph.",
-                        "pl": ""
+                        "pl": "Garou w postaci hispo tworzy majestatyczne skrzydła, które umożliwiają mu wzniesienie się do lotu w dowolnej chwili. Te olbrzymie skrzydła są prawie takie, jakie posiada totem Pegaza. Latanie wymaga wykonania przy starcie testu Wytrzymałość + Wysportowanie (stopień trudności 7). Stopień trudności manewrów (każdy wymaga wykonania testu) zależy od Narratora. Garou może unieść w powietrze osoby lub rzeczy, jeśli tylko jest wystarczająco silny. Wilkołak może latać z prędkością do 90 kilometrów na godzinę."
                     }
                 ]
             },
@@ -47417,7 +47405,7 @@
                 "rank": 3,
                 "names": {
                     "en": "Woadling",
-                    "pl": ""
+                    "pl": "Malowidła"
                 }
             }
         ],
@@ -47440,7 +47428,7 @@
                     {
                         "type": "text",
                         "en": "The Garou has woad paintings over her skin, similar to those worn by the ancient Celts and Picts. These paintings are fierce representations of spirits. The Garou must be in Homid or Glabro form to use this Gift. By rolling Dexterity + Occult, difficulty six, and spending a Gnosis point per turn, the Garou can release a painting to leap from her skin and attack an enemy. The Woadling will harass and harry the foe, dancing in the air about him. The number of successes on the roll is the number that is subtracted from the opponent’s dice pool due to distractions, unless he spends a Willpower point per turn. The woad paintings must be repainted after every use of this Gift. The Garou can do this herself (if she has the materials with her) with a Dexterity + Performance roll, difficulty six.",
-                        "pl": ""
+                        "pl": "Cała skóra garou pokryta jest malowidłami wykonanymi siną farbą (podobne mieli starożytni Celtowie i Piktowie). Rysunki to szalone odzwierciedlenie duchów i ich świata. Wilkołak musi być w postaci homid lub glabro, żeby wykorzystać moc tego daru. Wykonując test Zręczność + Okultyzm (stopień trudności 6) oraz poświęcając jeden punkt Gnozy na turę, garou może wyzwolić malowidło, które „zeskakując” ze skóry zaatakuje przeciwnika. Będzie ono dręczyć wroga, tańcząc wokół niego w powietrzu. Liczba sukcesów podczas testu oznacza liczbę kostek odejmowanych od puli oszołomionego przeciwnika (może się obronić przed tą stratą, poświęcając w każdej turze punkt Siły Woli). Po każdym użyciu daru należy jeszcze raz wymalować skórę wilkołaka. Garou może to zrobić samemu (jeżeli posiada przy sobie odpowiednie przybory), wykonując test Zręczność + Występy Publiczne (stopień trudności 6)."
                     }
                 ]
             },

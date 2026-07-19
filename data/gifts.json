@@ -603,29 +603,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Information" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Successes",
+                                "Information"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "Common information" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "Common information"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "Uncommon (When dancing their harvest rites, the tribe wore corn silk tied to their costumes)" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "Uncommon (When dancing their harvest rites, the tribe wore corn silk tied to their costumes)"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "Obscure (known to some tribal elders; i.e., the tribe once served as guardians of a particular fetish)" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "Obscure (known to some tribal elders; i.e., the tribe once served as guardians of a particular fetish)"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "Hidden (known only to the greatest Medicine Worker, passed on only to a trusted successor; i.e., the tribe’s dancing place lies atop the resting place of a powerful evil spirit and their dances keep it pacified)" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "Hidden (known only to the greatest Medicine Worker, passed on only to a trusted successor; i.e., the tribe’s dancing place lies atop the resting place of a powerful evil spirit and their dances keep it pacified)"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five+", "Forgotten (known only to ancient ancestors; i.e. “Our people once knew this evil spirit’s true name. Perform this service for my descendants, and I will tell it to you." ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five+",
+                                    "Forgotten (known only to ancient ancestors; i.e. “Our people once knew this evil spirit’s true name. Perform this service for my descendants, and I will tell it to you."
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -2987,33 +3023,75 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Surface Type", "Difficulty" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Surface Type",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Water", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Water",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Snow", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Snow",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Lava", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Lava",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Razors", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Razors",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Wall", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Wall",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Ceiling", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Ceiling",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -3223,29 +3301,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Auspice", "Bonus" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Auspice",
+                                "Bonus"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Ragabash", "+3 to Stealth, +2 to Wits and Dexterity" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Ragabash",
+                                    "+3 to Stealth, +2 to Wits and Dexterity"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Theurge", "+3 to Enigmas, +2 to Intelligence and Gnosis" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Theurge",
+                                    "+3 to Enigmas, +2 to Intelligence and Gnosis"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Philodox", "+3 to Rituals, +2 to Manipulation and Stamina" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Philodox",
+                                    "+3 to Rituals, +2 to Manipulation and Stamina"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Galliard", "+3 to Expression, +2 to Charisma and Strength" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Galliard",
+                                    "+3 to Expression, +2 to Charisma and Strength"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Ahroun", "+3 to Leadership, +2 to Strength and Rage" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Ahroun",
+                                    "+3 to Leadership, +2 to Strength and Rage"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -4771,29 +4885,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Duration" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Successes",
+                                "Duration"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "1", "one scene" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "1",
+                                    "one scene"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "2", "12 hours" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "2",
+                                    "12 hours"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "3", "one day" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "3",
+                                    "one day"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "4", "one week" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "4",
+                                    "one week"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "5", "one lunar cycle" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "5",
+                                    "one lunar cycle"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -4811,29 +4961,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Duration" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Successes",
+                                "Duration"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "One scene" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "One scene"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "12 hours" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "12 hours"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "One day" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "One day"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "One week" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "One week"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five", "One lunar cycle" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five",
+                                    "One lunar cycle"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -7700,28 +7886,64 @@
                         },
                         "rows": [
                             {
-                                "en": [ "One", "Arm’s reach" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "Arm’s reach"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "One room" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "One room"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "A medium-sized building, such as an in" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "A medium-sized building, such as an in"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "A city block or a small keep" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "A city block or a small keep"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five", "Three city blocks; a castle" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five",
+                                    "Three city blocks; a castle"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Six+", "An entire city" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Six+",
+                                    "An entire city"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -9791,25 +10013,55 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Normal human", "4" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Normal human",
+                                "4"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Packmate", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Packmate",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Garou (even frenzied)", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Garou (even frenzied)",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Wyrm creature (including Black Spiral Dancers)", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Wyrm creature (including Black Spiral Dancers)",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Alien or demon creatures (vampires)", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Alien or demon creatures (vampires)",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -11437,33 +11689,75 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Terrain", "Difficulty" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Terrain",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Desert", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Desert",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Plains", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Plains",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Town", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Town",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Mountains", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Mountains",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Woods", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Woods",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "City", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "City",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -11486,33 +11780,75 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "", "" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "",
+                                ""
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Desert", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Desert",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Plains", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Plains",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Town", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Town",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Mountains", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Mountains",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Woods", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Woods",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "City", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "City",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -13631,17 +13967,29 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "1 point for a Jaggling" ],
-                            "pl": [ "" ]
+                            "en": [
+                                "1 point for a Jaggling"
+                            ],
+                            "pl": [
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "2 for a Gaffling" ],
-                                "pl": [ "" ]
+                                "en": [
+                                    "2 for a Gaffling"
+                                ],
+                                "pl": [
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "3 for any stronger spirit" ],
-                                "pl": [ "" ]
+                                "en": [
+                                    "3 for any stronger spirit"
+                                ],
+                                "pl": [
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -17353,29 +17701,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Device", "Difficulty" ],
-                            "pl": [ "Urządzenie", "Trudność" ]
+                            "en": [
+                                "Device",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "Urządzenie",
+                                "Trudność"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Computer", "4" ],
-                                "pl": [ "Komputer", "4" ]
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "Komputer",
+                                    "4"
+                                ]
                             },
                             {
-                                "en": [ "Phone", "6" ],
-                                "pl": [ "Telefon", "6" ]
+                                "en": [
+                                    "Phone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Telefon",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Automobile", "8" ],
-                                "pl": [ "Samochód", "8" ]
+                                "en": [
+                                    "Automobile",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Samochód",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Gun", "9" ],
-                                "pl": [ "Pistolet", "9" ]
+                                "en": [
+                                    "Gun",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "Pistolet",
+                                    "9"
+                                ]
                             },
                             {
-                                "en": [ "Knife", "10" ],
-                                "pl": [ "Nóż", "10" ]
+                                "en": [
+                                    "Knife",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Nóż",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -17393,25 +17777,55 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Device", "Difficulty" ],
-                            "pl": [ "Urządzenie", "Trudność" ]
+                            "en": [
+                                "Device",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "Urządzenie",
+                                "Trudność"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Computer", "4" ],
-                                "pl": [ "Komputer", "4" ]
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "Komputer",
+                                    "4"
+                                ]
                             },
                             {
-                                "en": [ "Phone", "6" ],
-                                "pl": [ "Telefon", "6" ]
+                                "en": [
+                                    "Phone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Telefon",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Automobile", "8" ],
-                                "pl": [ "Samochód", "8" ]
+                                "en": [
+                                    "Automobile",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Samochód",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Knife", "10" ],
-                                "pl": [ "Nóż", "10" ]
+                                "en": [
+                                    "Knife",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Nóż",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -17429,29 +17843,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Device", "Difficulty" ],
-                            "pl": [ "Urządzenie", "Trudność" ]
+                            "en": [
+                                "Device",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "Urządzenie",
+                                "Trudność"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Computer", "4" ],
-                                "pl": [ "Komputer", "4" ]
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "Komputer",
+                                    "4"
+                                ]
                             },
                             {
-                                "en": [ "Phone", "6" ],
-                                "pl": [ "Telefon", "6" ]
+                                "en": [
+                                    "Phone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Telefon",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Car", "7" ],
-                                "pl": [ "Samochód", "7" ]
+                                "en": [
+                                    "Car",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "Samochód",
+                                    "7"
+                                ]
                             },
                             {
-                                "en": [ "Gun", "8" ],
-                                "pl": [ "Pistolet", "8" ]
+                                "en": [
+                                    "Gun",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Pistolet",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Knife", "9" ],
-                                "pl": [ "Nóż", "9" ]
+                                "en": [
+                                    "Knife",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "Nóż",
+                                    "9"
+                                ]
                             }
                         ]
                     }
@@ -17603,29 +18053,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Number of Successes", "Length of Transit" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Number of Successes",
+                                "Length of Transit"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "1", "A year" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "1",
+                                    "A year"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "2", "Six months" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "2",
+                                    "Six months"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "3", "One season" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "3",
+                                    "One season"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "4", "One week" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "4",
+                                    "One week"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "5", "One day" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "5",
+                                    "One day"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -18540,24 +19026,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "Mildly Tainted (a battlefield)", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Mildly Tainted (a battlefield)",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Tainted (fomori bunks)", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Tainted (fomori bunks)",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Corrupted (a Wyrm-cult’s lodge)", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Corrupted (a Wyrm-cult’s lodge)",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Blighted (an Umbral Blight)", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Blighted (an Umbral Blight)",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Hopeless (an Anchorhead to Malfeas)", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Hopeless (an Anchorhead to Malfeas)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -20883,29 +21399,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Success", "Effect" ],
-                            "pl": [ "Botch", "Secret retained with unusual clarity" ]
+                            "en": [
+                                "Success",
+                                "Effect"
+                            ],
+                            "pl": [
+                                "Botch",
+                                "Secret retained with unusual clarity"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "Secret becomes elusive and garbled" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "Secret becomes elusive and garbled"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "Secret is maddeningly beyond reach" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "Secret is maddeningly beyond reach"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "Subject forgets he was told the secret" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "Subject forgets he was told the secret"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "Subject’s own part in discussion is vague" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "Subject’s own part in discussion is vague"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five", "Subject forgets the conversation took place" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five",
+                                    "Subject forgets the conversation took place"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -21704,20 +22256,44 @@
                         },
                         "rows": [
                             {
-                                "en": [ "Computer", "4" ],
-                                "pl": [ "Komputer", "4" ]
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "Komputer",
+                                    "4"
+                                ]
                             },
                             {
-                                "en": [ "Phone", "6" ],
-                                "pl": [ "Telefon", "6" ]
+                                "en": [
+                                    "Phone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Telefon",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Automobile", "8" ],
-                                "pl": [ "Samochód", "8" ]
+                                "en": [
+                                    "Automobile",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Samochód",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Knife", "10" ],
-                                "pl": [ "Nóż", "10" ]
+                                "en": [
+                                    "Knife",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Nóż",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -21735,29 +22311,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Device", "Difficulty" ],
-                            "pl": [ "Urządzenie", "Trudność" ]
+                            "en": [
+                                "Device",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "Urządzenie",
+                                "Trudność"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Computer", "4" ],
-                                "pl": [ "Komputer", "4" ]
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "Komputer",
+                                    "4"
+                                ]
                             },
                             {
-                                "en": [ "Phone", "6" ],
-                                "pl": [ "Telefon", "6" ]
+                                "en": [
+                                    "Phone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Telefon",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Automobile", "8" ],
-                                "pl": [ "Samochód", "8" ]
+                                "en": [
+                                    "Automobile",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Samochód",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Gun", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Gun",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Knife", "10" ],
-                                "pl": [ "Nóż", "10" ]
+                                "en": [
+                                    "Knife",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Nóż",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -21786,24 +22398,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "Computer", "4" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Computer",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Phone", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Phone",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Automobile", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Automobile",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Gun", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Gun",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Knife", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Knife",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -22086,25 +22728,55 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Relationship", "Difficulty" ],
-                            "pl": [ "Wzajemny stosunek", "Trudność" ]
+                            "en": [
+                                "Relationship",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "Wzajemny stosunek",
+                                "Trudność"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "A sibling", "3" ],
-                                "pl": [ "Rodzeństwo", "3" ]
+                                "en": [
+                                    "A sibling",
+                                    "3"
+                                ],
+                                "pl": [
+                                    "Rodzeństwo",
+                                    "3"
+                                ]
                             },
                             {
-                                "en": [ "Feed and care for", "6" ],
-                                "pl": [ "Opiekun/żywiciel", "6" ]
+                                "en": [
+                                    "Feed and care for",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Opiekun/żywiciel",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Stranger", "8" ],
-                                "pl": [ "Obcy", "8" ]
+                                "en": [
+                                    "Stranger",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Obcy",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Hostile", "10" ],
-                                "pl": [ "Wrogowie", "10" ]
+                                "en": [
+                                    "Hostile",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Wrogowie",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -22122,25 +22794,55 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Relationship", "Difficulty" ],
-                            "pl": [ "Wzajemny stosunek", "Trudność" ]
+                            "en": [
+                                "Relationship",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "Wzajemny stosunek",
+                                "Trudność"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "A sibling", "3" ],
-                                "pl": [ "Rodzeństwo", "3" ]
+                                "en": [
+                                    "A sibling",
+                                    "3"
+                                ],
+                                "pl": [
+                                    "Rodzeństwo",
+                                    "3"
+                                ]
                             },
                             {
-                                "en": [ "Feed and care for", "6" ],
-                                "pl": [ "Opiekun/żywiciel", "6" ]
+                                "en": [
+                                    "Feed and care for",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Opiekun/żywiciel",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Stranger", "8" ],
-                                "pl": [ "Obcy", "8" ]
+                                "en": [
+                                    "Stranger",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Obcy",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Hostile", "10" ],
-                                "pl": [ "Wrogowie", "10" ]
+                                "en": [
+                                    "Hostile",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Wrogowie",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -23242,37 +23944,85 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "% Time Required" ],
-                            "pl": [ "Liczba sukcesów", "Wymagany czas" ]
+                            "en": [
+                                "Successes",
+                                "% Time Required"
+                            ],
+                            "pl": [
+                                "Liczba sukcesów",
+                                "Wymagany czas"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Botch", "25% more" ],
-                                "pl": [ "Pech", "25% mniej" ]
+                                "en": [
+                                    "Botch",
+                                    "25% more"
+                                ],
+                                "pl": [
+                                    "Pech",
+                                    "25% mniej"
+                                ]
                             },
                             {
-                                "en": [ "1", "5% less" ],
-                                "pl": [ "1", "5% mniej" ]
+                                "en": [
+                                    "1",
+                                    "5% less"
+                                ],
+                                "pl": [
+                                    "1",
+                                    "5% mniej"
+                                ]
                             },
                             {
-                                "en": [ "2", "10% less" ],
-                                "pl": [ "2", "10% mniej" ]
+                                "en": [
+                                    "2",
+                                    "10% less"
+                                ],
+                                "pl": [
+                                    "2",
+                                    "10% mniej"
+                                ]
                             },
                             {
-                                "en": [ "3", "25% less" ],
-                                "pl": [ "3", "25% mniej" ]
+                                "en": [
+                                    "3",
+                                    "25% less"
+                                ],
+                                "pl": [
+                                    "3",
+                                    "25% mniej"
+                                ]
                             },
                             {
-                                "en": [ "4", "50% less" ],
-                                "pl": [ "4", "50% mniej" ]
+                                "en": [
+                                    "4",
+                                    "50% less"
+                                ],
+                                "pl": [
+                                    "4",
+                                    "50% mniej"
+                                ]
                             },
                             {
-                                "en": [ "5", "75% less" ],
-                                "pl": [ "5", "75% mniej" ]
+                                "en": [
+                                    "5",
+                                    "75% less"
+                                ],
+                                "pl": [
+                                    "5",
+                                    "75% mniej"
+                                ]
                             },
                             {
-                                "en": [ "6+", "80% less" ],
-                                "pl": [ "6+", "80% mniej" ]
+                                "en": [
+                                    "6+",
+                                    "80% less"
+                                ],
+                                "pl": [
+                                    "6+",
+                                    "80% mniej"
+                                ]
                             }
                         ]
                     }
@@ -23971,21 +24721,45 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Change", "Difficulty" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Change",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Characteristics (Willpower, Rage, Gnosis) one point changed per success", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Disposition (Friendly, Neutral, Hostile)", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Disposition (Friendly, Neutral, Hostile)",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Type (Nature, Elemental, Bane, etc.)", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Type (Nature, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -24003,21 +24777,45 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Change", "Difficulty" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Change",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Characteristics (Willpower, Rage, Gnosis) one point changed per success", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Disposition", "8" ],
-                                "pl": [ "Disposition (Friendly, Neutral, Hostile) or Affiliation within Type (water to fire, etc.)", "8" ]
+                                "en": [
+                                    "Disposition",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Disposition (Friendly, Neutral, Hostile) or Affiliation within Type (water to fire, etc.)",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Type (Naturae, Elemental, Bane, etc.)", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Type (Naturae, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -24035,21 +24833,45 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Change", "Difficulty" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Change",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Characteristics (Willpower, Rage, Gnosis) one point changed per success", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Disposition", "8" ],
-                                "pl": [ "Disposition (Friendly, Neutral, Hostile)", "8" ]
+                                "en": [
+                                    "Disposition",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Disposition (Friendly, Neutral, Hostile)",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Type (Naturae, Elemental, Bane, etc.)", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Type (Naturae, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -27758,36 +28580,84 @@
                         },
                         "rows": [
                             {
-                                "en": [ "Penny", "3" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Penny",
+                                    "3"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Nickel", "4" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Nickel",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Dime", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Dime",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Quarter", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Quarter",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Dollar", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Dollar",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five Dollar", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five Dollar",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Twenty Dollar", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Twenty Dollar",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "One Hundred Dollar", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One Hundred Dollar",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -27821,36 +28691,84 @@
                         },
                         "rows": [
                             {
-                                "en": [ "Penny", "3" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Penny",
+                                    "3"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Nickel", "4" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Nickel",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Dime", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Dime",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Quarter", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Quarter",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Dollar bill", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Dollar bill",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five Dollar bill", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five Dollar bill",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Twenty Dollar bill", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Twenty Dollar bill",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Any other currency", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Any other currency",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -27868,24 +28786,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "1", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "1",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "2", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "2",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "3", "2-" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "3",
+                                    "2-"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "4", "50" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "4",
+                                    "50"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "5", "100" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "5",
+                                    "100"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -28687,29 +29635,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Area Affected" ],
-                            "pl": [ "Sukcesy", "Obszar" ]
+                            "en": [
+                                "Successes",
+                                "Area Affected"
+                            ],
+                            "pl": [
+                                "Sukcesy",
+                                "Obszar"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "Room" ],
-                                "pl": [ "jeden", "jeden pokój" ]
+                                "en": [
+                                    "One",
+                                    "Room"
+                                ],
+                                "pl": [
+                                    "jeden",
+                                    "jeden pokój"
+                                ]
                             },
                             {
-                                "en": [ "Two", "House or Single Story" ],
-                                "pl": [ "dwa", "dom lub piętro budynku" ]
+                                "en": [
+                                    "Two",
+                                    "House or Single Story"
+                                ],
+                                "pl": [
+                                    "dwa",
+                                    "dom lub piętro budynku"
+                                ]
                             },
                             {
-                                "en": [ "Three", "Large Building" ],
-                                "pl": [ "trzy", "duży budynek" ]
+                                "en": [
+                                    "Three",
+                                    "Large Building"
+                                ],
+                                "pl": [
+                                    "trzy",
+                                    "duży budynek"
+                                ]
                             },
                             {
-                                "en": [ "Four", "City Block" ],
-                                "pl": [ "cztery", "kwartał domów" ]
+                                "en": [
+                                    "Four",
+                                    "City Block"
+                                ],
+                                "pl": [
+                                    "cztery",
+                                    "kwartał domów"
+                                ]
                             },
                             {
-                                "en": [ "Five", "Neighborhood" ],
-                                "pl": [ "pięć", "cała okolica" ]
+                                "en": [
+                                    "Five",
+                                    "Neighborhood"
+                                ],
+                                "pl": [
+                                    "pięć",
+                                    "cała okolica"
+                                ]
                             }
                         ]
                     }
@@ -30164,24 +31148,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "One", "line of sight (as per Mindspeak)" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "line of sight (as per Mindspeak)"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "same building" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "same building"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "same city block" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "same city block"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "same city" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "same city"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five", "same state or province" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five",
+                                    "same state or province"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -30343,29 +31357,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Duration" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Successes",
+                                "Duration"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "One Hour" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "One Hour"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "One Day" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "One Day"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "One Month" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "One Month"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "One Year" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "One Year"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five+", "Until the curse is broken" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five+",
+                                    "Until the curse is broken"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -31279,24 +32329,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "One", "5 minutes" ],
-                                "pl": [ "Jeden", "5 minut" ]
+                                "en": [
+                                    "One",
+                                    "5 minutes"
+                                ],
+                                "pl": [
+                                    "Jeden",
+                                    "5 minut"
+                                ]
                             },
                             {
-                                "en": [ "Two", "10 minutes" ],
-                                "pl": [ "Dwa", "10 minut" ]
+                                "en": [
+                                    "Two",
+                                    "10 minutes"
+                                ],
+                                "pl": [
+                                    "Dwa",
+                                    "10 minut"
+                                ]
                             },
                             {
-                                "en": [ "Three", "One Scene" ],
-                                "pl": [ "Trzy", "Jedna scena" ]
+                                "en": [
+                                    "Three",
+                                    "One Scene"
+                                ],
+                                "pl": [
+                                    "Trzy",
+                                    "Jedna scena"
+                                ]
                             },
                             {
-                                "en": [ "Four", "One Story" ],
-                                "pl": [ "Cztery", "Jedna opowieść" ]
+                                "en": [
+                                    "Four",
+                                    "One Story"
+                                ],
+                                "pl": [
+                                    "Cztery",
+                                    "Jedna opowieść"
+                                ]
                             },
                             {
-                                "en": [ "Five", "Permanent" ],
-                                "pl": [ "Pięć", "Permanentnie" ]
+                                "en": [
+                                    "Five",
+                                    "Permanent"
+                                ],
+                                "pl": [
+                                    "Pięć",
+                                    "Permanentnie"
+                                ]
                             }
                         ]
                     }
@@ -31325,24 +32405,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "One", "5 minutes" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "5 minutes"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "10 minutes" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "10 minutes"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "One Scene" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "One Scene"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "One Story" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "One Story"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five", "Permanent" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five",
+                                    "Permanent"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -31867,25 +32977,55 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "One", "Building" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "One",
+                                "Building"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Two", "Block" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "Block"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "Neighborhood" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "Neighborhood"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "District (the South Side, etc.)" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "District (the South Side, etc.)"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five", "Entire City" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five",
+                                    "Entire City"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -31903,29 +33043,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Extent" ],
-                            "pl": [ "Sukces", "Zasięg" ]
+                            "en": [
+                                "Successes",
+                                "Extent"
+                            ],
+                            "pl": [
+                                "Sukces",
+                                "Zasięg"
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "Building" ],
-                                "pl": [ "1 sukces", "budynek" ]
+                                "en": [
+                                    "One",
+                                    "Building"
+                                ],
+                                "pl": [
+                                    "1 sukces",
+                                    "budynek"
+                                ]
                             },
                             {
-                                "en": [ "Two", "Block" ],
-                                "pl": [ "2 sukcesy", "kwartał (kwadrat ograniczony ulicami)" ]
+                                "en": [
+                                    "Two",
+                                    "Block"
+                                ],
+                                "pl": [
+                                    "2 sukcesy",
+                                    "kwartał (kwadrat ograniczony ulicami)"
+                                ]
                             },
                             {
-                                "en": [ "Three", "Neighborhood" ],
-                                "pl": [ "3 sukcesy", "najbliższa okolica" ]
+                                "en": [
+                                    "Three",
+                                    "Neighborhood"
+                                ],
+                                "pl": [
+                                    "3 sukcesy",
+                                    "najbliższa okolica"
+                                ]
                             },
                             {
-                                "en": [ "Four", "District" ],
-                                "pl": [ "4 sukcesy ", "dzielnica, dystrykt (South Side itp.)" ]
+                                "en": [
+                                    "Four",
+                                    "District"
+                                ],
+                                "pl": [
+                                    "4 sukcesy ",
+                                    "dzielnica, dystrykt (South Side itp.)"
+                                ]
                             },
                             {
-                                "en": [ "Five", "Entire City" ],
-                                "pl": [ "5 sukcesów", "ałe miasto" ]
+                                "en": [
+                                    "Five",
+                                    "Entire City"
+                                ],
+                                "pl": [
+                                    "5 sukcesów",
+                                    "ałe miasto"
+                                ]
                             }
                         ]
                     }
@@ -32271,29 +33447,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Duration" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Successes",
+                                "Duration"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "One", "One minute" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "One",
+                                    "One minute"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Two", "Ten minutes" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Two",
+                                    "Ten minutes"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Three", "An hour" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Three",
+                                    "An hour"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Four", "Six hours" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Four",
+                                    "Six hours"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Five+", "Twelve hours" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Five+",
+                                    "Twelve hours"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -32316,29 +33528,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Successes", "Duration" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Successes",
+                                "Duration"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "1", "One minute" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "1",
+                                    "One minute"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "2", "10 minutes" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "2",
+                                    "10 minutes"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "3", "One hour" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "3",
+                                    "One hour"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "4", "Six hours" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "4",
+                                    "Six hours"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "5+", "Twelve hours" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "5+",
+                                    "Twelve hours"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -35296,29 +36544,77 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Target", "Difficulty", "Special Effect" ],
-                            "pl": [ "", "", "" ]
+                            "en": [
+                                "Target",
+                                "Difficulty",
+                                "Special Effect"
+                            ],
+                            "pl": [
+                                "",
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Skull", "+3", "Stamina roll (difficulty 8) to remain conscious" ],
-                                "pl": [ "", "", "" ]
+                                "en": [
+                                    "Skull",
+                                    "+3",
+                                    "Stamina roll (difficulty 8) to remain conscious"
+                                ],
+                                "pl": [
+                                    "",
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Arm", "+2", "Dexterity roll to hold items; target cannot use broken limb to attack" ],
-                                "pl": [ "", "", "" ]
+                                "en": [
+                                    "Arm",
+                                    "+2",
+                                    "Dexterity roll to hold items; target cannot use broken limb to attack"
+                                ],
+                                "pl": [
+                                    "",
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Leg", "+1", "Dexterity roll to remain standing; target cannot run or attack with broken limb" ],
-                                "pl": [ "", "", "" ]
+                                "en": [
+                                    "Leg",
+                                    "+1",
+                                    "Dexterity roll to remain standing; target cannot run or attack with broken limb"
+                                ],
+                                "pl": [
+                                    "",
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Rib", "+2", "Stamina roll (difficulty 6) to avoid puncturing a lung" ],
-                                "pl": [ "", "", "" ]
+                                "en": [
+                                    "Rib",
+                                    "+2",
+                                    "Stamina roll (difficulty 6) to avoid puncturing a lung"
+                                ],
+                                "pl": [
+                                    "",
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Spine", "+4", "Must attack target from rear; target remains paralyzed until wound heals" ],
-                                "pl": [ "", "", "" ]
+                                "en": [
+                                    "Spine",
+                                    "+4",
+                                    "Must attack target from rear; target remains paralyzed until wound heals"
+                                ],
+                                "pl": [
+                                    "",
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -38914,37 +40210,85 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "", "" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "",
+                                ""
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Material", "Difficulty" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Material",
+                                    "Difficulty"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Paper, Cardboard", "4" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Paper, Cardboard",
+                                    "4"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Cloth, Leather, Rope", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Cloth, Leather, Rope",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Thin Wood, Bone", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Thin Wood, Bone",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Thick Wood, Glass", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Thick Wood, Glass",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Thin Metal, Stone", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Thin Metal, Stone",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Thick Metal", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Thick Metal",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -40729,33 +42073,75 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "Temperature", "Difficulty" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "Temperature",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "Below 0 degrees F", "5" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Below 0 degrees F",
+                                    "5"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "0-32 degrees F", "6" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "0-32 degrees F",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "32-49 degrees F", "7" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "32-49 degrees F",
+                                    "7"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "49-65 degrees F", "8" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "49-65 degrees F",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "65-80 degrees F", "9" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "65-80 degrees F",
+                                    "9"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "Above 80 degrees F", "10" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "Above 80 degrees F",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     },
@@ -41883,16 +43269,34 @@
                         },
                         "rows": [
                             {
-                                "en": [ "Characteristics (Willpower, Rage, Gnosis; one point changed per success)", "6" ],
-                                "pl": [ "Cecha (Siła Woli, Szał, Gnoza; każdy sukces oznacza zmianę o 1 punkt)", "6" ]
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis; one point changed per success)",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "Cecha (Siła Woli, Szał, Gnoza; każdy sukces oznacza zmianę o 1 punkt)",
+                                    "6"
+                                ]
                             },
                             {
-                                "en": [ "Disposition (Friendly, Neutral, Hostile)", "8" ],
-                                "pl": [ "Nastawienie (przyjacielskie, obojętne, wrogie)", "8" ]
+                                "en": [
+                                    "Disposition (Friendly, Neutral, Hostile)",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Nastawienie (przyjacielskie, obojętne, wrogie)",
+                                    "8"
+                                ]
                             },
                             {
-                                "en": [ "Type (Nature, Elemental, Bane, etc.)", "10" ],
-                                "pl": [ "Rodzaj (Natura, Żywiołak, Zmora itp.)", "10" ]
+                                "en": [
+                                    "Type (Nature, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "Rodzaj (Natura, Żywiołak, Zmora itp.)",
+                                    "10"
+                                ]
                             }
                         ]
                     }
@@ -45078,29 +46482,65 @@
                     {
                         "type": "table",
                         "headers": {
-                            "en": [ "", "" ],
-                            "pl": [ "", "" ]
+                            "en": [
+                                "",
+                                ""
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
                         },
                         "rows": [
                             {
-                                "en": [ "", "" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "",
+                                    ""
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "", "" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "",
+                                    ""
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "", "" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "",
+                                    ""
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "", "" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "",
+                                    ""
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             },
                             {
-                                "en": [ "", "" ],
-                                "pl": [ "", "" ]
+                                "en": [
+                                    "",
+                                    ""
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
                             }
                         ]
                     }
@@ -47933,24 +49373,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "One", "10 minutes" ],
-                                "pl": [ "Jeden", "10 minut" ]
+                                "en": [
+                                    "One",
+                                    "10 minutes"
+                                ],
+                                "pl": [
+                                    "Jeden",
+                                    "10 minut"
+                                ]
                             },
                             {
-                                "en": [ "Two", "30 minutes" ],
-                                "pl": [ "Dwa", "30 minut" ]
+                                "en": [
+                                    "Two",
+                                    "30 minutes"
+                                ],
+                                "pl": [
+                                    "Dwa",
+                                    "30 minut"
+                                ]
                             },
                             {
-                                "en": [ "Three", "One hour" ],
-                                "pl": [ "Trzy", "jedna godzina" ]
+                                "en": [
+                                    "Three",
+                                    "One hour"
+                                ],
+                                "pl": [
+                                    "Trzy",
+                                    "jedna godzina"
+                                ]
                             },
                             {
-                                "en": [ "Four", "Three hours" ],
-                                "pl": [ "Cztery", "trzy godziny" ]
+                                "en": [
+                                    "Four",
+                                    "Three hours"
+                                ],
+                                "pl": [
+                                    "Cztery",
+                                    "trzy godziny"
+                                ]
                             },
                             {
-                                "en": [ "Five", "One day" ],
-                                "pl": [ "Pięć", "jeden dzień" ]
+                                "en": [
+                                    "Five",
+                                    "One day"
+                                ],
+                                "pl": [
+                                    "Pięć",
+                                    "jeden dzień"
+                                ]
                             }
                         ]
                     }
@@ -47979,24 +49449,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "1", "10 minutes" ],
-                                "pl": [ "1", "10 minut" ]
+                                "en": [
+                                    "1",
+                                    "10 minutes"
+                                ],
+                                "pl": [
+                                    "1",
+                                    "10 minut"
+                                ]
                             },
                             {
-                                "en": [ "2", "30 minutes" ],
-                                "pl": [ "2", "30 minut" ]
+                                "en": [
+                                    "2",
+                                    "30 minutes"
+                                ],
+                                "pl": [
+                                    "2",
+                                    "30 minut"
+                                ]
                             },
                             {
-                                "en": [ "3", "One hour" ],
-                                "pl": [ "3", "jedna godzina" ]
+                                "en": [
+                                    "3",
+                                    "One hour"
+                                ],
+                                "pl": [
+                                    "3",
+                                    "jedna godzina"
+                                ]
                             },
                             {
-                                "en": [ "4", "Three hours" ],
-                                "pl": [ "4", "trzy godziny" ]
+                                "en": [
+                                    "4",
+                                    "Three hours"
+                                ],
+                                "pl": [
+                                    "4",
+                                    "trzy godziny"
+                                ]
                             },
                             {
-                                "en": [ "5", "One day" ],
-                                "pl": [ "5", "jeden dzień" ]
+                                "en": [
+                                    "5",
+                                    "One day"
+                                ],
+                                "pl": [
+                                    "5",
+                                    "jeden dzień"
+                                ]
                             }
                         ]
                     }
@@ -48025,24 +49525,54 @@
                         },
                         "rows": [
                             {
-                                "en": [ "One", "10 minutes" ],
-                                "pl": [ "Jeden", "10 minut" ]
+                                "en": [
+                                    "One",
+                                    "10 minutes"
+                                ],
+                                "pl": [
+                                    "Jeden",
+                                    "10 minut"
+                                ]
                             },
                             {
-                                "en": [ "Two", "30 minutes" ],
-                                "pl": [ "Dwa", "30 minut" ]
+                                "en": [
+                                    "Two",
+                                    "30 minutes"
+                                ],
+                                "pl": [
+                                    "Dwa",
+                                    "30 minut"
+                                ]
                             },
                             {
-                                "en": [ "Three", "One hour" ],
-                                "pl": [ "Trzy", "jedna godzina" ]
+                                "en": [
+                                    "Three",
+                                    "One hour"
+                                ],
+                                "pl": [
+                                    "Trzy",
+                                    "jedna godzina"
+                                ]
                             },
                             {
-                                "en": [ "Four", "Three hours" ],
-                                "pl": [ "Cztery", "trzy godziny" ]
+                                "en": [
+                                    "Four",
+                                    "Three hours"
+                                ],
+                                "pl": [
+                                    "Cztery",
+                                    "trzy godziny"
+                                ]
                             },
                             {
-                                "en": [ "Five+", "One day" ],
-                                "pl": [ "Pięć+", "jeden dzień" ]
+                                "en": [
+                                    "Five+",
+                                    "One day"
+                                ],
+                                "pl": [
+                                    "Pięć+",
+                                    "jeden dzień"
+                                ]
                             }
                         ]
                     }

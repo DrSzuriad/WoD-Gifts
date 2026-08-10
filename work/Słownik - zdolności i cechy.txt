@@ -1,0 +1,57 @@
+
+Strength	->	Siła
+Dexterity	->	Zręczność
+Stamina		->	Wytrzymałość
+Charisma 	->	Charyzma
+Manipulation	->	Oddziaływanie
+Appearance 	-> 	Wygląd
+Perception	->	Percepcja
+Intelligence	->	Inteligencja
+Wits		->	Spryt
+Willpower	->	Siła woli
+Gnosis		->	Gnoza
+
+	
+Academics	->	Wykształcenie
+Alertness	->	Czujność
+Ancestors	->	Pamięć Przodków
+Animal		->	Oswajanie
+Archery		->	Łucznictwo
+Athletics	->	Atletyka
+Awareness	->	Czujność
+Barter		->	Handel Wymienny
+Brawl		->	Bójka
+Computer	->	Komputery
+Computers	->	Komputery
+Craft		->	Rzemiosło
+Crafts		->	Rzemiosło
+Dodge		->	Uniki
+Drive		->	Prowadzenie
+Empathy		->	Empatia
+Enigmas		->	Zagadki
+Etiquette	->	Etykieta
+Expression	->	Ekspresja
+Firearms	->	Broń Palna
+Intimidation	->	Zastraszanie
+Investigation	->	Śledztwo
+Kailindo	->	Kailindo
+Larceny		->	Złodziejstwo
+Law		->	Prawo
+Leadership	->	Autorytet
+Linguistics	->	Lingwistyka
+Medicine	->	Medycyna
+Meditation	->	Medytacja
+Melee		->	Walka wręcz
+Occult		->	Okultyzm
+Perception	->	Percepcja
+Performance	->	Występy
+Politics	->	Polityka
+Primal		->	Pierwotne
+Repair		->	Naprawa
+Rituals		->	Obrzędy
+Science		->	Nauka
+Stealth		->	Krycie się
+Streetwise	->	Instynkt Uliczny
+Subterfuge	->	Cwaniactwo
+Survival	->	Sztuka
+

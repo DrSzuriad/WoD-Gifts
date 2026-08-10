@@ -1,0 +1,654 @@
+Pamięć — wersja uporządkowana
+na podstawie pliku „A Pamięć.docx”; duble usunięte, bloki scalone, konflikty wyniesione osobno
+Cel tego pliku: dać jedną kanoniczną wersję pamięci do ręcznego przeglądu i usuwania partiami. Zachowałem treść ustaleń, ale nie powielałem identycznych bloków. Wpisy sprzeczne lub nadpisane trafiły do osobnej sekcji na końcu.
+
+Instrukcja
+Na potrzeby tłumaczenia przerób ten blok do wersji pamięciowej: krótko, bez dubli, tylko trwałe ustalenia, z nadrzędnością terminów i bez rzeczy jednorazowych.
+
+Zapamiętaj dokładnie powyższy pakiet. Tylko to. Nie dopisuj własnych interpretacji i nie rozszerzaj
+Zapamiętaj dokładnie poniższy pakiet. Tylko to. Nie dopisuj własnych interpretacji i nie rozszerzaj
+
+Indeks pakietów do ewentualnego czyszczenia pamięci
+Pakiet	Zakres	Uwagi
+A	Zasady pracy z tekstem, OCR i stylu tłumaczeń	rdzeń roboczy; raczej zostawić
+B	Grafika ogólna i grafika Changeling	łatwo usuwać osobno, jeśli projekt wizualny nie wraca
+C	Rdzeń globalny WoD	mały pakiet wspólny dla wielu linii
+D	Changeling / The Dreaming	duży blok; dobry kandydat do wycięcia, gdy nie gracie Fae
+E	Wraith / Podziemie	średni blok; można zostawić lub odchudzić
+F	Werewolf	mały–średni blok; sporo pojęć wspólnych z Mage
+G	Mage / Technokracja	największy blok zasadniczy; dużo terminów i nadrzędnych ustaleń
+H	Digital Web / Wirtualni Adepci	bardzo duży blok specjalistyczny; osobny kandydat do wycięcia
+I	Hsien / Thousand Hells / Gypsies / inne	niewielki blok dodatków
+J	Konflikty, korekty i wpisy przestarzałe	sekcja do decyzji i porządkowania pamięci
+
+Pakiet A — Zasady pracy z tekstem, OCR i ogólne preferencje redakcyjne
+To jest rdzeń sposobu pracy i nie zależy od konkretnej linii Świata Mroku.
+•	Tłumaczenia mają być zgodne z oryginałem, bez upiększeń, dodatków i zbędnych znaków.
+•	Przy materiałach z umiejętnościami: tekst po polsku przepisywać bez zmian, a tekst po angielsku tłumaczyć.
+•	Układ i format oryginału mają być zachowane możliwie dokładnie, bez własnych oznaczeń i skrótów.
+•	Błędy OCR trzeba poprawiać zamiast ich powielania.
+•	Nie wolno powielać duplikatów wynikających z OCR.
+•	Tekst z OCR ma być składany w naturalne akapity; nie robić enterów po każdej linijce.
+•	Jednostki imperialne należy przeliczać na metryczne z rozsądnym zaokrągleniem.
+•	W kontekście cech postaci preferowane jest słowo „wartość” zamiast „ocena”.
+•	Gdy płeć nie jest określona lub nie ma potrzeby użycia form żeńskich, preferowane są formy męskie.
+Pakiet B — Grafika
+B1. Styl ogólny ilustracji
+•	Czarno-biały linoryt / woodcut o wysokim kontraście, z kreskowaniem lub kropkowaniem, bez półtonów.
+•	Tło absolutnie białe #FFFFFF.
+•	Kadr pionowy 3:4; plik PNG 1800×2400 px @ 300 DPI.
+•	Postacie od stóp do głów; oczy około 40–45% wysokości kadru; 7–10% luzu nad głową.
+•	Brak ramek, winiet i tekstur; dopuszczalny jedynie drobny cień u stóp lub rekwizyt diegetyczny.
+•	Sylwetka dzielona dokładnie na pół: lewa strona ludzka, prawa Fae; linia podziału pusta (biała) i nie wychodzi poza sylwetkę.
+•	Spójna grubość linii: kontur > rysy > detale.
+•	Ustalone rekwizyty i insygnia po stronie Fae tylko jeśli wynikają z rangi.
+•	Docelowy klimat: stary World of Darkness, 2 edycja.
+B2. Dodatkowe zasady dla projektu Changeling
+•	Childling = Dziecięcy / Dziecięca
+•	Wilder = Dziki / Dzika
+•	Grump / Grumpy = Zrzęda
+•	Brak koron i tiar po stronie Fae, chyba że postać jest królem, królową, księciem albo księżniczką.
+•	Królowa Aeron ma wyglądać na około 25 lat.
+Pakiet C — Rdzeń globalny Świata Mroku
+•	Ability = Zdolność
+•	Willpower = Siła Woli
+•	Botch = Katastrofa / Pech
+•	Demeanor = Postawa
+•	Threshold = Próg
+•	Abscess = Ropień
+•	Kindred = Spokrewniony
+•	Pentex = Pentex
+•	Manipulation = Oddziaływanie
+
+
+Pakiet D — Changeling / The Dreaming
+To jest scalona wersja kanonicznego bloku Changelinga.
+• Arcadia = Arkadia
+• Arts = Sztuka
+• Banality = Banalność
+• Near Dreaming = Bliskie Śnienie
+• Bunk = Dyrdymałka
+• Cantrip = Urok
+• Chimera = Chimera
+• Time of Legends = Czas Legend
+• Churl = Czeladnik / Pachołek
+• Champion = Czempion
+• Far Dreaming = Dalekie Śnienie
+• Dauntain = Dauntain
+• Draocht = Draocht
+• The Dreaming = Śnienie
+• Courts = Dwory
+• Childling = Dziecięcy
+• Human Seeming / Seeming = Ludzka Forma
+• Wilder = Dziki
+• Epiphany = Epifania
+• Escheat = Escheat
+• The Evanescence = Ewancescencja
+• Fae / Faerie = Fae / Faerie
+• Fathom = Fathom / Taghairm
+• Soothsay = Wróżenie
+• Fior = Fior
+• Freehold = Folga
+• Fuidir = Fuidir
+• Fychell = Fychell
+• Gallain = Gallain
+• Gosling = Gąsiątko
+• Glamour = Splendor
+• The Gloam = Gloam
+• Deep Dreaming = Głębokie Śnienie
+• Mew = Gniazdo
+• Chummery = Zajazd
+• Covey = Bractwo przysięgłe
+• Hue and Cry = Hałas i krzyk
+• Autumn = Jesień
+• Kinain = Kinain
+• Kith = Kith
+• Kithain = Kithain
+• Chrysalis = Przepoczwarzenie
+• Nightmare = Koszmar
+• Kin = Krewni
+• Dreamrealms = Królestwa Snów
+• Trollop = Ladacznica / Rozpustnica
+• Laud = Laudacja
+• Dan = Los
+• Autumn People = Jesienni Ludzie
+• Mortal Seeming = Ludzkie Oblicze
+• Mists = Mgły
+• Burgess = Mieszczanin
+• Mot = Mot
+• Motley = Zgraja
+• Saining = Nadanie Imienia / Saining
+• Fledge = Nowicjusz
+• Fae Mien = Forma Fae
+• Bedlam = Obłęd
+• Sundering = Oddzielenie
+• Changeling = Odmieniec
+• Cozen = Oskubać
+• Vellum = Vellum
+• Shattering = Rozdarcie
+• Commoner = Pospólstwo
+• The Resurgence = Odrodzenie
+• Retrorse = Retrorse
+• Oath = Przysięga
+• Realm = Dziedzina
+• Reune = Reune
+• Callowfae = Podlotek
+• House = Ród
+• Entrant = Entrant
+• Greybeard = Siwobrody
+• Dríabhar = Dríabhar
+• Retainers = Służacy
+• Mux = Muksować
+• Fancypants = Strojniś
+• Sots = Głupki
+• Noble = Szlachcic
+• Autumn World = Jesienny Świat
+• Privy Council = Prywatna Rada
+• Tara-Nar = Tara-Nar
+• Chiven = Tchórz
+• Yearning = Tęsknota
+• Trods = Trody
+• Tuatha de Danaan = Tuatha de Danaan
+• Unleashing = Uwolnienie
+• Voile = Voile
+• Vassal = Wasal
+• Knarl = Węzeł Knarla
+• Grandame = Wielka Dama
+• Oathbond = Więź Przysięgi
+• Jimp = Wykuć Znacznik
+• Prodigal = Zagubiony
+• Undoing = Zanikanie
+• Enchant = Zauroczenie
+• Enchanted = Zauroczony
+• Clarion = Zew Wojny
+• Codger = Zgred
+• Balefire = Balogień
+• Foredoom = Złowieść
+• Crepusc = Zmierzch Uczty
+• Grump = Zrzęda
+• Liege = Pan Feudalny
+
+Pakiet E — Wraith / Podziemie
+E1. Podstawowe terminy
+•	Tempest = Nawałnica
+•	Underworld = Podziemie
+•	Wraith = Upiór
+•	Spectre = Spektra
+•	Shadowlands = Krainy Cienia
+•	Harrowings = Męczarnia
+•	Fetter = Kajdany
+•	Risen = Powstały
+•	Caul = Błona
+•	Byway = Byway
+•	Haunt = Nawiedzenie
+•	Oblivion = Zapomnienie
+•	Maelstrom = Maelstrom
+•	Ferryman = Przewoźnik
+•	Renegades = Renegaci
+•	Thrall = Thrall
+•	Gaunt = Gaunt / Gauntowie
+•	Reaper = Rozpruwacz
+•	Skinriding = Jazda na Skórze
+•	Doomslayers = Łowcy Zagłady
+•	Catharsis = Katharsis
+•	Passions = Pasje
+•	Pathos = Patos
+•	Shadowguide = Przewodnik Cienia
+•	Thorns = Ciernie
+•	Corpus = Korpus (używać w liczbie pojedynczej)
+•	Reaper = Rozpruwacz
+•	Gaunt = Gaunt / Gauntowie
+•	Domem = Domen
+•	Shroud = Całun
+•	Angst = Angst
+•	Being = Obecność
+•	Composure = Opanowanie
+•	Castigate = Karcenie
+•	Corruption = Korupcja
+•	Skinlands = Krainy Skóry
+•	Hive-Mind = Umysł Roju
+
+E2. Legiony i władcy
+•	Emerald Legion = Szmaragdowy Legion
+•	Grim Legion = Ponury Legion
+•	Iron Legion = Żelazny Legion
+•	Legion of Paupers = Żebraczy Legion
+•	Penitent Legion = Pokutujący Legion
+•	Silent Legion = Milczący Legion
+•	Skeletal Legion = Zmizerniały Legion
+•	Legion of Fate = Legion Przeznaczenia
+•	Deathlord / Deathlords = Władca Śmierci / Władcy Śmierci
+•	Smiling Lord = Uśmiechnięty Lord
+•	Skeletal Lord = Szkieletowy Lord
+•	Ashen Lady = Popielna Pani
+•	Emerald Lord = Szmaragdowy Pan
+•	Beggar Lord = Pan Żebraków
+•	Laughing Lady = Śmiejąca się Pani
+•	Quiet Lord = Milczący Lord
+•	Ladies of Fate = Pani Przeznaczenia
+E3. Gildie Upiorów
+•	Artificers = Rzemieślnicy
+•	Sandmen = Sennicy
+•	Masquers = Maski
+•	Haunters = Nawiedzający
+•	Pardoners = Wybaczający
+•	Puppeteers = Lalkarze
+•	Spooks = Straszaki
+•	Oracles = Wyrocznie
+•	Harbingers = Zwiastuni
+•	Proctors = Proktorzy
+•	Monitors = Monitorzy
+•	Mnemoi = Mnemoi
+•	Solicitors = Podżegacze
+•	Usurers = Lichwiarze
+•	Chanteurs = Chanteurs
+•	Alchemists = Alchemicy
+Pakiet F — Werewolf
+•	werebeast = [coś]-łaki (np. werewolf = wilkołaki, wereraven = krukołaki, weresnake = wężołaki)
+•	Nagah / Naga — używać formy Nagah / Naga; nie używać „Nag”.
+•	Auspices = Patronat
+•	Primal-Urge = pierwotne instynkty
+•	Background = cechy pozycji
+•	Bone Gnawers = Gnatożuje
+•	Glass Walkers = Tubylcy Betonu
+•	Caern = Caern
+•	Sept = Szczep
+•	Wyrm = Żmij
+•	Wyld = Dzikun
+•	Weaver = Tkaczka
+•	Gauntlet = Rękawica
+•	spirits of the Wyld = Dzikuńce
+•	Wyrmlings / Banes = Zmory
+•	Jagglings = Strzępiaki
+•	Gafflings = Szponiaki
+•	Talens = Taleny
+•	Kinfolk = Krewniacy
+•	Crescent Moon = Księżycowy Sierp
+•	Bawn = Strefa
+•	Rapture = Raptura
+•	Wyldling = Dzikuńce
+•	Patronaty: Ragabash, Teurg, Filodoks, Galiard, Ahroun
+•	Epiphlings = Epifiaki
+Pakiet G — Mage / Technokracja
+To jest scalony blok nadrzędny. W źródle pojawiał się kilka razy dla Iteracji X, NŚP i Syndykatu; tutaj został zebrany bez dublowania całych akapitów.
+G1. Zasady nadrzędne
+•	Pełny blok terminologii Technokracji obowiązuje przy tłumaczeniach materiałów o Iteracji X, Nowym Światowym Porządku i Syndykacie.
+•	Nadrzędne są oficjalne polskie nazwy metodologii i podgrup z polskiej podstawki Maga.
+•	Skrót NWO należy po polsku oddawać jako NŚP.
+•	Scourge = Regresja
+•	Fortuna = termin Syndykatu oznaczający Rzeczywistość; szerzej także nieprzewidywalność manipulacji magicznej.
+•	Superstitionists = Przesądni
+•	Craftmasons = Budowniczy Rzemiosła
+•	rotes = roty
+•	Paradigma = Paradygmat
+G2. Oficjalne metodologie i podgrupy
+•	Iteracja X = Szyfranci; BioMechanika; Statystycy; Zarządcy Ruchu i Czasu
+•	Nowy Światowy Porządek = Wieża z Kości Słoniowej; Obserwatorzy; Agenci
+•	Progenitorzy = Inżynierowie FAKADE; Genożynierowie; Farmakopeiści
+•	Syndykat = Finansiści; Wykonawcy; Kontrolerzy Mediów; Lombardziści; Dział Projektów Specjalnych; Skarbnicy
+•	Inżynierowie Próżni = Korpus Między-Wymiarowy; Dział Zespołu Abordażu; Korpus Specjalistów Neutralizacji; Rozwój i Wykonanie; Dział Granicy Ziemia
+G3. Role robocze i skróty funkcjonalne
+•	BioMechanik = Procedury cybernetyczne, manipulacja mechaniczna
+•	Obrońca = ciężkie uzbrojenie, tropienie dewiantów, wykrywanie anomalii pozawymiarowych
+•	Wykonawca = tropienie dewiantów, uzbrojenie
+•	Egzekutor = gadżetoznawstwo
+•	Odkrywca = Nauka Wymiarowa, kartografia
+•	Inżynier FAKADE = procedury klonowania
+•	Finansista = manipulacja pieniędzmi
+•	Genożynier = inżynieria genetyczna
+•	Kontroler Mediów = manipulacja mediami i reklamą
+•	Operacyjny = procedury szpiegowskie, tropienie dewiantów, uzbrojenie
+•	Farmakopeista = tworzenie chemikaliów / syntetyczne rytuały
+•	Statystyk = przewidywanie, kalkulacja
+•	Zarządca Czasu i Ruchu = inżynieria, manipulacja energią i materią, nadzór, uzbrojenie
+•	Obserwator = procedury nadzoru, urządzenia śledzące, manipulacja mediami
+•	PDC = Korpus WieloWymiarowy (KWW)
+•	SPDDU = Jednostka Strategicznych Prognoz i Dyspersji Danych (JSPDD)
+•	BDC = Dywizja Korpusu Granicznego (DKG)
+•	R&E = Badania i Egzekucja (BiE)
+•	SPD = Dział Projektów Specjalnych (DPS)
+•	Q Division = Dywizja Q
+•	gadgeteering = gadżetoznawstwo
+•	Six Degrees of Separation = Sześć Stopni Oddania
+•	Psych Ops = Operacje Psychologiczne
+G4. Terminy ogólne i podręcznikowe
+•	Void Engineers = Inżynierowie Próżni
+•	Progenitors = Progenitorzy
+•	Iteration X = Iteracja X
+•	Prime = Pierwsza
+•	Reality Deviant = Dewiant Rzeczywistości
+•	Focus = rekwizyt
+•	Chantry = Fundacja
+•	Dreamspeaker = Mówca Marzeń / Mówcy Marzeń
+•	Enigmas = Zagadki
+•	Anchorheads = Kotwice
+•	Digital Web = Cyfrowa Pajęczyna
+•	Maya = Maja
+•	Pattern Web = Pajęczyna Wzorca
+•	Stepping Sideways = Krok w Bok
+•	Mirror Zone = Lustrzana Strefa
+•	Shade Realms = Cieniste Dziedziny
+•	Shard Realms = Dziedziny Cząstkowe
+•	Umbrood = Umród
+•	Technocracy = Technokracja / Unia Technokratyczna
+•	technocracy = technokracja / technokratyczne społeczeństwo
+•	Technocrat = Technokrata
+•	Order of Reason = Zakon Rozumu / Porządek Rozumu (zależnie od kontekstu pamięci)
+•	Symposium = Sympozjum
+•	Social Conditioning = Warunkowanie Społeczne
+•	Subtle Influence = Subtelny Wpływ
+•	Reality Crimes = Zbrodnie Rzeczywistości
+•	Primal Force = Pierwotna Siła
+•	Quintessence = Kwintesencja
+•	Amalgam = Amalgamat
+•	Anomaly = Anomalia
+•	Apparatus = Aparat
+•	Cell = Komórka
+•	Colony = Kolonia
+•	Citizen = Obywatel
+•	Consensus = Konsensus
+•	Construct = Konstrukt
+•	Convention = Konwencja
+•	Data-Recovery Specialist = Specjalista ds. Odzyskiwania Danych
+•	Deviance = Dewiacja
+•	Deviant = Dewiant
+•	Device = Mechanizm / urządzenie najwyższej klasy technologicznej
+•	Dimensional Science = Nauka Wymiarowa
+•	Deep Universe = Głęboki Wszechświat
+•	Dispatch Center = Centrum Dyspozycyjne
+•	Eidolon = Eidolon
+•	Empowerment = Wzmocnienie
+•	Enhancement = Ulepszenie
+•	Enlightenment = Oświecenie
+•	Extraordinary Citizen = Wyjątkowy Obywatel
+•	Front Lines = Linia Frontu
+•	Genegineering = Genożynieria
+•	Genius = Geniusz
+•	Horizon = Horyzont
+•	Influence = Wpływ
+•	Inspirational Science / Inspired Science / Enlightened Science = Nauka Inspiracyjna / Nauka Oświecona / Nauka Natchniona
+•	Ivory Tower = Biała Wieża / Konwencja Białej Wieży
+•	Masses = Masy / Umysły Mas
+•	Methodology = Metodologia
+•	Newlife = Nowe Życie
+•	Operative = Operacyjny
+•	Paradox Effect = Efekt Paradoksu
+•	Precepts of Damian = Prawa Damiana
+•	Primium = Primium
+•	Procedure = Procedura
+•	Process = Proces
+•	Processed = Przetworzony
+•	Rogue = Renegat
+•	Sleepteacher = Śniący
+•	Supervisor = Nadzorca
+•	Time Table = Harmonogram
+•	Un-Enlightened = Nieoświeceni
+•	UID = UNI
+G5. Żargon operacyjny Technokracji
+•	Black Hat and Mirrorshades = Czarny Kapelusz i Lustrzane Okulary
+•	Boys in Black = Chłopcy w Czerni
+•	Suit = Garnitur
+•	Drycleaning = Sucha Likwidacja
+•	Lab Rats = Szczury Laboratoryjne
+•	Sanitize = Oczyszczenie
+•	Sterilize = Sterylizacja
+•	Tin Men = Blaszaki
+•	Void = Próżnia
+•	Armature = Armatura
+•	Men in Black = Faceci w Czerni / Facet w Czerni
+•	HIT Mark = HIT Mark
+Pakiet H — Digital Web / Wirtualni Adepci
+H1. Rdzeń powracający
+•	Cypherpunks = Szyfropunki
+•	Lame = Lamer
+•	Backlash = Reakcja Zwrotna
+•	Paradox Realm = Dziedzina Paradoksu
+•	Men in Black = Faceci w Czerni / Facet w Czerni
+•	whiteout = Wybielenie
+•	Net Runner = Biegacz Sieci
+•	Realspace = Real
+•	Net = Sieć
+•	Net Runner = Biegacz Sieci
+•	Realspace = Real
+•	Conduit = Przewód
+•	Constraint Realm = Dziedzina Ograniczeń
+•	Construct = Konstrukt
+•	Data Beasts = Bestie Danych
+•	Formatted Web = Sformatowana Pajęczyna
+•	Junklands = Złomowiska
+•	Stacked File = Nawarstwiony Plik
+•	Techno Turf = Terytorium Technokracji
+•	Unformatted Web = Niesformatowana Pajęczyna
+•	Virgin Web = Dziewicza Pajęczyna
+•	whiteout = Wybielenie
+•	Backlash = Reakcja Zwrotna
+•	Men in Black = Faceci w Czerni / Facet w Czerni
+•	Paradox Realm = Dziedzina Paradoksu
+•	Real Web = Realna Pajęczyna
+•	Fishbowl = Akwarium.
+H2. Digital Web 2.0 — słownik slangowy
+•	Anarchia = Anarchy
+•	Barany / Beczący = Bleaters / Bleats
+•	Biożargon / Rzucanie Mięsem = Biochop / meatspeak
+•	Piętno = Brand
+•	Brzękobomba = Buzzbomb
+•	CGI = CGI
+•	Zrzut Chaosu = Chaos Dump
+•	Przewód = Conduit
+•	Dziedzina Ograniczeń = Constraint Realm
+•	Skażona Pajęczyna = Corrupted Web
+•	Szyfrak / Szyfrant = Cryptkeeper / Crypter
+•	TS = CT
+•	Bestie Danych / Zerki = Data Beasts / Zerks
+•	De-rez = De-Rez
+•	Cyfrowe Laleczki = Digital Dollz
+•	Zamulanie / Lag / Mielenie = Drag / Lag / Thrashing
+•	Eklektronika = Eclectronics
+•	Omlet = Egg-Burning
+•	FAQ = FAQ
+•	FOAD = FOAD
+•	Sformatowana Pajęczyna = Formatted Web
+•	Fraktal = Fractal
+•	DZIWAK = FREEKS
+•	Rozmyć = Fuzz
+•	FWIW = FWIW
+•	Glip = Glip
+•	Bogu = GODZ
+•	Sektor Siatki = Grid Sector
+•	Kraina Hamburgera / Mięsogród = Hamburger Country / Meatsville
+•	Nawiedzenie = Haunt
+•	Heebo = Heebo
+•	Ikona = Icon
+•	IMHO = IMHO
+•	IOW = IOW
+•	Żelazo = Iron
+•	Żelazozębny / Stary Żelazoząb = Ironteeth / Ol' Irontooth
+•	IT = IT
+•	Złomowisko = Junkland
+•	Lamer = Lame
+•	Maruder = Madball
+•	Mięso = Meat
+•	MU* = MU*
+•	NDTWR = NDTWR
+•	Neffie = Neffie
+•	Sieciak = Netizen
+•	Offline = Offline
+•	Paralaksowanie = Parallaxing
+•	Pył Pix-e = Pix-e Dust
+•	Prog = Prog
+•	Garbowanie = Rawhiding
+•	Czas rzeczywisty = Realtime
+•	Real = RealSpace
+•	RSN = RSN
+•	RTFM = RTFM
+•	Sektor = Sector
+•	Skoczek = Skipper
+•	Skweeb = Skweeb
+•	ZO = SO
+•	Pazur = Spice
+•	Plaskacz = Splat
+•	ZOSWR / Terytorium Technokracji = SRVRZ / TechnoTurf
+•	Nawarstwiony Plik = Stacked File
+•	Trendiarz = Trendie
+•	Trogowie = Trogs
+•	Twip = Twip
+•	Niesformatowana Pajęczyna = Unformatted Web
+•	1.0 = VI
+•	Dziewicza Pajęczyna = Virgin Web
+•	Wazup? = Wazup?
+•	Pająkowiec / Przędący / Sieciarz = Webspinner / Spinner / Webber
+•	Mokry towar / Wetware = Wetware
+•	Wybielenie = Whiteout
+•	WIBNI = WIBNI
+•	Witchy-Poo = Witchy-Poo
+•	WMTFM = WMTFM
+•	WYSIWYG = WYSIWYG.
+H3. Dodatkowy słownik Digital Web / materiały pokrewne
+•	A-K Brother = Brat A-K
+•	Barkeep = Karczmarz
+•	C of X = C z X
+•	Cell = Cela
+•	Conduit = Przewód
+•	Constraint Realm = Dziedzina Ograniczeń
+•	Construct = Konstrukt
+•	Crater, The = Krater
+•	Cybernaut = Cybernauta
+•	Data Beasts = Bestie Danych
+•	Data Rider = Jeździec Danych
+•	De-rez = De-rez
+•	Digital Death = Cyfrowa Śmierć
+•	Digital Web = Cyfrowa Pajęczyna
+•	Disk Dealer = Diler Dysków
+•	Dumped = Wyrzucony
+•	Ether Land / the Ether = Kraina Eteru / Eter
+•	Feedback = Informacja Zwrotna
+•	Flathead = Płaskogłowy
+•	Flatscreen = Płaski Ekran
+•	Formatted Web = Sformatowana Pajęczyna
+•	Free = Wolny
+•	Great Escape = Wielka Ucieczka
+•	Great Race = Wielki Wyścig
+•	Grid Sector = Sektor Siatki
+•	Handle = Ksywka
+•	Help = Pomocnik
+•	Icon = Ikona
+•	Iconification = Ikonifikacja
+•	Jack In/Out = Wpiąć się / wypiąć się
+•	Junklands = Złomowiska
+•	Net = Sieć
+•	Net Runner = Biegacz Sieci
+•	Net Space = Cyberprzestrzeń
+•	NetSpeak = NetSpeak
+•	Offline = Offline
+•	Online = Online
+•	Other Side, The = Druga Strona
+•	Parameter = Parametr
+•	Realspace = Real
+•	Restricted = Ograniczony
+•	Room = Pokój
+•	Sector = Sektor
+•	Sleepwalker = Lunatyk
+•	Spy’s Demise = Upadek Szpiega
+•	Stacked File = Nawarstwiony Plik
+•	Tangle = Splątanie
+•	Techno Turf = Terytorium Technokracji
+•	Tree = Drzewo
+•	Unformatted Web = Niesformatowana Pajęczyna
+•	Virgin Web = Dziewicza Pajęczyna
+•	Virtual Realm = Wirtualna Dziedzina
+•	VR = Wirtualna Rzeczywistość
+•	Webslinger = Pająkowiec
+•	XTC = XTC.
+Pakiet I — Hsien / Thousand Hells / Gypsies / inne dodatki
+•	Dostojna Postać z Nefrytu = August Personage of Jade
+•	Wicked City = Niegodziwe Miasto
+•	Hebanowa Droga = Ebony Road
+•	Szkarłatna Ścieżka = Scarlet Path
+•	Wiek Pięknego Smutku = Age of Beautiful Sadness
+•	Ki Chuan = Ki Chuan
+•	Kitajczyk = Cathayan
+•	Królowie Yama = Yama Kings
+•	Świat Yin = Yin World
+•	Świat Yang = Yang World
+•	Wielki Cykl = Great Cycle
+•	Pięciokrotna Droga = Fivefold Way
+•	Szkarłatna Zasłona = Scarlet Screen
+•	Gypsy Blood Traits = Zdolności Czystości Krwi / Zdolności Krwi
+•	Elements = Żywioły
+•	Blood Affinity = Pokrewieństwo krwi
+•	Romani (język) = romski
+•	Dom Niezłomnego Ogniska — używać zamiast „Dom Niezłomne Ogniwo” w rozmowach o Srebrnych Kłach
+
+
+Pakiet J — Ratkin
+Ratkin — rdzeń roboczy
+Ratkin = Ratkin
+Children of Rat = Dzieci Szczura
+Aspects = Aspekty
+Freaks = Dziwacy
+Rat God / Rat Incarna = Szczurzy Bóg / Inkarna Szczura
+Birthing Plague = Plaga Narodzin
+Pain Daggers = Sztylety Bólu
+Swarm = rój
+Nest = gniazdo
+Colony = kolonia
+Plague (w znaczeniu ratkinowej sieci/rodu) = plaga
+pack = stado (u Ratkinów)
+servitor of the Wyld = sługa Dzikuna
+Spirit Kinfolk = duchowi Krewniacy
+Rapture = Raptura
+
+Aspekty
+Tunnel Runner = Goniec Tunelowy
+Shadow Seer = Prorok Cienia
+Knife-Skulker = Nożownik
+Warrior = Wojownik
+Plague Lord = Władca Zarazy
+Ratkin Engineer = Inżynier
+Munchmausen = Munchmausen
+Twitcher = Drgacz
+Bard = Bard
+
+Inne
+Kinfolk = Krewniacy
+human Kinfolk = ludzcy Krewniacy
+rat Kinfolk = szczurowi Krewniacy
+Spirit Kinfolk = duchowi Krewniacy
+
+•	Homid = Homid
+•	Rodens = Rodens
+•	Metis = Metys
+
+Rat Man form = postać Człekoszczura
+Rat Thing form = postać Szczurzej Ohydy
+Itchy form = postać Swędzika
+Field of Nettles = Pole Pokrzyw
+
+Renoma
+Renoma = Sława
+
+Infamy = Niesława
+Cunning = Przebiegłość
+Obligation = Powinność
+
+Pakiet K — Nowe
+Moot = Zgromadzenie
+Triat = Triada
+Get of Fenris = Pomiot Fenrisa
+The Rat Race = Szczurzy Wyścig
+Rite = Rytuał
+Crash Space=Kima
+Ramblers=Włóczędzy
+Consorts=towarzysze (u Ratkinów)
+
+Pakiet L — Nowe
+Moot = Zgromadzenie
+
+
+
+odprawił Rytuał Inwestytury. – do króla
+następcę; czasami tożsamość tę potwierdza Pakt Zemsty. Każdy, kto zdecydowanie nie zgadza
+
+Gdyby nie doskonała Pamięć Krwi Gońców, dezinformacja rozlałaby się po takich zgromad
+
+Gdyby nie doskonała Pamięć Krwi Gońców, dezinformacja rozlałaby się po takich zgromadzeniach jak Cyklon B w wagonie podmiejskiej kolejki.

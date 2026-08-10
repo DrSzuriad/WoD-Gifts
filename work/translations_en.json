@@ -2802,13 +2802,7 @@
       {
         "type": "text",
         "value": "When a Garou is backed into a corner with nowhere to run to, she can either give up or fight. This Gift allows the Garou to focus her Rage and lash out at her opponents.\n\nSystem: The player spends one Rage point and rolls Strength + Intimidation (difficulty 8). Each success grants her an additional die to her Brawl Dice Pools. When using this Gift, the werewolf automatically enters into a Berserk frenzy. This Gift lasts until combat is over or the frenzy ends."
-      }
-    ]
-  },
-  {
-    "gift": 199,
-    "name": "Cornered Rat’s Ferocity",
-    "content": [
+      },
       {
         "type": "text",
         "value": "When backed into a corner with nowhere to run, there are only two options — beg for mercy or turn and fight. Rat-spirits teach Bone Gnawers to excel at the latter.\n\nSystem: The player spends one Rage point and rolls Rage (difficulty 8). Each success grants the character an additional die to his Brawl pools for the rest of the combat. This Gift sends the Bone Gnawer into an automatic and unavoidable berserk frenzy; any magic that stops the frenzy also ends the Gift."
@@ -2816,7 +2810,7 @@
     ]
   },
   {
-    "gift": 200,
+    "gift": 199,
     "name": "Counting Coup",
     "content": [
       {
@@ -2834,7 +2828,7 @@
     ]
   },
   {
-    "gift": 201,
+    "gift": 200,
     "name": "Coup de Grace",
     "content": [
       {
@@ -2856,7 +2850,7 @@
     ]
   },
   {
-    "gift": 202,
+    "gift": 201,
     "name": "Cowing the Bullet",
     "content": [
       {
@@ -2866,7 +2860,7 @@
     ]
   },
   {
-    "gift": 203,
+    "gift": 202,
     "name": "Cousin’s Coat",
     "content": [
       {
@@ -2876,7 +2870,7 @@
     ]
   },
   {
-    "gift": 204,
+    "gift": 203,
     "name": "Coyote Howl",
     "content": [
       {
@@ -2886,7 +2880,7 @@
     ]
   },
   {
-    "gift": 205,
+    "gift": 204,
     "name": "Crawling Poison",
     "content": [
       {
@@ -2916,7 +2910,7 @@
     ]
   },
   {
-    "gift": 206,
+    "gift": 205,
     "name": "Create Element",
     "content": [
       {
@@ -2942,7 +2936,7 @@
     ]
   },
   {
-    "gift": 207,
+    "gift": 206,
     "name": "Crocodile Pact",
     "content": [
       {
@@ -2952,7 +2946,7 @@
     ]
   },
   {
-    "gift": 208,
+    "gift": 207,
     "name": "Crescent Moon Fata",
     "content": [
       {
@@ -2966,7 +2960,7 @@
     ]
   },
   {
-    "gift": 209,
+    "gift": 208,
     "name": "Crescent Moon’s Awareness",
     "content": [
       {
@@ -2976,7 +2970,7 @@
     ]
   },
   {
-    "gift": 210,
+    "gift": 209,
     "name": "Crocodile’s Cunning",
     "content": [
       {
@@ -2990,7 +2984,7 @@
     ]
   },
   {
-    "gift": 211,
+    "gift": 210,
     "name": "Cry of the Killer",
     "content": [
       {
@@ -3000,7 +2994,7 @@
     ]
   },
   {
-    "gift": 212,
+    "gift": 211,
     "name": "Cub’s Lesson",
     "content": [
       {
@@ -3010,7 +3004,7 @@
     ]
   },
   {
-    "gift": 213,
+    "gift": 212,
     "name": "Cull the Herd",
     "content": [
       {
@@ -3020,7 +3014,7 @@
     ]
   },
   {
-    "gift": 214,
+    "gift": 213,
     "name": "Cunning Koan",
     "content": [
       {
@@ -3030,7 +3024,7 @@
     ]
   },
   {
-    "gift": 215,
+    "gift": 214,
     "name": "Curse of Aeolus",
     "content": [
       {
@@ -3056,7 +3050,7 @@
     ]
   },
   {
-    "gift": 216,
+    "gift": 215,
     "name": "Curse of Corruption",
     "content": [
       {
@@ -3070,7 +3064,7 @@
     ]
   },
   {
-    "gift": 217,
+    "gift": 216,
     "name": "Curse of Dionysis",
     "content": [
       {
@@ -3080,7 +3074,7 @@
     ]
   },
   {
-    "gift": 218,
+    "gift": 217,
     "name": "Curse of Harano",
     "content": [
       {
@@ -3090,7 +3084,7 @@
     ]
   },
   {
-    "gift": 219,
+    "gift": 218,
     "name": "Curse of Hatred",
     "content": [
       {
@@ -3116,7 +3110,7 @@
     ]
   },
   {
-    "gift": 220,
+    "gift": 219,
     "name": "Curse of Lycaon",
     "content": [
       {
@@ -3130,7 +3124,7 @@
     ]
   },
   {
-    "gift": 221,
+    "gift": 220,
     "name": "Curse of the Berserker",
     "content": [
       {
@@ -3140,7 +3134,7 @@
     ]
   },
   {
-    "gift": 222,
+    "gift": 221,
     "name": "Curse the Betrayer",
     "content": [
       {
@@ -3150,7 +3144,7 @@
     ]
   },
   {
-    "gift": 223,
+    "gift": 222,
     "name": "Custom Built",
     "content": [
       {
@@ -3160,7 +3154,7 @@
     ]
   },
   {
-    "gift": 224,
+    "gift": 223,
     "name": "Cutting Wind",
     "content": [
       {
@@ -3178,7 +3172,7 @@
     ]
   },
   {
-    "gift": 225,
+    "gift": 224,
     "name": "Cybersenses",
     "content": [
       {
@@ -3196,7 +3190,7 @@
     ]
   },
   {
-    "gift": 226,
+    "gift": 225,
     "name": "Dam the Heartflood",
     "content": [
       {
@@ -3206,7 +3200,7 @@
     ]
   },
   {
-    "gift": 227,
+    "gift": 226,
     "name": "Dagger of the Mind",
     "content": [
       {
@@ -3216,7 +3210,7 @@
     ]
   },
   {
-    "gift": 228,
+    "gift": 227,
     "name": "Dam the Heartlood",
     "content": [
       {
@@ -3234,7 +3228,7 @@
     ]
   },
   {
-    "gift": 229,
+    "gift": 228,
     "name": "Dance of the Lightning Snakes",
     "content": [
       {
@@ -3248,7 +3242,7 @@
     ]
   },
   {
-    "gift": 230,
+    "gift": 229,
     "name": "Dark Aerie",
     "content": [
       {
@@ -3262,7 +3256,7 @@
     ]
   },
   {
-    "gift": 231,
+    "gift": 230,
     "name": "Dark of Night",
     "content": [
       {
@@ -3280,7 +3274,7 @@
     ]
   },
   {
-    "gift": 232,
+    "gift": 231,
     "name": "Dark Peering",
     "content": [
       {
@@ -3290,7 +3284,7 @@
     ]
   },
   {
-    "gift": 233,
+    "gift": 232,
     "name": "Data Flow",
     "content": [
       {
@@ -3308,7 +3302,7 @@
     ]
   },
   {
-    "gift": 234,
+    "gift": 233,
     "name": "Dazzle",
     "content": [
       {
@@ -3363,7 +3357,7 @@
     ]
   },
   {
-    "gift": 235,
+    "gift": 234,
     "name": "Visions of Duat",
     "content": [
       {
@@ -3373,7 +3367,7 @@
     ]
   },
   {
-    "gift": 236,
+    "gift": 235,
     "name": "Dead End",
     "content": [
       {
@@ -3383,7 +3377,7 @@
     ]
   },
   {
-    "gift": 237,
+    "gift": 236,
     "name": "Dead Stick",
     "content": [
       {
@@ -3393,7 +3387,7 @@
     ]
   },
   {
-    "gift": 238,
+    "gift": 237,
     "name": "Dead-Eye",
     "content": [
       {
@@ -3403,7 +3397,7 @@
     ]
   },
   {
-    "gift": 239,
+    "gift": 238,
     "name": "Death Track",
     "content": [
       {
@@ -3413,7 +3407,7 @@
     ]
   },
   {
-    "gift": 240,
+    "gift": 239,
     "name": "Death Trance",
     "content": [
       {
@@ -3423,7 +3417,7 @@
     ]
   },
   {
-    "gift": 241,
+    "gift": 240,
     "name": "Death Whispers",
     "content": [
       {
@@ -3433,7 +3427,7 @@
     ]
   },
   {
-    "gift": 242,
+    "gift": 241,
     "name": "Declamation",
     "content": [
       {
@@ -3443,7 +3437,7 @@
     ]
   },
   {
-    "gift": 243,
+    "gift": 242,
     "name": "Deep Roots",
     "content": [
       {
@@ -3453,7 +3447,7 @@
     ]
   },
   {
-    "gift": 244,
+    "gift": 243,
     "name": "Desperate Strength",
     "content": [
       {
@@ -3467,7 +3461,7 @@
     ]
   },
   {
-    "gift": 245,
+    "gift": 244,
     "name": "Devil Talons",
     "content": [
       {
@@ -3477,7 +3471,7 @@
     ]
   },
   {
-    "gift": 246,
+    "gift": 245,
     "name": "Devil’s Child",
     "content": [
       {
@@ -3487,7 +3481,7 @@
     ]
   },
   {
-    "gift": 247,
+    "gift": 246,
     "name": "Devouring Rime",
     "content": [
       {
@@ -3497,7 +3491,7 @@
     ]
   },
   {
-    "gift": 248,
+    "gift": 247,
     "name": "Diagnostics",
     "content": [
       {
@@ -3511,7 +3505,7 @@
     ]
   },
   {
-    "gift": 249,
+    "gift": 248,
     "name": "Direct the Storm",
     "content": [
       {
@@ -3525,7 +3519,7 @@
     ]
   },
   {
-    "gift": 250,
+    "gift": 249,
     "name": "Disguise Fetish",
     "content": [
       {
@@ -3535,7 +3529,7 @@
     ]
   },
   {
-    "gift": 251,
+    "gift": 250,
     "name": "Directing the Soul",
     "content": [
       {
@@ -3549,7 +3543,7 @@
     ]
   },
   {
-    "gift": 252,
+    "gift": 251,
     "name": "Disfigurement",
     "content": [
       {
@@ -3563,7 +3557,7 @@
     ]
   },
   {
-    "gift": 253,
+    "gift": 252,
     "name": "Disguise the True Form",
     "content": [
       {
@@ -3573,7 +3567,7 @@
     ]
   },
   {
-    "gift": 254,
+    "gift": 253,
     "name": "Dispel the Golden Waste",
     "content": [
       {
@@ -3587,7 +3581,7 @@
     ]
   },
   {
-    "gift": 255,
+    "gift": 254,
     "name": "Disquiet",
     "content": [
       {
@@ -3609,7 +3603,7 @@
     ]
   },
   {
-    "gift": 256,
+    "gift": 255,
     "name": "Distract the Fool",
     "content": [
       {
@@ -3619,7 +3613,7 @@
     ]
   },
   {
-    "gift": 257,
+    "gift": 256,
     "name": "Distractions",
     "content": [
       {
@@ -3645,7 +3639,7 @@
     ]
   },
   {
-    "gift": 258,
+    "gift": 257,
     "name": "Divide",
     "content": [
       {
@@ -3655,7 +3649,7 @@
     ]
   },
   {
-    "gift": 259,
+    "gift": 258,
     "name": "Divided Heart",
     "content": [
       {
@@ -3665,7 +3659,7 @@
     ]
   },
   {
-    "gift": 260,
+    "gift": 259,
     "name": "Divine Wind",
     "content": [
       {
@@ -3683,7 +3677,7 @@
     ]
   },
   {
-    "gift": 261,
+    "gift": 260,
     "name": "Dolorous Stroke",
     "content": [
       {
@@ -3693,7 +3687,7 @@
     ]
   },
   {
-    "gift": 262,
+    "gift": 261,
     "name": "Domestic Seeming",
     "content": [
       {
@@ -3703,7 +3697,7 @@
     ]
   },
   {
-    "gift": 263,
+    "gift": 262,
     "name": "Dominance Blow",
     "content": [
       {
@@ -3713,7 +3707,7 @@
     ]
   },
   {
-    "gift": 264,
+    "gift": 263,
     "name": "Doppelganger",
     "content": [
       {
@@ -3735,7 +3729,7 @@
     ]
   },
   {
-    "gift": 265,
+    "gift": 264,
     "name": "Double Walker",
     "content": [
       {
@@ -3745,7 +3739,7 @@
     ]
   },
   {
-    "gift": 266,
+    "gift": 265,
     "name": "Dramatic Entrance",
     "content": [
       {
@@ -3755,7 +3749,7 @@
     ]
   },
   {
-    "gift": 267,
+    "gift": 266,
     "name": "Dream Golem",
     "content": [
       {
@@ -3765,7 +3759,7 @@
     ]
   },
   {
-    "gift": 268,
+    "gift": 267,
     "name": "Dream of a Thousand Cranes",
     "content": [
       {
@@ -3783,7 +3777,7 @@
     ]
   },
   {
-    "gift": 269,
+    "gift": 268,
     "name": "Dreamchaser",
     "content": [
       {
@@ -3805,7 +3799,7 @@
     ]
   },
   {
-    "gift": 270,
+    "gift": 269,
     "name": "Dreamwalk",
     "content": [
       {
@@ -3819,7 +3813,7 @@
     ]
   },
   {
-    "gift": 271,
+    "gift": 270,
     "name": "Drunkard’s Luck",
     "content": [
       {
@@ -3829,7 +3823,7 @@
     ]
   },
   {
-    "gift": 272,
+    "gift": 271,
     "name": "Drunken Spider",
     "content": [
       {
@@ -3839,7 +3833,7 @@
     ]
   },
   {
-    "gift": 273,
+    "gift": 272,
     "name": "Dumpster Diving",
     "content": [
       {
@@ -3849,7 +3843,7 @@
     ]
   },
   {
-    "gift": 274,
+    "gift": 273,
     "name": "Dust Squall",
     "content": [
       {
@@ -3863,7 +3857,7 @@
     ]
   },
   {
-    "gift": 275,
+    "gift": 274,
     "name": "Dust Storm",
     "content": [
       {
@@ -3951,7 +3945,7 @@
     ]
   },
   {
-    "gift": 276,
+    "gift": 275,
     "name": "Eagle’s Beak",
     "content": [
       {
@@ -3961,7 +3955,7 @@
     ]
   },
   {
-    "gift": 277,
+    "gift": 276,
     "name": "Ears of the Bat",
     "content": [
       {
@@ -3975,7 +3969,7 @@
     ]
   },
   {
-    "gift": 278,
+    "gift": 277,
     "name": "Ears of the Bat",
     "content": [
       {
@@ -4001,7 +3995,7 @@
     ]
   },
   {
-    "gift": 279,
+    "gift": 278,
     "name": "Earthfriend’s Pact",
     "content": [
       {
@@ -4011,7 +4005,7 @@
     ]
   },
   {
-    "gift": 280,
+    "gift": 279,
     "name": "Electroshock",
     "content": [
       {
@@ -4025,7 +4019,7 @@
     ]
   },
   {
-    "gift": 281,
+    "gift": 280,
     "name": "Elemental Favor",
     "content": [
       {
@@ -4043,7 +4037,7 @@
     ]
   },
   {
-    "gift": 282,
+    "gift": 281,
     "name": "Elemental Gift",
     "content": [
       {
@@ -4069,7 +4063,7 @@
     ]
   },
   {
-    "gift": 283,
+    "gift": 282,
     "name": "Emergency Exit",
     "content": [
       {
@@ -4079,7 +4073,7 @@
     ]
   },
   {
-    "gift": 284,
+    "gift": 283,
     "name": "Eminent Domain",
     "content": [
       {
@@ -4089,7 +4083,7 @@
     ]
   },
   {
-    "gift": 285,
+    "gift": 284,
     "name": "Empathy",
     "content": [
       {
@@ -4107,7 +4101,7 @@
     ]
   },
   {
-    "gift": 286,
+    "gift": 285,
     "name": "Empathy of Hatred",
     "content": [
       {
@@ -4117,7 +4111,7 @@
     ]
   },
   {
-    "gift": 287,
+    "gift": 286,
     "name": "Empty Hand",
     "content": [
       {
@@ -4127,7 +4121,7 @@
     ]
   },
   {
-    "gift": 288,
+    "gift": 287,
     "name": "Encrypt",
     "content": [
       {
@@ -4137,7 +4131,7 @@
     ]
   },
   {
-    "gift": 289,
+    "gift": 288,
     "name": "Endurance of Heimdall",
     "content": [
       {
@@ -4151,7 +4145,7 @@
     ]
   },
   {
-    "gift": 290,
+    "gift": 289,
     "name": "Eve’s Blessing",
     "content": [
       {
@@ -4161,7 +4155,7 @@
     ]
   },
   {
-    "gift": 291,
+    "gift": 290,
     "name": "Evocation of Ceremony",
     "content": [
       {
@@ -4171,7 +4165,7 @@
     ]
   },
   {
-    "gift": 292,
+    "gift": 291,
     "name": "Exceptional Swordplay",
     "content": [
       {
@@ -4181,7 +4175,7 @@
     ]
   },
   {
-    "gift": 293,
+    "gift": 292,
     "name": "Exorcism",
     "content": [
       {
@@ -4207,7 +4201,7 @@
     ]
   },
   {
-    "gift": 294,
+    "gift": 293,
     "name": "Eye of the Asp",
     "content": [
       {
@@ -4217,7 +4211,7 @@
     ]
   },
   {
-    "gift": 295,
+    "gift": 294,
     "name": "Eye of the Cobra",
     "content": [
       {
@@ -4235,7 +4229,7 @@
     ]
   },
   {
-    "gift": 296,
+    "gift": 295,
     "name": "Eye of the Eagle",
     "content": [
       {
@@ -4249,7 +4243,7 @@
     ]
   },
   {
-    "gift": 297,
+    "gift": 296,
     "name": "Eye of the Falcon",
     "content": [
       {
@@ -4271,7 +4265,7 @@
     ]
   },
   {
-    "gift": 298,
+    "gift": 297,
     "name": "Eye of the Hunter",
     "content": [
       {
@@ -4293,7 +4287,7 @@
     ]
   },
   {
-    "gift": 299,
+    "gift": 298,
     "name": "Eye of the Storm",
     "content": [
       {
@@ -4303,7 +4297,7 @@
     ]
   },
   {
-    "gift": 300,
+    "gift": 299,
     "name": "Eyes of Ignorance",
     "content": [
       {
@@ -4313,7 +4307,7 @@
     ]
   },
   {
-    "gift": 301,
+    "gift": 300,
     "name": "Eyes of Ma’at",
     "content": [
       {
@@ -4323,7 +4317,7 @@
     ]
   },
   {
-    "gift": 302,
+    "gift": 301,
     "name": "Eyes of the Cat",
     "content": [
       {
@@ -4349,17 +4343,21 @@
     ]
   },
   {
-    "gift": 303,
+    "gift": 302,
     "name": "Eyes of the Thunderbird",
     "content": [
       {
         "type": "text",
         "value": "The werewolf may shoot lightning bolts from her eyes, like the legendary Thunderbird. The Gift is taught by Thunderbird or one of his servants.\n\nSystem: The player rolls Manipulation + Occult (difficulty 7). For each success, the werewolf may shoot one bolt of lightning at a single target, doing five dice of aggravated damage. While utilizing this Gift, the Garou must concentrate, in effect becoming blind to everything around her except her target. All lightning bolts must be discharged in the scene in which the Gift is invoked, whether aimed at living targets or expended harmlessly into the sky."
+      },
+      {
+        "type": "text",
+        "value": "The great Thunderbird was renowned for being able to shoot lightning from his eyes with a glance. This Gift, which one of his servants teaches, allows the Garou to do the same.\n\nSystem: The player rolls Manipulation + Occult (difficulty 7) and spends a Gnosis point. The werewolf may shoot one bolt of lightning per success. Each bolt strikes a single target and does five dice of aggravated damage; no actual roll to hit is necessary. The Gift user may launch all of the lightning bolts in a flurry on the turn she uses this Gift, or she can choose to hold one or more of them back. Releasing a stored thunderbolt is an action.\n\nLightning fills the eyes of the Garou using this Gift; in order to concentrate on the target, the Garou becomes effectively blind to all else but the opponent. The Garou must release each of the lightning bolts in the scene which the Gift is invoked, no matter the target. Failure to do so means when the scene ends, she takes five dice of aggravated damage for each one that isn’t discharged as the lightning grounds out through her body."
       }
     ]
   },
   {
-    "gift": 304,
+    "gift": 303,
     "name": "Eyes of the Wyrm",
     "content": [
       {
@@ -4369,7 +4367,7 @@
     ]
   },
   {
-    "gift": 305,
+    "gift": 304,
     "name": "Eyes of the Lynx",
     "content": [
       {
@@ -4379,17 +4377,7 @@
     ]
   },
   {
-    "gift": 306,
-    "name": "Eyes of the Thunderbird",
-    "content": [
-      {
-        "type": "text",
-        "value": "The great Thunderbird was renowned for being able to shoot lightning from his eyes with a glance. This Gift, which one of his servants teaches, allows the Garou to do the same.\n\nSystem: The player rolls Manipulation + Occult (difficulty 7) and spends a Gnosis point. The werewolf may shoot one bolt of lightning per success. Each bolt strikes a single target and does five dice of aggravated damage; no actual roll to hit is necessary. The Gift user may launch all of the lightning bolts in a flurry on the turn she uses this Gift, or she can choose to hold one or more of them back. Releasing a stored thunderbolt is an action.\n\nLightning fills the eyes of the Garou using this Gift; in order to concentrate on the target, the Garou becomes effectively blind to all else but the opponent. The Garou must release each of the lightning bolts in the scene which the Gift is invoked, no matter the target. Failure to do so means when the scene ends, she takes five dice of aggravated damage for each one that isn’t discharged as the lightning grounds out through her body."
-      }
-    ]
-  },
-  {
-    "gift": 307,
+    "gift": 305,
     "name": "Fabric of the Mind",
     "content": [
       {
@@ -4407,7 +4395,7 @@
     ]
   },
   {
-    "gift": 308,
+    "gift": 306,
     "name": "Face in the Crowd",
     "content": [
       {
@@ -4417,7 +4405,7 @@
     ]
   },
   {
-    "gift": 309,
+    "gift": 307,
     "name": "Faceless Stranger",
     "content": [
       {
@@ -4427,7 +4415,7 @@
     ]
   },
   {
-    "gift": 310,
+    "gift": 308,
     "name": "Faerie Aid",
     "content": [
       {
@@ -4437,7 +4425,7 @@
     ]
   },
   {
-    "gift": 311,
+    "gift": 309,
     "name": "Faerie Blood",
     "content": [
       {
@@ -4447,7 +4435,7 @@
     ]
   },
   {
-    "gift": 312,
+    "gift": 310,
     "name": "Faerie Kin",
     "content": [
       {
@@ -4465,7 +4453,7 @@
     ]
   },
   {
-    "gift": 313,
+    "gift": 311,
     "name": "Faerie Light",
     "content": [
       {
@@ -4491,7 +4479,7 @@
     ]
   },
   {
-    "gift": 314,
+    "gift": 312,
     "name": "Fair Fortune",
     "content": [
       {
@@ -4505,7 +4493,7 @@
     ]
   },
   {
-    "gift": 315,
+    "gift": 313,
     "name": "Fair Path",
     "content": [
       {
@@ -4523,7 +4511,7 @@
     ]
   },
   {
-    "gift": 316,
+    "gift": 314,
     "name": "Falcon’s Grasp",
     "content": [
       {
@@ -4537,7 +4525,7 @@
     ]
   },
   {
-    "gift": 317,
+    "gift": 315,
     "name": "Falling Touch",
     "content": [
       {
@@ -4555,7 +4543,7 @@
     ]
   },
   {
-    "gift": 318,
+    "gift": 316,
     "name": "Fangs of Judgment",
     "content": [
       {
@@ -4565,7 +4553,7 @@
     ]
   },
   {
-    "gift": 319,
+    "gift": 317,
     "name": "Fangs of the North",
     "content": [
       {
@@ -4575,7 +4563,7 @@
     ]
   },
   {
-    "gift": 320,
+    "gift": 318,
     "name": "False Comfort",
     "content": [
       {
@@ -4585,7 +4573,7 @@
     ]
   },
   {
-    "gift": 321,
+    "gift": 319,
     "name": "Family Debt",
     "content": [
       {
@@ -4599,7 +4587,7 @@
     ]
   },
   {
-    "gift": 322,
+    "gift": 320,
     "name": "Fangs of Garm",
     "content": [
       {
@@ -4609,7 +4597,7 @@
     ]
   },
   {
-    "gift": 323,
+    "gift": 321,
     "name": "Fast Track",
     "content": [
       {
@@ -4619,7 +4607,7 @@
     ]
   },
   {
-    "gift": 324,
+    "gift": 322,
     "name": "Fatal Flaw",
     "content": [
       {
@@ -4645,7 +4633,7 @@
     ]
   },
   {
-    "gift": 325,
+    "gift": 323,
     "name": "Feast of Essence",
     "content": [
       {
@@ -4673,7 +4661,7 @@
     ]
   },
   {
-    "gift": 326,
+    "gift": 324,
     "name": "Feast of Man-Flesh",
     "content": [
       {
@@ -4683,7 +4671,7 @@
     ]
   },
   {
-    "gift": 327,
+    "gift": 325,
     "name": "Fearless",
     "content": [
       {
@@ -4693,7 +4681,7 @@
     ]
   },
   {
-    "gift": 328,
+    "gift": 326,
     "name": "Feast Upon Snake’s Wisdom",
     "content": [
       {
@@ -4703,7 +4691,7 @@
     ]
   },
   {
-    "gift": 329,
+    "gift": 327,
     "name": "Feed the Pack",
     "content": [
       {
@@ -4717,7 +4705,7 @@
     ]
   },
   {
-    "gift": 330,
+    "gift": 328,
     "name": "Feel the Loom",
     "content": [
       {
@@ -4727,7 +4715,7 @@
     ]
   },
   {
-    "gift": 331,
+    "gift": 329,
     "name": "Fenris Bite",
     "content": [
       {
@@ -4749,7 +4737,7 @@
     ]
   },
   {
-    "gift": 332,
+    "gift": 330,
     "name": "Feral Lobotomy",
     "content": [
       {
@@ -4763,7 +4751,7 @@
     ]
   },
   {
-    "gift": 333,
+    "gift": 331,
     "name": "Fertile Lands",
     "content": [
       {
@@ -4773,7 +4761,7 @@
     ]
   },
   {
-    "gift": 334,
+    "gift": 332,
     "name": "Fetish Doll",
     "content": [
       {
@@ -4791,7 +4779,7 @@
     ]
   },
   {
-    "gift": 335,
+    "gift": 333,
     "name": "Fetish Fetch",
     "content": [
       {
@@ -4805,7 +4793,7 @@
     ]
   },
   {
-    "gift": 336,
+    "gift": 334,
     "name": "Find the Prize",
     "content": [
       {
@@ -4815,7 +4803,7 @@
     ]
   },
   {
-    "gift": 337,
+    "gift": 335,
     "name": "Find the Transgressor",
     "content": [
       {
@@ -4825,7 +4813,7 @@
     ]
   },
   {
-    "gift": 338,
+    "gift": 336,
     "name": "Find Water",
     "content": [
       {
@@ -4835,7 +4823,7 @@
     ]
   },
   {
-    "gift": 339,
+    "gift": 337,
     "name": "Fire in the Belly",
     "content": [
       {
@@ -4845,7 +4833,7 @@
     ]
   },
   {
-    "gift": 340,
+    "gift": 338,
     "name": "Firebringer",
     "content": [
       {
@@ -4863,7 +4851,7 @@
     ]
   },
   {
-    "gift": 341,
+    "gift": 339,
     "name": "Firm Stance",
     "content": [
       {
@@ -4873,7 +4861,7 @@
     ]
   },
   {
-    "gift": 342,
+    "gift": 340,
     "name": "Flame Dance",
     "content": [
       {
@@ -4883,7 +4871,7 @@
     ]
   },
   {
-    "gift": 343,
+    "gift": 341,
     "name": "Flow Like Water",
     "content": [
       {
@@ -4893,7 +4881,7 @@
     ]
   },
   {
-    "gift": 344,
+    "gift": 342,
     "name": "Firewater’s Quench",
     "content": [
       {
@@ -4903,7 +4891,7 @@
     ]
   },
   {
-    "gift": 345,
+    "gift": 343,
     "name": "Fireworks Kiss",
     "content": [
       {
@@ -4913,7 +4901,7 @@
     ]
   },
   {
-    "gift": 346,
+    "gift": 344,
     "name": "Fist of the Winds",
     "content": [
       {
@@ -4923,7 +4911,7 @@
     ]
   },
   {
-    "gift": 347,
+    "gift": 345,
     "name": "Flame of the Sun Dance",
     "content": [
       {
@@ -4933,7 +4921,7 @@
     ]
   },
   {
-    "gift": 348,
+    "gift": 346,
     "name": "Flames of Hestia",
     "content": [
       {
@@ -4951,7 +4939,7 @@
     ]
   },
   {
-    "gift": 349,
+    "gift": 347,
     "name": "Fleet Footed",
     "content": [
       {
@@ -4961,7 +4949,7 @@
     ]
   },
   {
-    "gift": 350,
+    "gift": 348,
     "name": "Flick of the Fish’s Tail",
     "content": [
       {
@@ -4971,7 +4959,7 @@
     ]
   },
   {
-    "gift": 351,
+    "gift": 349,
     "name": "Flight of the Raven",
     "content": [
       {
@@ -4981,7 +4969,7 @@
     ]
   },
   {
-    "gift": 352,
+    "gift": 350,
     "name": "Flurry of Arrows",
     "content": [
       {
@@ -4991,7 +4979,7 @@
     ]
   },
   {
-    "gift": 353,
+    "gift": 351,
     "name": "Fly Feet",
     "content": [
       {
@@ -5005,7 +4993,7 @@
     ]
   },
   {
-    "gift": 354,
+    "gift": 352,
     "name": "Foaming Fury",
     "content": [
       {
@@ -5035,7 +5023,7 @@
     ]
   },
   {
-    "gift": 355,
+    "gift": 353,
     "name": "Foe of the Wyrm",
     "content": [
       {
@@ -5045,7 +5033,7 @@
     ]
   },
   {
-    "gift": 356,
+    "gift": 354,
     "name": "Fog of War",
     "content": [
       {
@@ -5055,7 +5043,7 @@
     ]
   },
   {
-    "gift": 357,
+    "gift": 355,
     "name": "Fog on the Moor",
     "content": [
       {
@@ -5069,7 +5057,7 @@
     ]
   },
   {
-    "gift": 358,
+    "gift": 356,
     "name": "Form Mastery",
     "content": [
       {
@@ -5079,7 +5067,7 @@
     ]
   },
   {
-    "gift": 359,
+    "gift": 357,
     "name": "Free Flowing",
     "content": [
       {
@@ -5089,7 +5077,7 @@
     ]
   },
   {
-    "gift": 360,
+    "gift": 358,
     "name": "Fool’s Gold",
     "content": [
       {
@@ -5099,7 +5087,7 @@
     ]
   },
   {
-    "gift": 361,
+    "gift": 359,
     "name": "Fool’s Luck",
     "content": [
       {
@@ -5109,7 +5097,7 @@
     ]
   },
   {
-    "gift": 362,
+    "gift": 360,
     "name": "Fool’s Medicine",
     "content": [
       {
@@ -5119,7 +5107,7 @@
     ]
   },
   {
-    "gift": 363,
+    "gift": 361,
     "name": "Fool’s Silver",
     "content": [
       {
@@ -5129,7 +5117,7 @@
     ]
   },
   {
-    "gift": 364,
+    "gift": 362,
     "name": "Form of Akhlut",
     "content": [
       {
@@ -5139,7 +5127,7 @@
     ]
   },
   {
-    "gift": 365,
+    "gift": 363,
     "name": "Forms of Cernunnos",
     "content": [
       {
@@ -5149,7 +5137,7 @@
     ]
   },
   {
-    "gift": 366,
+    "gift": 364,
     "name": "Friend in Need",
     "content": [
       {
@@ -5163,7 +5151,7 @@
     ]
   },
   {
-    "gift": 367,
+    "gift": 365,
     "name": "Frozen Form",
     "content": [
       {
@@ -5173,7 +5161,7 @@
     ]
   },
   {
-    "gift": 368,
+    "gift": 366,
     "name": "Fu Xi’s Honor",
     "content": [
       {
@@ -5187,7 +5175,7 @@
     ]
   },
   {
-    "gift": 369,
+    "gift": 367,
     "name": "Full Moon Cleansing",
     "content": [
       {
@@ -5201,7 +5189,7 @@
     ]
   },
   {
-    "gift": 370,
+    "gift": 368,
     "name": "Full Moon’s Light",
     "content": [
       {
@@ -5215,7 +5203,7 @@
     ]
   },
   {
-    "gift": 371,
+    "gift": 369,
     "name": "Full Moon’s Wrath",
     "content": [
       {
@@ -5225,7 +5213,7 @@
     ]
   },
   {
-    "gift": 372,
+    "gift": 370,
     "name": "Fury of Zeus",
     "content": [
       {
@@ -5235,7 +5223,7 @@
     ]
   },
   {
-    "gift": 373,
+    "gift": 371,
     "name": "Gaia’s Balm",
     "content": [
       {
@@ -5245,7 +5233,7 @@
     ]
   },
   {
-    "gift": 374,
+    "gift": 372,
     "name": "Gaia’s Embrace",
     "content": [
       {
@@ -5255,7 +5243,7 @@
     ]
   },
   {
-    "gift": 375,
+    "gift": 373,
     "name": "Gaia’s Favor",
     "content": [
       {
@@ -5265,7 +5253,7 @@
     ]
   },
   {
-    "gift": 376,
+    "gift": 374,
     "name": "Gaia’s Resilience",
     "content": [
       {
@@ -5275,7 +5263,7 @@
     ]
   },
   {
-    "gift": 377,
+    "gift": 375,
     "name": "Gaia’s Toolbox",
     "content": [
       {
@@ -5285,7 +5273,7 @@
     ]
   },
   {
-    "gift": 378,
+    "gift": 376,
     "name": "Gaia’s Vengeance",
     "content": [
       {
@@ -5311,7 +5299,7 @@
     ]
   },
   {
-    "gift": 379,
+    "gift": 377,
     "name": "Garafena’s Crown",
     "content": [
       {
@@ -5321,7 +5309,7 @@
     ]
   },
   {
-    "gift": 380,
+    "gift": 378,
     "name": "Gate of the Moon",
     "content": [
       {
@@ -5347,7 +5335,7 @@
     ]
   },
   {
-    "gift": 381,
+    "gift": 379,
     "name": "Gaze of the Gorgon",
     "content": [
       {
@@ -5357,7 +5345,7 @@
     ]
   },
   {
-    "gift": 382,
+    "gift": 380,
     "name": "Gaze of the Hunter",
     "content": [
       {
@@ -5367,7 +5355,7 @@
     ]
   },
   {
-    "gift": 383,
+    "gift": 381,
     "name": "Geas",
     "content": [
       {
@@ -5389,7 +5377,7 @@
     ]
   },
   {
-    "gift": 384,
+    "gift": 382,
     "name": "Ghost Dance",
     "content": [
       {
@@ -5399,7 +5387,7 @@
     ]
   },
   {
-    "gift": 385,
+    "gift": 383,
     "name": "Ghost Pack",
     "content": [
       {
@@ -5413,7 +5401,7 @@
     ]
   },
   {
-    "gift": 386,
+    "gift": 384,
     "name": "Ghost Touched",
     "content": [
       {
@@ -5423,7 +5411,7 @@
     ]
   },
   {
-    "gift": 387,
+    "gift": 385,
     "name": "Ghost Town",
     "content": [
       {
@@ -5437,7 +5425,7 @@
     ]
   },
   {
-    "gift": 388,
+    "gift": 386,
     "name": "Gift of Dreams",
     "content": [
       {
@@ -5447,7 +5435,7 @@
     ]
   },
   {
-    "gift": 389,
+    "gift": 387,
     "name": "Gibberish",
     "content": [
       {
@@ -5457,7 +5445,7 @@
     ]
   },
   {
-    "gift": 390,
+    "gift": 388,
     "name": "Gibbous Moon Song",
     "content": [
       {
@@ -5471,7 +5459,7 @@
     ]
   },
   {
-    "gift": 391,
+    "gift": 389,
     "name": "Gibbous Moon’s Understanding",
     "content": [
       {
@@ -5481,7 +5469,7 @@
     ]
   },
   {
-    "gift": 392,
+    "gift": 390,
     "name": "Gift of Plenty",
     "content": [
       {
@@ -5495,7 +5483,7 @@
     ]
   },
   {
-    "gift": 393,
+    "gift": 391,
     "name": "Gift of Salt",
     "content": [
       {
@@ -5505,7 +5493,7 @@
     ]
   },
   {
-    "gift": 394,
+    "gift": 392,
     "name": "Gift of the Iron Horse",
     "content": [
       {
@@ -5523,7 +5511,7 @@
     ]
   },
   {
-    "gift": 395,
+    "gift": 393,
     "name": "Gift of the Porcupine",
     "content": [
       {
@@ -5549,7 +5537,7 @@
     ]
   },
   {
-    "gift": 396,
+    "gift": 394,
     "name": "Gift of the Skunk",
     "content": [
       {
@@ -5563,7 +5551,7 @@
     ]
   },
   {
-    "gift": 397,
+    "gift": 395,
     "name": "Gift of the Spriggan",
     "content": [
       {
@@ -5589,7 +5577,7 @@
     ]
   },
   {
-    "gift": 398,
+    "gift": 396,
     "name": "Gift of the Tainted Totem",
     "content": [
       {
@@ -5599,7 +5587,7 @@
     ]
   },
   {
-    "gift": 399,
+    "gift": 397,
     "name": "Gift of the Termite",
     "content": [
       {
@@ -5621,7 +5609,7 @@
     ]
   },
   {
-    "gift": 400,
+    "gift": 398,
     "name": "Glass Talons",
     "content": [
       {
@@ -5631,7 +5619,7 @@
     ]
   },
   {
-    "gift": 401,
+    "gift": 399,
     "name": "Glib Tongue",
     "content": [
       {
@@ -5653,7 +5641,7 @@
     ]
   },
   {
-    "gift": 402,
+    "gift": 400,
     "name": "Global Citizen",
     "content": [
       {
@@ -5663,7 +5651,7 @@
     ]
   },
   {
-    "gift": 403,
+    "gift": 401,
     "name": "Speech of All Things",
     "content": [
       {
@@ -5673,7 +5661,7 @@
     ]
   },
   {
-    "gift": 404,
+    "gift": 402,
     "name": "Glorious Fist of Wotan",
     "content": [
       {
@@ -5683,7 +5671,7 @@
     ]
   },
   {
-    "gift": 405,
+    "gift": 403,
     "name": "Glory-Scars",
     "content": [
       {
@@ -5693,7 +5681,7 @@
     ]
   },
   {
-    "gift": 406,
+    "gift": 404,
     "name": "Gluttony",
     "content": [
       {
@@ -5707,7 +5695,7 @@
     ]
   },
   {
-    "gift": 407,
+    "gift": 405,
     "name": "Gnaw",
     "content": [
       {
@@ -5733,7 +5721,7 @@
     ]
   },
   {
-    "gift": 408,
+    "gift": 406,
     "name": "Go for the Jugular",
     "content": [
       {
@@ -5743,7 +5731,7 @@
     ]
   },
   {
-    "gift": 409,
+    "gift": 407,
     "name": "Gnowee’s Torch",
     "content": [
       {
@@ -5753,7 +5741,7 @@
     ]
   },
   {
-    "gift": 410,
+    "gift": 408,
     "name": "Gold Fever",
     "content": [
       {
@@ -5763,7 +5751,7 @@
     ]
   },
   {
-    "gift": 411,
+    "gift": 409,
     "name": "Good Faith",
     "content": [
       {
@@ -5773,7 +5761,7 @@
     ]
   },
   {
-    "gift": 412,
+    "gift": 410,
     "name": "Gorge",
     "content": [
       {
@@ -5791,7 +5779,7 @@
     ]
   },
   {
-    "gift": 413,
+    "gift": 411,
     "name": "Gorgon’s Gaze",
     "content": [
       {
@@ -5809,7 +5797,7 @@
     ]
   },
   {
-    "gift": 414,
+    "gift": 412,
     "name": "Graceful Strike",
     "content": [
       {
@@ -5819,7 +5807,7 @@
     ]
   },
   {
-    "gift": 415,
+    "gift": 413,
     "name": "Grandmother’s Touch",
     "content": [
       {
@@ -5841,7 +5829,7 @@
     ]
   },
   {
-    "gift": 416,
+    "gift": 414,
     "name": "Grasp the Beyond",
     "content": [
       {
@@ -5875,7 +5863,7 @@
     ]
   },
   {
-    "gift": 417,
+    "gift": 415,
     "name": "Grave Claws",
     "content": [
       {
@@ -5885,7 +5873,7 @@
     ]
   },
   {
-    "gift": 418,
+    "gift": 416,
     "name": "Great Bison",
     "content": [
       {
@@ -5895,7 +5883,7 @@
     ]
   },
   {
-    "gift": 419,
+    "gift": 417,
     "name": "Great Leap",
     "content": [
       {
@@ -5913,7 +5901,7 @@
     ]
   },
   {
-    "gift": 420,
+    "gift": 418,
     "name": "Gremlins",
     "content": [
       {
@@ -6014,7 +6002,7 @@
     ]
   },
   {
-    "gift": 421,
+    "gift": 419,
     "name": "Grim Resolve",
     "content": [
       {
@@ -6024,7 +6012,7 @@
     ]
   },
   {
-    "gift": 422,
+    "gift": 420,
     "name": "Grovel",
     "content": [
       {
@@ -6034,7 +6022,7 @@
     ]
   },
   {
-    "gift": 423,
+    "gift": 421,
     "name": "Guardians of the Dreamtime",
     "content": [
       {
@@ -6044,7 +6032,7 @@
     ]
   },
   {
-    "gift": 424,
+    "gift": 422,
     "name": "Guardian’s Fortitude",
     "content": [
       {
@@ -6054,7 +6042,7 @@
     ]
   },
   {
-    "gift": 425,
+    "gift": 423,
     "name": "Guiding Hand of Djeheuty",
     "content": [
       {
@@ -6097,7 +6085,7 @@
     ]
   },
   {
-    "gift": 426,
+    "gift": 424,
     "name": "Guilt Trip",
     "content": [
       {
@@ -6107,7 +6095,7 @@
     ]
   },
   {
-    "gift": 427,
+    "gift": 425,
     "name": "The Guilty Mind",
     "content": [
       {
@@ -6117,7 +6105,7 @@
     ]
   },
   {
-    "gift": 428,
+    "gift": 426,
     "name": "Guise of the Hound",
     "content": [
       {
@@ -6127,17 +6115,7 @@
     ]
   },
   {
-    "gift": 429,
-    "name": "Half Moon Mnemonics",
-    "content": [
-      {
-        "type": "text",
-        "value": "This Gift allows a Garou to remember a moment with perfect clarity, fixing it forever within their mind. They may recall that moment at any time, and examine the memory from any angle they wish. The memory does not dim with age, and the recall is always perfect and total. A sea spirit teaches this Gift. The werewolf must seek an Umbral sea and meditate on the sound of its waves, until she can hear the sea spirit calling to her. She must then focus on those instructions while at the same time keeping total awareness of the moment to learn this Gift. Thus, she makes the wisdom and reflection of the Half Moon part of herself.\n\nSystem: The player must spend one point of Gnosis to store a memory and then rolls Wits & Alertness (difficulty 6) to fix it in the character’s mind. The roll is at difficulty 5 for a Philodox. The character can store one memory for every point of permanent Gnosis she has. To recall the memory, the player must make an Intelligence + Occult roll (difficulty 7, 6 if the character is a Philodox, 5 if the character is a Philodox and staring into water). A botch means the memory vanishes, leaving a permanent hole in the character’s memory. The character may dump memories at any time, leaving her only a normal, fallible recollection of the event."
-      }
-    ]
-  },
-  {
-    "gift": 430,
+    "gift": 427,
     "name": "Half Moon’s Diplomacy",
     "content": [
       {
@@ -6147,17 +6125,21 @@
     ]
   },
   {
-    "gift": 431,
-    "name": "Half-Moon Mnemonics",
+    "gift": 428,
+    "name": "Half Moon Mnemonics",
     "content": [
       {
         "type": "text",
         "value": "Luna’s Philodox aspect is the teacher of ways and the keeper of memories. The Garou who learns this Gift may recall any moment with crystal clarity, freezing it forever in her mind. The Garou may then study the moment at her leisure, coming at it from almost any angle. Silver Fang Philodox are forever replaying captured memories, and thus seem especially distant to others. A Sea-spirit teaches this Gift; the Garou hears indistinct water-spirit voices throughout her training. Ideally, the Silver Fang stares into water when using this Gift to recall a memory.\n\nSystem: The player must spend one point of Gnosis for the character to “photograph” a moment, and must make a Wits + Alertness roll, difficulty 6. If the Garou attempts to access the memory later, the player must make an Intelligence + Occult roll (difficulty 7; 5 when the Fang is looking into water). A botch means the image disappears forever, leaving an actual hole in the Garou’s memory. A Fang may have no more memories “on file” than her permanent Gnosis score, but may “dump” unwanted images at will."
+      },
+      {
+        "type": "text",
+        "value": "This Gift allows a Garou to remember a moment with perfect clarity, fixing it forever within their mind. They may recall that moment at any time, and examine the memory from any angle they wish. The memory does not dim with age, and the recall is always perfect and total. A sea spirit teaches this Gift. The werewolf must seek an Umbral sea and meditate on the sound of its waves, until she can hear the sea spirit calling to her. She must then focus on those instructions while at the same time keeping total awareness of the moment to learn this Gift. Thus, she makes the wisdom and reflection of the Half Moon part of herself.\n\nSystem: The player must spend one point of Gnosis to store a memory and then rolls Wits & Alertness (difficulty 6) to fix it in the character’s mind. The roll is at difficulty 5 for a Philodox. The character can store one memory for every point of permanent Gnosis she has. To recall the memory, the player must make an Intelligence + Occult roll (difficulty 7, 6 if the character is a Philodox, 5 if the character is a Philodox and staring into water). A botch means the memory vanishes, leaving a permanent hole in the character’s memory. The character may dump memories at any time, leaving her only a normal, fallible recollection of the event."
       }
     ]
   },
   {
-    "gift": 432,
+    "gift": 429,
     "name": "Halo of the Sun",
     "content": [
       {
@@ -6183,7 +6165,7 @@
     ]
   },
   {
-    "gift": 433,
+    "gift": 430,
     "name": "Halt the Coward’s Flight",
     "content": [
       {
@@ -6209,7 +6191,7 @@
     ]
   },
   {
-    "gift": 434,
+    "gift": 431,
     "name": "Hand Blade",
     "content": [
       {
@@ -6223,7 +6205,7 @@
     ]
   },
   {
-    "gift": 435,
+    "gift": 432,
     "name": "Hand of the Earth Lords",
     "content": [
       {
@@ -6241,7 +6223,7 @@
     ]
   },
   {
-    "gift": 436,
+    "gift": 433,
     "name": "Hands Full of Thunder",
     "content": [
       {
@@ -6251,7 +6233,7 @@
     ]
   },
   {
-    "gift": 437,
+    "gift": 434,
     "name": "Harano",
     "content": [
       {
@@ -6265,7 +6247,7 @@
     ]
   },
   {
-    "gift": 438,
+    "gift": 435,
     "name": "Hare’s Leap",
     "content": [
       {
@@ -6283,7 +6265,7 @@
     ]
   },
   {
-    "gift": 439,
+    "gift": 436,
     "name": "Harrier’s View",
     "content": [
       {
@@ -6293,7 +6275,7 @@
     ]
   },
   {
-    "gift": 440,
+    "gift": 437,
     "name": "Harmonious Unity of the Emerald Mother",
     "content": [
       {
@@ -6303,7 +6285,7 @@
     ]
   },
   {
-    "gift": 441,
+    "gift": 438,
     "name": "Haunting Howl",
     "content": [
       {
@@ -6317,7 +6299,7 @@
     ]
   },
   {
-    "gift": 442,
+    "gift": 439,
     "name": "Haunting Stare",
     "content": [
       {
@@ -6327,7 +6309,7 @@
     ]
   },
   {
-    "gift": 443,
+    "gift": 440,
     "name": "Havgan’s Healing",
     "content": [
       {
@@ -6337,7 +6319,7 @@
     ]
   },
   {
-    "gift": 444,
+    "gift": 441,
     "name": "Hawk’s Guidance",
     "content": [
       {
@@ -6347,7 +6329,7 @@
     ]
   },
   {
-    "gift": 445,
+    "gift": 442,
     "name": "Head Games",
     "content": [
       {
@@ -6365,7 +6347,7 @@
     ]
   },
   {
-    "gift": 446,
+    "gift": 443,
     "name": "Healing Breath of Mother Gaia",
     "content": [
       {
@@ -6412,7 +6394,7 @@
     ]
   },
   {
-    "gift": 447,
+    "gift": 444,
     "name": "Healing Sleep",
     "content": [
       {
@@ -6426,7 +6408,7 @@
     ]
   },
   {
-    "gift": 448,
+    "gift": 445,
     "name": "Hibernation",
     "content": [
       {
@@ -6436,7 +6418,7 @@
     ]
   },
   {
-    "gift": 449,
+    "gift": 446,
     "name": "Hear the Silence",
     "content": [
       {
@@ -6446,7 +6428,7 @@
     ]
   },
   {
-    "gift": 450,
+    "gift": 447,
     "name": "Healing the Soul",
     "content": [
       {
@@ -6456,7 +6438,7 @@
     ]
   },
   {
-    "gift": 451,
+    "gift": 448,
     "name": "Heart Claw",
     "content": [
       {
@@ -6466,7 +6448,7 @@
     ]
   },
   {
-    "gift": 452,
+    "gift": 449,
     "name": "Heart of Fury",
     "content": [
       {
@@ -6492,7 +6474,7 @@
     ]
   },
   {
-    "gift": 453,
+    "gift": 450,
     "name": "Heart of Ice",
     "content": [
       {
@@ -6510,7 +6492,7 @@
     ]
   },
   {
-    "gift": 454,
+    "gift": 451,
     "name": "Heart of the Wyrm",
     "content": [
       {
@@ -6520,7 +6502,7 @@
     ]
   },
   {
-    "gift": 455,
+    "gift": 452,
     "name": "Heart Twister",
     "content": [
       {
@@ -6530,7 +6512,7 @@
     ]
   },
   {
-    "gift": 456,
+    "gift": 453,
     "name": "Heat Metal",
     "content": [
       {
@@ -6544,7 +6526,7 @@
     ]
   },
   {
-    "gift": 457,
+    "gift": 454,
     "name": "Heart of the Mountain",
     "content": [
       {
@@ -6554,7 +6536,7 @@
     ]
   },
   {
-    "gift": 458,
+    "gift": 455,
     "name": "Heaven's Guidance",
     "content": [
       {
@@ -6572,7 +6554,7 @@
     ]
   },
   {
-    "gift": 459,
+    "gift": 456,
     "name": "Heightened Senses",
     "content": [
       {
@@ -6598,7 +6580,7 @@
     ]
   },
   {
-    "gift": 460,
+    "gift": 457,
     "name": "Heimdall’s Blade",
     "content": [
       {
@@ -6608,7 +6590,7 @@
     ]
   },
   {
-    "gift": 461,
+    "gift": 458,
     "name": "Help Me",
     "content": [
       {
@@ -6618,7 +6600,7 @@
     ]
   },
   {
-    "gift": 462,
+    "gift": 459,
     "name": "Herding the Infant Ape",
     "content": [
       {
@@ -6628,7 +6610,7 @@
     ]
   },
   {
-    "gift": 463,
+    "gift": 460,
     "name": "Hero’s Stand",
     "content": [
       {
@@ -6650,7 +6632,7 @@
     ]
   },
   {
-    "gift": 464,
+    "gift": 461,
     "name": "Hidden Killer",
     "content": [
       {
@@ -6664,7 +6646,7 @@
     ]
   },
   {
-    "gift": 465,
+    "gift": 462,
     "name": "Hidden Killer",
     "content": [
       {
@@ -6674,7 +6656,7 @@
     ]
   },
   {
-    "gift": 466,
+    "gift": 463,
     "name": "Hidden Meaning",
     "content": [
       {
@@ -6684,7 +6666,7 @@
     ]
   },
   {
-    "gift": 467,
+    "gift": 464,
     "name": "Hidden Secrets",
     "content": [
       {
@@ -6694,7 +6676,7 @@
     ]
   },
   {
-    "gift": 468,
+    "gift": 465,
     "name": "Hide in Plain Sight",
     "content": [
       {
@@ -6704,7 +6686,7 @@
     ]
   },
   {
-    "gift": 469,
+    "gift": 466,
     "name": "Home All Lands",
     "content": [
       {
@@ -6714,7 +6696,7 @@
     ]
   },
   {
-    "gift": 470,
+    "gift": 467,
     "name": "Honor Bound",
     "content": [
       {
@@ -6724,7 +6706,7 @@
     ]
   },
   {
-    "gift": 471,
+    "gift": 468,
     "name": "Honor Pact",
     "content": [
       {
@@ -6738,7 +6720,7 @@
     ]
   },
   {
-    "gift": 472,
+    "gift": 469,
     "name": "Honorable Death",
     "content": [
       {
@@ -6748,7 +6730,7 @@
     ]
   },
   {
-    "gift": 473,
+    "gift": 470,
     "name": "Hootenanny",
     "content": [
       {
@@ -6758,7 +6740,7 @@
     ]
   },
   {
-    "gift": 474,
+    "gift": 471,
     "name": "Home Turf",
     "content": [
       {
@@ -6768,7 +6750,7 @@
     ]
   },
   {
-    "gift": 475,
+    "gift": 472,
     "name": "Horde of Valhalla",
     "content": [
       {
@@ -6790,7 +6772,7 @@
     ]
   },
   {
-    "gift": 476,
+    "gift": 473,
     "name": "Horns of the Impaler",
     "content": [
       {
@@ -6808,7 +6790,7 @@
     ]
   },
   {
-    "gift": 477,
+    "gift": 474,
     "name": "Howl of Death",
     "content": [
       {
@@ -6822,7 +6804,7 @@
     ]
   },
   {
-    "gift": 478,
+    "gift": 475,
     "name": "Howl of Healing",
     "content": [
       {
@@ -6832,7 +6814,7 @@
     ]
   },
   {
-    "gift": 479,
+    "gift": 476,
     "name": "The White Howl",
     "content": [
       {
@@ -6842,7 +6824,7 @@
     ]
   },
   {
-    "gift": 480,
+    "gift": 477,
     "name": "Howl of Hunger",
     "content": [
       {
@@ -6852,7 +6834,7 @@
     ]
   },
   {
-    "gift": 481,
+    "gift": 478,
     "name": "Howl of the Bane",
     "content": [
       {
@@ -6862,7 +6844,7 @@
     ]
   },
   {
-    "gift": 482,
+    "gift": 479,
     "name": "Howl of the Banshee",
     "content": [
       {
@@ -6888,7 +6870,7 @@
     ]
   },
   {
-    "gift": 483,
+    "gift": 480,
     "name": "Howl of the Hunter",
     "content": [
       {
@@ -6898,7 +6880,7 @@
     ]
   },
   {
-    "gift": 484,
+    "gift": 481,
     "name": "Howl of the Unseen",
     "content": [
       {
@@ -6916,7 +6898,7 @@
     ]
   },
   {
-    "gift": 485,
+    "gift": 482,
     "name": "Howl to the Pack",
     "content": [
       {
@@ -6926,7 +6908,7 @@
     ]
   },
   {
-    "gift": 486,
+    "gift": 483,
     "name": "Howls in the Night",
     "content": [
       {
@@ -6936,7 +6918,7 @@
     ]
   },
   {
-    "gift": 487,
+    "gift": 484,
     "name": "Huang Di’s Sacrifice",
     "content": [
       {
@@ -6950,7 +6932,7 @@
     ]
   },
   {
-    "gift": 488,
+    "gift": 485,
     "name": "Hungry Rust",
     "content": [
       {
@@ -6960,7 +6942,7 @@
     ]
   },
   {
-    "gift": 489,
+    "gift": 486,
     "name": "Hunter’s Harmony",
     "content": [
       {
@@ -6970,7 +6952,7 @@
     ]
   },
   {
-    "gift": 490,
+    "gift": 487,
     "name": "Hush",
     "content": [
       {
@@ -6980,7 +6962,7 @@
     ]
   },
   {
-    "gift": 491,
+    "gift": 488,
     "name": "I Got a Rock",
     "content": [
       {
@@ -6990,7 +6972,7 @@
     ]
   },
   {
-    "gift": 492,
+    "gift": 489,
     "name": "Ice Dance",
     "content": [
       {
@@ -7004,7 +6986,7 @@
     ]
   },
   {
-    "gift": 493,
+    "gift": 490,
     "name": "Ice Echo",
     "content": [
       {
@@ -7018,7 +7000,7 @@
     ]
   },
   {
-    "gift": 494,
+    "gift": 491,
     "name": "Ichor Blade",
     "content": [
       {
@@ -7028,7 +7010,7 @@
     ]
   },
   {
-    "gift": 495,
+    "gift": 492,
     "name": "Infectious Laughter",
     "content": [
       {
@@ -7038,7 +7020,7 @@
     ]
   },
   {
-    "gift": 496,
+    "gift": 493,
     "name": "Icicle-Hide",
     "content": [
       {
@@ -7048,7 +7030,7 @@
     ]
   },
   {
-    "gift": 497,
+    "gift": 494,
     "name": "Icy Child of Despair",
     "content": [
       {
@@ -7070,7 +7052,7 @@
     ]
   },
   {
-    "gift": 498,
+    "gift": 495,
     "name": "Ignore Death Blow",
     "content": [
       {
@@ -7084,7 +7066,7 @@
     ]
   },
   {
-    "gift": 499,
+    "gift": 496,
     "name": "Ignore Wound",
     "content": [
       {
@@ -7094,7 +7076,7 @@
     ]
   },
   {
-    "gift": 500,
+    "gift": 497,
     "name": "Image of the Saints",
     "content": [
       {
@@ -7104,7 +7086,7 @@
     ]
   },
   {
-    "gift": 501,
+    "gift": 498,
     "name": "Imaginal Mantra",
     "content": [
       {
@@ -7114,7 +7096,7 @@
     ]
   },
   {
-    "gift": 502,
+    "gift": 499,
     "name": "Imbalance",
     "content": [
       {
@@ -7124,7 +7106,7 @@
     ]
   },
   {
-    "gift": 503,
+    "gift": 500,
     "name": "Implacable Grip",
     "content": [
       {
@@ -7134,7 +7116,7 @@
     ]
   },
   {
-    "gift": 504,
+    "gift": 501,
     "name": "Impunity",
     "content": [
       {
@@ -7144,7 +7126,7 @@
     ]
   },
   {
-    "gift": 505,
+    "gift": 502,
     "name": "Indian Giver",
     "content": [
       {
@@ -7183,7 +7165,7 @@
     ]
   },
   {
-    "gift": 506,
+    "gift": 503,
     "name": "Infest",
     "content": [
       {
@@ -7201,7 +7183,7 @@
     ]
   },
   {
-    "gift": 507,
+    "gift": 504,
     "name": "Inner Light",
     "content": [
       {
@@ -7215,7 +7197,7 @@
     ]
   },
   {
-    "gift": 508,
+    "gift": 505,
     "name": "Inner Strength",
     "content": [
       {
@@ -7233,7 +7215,7 @@
     ]
   },
   {
-    "gift": 509,
+    "gift": 506,
     "name": "Inspiration",
     "content": [
       {
@@ -7259,7 +7241,7 @@
     ]
   },
   {
-    "gift": 510,
+    "gift": 507,
     "name": "Interrogator",
     "content": [
       {
@@ -7273,7 +7255,7 @@
     ]
   },
   {
-    "gift": 511,
+    "gift": 508,
     "name": "Instincts Unbound",
     "content": [
       {
@@ -7283,7 +7265,7 @@
     ]
   },
   {
-    "gift": 512,
+    "gift": 509,
     "name": "Intrusion",
     "content": [
       {
@@ -7297,7 +7279,7 @@
     ]
   },
   {
-    "gift": 513,
+    "gift": 510,
     "name": "Invent",
     "content": [
       {
@@ -7307,7 +7289,7 @@
     ]
   },
   {
-    "gift": 514,
+    "gift": 511,
     "name": "Invisibility",
     "content": [
       {
@@ -7325,7 +7307,7 @@
     ]
   },
   {
-    "gift": 515,
+    "gift": 512,
     "name": "Invocation of the Pharaoh",
     "content": [
       {
@@ -7335,7 +7317,7 @@
     ]
   },
   {
-    "gift": 516,
+    "gift": 513,
     "name": "Invoke the Spirits of the Storm",
     "content": [
       {
@@ -7353,7 +7335,7 @@
     ]
   },
   {
-    "gift": 517,
+    "gift": 514,
     "name": "Invoked Presence",
     "content": [
       {
@@ -7363,7 +7345,7 @@
     ]
   },
   {
-    "gift": 518,
+    "gift": 515,
     "name": "Iron Cannot Pierce",
     "content": [
       {
@@ -7373,7 +7355,7 @@
     ]
   },
   {
-    "gift": 519,
+    "gift": 516,
     "name": "Iron Resolve",
     "content": [
       {
@@ -7383,7 +7365,7 @@
     ]
   },
   {
-    "gift": 520,
+    "gift": 517,
     "name": "Iron Claws",
     "content": [
       {
@@ -7397,7 +7379,7 @@
     ]
   },
   {
-    "gift": 521,
+    "gift": 518,
     "name": "Jackrabbit Jump",
     "content": [
       {
@@ -7407,7 +7389,7 @@
     ]
   },
   {
-    "gift": 522,
+    "gift": 519,
     "name": "Jam Gun",
     "content": [
       {
@@ -7421,7 +7403,7 @@
     ]
   },
   {
-    "gift": 523,
+    "gift": 520,
     "name": "Jam Technology",
     "content": [
       {
@@ -7522,7 +7504,7 @@
     ]
   },
   {
-    "gift": 524,
+    "gift": 521,
     "name": "Jam Weapon",
     "content": [
       {
@@ -7536,7 +7518,7 @@
     ]
   },
   {
-    "gift": 525,
+    "gift": 522,
     "name": "Journey Home",
     "content": [
       {
@@ -7546,7 +7528,7 @@
     ]
   },
   {
-    "gift": 526,
+    "gift": 523,
     "name": "Judgment",
     "content": [
       {
@@ -7556,7 +7538,7 @@
     ]
   },
   {
-    "gift": 527,
+    "gift": 524,
     "name": "Judgment of Hades",
     "content": [
       {
@@ -7566,7 +7548,7 @@
     ]
   },
   {
-    "gift": 528,
+    "gift": 525,
     "name": "Kachina’s Luck",
     "content": [
       {
@@ -7576,7 +7558,7 @@
     ]
   },
   {
-    "gift": 529,
+    "gift": 526,
     "name": "Kali’s Tongue",
     "content": [
       {
@@ -7590,7 +7572,7 @@
     ]
   },
   {
-    "gift": 530,
+    "gift": 527,
     "name": "Katanka-Sonnak’s Spear",
     "content": [
       {
@@ -7608,7 +7590,7 @@
     ]
   },
   {
-    "gift": 531,
+    "gift": 528,
     "name": "King of the Beasts",
     "content": [
       {
@@ -7680,7 +7662,7 @@
     ]
   },
   {
-    "gift": 532,
+    "gift": 529,
     "name": "Kiss of Entropy",
     "content": [
       {
@@ -7690,7 +7672,7 @@
     ]
   },
   {
-    "gift": 533,
+    "gift": 530,
     "name": "Kiss of Helios",
     "content": [
       {
@@ -7712,7 +7694,7 @@
     ]
   },
   {
-    "gift": 534,
+    "gift": 531,
     "name": "Kitchen Chemistry",
     "content": [
       {
@@ -7722,7 +7704,7 @@
     ]
   },
   {
-    "gift": 535,
+    "gift": 532,
     "name": "Kneel",
     "content": [
       {
@@ -7736,7 +7718,7 @@
     ]
   },
   {
-    "gift": 536,
+    "gift": 533,
     "name": "Lambent Flame",
     "content": [
       {
@@ -7762,7 +7744,7 @@
     ]
   },
   {
-    "gift": 537,
+    "gift": 534,
     "name": "Lash of Rage",
     "content": [
       {
@@ -7772,7 +7754,7 @@
     ]
   },
   {
-    "gift": 538,
+    "gift": 535,
     "name": "Landscape",
     "content": [
       {
@@ -7786,7 +7768,7 @@
     ]
   },
   {
-    "gift": 539,
+    "gift": 536,
     "name": "Last Ditch",
     "content": [
       {
@@ -7796,7 +7778,7 @@
     ]
   },
   {
-    "gift": 540,
+    "gift": 537,
     "name": "Last Stand",
     "content": [
       {
@@ -7810,7 +7792,7 @@
     ]
   },
   {
-    "gift": 541,
+    "gift": 538,
     "name": "Laugh of the Hyena",
     "content": [
       {
@@ -7824,7 +7806,7 @@
     ]
   },
   {
-    "gift": 542,
+    "gift": 539,
     "name": "Lay of the Land",
     "content": [
       {
@@ -7834,7 +7816,7 @@
     ]
   },
   {
-    "gift": 543,
+    "gift": 540,
     "name": "Leap the Chasm",
     "content": [
       {
@@ -7844,7 +7826,7 @@
     ]
   },
   {
-    "gift": 544,
+    "gift": 541,
     "name": "Legend’s Insight",
     "content": [
       {
@@ -7854,7 +7836,7 @@
     ]
   },
   {
-    "gift": 545,
+    "gift": 542,
     "name": "Leper’s Curse",
     "content": [
       {
@@ -7864,7 +7846,7 @@
     ]
   },
   {
-    "gift": 546,
+    "gift": 543,
     "name": "Leshii’s Boon",
     "content": [
       {
@@ -7874,7 +7856,7 @@
     ]
   },
   {
-    "gift": 547,
+    "gift": 544,
     "name": "Ley Lines",
     "content": [
       {
@@ -7884,7 +7866,7 @@
     ]
   },
   {
-    "gift": 548,
+    "gift": 545,
     "name": "Ley Lines",
     "content": [
       {
@@ -7906,7 +7888,7 @@
     ]
   },
   {
-    "gift": 549,
+    "gift": 546,
     "name": "Liar’s Craft",
     "content": [
       {
@@ -7916,7 +7898,7 @@
     ]
   },
   {
-    "gift": 550,
+    "gift": 547,
     "name": "Liar’s Face",
     "content": [
       {
@@ -7926,7 +7908,7 @@
     ]
   },
   {
-    "gift": 551,
+    "gift": 548,
     "name": "Liberation of Flesh",
     "content": [
       {
@@ -7936,7 +7918,7 @@
     ]
   },
   {
-    "gift": 552,
+    "gift": 549,
     "name": "Lift-Your-Leg",
     "content": [
       {
@@ -7946,7 +7928,7 @@
     ]
   },
   {
-    "gift": 553,
+    "gift": 550,
     "name": "Lightning Rage",
     "content": [
       {
@@ -7960,7 +7942,7 @@
     ]
   },
   {
-    "gift": 554,
+    "gift": 551,
     "name": "Lightning Reflexes",
     "content": [
       {
@@ -7970,7 +7952,7 @@
     ]
   },
   {
-    "gift": 555,
+    "gift": 552,
     "name": "Lion’s Bite",
     "content": [
       {
@@ -7984,7 +7966,7 @@
     ]
   },
   {
-    "gift": 556,
+    "gift": 553,
     "name": "Living Treasure",
     "content": [
       {
@@ -8002,7 +7984,7 @@
     ]
   },
   {
-    "gift": 557,
+    "gift": 554,
     "name": "Locate Spirit Tutor",
     "content": [
       {
@@ -8012,7 +7994,7 @@
     ]
   },
   {
-    "gift": 558,
+    "gift": 555,
     "name": "Loki’s Touch",
     "content": [
       {
@@ -8026,7 +8008,7 @@
     ]
   },
   {
-    "gift": 559,
+    "gift": 556,
     "name": "Lonesome Voice of the Bunyip",
     "content": [
       {
@@ -8040,7 +8022,7 @@
     ]
   },
   {
-    "gift": 560,
+    "gift": 557,
     "name": "Long Running",
     "content": [
       {
@@ -8091,7 +8073,7 @@
     ]
   },
   {
-    "gift": 561,
+    "gift": 558,
     "name": "Lord of the Wilds",
     "content": [
       {
@@ -8101,7 +8083,7 @@
     ]
   },
   {
-    "gift": 562,
+    "gift": 559,
     "name": "Lordly Will",
     "content": [
       {
@@ -8111,7 +8093,7 @@
     ]
   },
   {
-    "gift": 563,
+    "gift": 560,
     "name": "Lover’s Touch",
     "content": [
       {
@@ -8125,7 +8107,7 @@
     ]
   },
   {
-    "gift": 564,
+    "gift": 561,
     "name": "Loyal Defender",
     "content": [
       {
@@ -8135,7 +8117,7 @@
     ]
   },
   {
-    "gift": 565,
+    "gift": 562,
     "name": "Luck of the Irish",
     "content": [
       {
@@ -8145,7 +8127,7 @@
     ]
   },
   {
-    "gift": 566,
+    "gift": 563,
     "name": "Lucky Bastard",
     "content": [
       {
@@ -8155,7 +8137,7 @@
     ]
   },
   {
-    "gift": 567,
+    "gift": 564,
     "name": "Luna’s Armor",
     "content": [
       {
@@ -8181,7 +8163,7 @@
     ]
   },
   {
-    "gift": 568,
+    "gift": 565,
     "name": "Luna’s Avenger",
     "content": [
       {
@@ -8203,7 +8185,7 @@
     ]
   },
   {
-    "gift": 569,
+    "gift": 566,
     "name": "Luna’s Blessing",
     "content": [
       {
@@ -8229,7 +8211,7 @@
     ]
   },
   {
-    "gift": 570,
+    "gift": 567,
     "name": "Luna’s Might",
     "content": [
       {
@@ -8239,7 +8221,7 @@
     ]
   },
   {
-    "gift": 571,
+    "gift": 568,
     "name": "Mad Strength",
     "content": [
       {
@@ -8253,7 +8235,7 @@
     ]
   },
   {
-    "gift": 572,
+    "gift": 569,
     "name": "Maddening Howl",
     "content": [
       {
@@ -8267,7 +8249,7 @@
     ]
   },
   {
-    "gift": 573,
+    "gift": 570,
     "name": "Madness",
     "content": [
       {
@@ -8293,7 +8275,7 @@
     ]
   },
   {
-    "gift": 574,
+    "gift": 571,
     "name": "Madness Season",
     "content": [
       {
@@ -8303,7 +8285,7 @@
     ]
   },
   {
-    "gift": 575,
+    "gift": 572,
     "name": "Malleable Spirit",
     "content": [
       {
@@ -8384,7 +8366,7 @@
     ]
   },
   {
-    "gift": 576,
+    "gift": 573,
     "name": "Man With No Name",
     "content": [
       {
@@ -8398,7 +8380,7 @@
     ]
   },
   {
-    "gift": 577,
+    "gift": 574,
     "name": "Manifest the Vision",
     "content": [
       {
@@ -8408,7 +8390,7 @@
     ]
   },
   {
-    "gift": 578,
+    "gift": 575,
     "name": "Manipura",
     "content": [
       {
@@ -8418,7 +8400,7 @@
     ]
   },
   {
-    "gift": 579,
+    "gift": 576,
     "name": "Man’s Skin",
     "content": [
       {
@@ -8432,7 +8414,7 @@
     ]
   },
   {
-    "gift": 580,
+    "gift": 577,
     "name": "Mark of Shame",
     "content": [
       {
@@ -8442,7 +8424,7 @@
     ]
   },
   {
-    "gift": 581,
+    "gift": 578,
     "name": "Mark of the Enemy",
     "content": [
       {
@@ -8460,7 +8442,7 @@
     ]
   },
   {
-    "gift": 582,
+    "gift": 579,
     "name": "Mark of the Prey",
     "content": [
       {
@@ -8470,7 +8452,7 @@
     ]
   },
   {
-    "gift": 583,
+    "gift": 580,
     "name": "Mark of the Death-Wolf",
     "content": [
       {
@@ -8480,7 +8462,7 @@
     ]
   },
   {
-    "gift": 584,
+    "gift": 581,
     "name": "Mark of the Wolf",
     "content": [
       {
@@ -8490,7 +8472,7 @@
     ]
   },
   {
-    "gift": 585,
+    "gift": 582,
     "name": "Mask Taint",
     "content": [
       {
@@ -8508,7 +8490,7 @@
     ]
   },
   {
-    "gift": 586,
+    "gift": 583,
     "name": "Mask the Predator",
     "content": [
       {
@@ -8518,7 +8500,7 @@
     ]
   },
   {
-    "gift": 587,
+    "gift": 584,
     "name": "Master of Fire",
     "content": [
       {
@@ -8536,7 +8518,7 @@
     ]
   },
   {
-    "gift": 588,
+    "gift": 585,
     "name": "Mastery",
     "content": [
       {
@@ -8558,7 +8540,7 @@
     ]
   },
   {
-    "gift": 589,
+    "gift": 586,
     "name": "Mastery of the Mortal Coil",
     "content": [
       {
@@ -8568,7 +8550,7 @@
     ]
   },
   {
-    "gift": 590,
+    "gift": 587,
     "name": "Maw of the Whale",
     "content": [
       {
@@ -8578,7 +8560,7 @@
     ]
   },
   {
-    "gift": 591,
+    "gift": 588,
     "name": "Ma’at’s Feather",
     "content": [
       {
@@ -8588,7 +8570,7 @@
     ]
   },
   {
-    "gift": 592,
+    "gift": 589,
     "name": "Measured Step",
     "content": [
       {
@@ -8598,7 +8580,7 @@
     ]
   },
   {
-    "gift": 593,
+    "gift": 590,
     "name": "Medicine Dreams",
     "content": [
       {
@@ -8608,7 +8590,7 @@
     ]
   },
   {
-    "gift": 594,
+    "gift": 591,
     "name": "Memory Circle",
     "content": [
       {
@@ -8618,7 +8600,7 @@
     ]
   },
   {
-    "gift": 595,
+    "gift": 592,
     "name": "Mend the Forked Tongue",
     "content": [
       {
@@ -8628,7 +8610,7 @@
     ]
   },
   {
-    "gift": 596,
+    "gift": 593,
     "name": "Mental Speech",
     "content": [
       {
@@ -8650,7 +8632,7 @@
     ]
   },
   {
-    "gift": 597,
+    "gift": 594,
     "name": "Merciful Blow",
     "content": [
       {
@@ -8668,7 +8650,7 @@
     ]
   },
   {
-    "gift": 598,
+    "gift": 595,
     "name": "Mercy",
     "content": [
       {
@@ -8682,7 +8664,7 @@
     ]
   },
   {
-    "gift": 599,
+    "gift": 596,
     "name": "Merlin’s Call",
     "content": [
       {
@@ -8692,7 +8674,7 @@
     ]
   },
   {
-    "gift": 600,
+    "gift": 597,
     "name": "Message Glance",
     "content": [
       {
@@ -8702,7 +8684,7 @@
     ]
   },
   {
-    "gift": 601,
+    "gift": 598,
     "name": "Messenger’s Fortitude",
     "content": [
       {
@@ -8728,7 +8710,7 @@
     ]
   },
   {
-    "gift": 602,
+    "gift": 599,
     "name": "Might of Thor",
     "content": [
       {
@@ -8754,7 +8736,7 @@
     ]
   },
   {
-    "gift": 603,
+    "gift": 600,
     "name": "Mimic",
     "content": [
       {
@@ -8768,7 +8750,7 @@
     ]
   },
   {
-    "gift": 604,
+    "gift": 601,
     "name": "Mind Partition",
     "content": [
       {
@@ -8778,7 +8760,7 @@
     ]
   },
   {
-    "gift": 605,
+    "gift": 602,
     "name": "Mindblock",
     "content": [
       {
@@ -8796,7 +8778,7 @@
     ]
   },
   {
-    "gift": 606,
+    "gift": 603,
     "name": "Mindspeak",
     "content": [
       {
@@ -8818,7 +8800,7 @@
     ]
   },
   {
-    "gift": 607,
+    "gift": 604,
     "name": "Mirage",
     "content": [
       {
@@ -8828,7 +8810,7 @@
     ]
   },
   {
-    "gift": 608,
+    "gift": 605,
     "name": "Mjolnir’s Thunder",
     "content": [
       {
@@ -8838,17 +8820,38 @@
     ]
   },
   {
-    "gift": 609,
+    "gift": 606,
     "name": "Mold the Spirit",
     "content": [
       {
         "type": "text",
-        "value": "The Garou can change a spirit’s form or purpose. This Gift is taught by a Chimerling.\n\nSystem: The Garou must best the spirit in a resisted Gnosis vs. Gnosis roll. The Theurge’s difficulty is based on his goal (see below), while the spirit’s difficulty is the werewolf’s Gnosis.\n\nChange — Difficulty\nCharacteristics (Willpower, Rage, Gnosis; one point changed per success) — 6\nDisposition (Friendly, Neutral, Hostile) — 8\nType (Naturae, Elemental, Bane, etc.) — 10"
+        "value": "The Garou can change a spirit’s form or purpose. This Gift is taught by a Chimerling.\n\nSystem: The Garou must best the spirit in a resisted Gnosis vs. Gnosis roll. The Theurge’s difficulty is based on his goal (see below), while the spirit’s difficulty is the werewolf’s Gnosis."
+      },
+      {
+        "type": "table",
+        "headers": [
+          "Change",
+          "Difficulty"
+        ],
+        "rows": [
+          [
+            "Characteristics (Willpower, Rage, Gnosis; one point changed per success)",
+            "6"
+          ],
+          [
+            "Disposition (Friendly, Neutral, Hostile)",
+            "8"
+          ],
+          [
+            "Type (Naturae, Elemental, Bane, etc.)",
+            "10"
+          ]
+        ]
       }
     ]
   },
   {
-    "gift": 610,
+    "gift": 607,
     "name": "Misdirection",
     "content": [
       {
@@ -8858,21 +8861,7 @@
     ]
   },
   {
-    "gift": 611,
-    "name": "Monkey Tail",
-    "content": [
-      {
-        "type": "text",
-        "value": "Although the lupus’ tail retains the appearance of a regular wolf’s tail, it gains far more agility and flexibility. Although incapable of fine manipulation, the tail can grasp objects, wrap around branches or allow the Garou to hang upside down. The tail can also attack from an unexpected direction. A Monkey-spirit must be persuaded to teach a Garou this Gift.\n\nSystem: After learning the Gift, the Garou’s tail automatically becomes prehensile whenever she likes. In order to manipulate the tail successfully, the player must make a Dexterity + Athletics roll (difficulty 6). The difficulty can increase for very delicate operations.\n\nIf the Garou’s Strength exceeds her Stamina, she can use the tail to hang or swing. When attempting to lift objects with her tail, the Garou’s Strength rating is halved. If used as an attack, the tail’s damage is Strength +1."
-      },
-      {
-        "type": "text",
-        "value": "The lupus may lengthen her tail and use it as a prehensile appendage at will. Although it’s no replacement for a hand, it can grasp objects, wrap around branches, and even allow the Garou to hang upside-down. A monkey-spirit teaches this Gift.\n\nSystem: The Gift may employ her prehensile tail at will in any form which possesses a tail. Successfully manipulating the tail requires a Dexterity + Athletics roll (difficulty varies according to the task)."
-      }
-    ]
-  },
-  {
-    "gift": 612,
+    "gift": 608,
     "name": "Moon Lore",
     "content": [
       {
@@ -8882,7 +8871,7 @@
     ]
   },
   {
-    "gift": 613,
+    "gift": 609,
     "name": "Moonshadow",
     "content": [
       {
@@ -8892,7 +8881,7 @@
     ]
   },
   {
-    "gift": 614,
+    "gift": 610,
     "name": "Moonstruck Path",
     "content": [
       {
@@ -8902,7 +8891,7 @@
     ]
   },
   {
-    "gift": 615,
+    "gift": 611,
     "name": "Mother’s Rage",
     "content": [
       {
@@ -8912,7 +8901,7 @@
     ]
   },
   {
-    "gift": 616,
+    "gift": 612,
     "name": "Mother’s Touch",
     "content": [
       {
@@ -8938,7 +8927,7 @@
     ]
   },
   {
-    "gift": 617,
+    "gift": 613,
     "name": "Mouthpiece of the Successor",
     "content": [
       {
@@ -8948,7 +8937,7 @@
     ]
   },
   {
-    "gift": 618,
+    "gift": 614,
     "name": "Muladhara",
     "content": [
       {
@@ -8958,7 +8947,7 @@
     ]
   },
   {
-    "gift": 619,
+    "gift": 615,
     "name": "Mule’s Bane",
     "content": [
       {
@@ -8968,7 +8957,7 @@
     ]
   },
   {
-    "gift": 620,
+    "gift": 616,
     "name": "Name the Spirit",
     "content": [
       {
@@ -8994,7 +8983,7 @@
     ]
   },
   {
-    "gift": 621,
+    "gift": 617,
     "name": "Nobody’s Bastard",
     "content": [
       {
@@ -9004,7 +8993,7 @@
     ]
   },
   {
-    "gift": 622,
+    "gift": 618,
     "name": "Natural Camouflage",
     "content": [
       {
@@ -9014,7 +9003,7 @@
     ]
   },
   {
-    "gift": 623,
+    "gift": 619,
     "name": "Natural Renewal",
     "content": [
       {
@@ -9024,7 +9013,7 @@
     ]
   },
   {
-    "gift": 624,
+    "gift": 620,
     "name": "Nature’s Bounty",
     "content": [
       {
@@ -9034,7 +9023,7 @@
     ]
   },
   {
-    "gift": 625,
+    "gift": 621,
     "name": "Network Terminal",
     "content": [
       {
@@ -9044,7 +9033,7 @@
     ]
   },
   {
-    "gift": 626,
+    "gift": 622,
     "name": "New Moon Legerdemain",
     "content": [
       {
@@ -9058,7 +9047,7 @@
     ]
   },
   {
-    "gift": 627,
+    "gift": 623,
     "name": "New Moon’s Laughter",
     "content": [
       {
@@ -9068,7 +9057,7 @@
     ]
   },
   {
-    "gift": 628,
+    "gift": 624,
     "name": "Nightmare Possession",
     "content": [
       {
@@ -9078,7 +9067,7 @@
     ]
   },
   {
-    "gift": 629,
+    "gift": 625,
     "name": "Nose of the Hungry Hound",
     "content": [
       {
@@ -9088,7 +9077,7 @@
     ]
   },
   {
-    "gift": 630,
+    "gift": 626,
     "name": "Nose-to-Tail",
     "content": [
       {
@@ -9098,7 +9087,7 @@
     ]
   },
   {
-    "gift": 631,
+    "gift": 627,
     "name": "Obedience",
     "content": [
       {
@@ -9120,7 +9109,7 @@
     ]
   },
   {
-    "gift": 632,
+    "gift": 628,
     "name": "Obscure the Spirit World",
     "content": [
       {
@@ -9130,7 +9119,7 @@
     ]
   },
   {
-    "gift": 633,
+    "gift": 629,
     "name": "Obscure the Truth",
     "content": [
       {
@@ -9140,7 +9129,7 @@
     ]
   },
   {
-    "gift": 634,
+    "gift": 630,
     "name": "Odious Aroma",
     "content": [
       {
@@ -9162,7 +9151,7 @@
     ]
   },
   {
-    "gift": 635,
+    "gift": 631,
     "name": "Omen Claws",
     "content": [
       {
@@ -9172,7 +9161,7 @@
     ]
   },
   {
-    "gift": 636,
+    "gift": 632,
     "name": "Offering of the Slain",
     "content": [
       {
@@ -9182,7 +9171,7 @@
     ]
   },
   {
-    "gift": 637,
+    "gift": 633,
     "name": "Omen of Power",
     "content": [
       {
@@ -9192,7 +9181,7 @@
     ]
   },
   {
-    "gift": 638,
+    "gift": 634,
     "name": "Omen of Truth",
     "content": [
       {
@@ -9202,7 +9191,7 @@
     ]
   },
   {
-    "gift": 639,
+    "gift": 635,
     "name": "On Patrol",
     "content": [
       {
@@ -9212,7 +9201,7 @@
     ]
   },
   {
-    "gift": 640,
+    "gift": 636,
     "name": "One on One",
     "content": [
       {
@@ -9222,7 +9211,7 @@
     ]
   },
   {
-    "gift": 641,
+    "gift": 637,
     "name": "Open Moon Bridge",
     "content": [
       {
@@ -9248,7 +9237,7 @@
     ]
   },
   {
-    "gift": 642,
+    "gift": 638,
     "name": "Open Seal",
     "content": [
       {
@@ -9266,7 +9255,7 @@
     ]
   },
   {
-    "gift": 643,
+    "gift": 639,
     "name": "Open Wounds",
     "content": [
       {
@@ -9288,7 +9277,7 @@
     ]
   },
   {
-    "gift": 644,
+    "gift": 640,
     "name": "Pack Shield",
     "content": [
       {
@@ -9298,7 +9287,7 @@
     ]
   },
   {
-    "gift": 645,
+    "gift": 641,
     "name": "Osprey’s Eye",
     "content": [
       {
@@ -9308,7 +9297,7 @@
     ]
   },
   {
-    "gift": 646,
+    "gift": 642,
     "name": "Osprey’s Flight",
     "content": [
       {
@@ -9318,7 +9307,7 @@
     ]
   },
   {
-    "gift": 647,
+    "gift": 643,
     "name": "Overclock",
     "content": [
       {
@@ -9328,7 +9317,7 @@
     ]
   },
   {
-    "gift": 648,
+    "gift": 644,
     "name": "Overlook",
     "content": [
       {
@@ -9338,7 +9327,7 @@
     ]
   },
   {
-    "gift": 649,
+    "gift": 645,
     "name": "Owl Speech",
     "content": [
       {
@@ -9348,7 +9337,7 @@
     ]
   },
   {
-    "gift": 650,
+    "gift": 646,
     "name": "Pack Tactics",
     "content": [
       {
@@ -9362,7 +9351,7 @@
     ]
   },
   {
-    "gift": 651,
+    "gift": 647,
     "name": "Pact",
     "content": [
       {
@@ -9372,7 +9361,7 @@
     ]
   },
   {
-    "gift": 652,
+    "gift": 648,
     "name": "Pain Chain",
     "content": [
       {
@@ -9382,7 +9371,7 @@
     ]
   },
   {
-    "gift": 653,
+    "gift": 649,
     "name": "Pain of the Land",
     "content": [
       {
@@ -9392,7 +9381,7 @@
     ]
   },
   {
-    "gift": 654,
+    "gift": 650,
     "name": "Pain-Strength",
     "content": [
       {
@@ -9406,7 +9395,7 @@
     ]
   },
   {
-    "gift": 655,
+    "gift": 651,
     "name": "Para Bellum",
     "content": [
       {
@@ -9416,7 +9405,7 @@
     ]
   },
   {
-    "gift": 656,
+    "gift": 652,
     "name": "Paper Butterfly",
     "content": [
       {
@@ -9426,7 +9415,7 @@
     ]
   },
   {
-    "gift": 657,
+    "gift": 653,
     "name": "Paralyzing Stare",
     "content": [
       {
@@ -9444,7 +9433,7 @@
     ]
   },
   {
-    "gift": 658,
+    "gift": 654,
     "name": "Paranoia",
     "content": [
       {
@@ -9454,7 +9443,7 @@
     ]
   },
   {
-    "gift": 659,
+    "gift": 655,
     "name": "Part the Veil",
     "content": [
       {
@@ -9476,7 +9465,7 @@
     ]
   },
   {
-    "gift": 660,
+    "gift": 656,
     "name": "Parting the Velvet Curtain",
     "content": [
       {
@@ -9490,7 +9479,7 @@
     ]
   },
   {
-    "gift": 661,
+    "gift": 657,
     "name": "Patagia",
     "content": [
       {
@@ -9516,7 +9505,7 @@
     ]
   },
   {
-    "gift": 662,
+    "gift": 658,
     "name": "Pathfinder",
     "content": [
       {
@@ -9526,7 +9515,7 @@
     ]
   },
   {
-    "gift": 663,
+    "gift": 659,
     "name": "Patience of the Wyrm",
     "content": [
       {
@@ -9536,7 +9525,7 @@
     ]
   },
   {
-    "gift": 664,
+    "gift": 660,
     "name": "Paws of the Newborn Cub",
     "content": [
       {
@@ -9558,7 +9547,7 @@
     ]
   },
   {
-    "gift": 665,
+    "gift": 661,
     "name": "Pennies from Heaven",
     "content": [
       {
@@ -9691,7 +9680,7 @@
     ]
   },
   {
-    "gift": 666,
+    "gift": 662,
     "name": "Perceptive Servant",
     "content": [
       {
@@ -9705,7 +9694,7 @@
     ]
   },
   {
-    "gift": 667,
+    "gift": 663,
     "name": "Perfect Recall",
     "content": [
       {
@@ -9719,7 +9708,7 @@
     ]
   },
   {
-    "gift": 668,
+    "gift": 664,
     "name": "Persephone’s Soul",
     "content": [
       {
@@ -9729,7 +9718,7 @@
     ]
   },
   {
-    "gift": 669,
+    "gift": 665,
     "name": "Persuasion",
     "content": [
       {
@@ -9755,7 +9744,7 @@
     ]
   },
   {
-    "gift": 670,
+    "gift": 666,
     "name": "Petal Float",
     "content": [
       {
@@ -9765,7 +9754,7 @@
     ]
   },
   {
-    "gift": 671,
+    "gift": 667,
     "name": "Phantasm",
     "content": [
       {
@@ -9783,7 +9772,7 @@
     ]
   },
   {
-    "gift": 672,
+    "gift": 668,
     "name": "Play Dead",
     "content": [
       {
@@ -9793,7 +9782,7 @@
     ]
   },
   {
-    "gift": 673,
+    "gift": 669,
     "name": "Phone Travel",
     "content": [
       {
@@ -9803,7 +9792,7 @@
     ]
   },
   {
-    "gift": 674,
+    "gift": 670,
     "name": "Pin The Eagle’s Wing",
     "content": [
       {
@@ -9813,7 +9802,7 @@
     ]
   },
   {
-    "gift": 675,
+    "gift": 671,
     "name": "Piping",
     "content": [
       {
@@ -9823,7 +9812,7 @@
     ]
   },
   {
-    "gift": 676,
+    "gift": 672,
     "name": "Placation",
     "content": [
       {
@@ -9833,7 +9822,7 @@
     ]
   },
   {
-    "gift": 677,
+    "gift": 673,
     "name": "Plague Child",
     "content": [
       {
@@ -9843,7 +9832,7 @@
     ]
   },
   {
-    "gift": 678,
+    "gift": 674,
     "name": "Plague Visage",
     "content": [
       {
@@ -9853,7 +9842,7 @@
     ]
   },
   {
-    "gift": 679,
+    "gift": 675,
     "name": "Play Possum",
     "content": [
       {
@@ -9863,7 +9852,7 @@
     ]
   },
   {
-    "gift": 680,
+    "gift": 676,
     "name": "Pointing the Bone",
     "content": [
       {
@@ -9881,7 +9870,7 @@
     ]
   },
   {
-    "gift": 681,
+    "gift": 677,
     "name": "Poisoned Legacy",
     "content": [
       {
@@ -9891,7 +9880,7 @@
     ]
   },
   {
-    "gift": 682,
+    "gift": 678,
     "name": "Possum’s Feet",
     "content": [
       {
@@ -9901,7 +9890,7 @@
     ]
   },
   {
-    "gift": 683,
+    "gift": 679,
     "name": "Power of the Ways",
     "content": [
       {
@@ -9911,7 +9900,7 @@
     ]
   },
   {
-    "gift": 684,
+    "gift": 680,
     "name": "Plug and Play",
     "content": [
       {
@@ -9921,7 +9910,7 @@
     ]
   },
   {
-    "gift": 685,
+    "gift": 681,
     "name": "Poisoned Gauntlet",
     "content": [
       {
@@ -9931,7 +9920,7 @@
     ]
   },
   {
-    "gift": 686,
+    "gift": 682,
     "name": "Power Surge",
     "content": [
       {
@@ -9978,7 +9967,7 @@
     ]
   },
   {
-    "gift": 687,
+    "gift": 683,
     "name": "Predator’s Arsenal",
     "content": [
       {
@@ -9988,7 +9977,7 @@
     ]
   },
   {
-    "gift": 688,
+    "gift": 684,
     "name": "Predator’s Leap",
     "content": [
       {
@@ -9998,7 +9987,7 @@
     ]
   },
   {
-    "gift": 689,
+    "gift": 685,
     "name": "Predator’s Many Eyes",
     "content": [
       {
@@ -10012,7 +10001,7 @@
     ]
   },
   {
-    "gift": 690,
+    "gift": 686,
     "name": "Prelude to Apocalypse",
     "content": [
       {
@@ -10022,7 +10011,7 @@
     ]
   },
   {
-    "gift": 691,
+    "gift": 687,
     "name": "Preternatural Awareness",
     "content": [
       {
@@ -10044,7 +10033,7 @@
     ]
   },
   {
-    "gift": 692,
+    "gift": 688,
     "name": "Prey Mind",
     "content": [
       {
@@ -10058,7 +10047,7 @@
     ]
   },
   {
-    "gift": 693,
+    "gift": 689,
     "name": "Prey’s Cry",
     "content": [
       {
@@ -10072,7 +10061,7 @@
     ]
   },
   {
-    "gift": 694,
+    "gift": 690,
     "name": "Primal Anger",
     "content": [
       {
@@ -10086,7 +10075,7 @@
     ]
   },
   {
-    "gift": 695,
+    "gift": 691,
     "name": "Primal Howl",
     "content": [
       {
@@ -10104,7 +10093,7 @@
     ]
   },
   {
-    "gift": 696,
+    "gift": 692,
     "name": "Primal Instinct",
     "content": [
       {
@@ -10118,7 +10107,7 @@
     ]
   },
   {
-    "gift": 697,
+    "gift": 693,
     "name": "Primal Song",
     "content": [
       {
@@ -10128,7 +10117,7 @@
     ]
   },
   {
-    "gift": 698,
+    "gift": 694,
     "name": "Princely Bearing",
     "content": [
       {
@@ -10138,7 +10127,7 @@
     ]
   },
   {
-    "gift": 699,
+    "gift": 695,
     "name": "Prophecy",
     "content": [
       {
@@ -10148,7 +10137,7 @@
     ]
   },
   {
-    "gift": 700,
+    "gift": 696,
     "name": "Prophetic Vision",
     "content": [
       {
@@ -10158,7 +10147,7 @@
     ]
   },
   {
-    "gift": 701,
+    "gift": 697,
     "name": "Prospector’s Luck",
     "content": [
       {
@@ -10172,7 +10161,7 @@
     ]
   },
   {
-    "gift": 702,
+    "gift": 698,
     "name": "Protean Form",
     "content": [
       {
@@ -10182,7 +10171,7 @@
     ]
   },
   {
-    "gift": 703,
+    "gift": 699,
     "name": "Pull Water",
     "content": [
       {
@@ -10192,7 +10181,7 @@
     ]
   },
   {
-    "gift": 704,
+    "gift": 700,
     "name": "Pulse of the Invisible",
     "content": [
       {
@@ -10218,7 +10207,7 @@
     ]
   },
   {
-    "gift": 705,
+    "gift": 701,
     "name": "Pulse of the Prey",
     "content": [
       {
@@ -10228,7 +10217,7 @@
     ]
   },
   {
-    "gift": 706,
+    "gift": 702,
     "name": "Pulse of the Railroad",
     "content": [
       {
@@ -10246,7 +10235,7 @@
     ]
   },
   {
-    "gift": 707,
+    "gift": 703,
     "name": "Pure Identity",
     "content": [
       {
@@ -10260,7 +10249,7 @@
     ]
   },
   {
-    "gift": 708,
+    "gift": 704,
     "name": "Purify Meat",
     "content": [
       {
@@ -10270,7 +10259,7 @@
     ]
   },
   {
-    "gift": 709,
+    "gift": 705,
     "name": "Purify Scent",
     "content": [
       {
@@ -10284,7 +10273,7 @@
     ]
   },
   {
-    "gift": 710,
+    "gift": 706,
     "name": "Purity of Blood",
     "content": [
       {
@@ -10298,7 +10287,7 @@
     ]
   },
   {
-    "gift": 711,
+    "gift": 707,
     "name": "Purity of Spirit",
     "content": [
       {
@@ -10308,7 +10297,7 @@
     ]
   },
   {
-    "gift": 712,
+    "gift": 708,
     "name": "Quell the Storm",
     "content": [
       {
@@ -10326,7 +10315,7 @@
     ]
   },
   {
-    "gift": 713,
+    "gift": 709,
     "name": "Questioning",
     "content": [
       {
@@ -10336,7 +10325,7 @@
     ]
   },
   {
-    "gift": 714,
+    "gift": 710,
     "name": "Quicksand",
     "content": [
       {
@@ -10362,7 +10351,7 @@
     ]
   },
   {
-    "gift": 715,
+    "gift": 711,
     "name": "Rage of the Underdog",
     "content": [
       {
@@ -10372,7 +10361,7 @@
     ]
   },
   {
-    "gift": 716,
+    "gift": 712,
     "name": "Rally the Troops",
     "content": [
       {
@@ -10382,7 +10371,7 @@
     ]
   },
   {
-    "gift": 717,
+    "gift": 713,
     "name": "Rage at Shadows",
     "content": [
       {
@@ -10392,7 +10381,7 @@
     ]
   },
   {
-    "gift": 718,
+    "gift": 714,
     "name": "Rage of Fenris",
     "content": [
       {
@@ -10402,7 +10391,7 @@
     ]
   },
   {
-    "gift": 719,
+    "gift": 715,
     "name": "Rains of Mercy",
     "content": [
       {
@@ -10412,7 +10401,7 @@
     ]
   },
   {
-    "gift": 720,
+    "gift": 716,
     "name": "Rally to the Cause",
     "content": [
       {
@@ -10422,7 +10411,7 @@
     ]
   },
   {
-    "gift": 721,
+    "gift": 717,
     "name": "Rampage",
     "content": [
       {
@@ -10432,7 +10421,7 @@
     ]
   },
   {
-    "gift": 722,
+    "gift": 718,
     "name": "Rant and Rave",
     "content": [
       {
@@ -10475,19 +10464,13 @@
     ]
   },
   {
-    "gift": 723,
+    "gift": 719,
     "name": "Rathead",
     "content": [
       {
         "type": "text",
         "value": "The Dancer can squeeze her body through any opening no smaller than a quarter inch in diameter. This Gift looks very disturbing to unsuspecting onlookers. Corrupted rat-spirits teach this Gift.\n\nSystem: The player rolls Gnosis. If successful, she can squirm through any opening no smaller than a quarter. Doing so typically takes a single turn, depending on the opening’s length. The Gift remains active until the Garou has passed entirely out of the constricted space."
-      }
-    ]
-  },
-  {
-    "gift": 724,
-    "name": "Rat Head",
-    "content": [
+      },
       {
         "type": "text",
         "value": "Metis are born into a world where they metaphorically don’t belong; it seemed only natural to rat-spirits to teach them to get into such places in the literal sense as well. This Gift renders the metis’s bone structure collapsible, allowing her to squeeze through any gap she can fit her head into.\n\nSystem: The player spends one Gnosis and rolls Dexterity + Athletics (difficulty 7). For the rest of the scene, the metis may squirm through any gap she can fit her face into, moving at her walking speed to do so."
@@ -10495,7 +10478,7 @@
     ]
   },
   {
-    "gift": 725,
+    "gift": 720,
     "name": "Rattler’s Bite",
     "content": [
       {
@@ -10513,7 +10496,7 @@
     ]
   },
   {
-    "gift": 726,
+    "gift": 721,
     "name": "Raven’s Curse",
     "content": [
       {
@@ -10556,7 +10539,7 @@
     ]
   },
   {
-    "gift": 727,
+    "gift": 722,
     "name": "Raven’s Wings",
     "content": [
       {
@@ -10570,7 +10553,7 @@
     ]
   },
   {
-    "gift": 728,
+    "gift": 723,
     "name": "Razor Claws",
     "content": [
       {
@@ -10596,7 +10579,7 @@
     ]
   },
   {
-    "gift": 729,
+    "gift": 724,
     "name": "Reach the Umbra",
     "content": [
       {
@@ -10622,7 +10605,7 @@
     ]
   },
   {
-    "gift": 730,
+    "gift": 725,
     "name": "Reality’s Path",
     "content": [
       {
@@ -10632,7 +10615,7 @@
     ]
   },
   {
-    "gift": 731,
+    "gift": 726,
     "name": "Realm Wisdom",
     "content": [
       {
@@ -10642,7 +10625,7 @@
     ]
   },
   {
-    "gift": 732,
+    "gift": 727,
     "name": "Reap the Soul",
     "content": [
       {
@@ -10652,7 +10635,7 @@
     ]
   },
   {
-    "gift": 733,
+    "gift": 728,
     "name": "Reason",
     "content": [
       {
@@ -10662,7 +10645,7 @@
     ]
   },
   {
-    "gift": 734,
+    "gift": 729,
     "name": "Reason’s Grasp",
     "content": [
       {
@@ -10672,7 +10655,7 @@
     ]
   },
   {
-    "gift": 735,
+    "gift": 730,
     "name": "Rebirth",
     "content": [
       {
@@ -10682,7 +10665,7 @@
     ]
   },
   {
-    "gift": 736,
+    "gift": 731,
     "name": "Rebirthing",
     "content": [
       {
@@ -10692,7 +10675,7 @@
     ]
   },
   {
-    "gift": 737,
+    "gift": 732,
     "name": "Recycle",
     "content": [
       {
@@ -10702,7 +10685,7 @@
     ]
   },
   {
-    "gift": 738,
+    "gift": 733,
     "name": "Redirect Pain",
     "content": [
       {
@@ -10716,7 +10699,7 @@
     ]
   },
   {
-    "gift": 739,
+    "gift": 734,
     "name": "Render Down",
     "content": [
       {
@@ -10726,7 +10709,7 @@
     ]
   },
   {
-    "gift": 740,
+    "gift": 735,
     "name": "Rending the Craft",
     "content": [
       {
@@ -10736,7 +10719,7 @@
     ]
   },
   {
-    "gift": 741,
+    "gift": 736,
     "name": "Release from Bondage",
     "content": [
       {
@@ -10746,7 +10729,7 @@
     ]
   },
   {
-    "gift": 742,
+    "gift": 737,
     "name": "Reload",
     "content": [
       {
@@ -10756,7 +10739,7 @@
     ]
   },
   {
-    "gift": 743,
+    "gift": 738,
     "name": "Rend",
     "content": [
       {
@@ -10766,7 +10749,7 @@
     ]
   },
   {
-    "gift": 744,
+    "gift": 739,
     "name": "Rend Reality",
     "content": [
       {
@@ -10776,7 +10759,7 @@
     ]
   },
   {
-    "gift": 745,
+    "gift": 740,
     "name": "Renew the Cycle",
     "content": [
       {
@@ -10794,7 +10777,7 @@
     ]
   },
   {
-    "gift": 746,
+    "gift": 741,
     "name": "Renewed Vigor",
     "content": [
       {
@@ -10804,7 +10787,7 @@
     ]
   },
   {
-    "gift": 747,
+    "gift": 742,
     "name": "Repel Metal",
     "content": [
       {
@@ -10822,7 +10805,7 @@
     ]
   },
   {
-    "gift": 748,
+    "gift": 743,
     "name": "Repress Taint",
     "content": [
       {
@@ -10832,7 +10815,7 @@
     ]
   },
   {
-    "gift": 749,
+    "gift": 744,
     "name": "Reshape Object",
     "content": [
       {
@@ -10916,7 +10899,7 @@
     ]
   },
   {
-    "gift": 750,
+    "gift": 745,
     "name": "Resist Pain",
     "content": [
       {
@@ -10942,7 +10925,7 @@
     ]
   },
   {
-    "gift": 751,
+    "gift": 746,
     "name": "Resist Temptation",
     "content": [
       {
@@ -10956,7 +10939,7 @@
     ]
   },
   {
-    "gift": 752,
+    "gift": 747,
     "name": "Resist Toxin",
     "content": [
       {
@@ -10982,7 +10965,7 @@
     ]
   },
   {
-    "gift": 753,
+    "gift": 748,
     "name": "Rhythm of War",
     "content": [
       {
@@ -10992,7 +10975,7 @@
     ]
   },
   {
-    "gift": 754,
+    "gift": 749,
     "name": "Resolute Vow",
     "content": [
       {
@@ -11006,7 +10989,7 @@
     ]
   },
   {
-    "gift": 755,
+    "gift": 750,
     "name": "Reveal the Hidden",
     "content": [
       {
@@ -11016,7 +10999,7 @@
     ]
   },
   {
-    "gift": 756,
+    "gift": 751,
     "name": "Reverie",
     "content": [
       {
@@ -11030,7 +11013,7 @@
     ]
   },
   {
-    "gift": 757,
+    "gift": 752,
     "name": "Reverie of the Kol-Kin",
     "content": [
       {
@@ -11040,7 +11023,7 @@
     ]
   },
   {
-    "gift": 758,
+    "gift": 753,
     "name": "Riddle",
     "content": [
       {
@@ -11050,7 +11033,7 @@
     ]
   },
   {
-    "gift": 759,
+    "gift": 754,
     "name": "Riot",
     "content": [
       {
@@ -11122,7 +11105,7 @@
     ]
   },
   {
-    "gift": 760,
+    "gift": 755,
     "name": "Ritual Tuning",
     "content": [
       {
@@ -11132,7 +11115,7 @@
     ]
   },
   {
-    "gift": 761,
+    "gift": 756,
     "name": "Road Ward",
     "content": [
       {
@@ -11142,7 +11125,7 @@
     ]
   },
   {
-    "gift": 762,
+    "gift": 757,
     "name": "Roar of Vengeance",
     "content": [
       {
@@ -11152,7 +11135,7 @@
     ]
   },
   {
-    "gift": 763,
+    "gift": 758,
     "name": "Roll Over",
     "content": [
       {
@@ -11178,7 +11161,7 @@
     ]
   },
   {
-    "gift": 764,
+    "gift": 759,
     "name": "Rooftop Sprint",
     "content": [
       {
@@ -11188,7 +11171,7 @@
     ]
   },
   {
-    "gift": 765,
+    "gift": 760,
     "name": "Rope Tricks",
     "content": [
       {
@@ -11202,7 +11185,7 @@
     ]
   },
   {
-    "gift": 766,
+    "gift": 761,
     "name": "Rot Weavertetch",
     "content": [
       {
@@ -11212,7 +11195,7 @@
     ]
   },
   {
-    "gift": 767,
+    "gift": 762,
     "name": "Run for Ground",
     "content": [
       {
@@ -11222,7 +11205,7 @@
     ]
   },
   {
-    "gift": 768,
+    "gift": 763,
     "name": "Safe Cave",
     "content": [
       {
@@ -11302,7 +11285,7 @@
     ]
   },
   {
-    "gift": 769,
+    "gift": 764,
     "name": "Safe Haven",
     "content": [
       {
@@ -11316,7 +11299,7 @@
     ]
   },
   {
-    "gift": 770,
+    "gift": 765,
     "name": "Salmon Leap",
     "content": [
       {
@@ -11326,7 +11309,7 @@
     ]
   },
   {
-    "gift": 771,
+    "gift": 766,
     "name": "Salmon Swim",
     "content": [
       {
@@ -11344,7 +11327,7 @@
     ]
   },
   {
-    "gift": 772,
+    "gift": 767,
     "name": "Scabwalker Curse",
     "content": [
       {
@@ -11354,7 +11337,7 @@
     ]
   },
   {
-    "gift": 773,
+    "gift": 768,
     "name": "Sandstorm",
     "content": [
       {
@@ -11364,7 +11347,7 @@
     ]
   },
   {
-    "gift": 774,
+    "gift": 769,
     "name": "Savage the Mind",
     "content": [
       {
@@ -11374,7 +11357,7 @@
     ]
   },
   {
-    "gift": 775,
+    "gift": 770,
     "name": "Scale of Ma’at",
     "content": [
       {
@@ -11384,7 +11367,7 @@
     ]
   },
   {
-    "gift": 776,
+    "gift": 771,
     "name": "Scent of Beyond",
     "content": [
       {
@@ -11406,7 +11389,7 @@
     ]
   },
   {
-    "gift": 777,
+    "gift": 772,
     "name": "Scent of Distinction",
     "content": [
       {
@@ -11416,7 +11399,7 @@
     ]
   },
   {
-    "gift": 778,
+    "gift": 773,
     "name": "Scent of Man",
     "content": [
       {
@@ -11426,7 +11409,7 @@
     ]
   },
   {
-    "gift": 779,
+    "gift": 774,
     "name": "Scent of Running Water",
     "content": [
       {
@@ -11452,7 +11435,7 @@
     ]
   },
   {
-    "gift": 780,
+    "gift": 775,
     "name": "Scent of Sight",
     "content": [
       {
@@ -11478,7 +11461,7 @@
     ]
   },
   {
-    "gift": 781,
+    "gift": 776,
     "name": "Scent of Sweet Honey",
     "content": [
       {
@@ -11496,7 +11479,7 @@
     ]
   },
   {
-    "gift": 782,
+    "gift": 777,
     "name": "Scent of the Oathbreaker",
     "content": [
       {
@@ -11506,7 +11489,7 @@
     ]
   },
   {
-    "gift": 783,
+    "gift": 778,
     "name": "Scent of the Honeycomb",
     "content": [
       {
@@ -11516,7 +11499,7 @@
     ]
   },
   {
-    "gift": 784,
+    "gift": 779,
     "name": "Scent of the Man-Eater",
     "content": [
       {
@@ -11526,7 +11509,7 @@
     ]
   },
   {
-    "gift": 785,
+    "gift": 780,
     "name": "Scent of the True Form",
     "content": [
       {
@@ -11552,7 +11535,7 @@
     ]
   },
   {
-    "gift": 786,
+    "gift": 781,
     "name": "Scream of Gaia",
     "content": [
       {
@@ -11570,7 +11553,7 @@
     ]
   },
   {
-    "gift": 787,
+    "gift": 782,
     "name": "Scrying",
     "content": [
       {
@@ -11592,7 +11575,7 @@
     ]
   },
   {
-    "gift": 788,
+    "gift": 783,
     "name": "See Past the Skin",
     "content": [
       {
@@ -11602,7 +11585,7 @@
     ]
   },
   {
-    "gift": 789,
+    "gift": 784,
     "name": "Secrets",
     "content": [
       {
@@ -11616,7 +11599,7 @@
     ]
   },
   {
-    "gift": 790,
+    "gift": 785,
     "name": "Seed of Speech",
     "content": [
       {
@@ -11626,7 +11609,7 @@
     ]
   },
   {
-    "gift": 791,
+    "gift": 786,
     "name": "Seeds of Doubt",
     "content": [
       {
@@ -11640,7 +11623,7 @@
     ]
   },
   {
-    "gift": 792,
+    "gift": 787,
     "name": "Seeking the Void",
     "content": [
       {
@@ -11650,7 +11633,7 @@
     ]
   },
   {
-    "gift": 793,
+    "gift": 788,
     "name": "Seizing the Edge",
     "content": [
       {
@@ -11668,7 +11651,7 @@
     ]
   },
   {
-    "gift": 794,
+    "gift": 789,
     "name": "Semblance",
     "content": [
       {
@@ -11678,7 +11661,7 @@
     ]
   },
   {
-    "gift": 795,
+    "gift": 790,
     "name": "Sense Balance",
     "content": [
       {
@@ -11692,7 +11675,7 @@
     ]
   },
   {
-    "gift": 796,
+    "gift": 791,
     "name": "Sense Chiminage",
     "content": [
       {
@@ -11702,7 +11685,7 @@
     ]
   },
   {
-    "gift": 797,
+    "gift": 792,
     "name": "Sense Fae",
     "content": [
       {
@@ -11712,7 +11695,7 @@
     ]
   },
   {
-    "gift": 798,
+    "gift": 793,
     "name": "Sense Guilt",
     "content": [
       {
@@ -11734,7 +11717,7 @@
     ]
   },
   {
-    "gift": 799,
+    "gift": 794,
     "name": "Sense Magic",
     "content": [
       {
@@ -11752,7 +11735,7 @@
     ]
   },
   {
-    "gift": 800,
+    "gift": 795,
     "name": "Sense Medicine",
     "content": [
       {
@@ -11762,7 +11745,7 @@
     ]
   },
   {
-    "gift": 801,
+    "gift": 796,
     "name": "Sense of the Deep",
     "content": [
       {
@@ -11776,7 +11759,7 @@
     ]
   },
   {
-    "gift": 802,
+    "gift": 797,
     "name": "Sense of the Prey",
     "content": [
       {
@@ -11798,7 +11781,7 @@
     ]
   },
   {
-    "gift": 803,
+    "gift": 798,
     "name": "Sense Prey",
     "content": [
       {
@@ -11816,7 +11799,7 @@
     ]
   },
   {
-    "gift": 804,
+    "gift": 799,
     "name": "Sense Secrets",
     "content": [
       {
@@ -11826,7 +11809,7 @@
     ]
   },
   {
-    "gift": 805,
+    "gift": 800,
     "name": "Sense Silver",
     "content": [
       {
@@ -11852,7 +11835,7 @@
     ]
   },
   {
-    "gift": 806,
+    "gift": 801,
     "name": "Sense the Demonic",
     "content": [
       {
@@ -11862,7 +11845,7 @@
     ]
   },
   {
-    "gift": 807,
+    "gift": 802,
     "name": "Sense the Tunneler’s Passage",
     "content": [
       {
@@ -11872,7 +11855,7 @@
     ]
   },
   {
-    "gift": 808,
+    "gift": 803,
     "name": "Sense the Unnatural",
     "content": [
       {
@@ -11898,7 +11881,7 @@
     ]
   },
   {
-    "gift": 809,
+    "gift": 804,
     "name": "Sense Trauma",
     "content": [
       {
@@ -11908,7 +11891,7 @@
     ]
   },
   {
-    "gift": 810,
+    "gift": 805,
     "name": "Sense Weaver",
     "content": [
       {
@@ -11930,7 +11913,7 @@
     ]
   },
   {
-    "gift": 811,
+    "gift": 806,
     "name": "Sense Wyld",
     "content": [
       {
@@ -11944,7 +11927,7 @@
     ]
   },
   {
-    "gift": 812,
+    "gift": 807,
     "name": "Sense Wyrm",
     "content": [
       {
@@ -11970,7 +11953,7 @@
     ]
   },
   {
-    "gift": 813,
+    "gift": 808,
     "name": "Serenity",
     "content": [
       {
@@ -11988,7 +11971,7 @@
     ]
   },
   {
-    "gift": 814,
+    "gift": 809,
     "name": "Serpent-Driving",
     "content": [
       {
@@ -11998,7 +11981,7 @@
     ]
   },
   {
-    "gift": 815,
+    "gift": 810,
     "name": "Seven Mile Leap",
     "content": [
       {
@@ -12008,7 +11991,7 @@
     ]
   },
   {
-    "gift": 816,
+    "gift": 811,
     "name": "Shadow Cutting",
     "content": [
       {
@@ -12030,7 +12013,7 @@
     ]
   },
   {
-    "gift": 817,
+    "gift": 812,
     "name": "Shadow of the Rat",
     "content": [
       {
@@ -12040,7 +12023,7 @@
     ]
   },
   {
-    "gift": 818,
+    "gift": 813,
     "name": "Shadow Pack",
     "content": [
       {
@@ -12066,7 +12049,7 @@
     ]
   },
   {
-    "gift": 819,
+    "gift": 814,
     "name": "Shadow Weaving",
     "content": [
       {
@@ -12076,7 +12059,7 @@
     ]
   },
   {
-    "gift": 820,
+    "gift": 815,
     "name": "Shadows at Dawn",
     "content": [
       {
@@ -12086,7 +12069,7 @@
     ]
   },
   {
-    "gift": 821,
+    "gift": 816,
     "name": "Shadows of the Impergium",
     "content": [
       {
@@ -12096,7 +12079,7 @@
     ]
   },
   {
-    "gift": 822,
+    "gift": 817,
     "name": "Shadowplay",
     "content": [
       {
@@ -12110,17 +12093,7 @@
     ]
   },
   {
-    "gift": 823,
-    "name": "Shadows by Firelight",
-    "content": [
-      {
-        "type": "text",
-        "value": "The Garou invokes shadows and dreams to set the stage for a play in which other werewolves play a part. The Galliard narrates the tale, and the actors are swept along in the story — willingly or not. This Gift is often used at moots, since it allows many to participate in the retelling of legends. It is also used as an object lesson for the wayward and stubborn. An ancestor-spirit teaches this Gift.\n\nSystem: Use with willing participants requires no rolls or expenditure. To press an unwilling actor into service, the player spends three Gnosis points for the target and rolls Manipulation + Performance (difficulty is the target’s Willpower). Three successes are required to puppet the target through the story. The effects last until the story ends (one scene), or until the actor is attacked."
-      }
-    ]
-  },
-  {
-    "gift": 824,
+    "gift": 818,
     "name": "Shadows by the Fire Light",
     "content": [
       {
@@ -12129,20 +12102,24 @@
       },
       {
         "type": "text",
-        "value": "The Galliard can spin a tale and draw others into it, whether they’re interested or not. This Gift is usually used at moots when telling old stories, allowing the participants to reenact the tales themselves. However, this Gift can also be used on the unwilling, forcing them to participate in a story of the Garou’s choosing. This Gift is taught by an Ancestor-spirit.\n\nSystem: When using this Gift on the unwilling, the player must spend a Gnosis point and score three successes on a Manipulation + Performance roll (difficulty of the target’s Willpower). If successful, the player may tell a story and force the victim to perform exactly as the story’s character does. This effect lasts one turn per Gnosis point spent."
+        "value": "Rank: 4\n\nThe Galliard can spin a tale and draw others into it, whether they’re interested or not. This Gift is usually used at moots when telling old stories, allowing the participants to reenact the tales themselves. However, this Gift can also be used on the unwilling, forcing them to participate in a story of the Garou’s choosing. This Gift is taught by an Ancestor-spirit.\n\nSystem: When using this Gift on the unwilling, the player must spend a Gnosis point and score three successes on a Manipulation + Performance roll (difficulty of the target’s Willpower). If successful, the player may tell a story and force the victim to perform exactly as the story’s character does. This effect lasts one turn per Gnosis point spent."
       },
       {
         "type": "text",
-        "value": "By invoking the power of shadows and dreams, the Galliard may create interactive stories in which others take part — willingly or not. Shadows dance around the participants as they act out their roles (as directed by the Galliard). This Gift is used commonly at moots, allowing Garou to take part in the same legend recounted by the Galliard. However, this Gift can also be used on the unwilling, forcing them to participate in a story the Garou chooses. An ancestor-spirit teaches this Gift.\n\nSystem: When using this Gift on unwilling, the player must spend a variable amount of Gnosis and score three successes on a Manipulation + Performance roll (difficulty of the target’s Willpower). If successful, the player may tell a story to the victim, forcing them to perform each part."
+        "value": "Rank: 4\n\nBy invoking the power of shadows and dreams, the Galliard may create interactive stories in which others take part — willingly or not. Shadows dance around the participants as they act out their roles (as directed by the Galliard). This Gift is used commonly at moots, allowing Garou to take part in the same legend recounted by the Galliard. However, this Gift can also be used on the unwilling, forcing them to participate in a story the Garou chooses. An ancestor-spirit teaches this Gift.\n\nSystem: When using this Gift on unwilling, the player must spend a variable amount of Gnosis and score three successes on a Manipulation + Performance roll (difficulty of the target’s Willpower). If successful, the player may tell a story to the victim, forcing them to perform each part."
       },
       {
         "type": "text",
-        "value": "The Galliard invokes shadows and dreams to set the stage for a play in which other werewolves play a part. The Galliard narrates the tale, and the actors are swept along in the narrative, willing or no. The Gift is often used at moots, since it allows many to participate in the retelling of legends. It is also used as an object lesson for the wayward and stubborn. An ancestor-spirit teaches this Gift.\n\nSystem: To press an unwilling actor into the shadow-play, the player spends one Gnosis point per target and rolls Manipulation + Performance (difficulty equal to the target’s Willpower). The effects last until the story ends (one scene), or until the actor is attacked. Willing participants require no roll or expenditure."
+        "value": "Rank: 4\n\nThe Galliard invokes shadows and dreams to set the stage for a play in which other werewolves play a part. The Galliard narrates the tale, and the actors are swept along in the narrative, willing or no. The Gift is often used at moots, since it allows many to participate in the retelling of legends. It is also used as an object lesson for the wayward and stubborn. An ancestor-spirit teaches this Gift.\n\nSystem: To press an unwilling actor into the shadow-play, the player spends one Gnosis point per target and rolls Manipulation + Performance (difficulty equal to the target’s Willpower). The effects last until the story ends (one scene), or until the actor is attacked. Willing participants require no roll or expenditure."
+      },
+      {
+        "type": "text",
+        "value": "Rank: 3\n\nThe Garou invokes shadows and dreams to set the stage for a play in which other werewolves play a part. The Galliard narrates the tale, and the actors are swept along in the story — willingly or not. This Gift is often used at moots, since it allows many to participate in the retelling of legends. It is also used as an object lesson for the wayward and stubborn. An ancestor-spirit teaches this Gift.\n\nSystem: Use with willing participants requires no rolls or expenditure. To press an unwilling actor into service, the player spends three Gnosis points for the target and rolls Manipulation + Performance (difficulty is the target’s Willpower). Three successes are required to puppet the target through the story. The effects last until the story ends (one scene), or until the actor is attacked."
       }
     ]
   },
   {
-    "gift": 825,
+    "gift": 819,
     "name": "Shake the Earth",
     "content": [
       {
@@ -12152,7 +12129,7 @@
     ]
   },
   {
-    "gift": 826,
+    "gift": 820,
     "name": "Shape Smoke",
     "content": [
       {
@@ -12162,7 +12139,7 @@
     ]
   },
   {
-    "gift": 827,
+    "gift": 821,
     "name": "Share the Wolf’s Skin",
     "content": [
       {
@@ -12176,7 +12153,7 @@
     ]
   },
   {
-    "gift": 828,
+    "gift": 822,
     "name": "Shared Strength",
     "content": [
       {
@@ -12186,7 +12163,7 @@
     ]
   },
   {
-    "gift": 829,
+    "gift": 823,
     "name": "Shatter Bone",
     "content": [
       {
@@ -12231,7 +12208,7 @@
     ]
   },
   {
-    "gift": 830,
+    "gift": 824,
     "name": "Shattering Howl",
     "content": [
       {
@@ -12241,7 +12218,7 @@
     ]
   },
   {
-    "gift": 831,
+    "gift": 825,
     "name": "Shattering Howl",
     "content": [
       {
@@ -12251,7 +12228,7 @@
     ]
   },
   {
-    "gift": 832,
+    "gift": 826,
     "name": "Shed",
     "content": [
       {
@@ -12281,7 +12258,7 @@
     ]
   },
   {
-    "gift": 833,
+    "gift": 827,
     "name": "Shell",
     "content": [
       {
@@ -12295,7 +12272,7 @@
     ]
   },
   {
-    "gift": 834,
+    "gift": 828,
     "name": "Shell Game",
     "content": [
       {
@@ -12305,7 +12282,7 @@
     ]
   },
   {
-    "gift": 835,
+    "gift": 829,
     "name": "Shelter of Needles",
     "content": [
       {
@@ -12315,7 +12292,7 @@
     ]
   },
   {
-    "gift": 836,
+    "gift": 830,
     "name": "Sheng-Nong’s Eyes",
     "content": [
       {
@@ -12329,7 +12306,7 @@
     ]
   },
   {
-    "gift": 837,
+    "gift": 831,
     "name": "Shield of Gaia",
     "content": [
       {
@@ -12343,7 +12320,7 @@
     ]
   },
   {
-    "gift": 838,
+    "gift": 832,
     "name": "Shield of Rage",
     "content": [
       {
@@ -12353,7 +12330,7 @@
     ]
   },
   {
-    "gift": 839,
+    "gift": 833,
     "name": "Shining Sigils",
     "content": [
       {
@@ -12363,7 +12340,7 @@
     ]
   },
   {
-    "gift": 840,
+    "gift": 834,
     "name": "Shroud",
     "content": [
       {
@@ -12385,7 +12362,7 @@
     ]
   },
   {
-    "gift": 841,
+    "gift": 835,
     "name": "Sidestep Death",
     "content": [
       {
@@ -12399,17 +12376,7 @@
     ]
   },
   {
-    "gift": 842,
-    "name": "Sight From Beyond",
-    "content": [
-      {
-        "type": "text",
-        "value": "This is a Gift of prophecy. The werewolf becomes an oracle, prone to dreams and visions which hint at future opportunities, challenges and threats to come. These visions are always veiled in symbolism — an impending war against the local vampires might be presaged by visions of skyscrapers weeping blood from their upper stories, while a death in the sept might be heralded by dreams of a chorus of mournful howls rising to a ghost-pale moon. Owl-spirits teach this Gift.\n\nSystem: Visions are entirely under the Storyteller’s control and are best handled through roleplaying, though a truly stumped player might ask for a Wits + Occult (difficulty 7) roll to help interpret particularly puzzling vision."
-      }
-    ]
-  },
-  {
-    "gift": 843,
+    "gift": 836,
     "name": "Signal Rider",
     "content": [
       {
@@ -12419,7 +12386,7 @@
     ]
   },
   {
-    "gift": 844,
+    "gift": 837,
     "name": "Sideways Attack",
     "content": [
       {
@@ -12429,7 +12396,7 @@
     ]
   },
   {
-    "gift": 845,
+    "gift": 838,
     "name": "Sight from Beyond",
     "content": [
       {
@@ -12447,11 +12414,15 @@
       {
         "type": "text",
         "value": "When danger stalks the Garou, or momentous events are in the offing, visions come to him without warning. When the Storm Eater was freed, Theurges across the land were struck by visions of the sky ripping open; even now, many Crescent Moons hope to gain clues of how to best the great Bane in their dreams. This Gift is taught by a Crow-spirit.\n\nSystem: Interpreting these signs is best handled through roleplaying, but the Storyteller can require the Garou to roll Wits + Occult (difficulty 7) if appropriate. The visions cannot be called; they come only of their own accord."
+      },
+      {
+        "type": "text",
+        "value": "This is a Gift of prophecy. The werewolf becomes an oracle, prone to dreams and visions which hint at future opportunities, challenges and threats to come. These visions are always veiled in symbolism — an impending war against the local vampires might be presaged by visions of skyscrapers weeping blood from their upper stories, while a death in the sept might be heralded by dreams of a chorus of mournful howls rising to a ghost-pale moon. Owl-spirits teach this Gift.\n\nSystem: Visions are entirely under the Storyteller’s control and are best handled through roleplaying, though a truly stumped player might ask for a Wits + Occult (difficulty 7) roll to help interpret particularly puzzling vision."
       }
     ]
   },
   {
-    "gift": 846,
+    "gift": 839,
     "name": "Sight of Hidden Places",
     "content": [
       {
@@ -12461,7 +12432,7 @@
     ]
   },
   {
-    "gift": 847,
+    "gift": 840,
     "name": "Sigurd’s Stride",
     "content": [
       {
@@ -12471,7 +12442,7 @@
     ]
   },
   {
-    "gift": 848,
+    "gift": 841,
     "name": "Silence",
     "content": [
       {
@@ -12485,7 +12456,7 @@
     ]
   },
   {
-    "gift": 849,
+    "gift": 842,
     "name": "Silence the Weaver",
     "content": [
       {
@@ -12495,7 +12466,7 @@
     ]
   },
   {
-    "gift": 850,
+    "gift": 843,
     "name": "Silence",
     "content": [
       {
@@ -12505,7 +12476,7 @@
     ]
   },
   {
-    "gift": 851,
+    "gift": 844,
     "name": "Silence the Slain",
     "content": [
       {
@@ -12515,7 +12486,7 @@
     ]
   },
   {
-    "gift": 852,
+    "gift": 845,
     "name": "Silver Bullets",
     "content": [
       {
@@ -12525,7 +12496,7 @@
     ]
   },
   {
-    "gift": 853,
+    "gift": 846,
     "name": "Silver Claws",
     "content": [
       {
@@ -12551,7 +12522,7 @@
     ]
   },
   {
-    "gift": 854,
+    "gift": 847,
     "name": "Silver Reprisal",
     "content": [
       {
@@ -12561,7 +12532,7 @@
     ]
   },
   {
-    "gift": 855,
+    "gift": 848,
     "name": "Singing Dog’s Cry",
     "content": [
       {
@@ -12571,7 +12542,7 @@
     ]
   },
   {
-    "gift": 856,
+    "gift": 849,
     "name": "Sing Down the Rain",
     "content": [
       {
@@ -12585,7 +12556,7 @@
     ]
   },
   {
-    "gift": 857,
+    "gift": 850,
     "name": "Sing the Spirits",
     "content": [
       {
@@ -12595,7 +12566,7 @@
     ]
   },
   {
-    "gift": 858,
+    "gift": 851,
     "name": "Singleness of Purpose",
     "content": [
       {
@@ -12605,7 +12576,7 @@
     ]
   },
   {
-    "gift": 859,
+    "gift": 852,
     "name": "Skinglide",
     "content": [
       {
@@ -12615,7 +12586,7 @@
     ]
   },
   {
-    "gift": 860,
+    "gift": 853,
     "name": "Sky Running",
     "content": [
       {
@@ -12633,7 +12604,7 @@
     ]
   },
   {
-    "gift": 861,
+    "gift": 854,
     "name": "Skyscraper Vision",
     "content": [
       {
@@ -12643,7 +12614,7 @@
     ]
   },
   {
-    "gift": 862,
+    "gift": 855,
     "name": "Sleep of the Hero",
     "content": [
       {
@@ -12653,7 +12624,7 @@
     ]
   },
   {
-    "gift": 863,
+    "gift": 856,
     "name": "Slip of the Tongue",
     "content": [
       {
@@ -12663,7 +12634,7 @@
     ]
   },
   {
-    "gift": 864,
+    "gift": 857,
     "name": "Smell Fear",
     "content": [
       {
@@ -12681,7 +12652,7 @@
     ]
   },
   {
-    "gift": 865,
+    "gift": 858,
     "name": "Smell of Man",
     "content": [
       {
@@ -12699,7 +12670,7 @@
     ]
   },
   {
-    "gift": 866,
+    "gift": 859,
     "name": "Smell of Success",
     "content": [
       {
@@ -12709,7 +12680,7 @@
     ]
   },
   {
-    "gift": 867,
+    "gift": 860,
     "name": "Smoke Signals",
     "content": [
       {
@@ -12719,7 +12690,7 @@
     ]
   },
   {
-    "gift": 868,
+    "gift": 861,
     "name": "Snap Man’s Chains",
     "content": [
       {
@@ -12733,7 +12704,7 @@
     ]
   },
   {
-    "gift": 869,
+    "gift": 862,
     "name": "Snarl of the Predator",
     "content": [
       {
@@ -12751,7 +12722,7 @@
     ]
   },
   {
-    "gift": 870,
+    "gift": 863,
     "name": "Social Butterfly",
     "content": [
       {
@@ -12761,7 +12732,7 @@
     ]
   },
   {
-    "gift": 871,
+    "gift": 864,
     "name": "Song of Heroes",
     "content": [
       {
@@ -12771,7 +12742,7 @@
     ]
   },
   {
-    "gift": 872,
+    "gift": 865,
     "name": "Snow Running",
     "content": [
       {
@@ -12781,7 +12752,7 @@
     ]
   },
   {
-    "gift": 873,
+    "gift": 866,
     "name": "Snow Running",
     "content": [
       {
@@ -12791,7 +12762,7 @@
     ]
   },
   {
-    "gift": 874,
+    "gift": 867,
     "name": "Snow Sight",
     "content": [
       {
@@ -12801,7 +12772,7 @@
     ]
   },
   {
-    "gift": 875,
+    "gift": 868,
     "name": "Song of Mockery",
     "content": [
       {
@@ -12811,7 +12782,7 @@
     ]
   },
   {
-    "gift": 876,
+    "gift": 869,
     "name": "Song of Rage",
     "content": [
       {
@@ -12837,7 +12808,7 @@
     ]
   },
   {
-    "gift": 877,
+    "gift": 870,
     "name": "Song of the City-Beast",
     "content": [
       {
@@ -12847,7 +12818,7 @@
     ]
   },
   {
-    "gift": 878,
+    "gift": 871,
     "name": "Song of the Dire",
     "content": [
       {
@@ -12861,7 +12832,7 @@
     ]
   },
   {
-    "gift": 879,
+    "gift": 872,
     "name": "Song of the Earth Mother",
     "content": [
       {
@@ -12875,7 +12846,7 @@
     ]
   },
   {
-    "gift": 880,
+    "gift": 873,
     "name": "Song of the Great Beast",
     "content": [
       {
@@ -12901,7 +12872,7 @@
     ]
   },
   {
-    "gift": 881,
+    "gift": 874,
     "name": "Song of the Seasons",
     "content": [
       {
@@ -12915,7 +12886,7 @@
     ]
   },
   {
-    "gift": 882,
+    "gift": 875,
     "name": "Song of the Siren",
     "content": [
       {
@@ -12933,7 +12904,7 @@
     ]
   },
   {
-    "gift": 883,
+    "gift": 876,
     "name": "Song of the Storm",
     "content": [
       {
@@ -12947,7 +12918,7 @@
     ]
   },
   {
-    "gift": 884,
+    "gift": 877,
     "name": "Soothe the Savage Beast",
     "content": [
       {
@@ -12957,7 +12928,7 @@
     ]
   },
   {
-    "gift": 885,
+    "gift": 878,
     "name": "Soul’s Guilt",
     "content": [
       {
@@ -12967,7 +12938,7 @@
     ]
   },
   {
-    "gift": 886,
+    "gift": 879,
     "name": "Sound of Suffering",
     "content": [
       {
@@ -12977,7 +12948,7 @@
     ]
   },
   {
-    "gift": 887,
+    "gift": 880,
     "name": "Speak with the Wind Spirits",
     "content": [
       {
@@ -12995,7 +12966,7 @@
     ]
   },
   {
-    "gift": 888,
+    "gift": 881,
     "name": "Spear Dancing",
     "content": [
       {
@@ -13005,7 +12976,7 @@
     ]
   },
   {
-    "gift": 889,
+    "gift": 882,
     "name": "Speech of the World",
     "content": [
       {
@@ -13019,7 +12990,7 @@
     ]
   },
   {
-    "gift": 890,
+    "gift": 883,
     "name": "Speed Beyond Thought",
     "content": [
       {
@@ -13041,7 +13012,7 @@
     ]
   },
   {
-    "gift": 891,
+    "gift": 884,
     "name": "Speed of Thought",
     "content": [
       {
@@ -13067,7 +13038,7 @@
     ]
   },
   {
-    "gift": 892,
+    "gift": 885,
     "name": "Spellbinding Oration",
     "content": [
       {
@@ -13077,7 +13048,7 @@
     ]
   },
   {
-    "gift": 893,
+    "gift": 886,
     "name": "Spider’s Song",
     "content": [
       {
@@ -13095,7 +13066,7 @@
     ]
   },
   {
-    "gift": 894,
+    "gift": 887,
     "name": "Spiral-Shadow Dance",
     "content": [
       {
@@ -13105,7 +13076,7 @@
     ]
   },
   {
-    "gift": 895,
+    "gift": 888,
     "name": "Spirit Blossom",
     "content": [
       {
@@ -13115,7 +13086,7 @@
     ]
   },
   {
-    "gift": 896,
+    "gift": 889,
     "name": "Spirit Brand",
     "content": [
       {
@@ -13125,7 +13096,7 @@
     ]
   },
   {
-    "gift": 897,
+    "gift": 890,
     "name": "Spirit Drain",
     "content": [
       {
@@ -13147,7 +13118,7 @@
     ]
   },
   {
-    "gift": 898,
+    "gift": 891,
     "name": "Spirit Friend",
     "content": [
       {
@@ -13173,7 +13144,7 @@
     ]
   },
   {
-    "gift": 899,
+    "gift": 892,
     "name": "Spirit Knife",
     "content": [
       {
@@ -13183,7 +13154,7 @@
     ]
   },
   {
-    "gift": 900,
+    "gift": 893,
     "name": "Spirit Loan",
     "content": [
       {
@@ -13193,7 +13164,7 @@
     ]
   },
   {
-    "gift": 901,
+    "gift": 894,
     "name": "Spirit of the Bird",
     "content": [
       {
@@ -13211,7 +13182,7 @@
     ]
   },
   {
-    "gift": 902,
+    "gift": 895,
     "name": "Spirit of the Fish",
     "content": [
       {
@@ -13229,7 +13200,7 @@
     ]
   },
   {
-    "gift": 903,
+    "gift": 896,
     "name": "Spirit of the Fray",
     "content": [
       {
@@ -13255,7 +13226,7 @@
     ]
   },
   {
-    "gift": 904,
+    "gift": 897,
     "name": "Spirit of the Lizard",
     "content": [
       {
@@ -13265,7 +13236,7 @@
     ]
   },
   {
-    "gift": 905,
+    "gift": 898,
     "name": "Spirit Snare",
     "content": [
       {
@@ -13275,7 +13246,7 @@
     ]
   },
   {
-    "gift": 906,
+    "gift": 899,
     "name": "Spirit Path",
     "content": [
       {
@@ -13285,7 +13256,7 @@
     ]
   },
   {
-    "gift": 907,
+    "gift": 900,
     "name": "Spirit Ripper",
     "content": [
       {
@@ -13295,7 +13266,7 @@
     ]
   },
   {
-    "gift": 908,
+    "gift": 901,
     "name": "Spirit Savage",
     "content": [
       {
@@ -13305,7 +13276,7 @@
     ]
   },
   {
-    "gift": 909,
+    "gift": 902,
     "name": "Spirit Skin",
     "content": [
       {
@@ -13315,7 +13286,7 @@
     ]
   },
   {
-    "gift": 910,
+    "gift": 903,
     "name": "Spirit Smuggler",
     "content": [
       {
@@ -13325,7 +13296,7 @@
     ]
   },
   {
-    "gift": 911,
+    "gift": 904,
     "name": "Spirit Speech",
     "content": [
       {
@@ -13351,7 +13322,7 @@
     ]
   },
   {
-    "gift": 912,
+    "gift": 905,
     "name": "Spirit Vessel",
     "content": [
       {
@@ -13369,7 +13340,7 @@
     ]
   },
   {
-    "gift": 913,
+    "gift": 906,
     "name": "Spirit Ward",
     "content": [
       {
@@ -13395,7 +13366,7 @@
     ]
   },
   {
-    "gift": 914,
+    "gift": 907,
     "name": "Spirit Witness",
     "content": [
       {
@@ -13405,7 +13376,7 @@
     ]
   },
   {
-    "gift": 915,
+    "gift": 908,
     "name": "Spirits of Decay",
     "content": [
       {
@@ -13456,7 +13427,7 @@
     ]
   },
   {
-    "gift": 916,
+    "gift": 909,
     "name": "Spiritual Wrath",
     "content": [
       {
@@ -13466,7 +13437,7 @@
     ]
   },
   {
-    "gift": 917,
+    "gift": 910,
     "name": "Spirit’s Horse",
     "content": [
       {
@@ -13480,7 +13451,7 @@
     ]
   },
   {
-    "gift": 918,
+    "gift": 911,
     "name": "Splintered Claw",
     "content": [
       {
@@ -13490,7 +13461,7 @@
     ]
   },
   {
-    "gift": 919,
+    "gift": 912,
     "name": "Sprint in Shadow",
     "content": [
       {
@@ -13500,7 +13471,7 @@
     ]
   },
   {
-    "gift": 920,
+    "gift": 913,
     "name": "Spur Claws",
     "content": [
       {
@@ -13514,7 +13485,7 @@
     ]
   },
   {
-    "gift": 921,
+    "gift": 914,
     "name": "St. Herve’s Folly",
     "content": [
       {
@@ -13524,7 +13495,7 @@
     ]
   },
   {
-    "gift": 922,
+    "gift": 915,
     "name": "Staredown",
     "content": [
       {
@@ -13550,7 +13521,7 @@
     ]
   },
   {
-    "gift": 923,
+    "gift": 916,
     "name": "Steadfast",
     "content": [
       {
@@ -13560,7 +13531,7 @@
     ]
   },
   {
-    "gift": 924,
+    "gift": 917,
     "name": "Steal Spirit",
     "content": [
       {
@@ -13570,7 +13541,7 @@
     ]
   },
   {
-    "gift": 925,
+    "gift": 918,
     "name": "Steel Blowfish",
     "content": [
       {
@@ -13580,7 +13551,7 @@
     ]
   },
   {
-    "gift": 926,
+    "gift": 919,
     "name": "Steel Fur",
     "content": [
       {
@@ -13602,7 +13573,7 @@
     ]
   },
   {
-    "gift": 927,
+    "gift": 920,
     "name": "Stoat’s Guise",
     "content": [
       {
@@ -13612,7 +13583,7 @@
     ]
   },
   {
-    "gift": 928,
+    "gift": 921,
     "name": "Steel Made Flesh",
     "content": [
       {
@@ -13622,7 +13593,7 @@
     ]
   },
   {
-    "gift": 929,
+    "gift": 922,
     "name": "Stench and the City",
     "content": [
       {
@@ -13632,7 +13603,7 @@
     ]
   },
   {
-    "gift": 930,
+    "gift": 923,
     "name": "Stench of the Peasant",
     "content": [
       {
@@ -13642,7 +13613,7 @@
     ]
   },
   {
-    "gift": 931,
+    "gift": 924,
     "name": "Stinging Blows",
     "content": [
       {
@@ -13652,7 +13623,7 @@
     ]
   },
   {
-    "gift": 932,
+    "gift": 925,
     "name": "Stoking Fury’s Furnace",
     "content": [
       {
@@ -13678,7 +13649,7 @@
     ]
   },
   {
-    "gift": 933,
+    "gift": 926,
     "name": "Stolen Hide",
     "content": [
       {
@@ -13688,7 +13659,7 @@
     ]
   },
   {
-    "gift": 934,
+    "gift": 927,
     "name": "Stone Soup",
     "content": [
       {
@@ -13698,7 +13669,7 @@
     ]
   },
   {
-    "gift": 935,
+    "gift": 928,
     "name": "Stone-Throwing Devil",
     "content": [
       {
@@ -13708,7 +13679,7 @@
     ]
   },
   {
-    "gift": 936,
+    "gift": 929,
     "name": "Storm of Mother’s Wrath",
     "content": [
       {
@@ -13718,7 +13689,7 @@
     ]
   },
   {
-    "gift": 937,
+    "gift": 930,
     "name": "Storm Winds Slash",
     "content": [
       {
@@ -13736,7 +13707,7 @@
     ]
   },
   {
-    "gift": 938,
+    "gift": 931,
     "name": "Storyteller",
     "content": [
       {
@@ -13746,7 +13717,7 @@
     ]
   },
   {
-    "gift": 939,
+    "gift": 932,
     "name": "Strange Rain",
     "content": [
       {
@@ -13756,7 +13727,7 @@
     ]
   },
   {
-    "gift": 940,
+    "gift": 933,
     "name": "Streets Tell Stories",
     "content": [
       {
@@ -13766,7 +13737,7 @@
     ]
   },
   {
-    "gift": 941,
+    "gift": 934,
     "name": "Strength of Gaia",
     "content": [
       {
@@ -13780,7 +13751,7 @@
     ]
   },
   {
-    "gift": 942,
+    "gift": 935,
     "name": "Strength of Pine",
     "content": [
       {
@@ -13790,7 +13761,7 @@
     ]
   },
   {
-    "gift": 943,
+    "gift": 936,
     "name": "Strength of Purpose",
     "content": [
       {
@@ -13812,7 +13783,7 @@
     ]
   },
   {
-    "gift": 944,
+    "gift": 937,
     "name": "Strength of the Ancestors",
     "content": [
       {
@@ -13822,7 +13793,7 @@
     ]
   },
   {
-    "gift": 945,
+    "gift": 938,
     "name": "Strength of the Dominator",
     "content": [
       {
@@ -13848,7 +13819,7 @@
     ]
   },
   {
-    "gift": 946,
+    "gift": 939,
     "name": "Strength of the Einherjar",
     "content": [
       {
@@ -13858,7 +13829,7 @@
     ]
   },
   {
-    "gift": 947,
+    "gift": 940,
     "name": "Strength of the Guardian",
     "content": [
       {
@@ -13868,7 +13839,7 @@
     ]
   },
   {
-    "gift": 948,
+    "gift": 941,
     "name": "Strength of the Pack",
     "content": [
       {
@@ -13878,7 +13849,7 @@
     ]
   },
   {
-    "gift": 949,
+    "gift": 942,
     "name": "Strength of Vision",
     "content": [
       {
@@ -13888,7 +13859,7 @@
     ]
   },
   {
-    "gift": 950,
+    "gift": 943,
     "name": "Strength of Will",
     "content": [
       {
@@ -13914,7 +13885,7 @@
     ]
   },
   {
-    "gift": 951,
+    "gift": 944,
     "name": "Strength Without Limit",
     "content": [
       {
@@ -13924,7 +13895,7 @@
     ]
   },
   {
-    "gift": 952,
+    "gift": 945,
     "name": "Strike the Air",
     "content": [
       {
@@ -13938,7 +13909,7 @@
     ]
   },
   {
-    "gift": 953,
+    "gift": 946,
     "name": "Stronger on Stone",
     "content": [
       {
@@ -13952,7 +13923,7 @@
     ]
   },
   {
-    "gift": 954,
+    "gift": 947,
     "name": "Submit",
     "content": [
       {
@@ -13962,7 +13933,7 @@
     ]
   },
   {
-    "gift": 955,
+    "gift": 948,
     "name": "Strut",
     "content": [
       {
@@ -13972,7 +13943,7 @@
     ]
   },
   {
-    "gift": 956,
+    "gift": 949,
     "name": "Summon Net-Spider",
     "content": [
       {
@@ -13990,7 +13961,7 @@
     ]
   },
   {
-    "gift": 957,
+    "gift": 950,
     "name": "Summon Wyrm Elemental",
     "content": [
       {
@@ -14000,7 +13971,7 @@
     ]
   },
   {
-    "gift": 958,
+    "gift": 951,
     "name": "Summon Stormcrow",
     "content": [
       {
@@ -14018,7 +13989,7 @@
     ]
   },
   {
-    "gift": 959,
+    "gift": 952,
     "name": "Summon Talisman",
     "content": [
       {
@@ -14040,7 +14011,7 @@
     ]
   },
   {
-    "gift": 960,
+    "gift": 953,
     "name": "Summon the Chu-Mong",
     "content": [
       {
@@ -14087,7 +14058,7 @@
     ]
   },
   {
-    "gift": 961,
+    "gift": 954,
     "name": "Sun Dance",
     "content": [
       {
@@ -14097,18 +14068,8 @@
     ]
   },
   {
-    "gift": 962,
+    "gift": 955,
     "name": "Surface Attachment",
-    "content": [
-      {
-        "type": "text",
-        "value": "as the Stargazer Gift."
-      }
-    ]
-  },
-  {
-    "gift": 963,
-    "name": "Surface Attunement",
     "content": [
       {
         "type": "text",
@@ -14125,7 +14086,7 @@
     ]
   },
   {
-    "gift": 964,
+    "gift": 956,
     "name": "Survivor",
     "content": [
       {
@@ -14147,7 +14108,7 @@
     ]
   },
   {
-    "gift": 965,
+    "gift": 957,
     "name": "Swallow Rage",
     "content": [
       {
@@ -14157,7 +14118,7 @@
     ]
   },
   {
-    "gift": 966,
+    "gift": 958,
     "name": "Tagalong",
     "content": [
       {
@@ -14167,17 +14128,25 @@
     ]
   },
   {
-    "gift": 967,
+    "gift": 959,
     "name": "Tail of the Monkey",
     "content": [
       {
         "type": "text",
         "value": "The Garou has a prehensile tail. This tail cannot perform fine manipulation tasks, but it can wrap around a tree branch and allow the Garou to hang (if her Strength equals or exceeds her Stamina) or it can be used to hit an opponent in combat, in which case it is difficulty eight to hit and Strength -1 for damage. A roll of Dexterity + Athletics must be made for most uses except combat, in which case Brawl is substituted for Athletics."
+      },
+      {
+        "type": "text",
+        "value": "Although the lupus’ tail retains the appearance of a regular wolf’s tail, it gains far more agility and flexibility. Although incapable of fine manipulation, the tail can grasp objects, wrap around branches or allow the Garou to hang upside down. The tail can also attack from an unexpected direction. A Monkey-spirit must be persuaded to teach a Garou this Gift.\n\nSystem: After learning the Gift, the Garou’s tail automatically becomes prehensile whenever she likes. In order to manipulate the tail successfully, the player must make a Dexterity + Athletics roll (difficulty 6). The difficulty can increase for very delicate operations.\n\nIf the Garou’s Strength exceeds her Stamina, she can use the tail to hang or swing. When attempting to lift objects with her tail, the Garou’s Strength rating is halved. If used as an attack, the tail’s damage is Strength +1."
+      },
+      {
+        "type": "text",
+        "value": "The lupus may lengthen her tail and use it as a prehensile appendage at will. Although it’s no replacement for a hand, it can grasp objects, wrap around branches, and even allow the Garou to hang upside-down. A monkey-spirit teaches this Gift.\n\nSystem: The Gift may employ her prehensile tail at will in any form which possesses a tail. Successfully manipulating the tail requires a Dexterity + Athletics roll (difficulty varies according to the task)."
       }
     ]
   },
   {
-    "gift": 968,
+    "gift": 960,
     "name": "Take the True Form",
     "content": [
       {
@@ -14199,7 +14168,7 @@
     ]
   },
   {
-    "gift": 969,
+    "gift": 961,
     "name": "Takeover",
     "content": [
       {
@@ -14209,7 +14178,7 @@
     ]
   },
   {
-    "gift": 970,
+    "gift": 962,
     "name": "Taking the Forgotten",
     "content": [
       {
@@ -14227,17 +14196,7 @@
     ]
   },
   {
-    "gift": 971,
-    "name": "Talons of the Falcon",
-    "content": [
-      {
-        "type": "text",
-        "value": "The Silver Fang’s claws transform into impaling weapons, allowing her to cut muscle, bone, and sinew as though they were paper. A falcon-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and makes a Dexterity + Brawl roll to attack. The attack does three additional levels of damage, and its damage may not be regenerated for the rest of the scene."
-      }
-    ]
-  },
-  {
-    "gift": 972,
+    "gift": 963,
     "name": "Tar Shadow",
     "content": [
       {
@@ -14247,7 +14206,7 @@
     ]
   },
   {
-    "gift": 973,
+    "gift": 964,
     "name": "Talons of Falcon",
     "content": [
       {
@@ -14257,11 +14216,15 @@
       {
         "type": "text",
         "value": "This deadly Gift turns the Garou’s claws into playing weapons, allowing her to cut muscle, bone and sinew as if it were paper. Combined with the Gift: Razor Claws, this is a truly devastating attack. A falcon of the Great Flock teaches this Gift.\n\nSystem: The player spends one Gnosis point and makes a usual Dexterity + Brawl roll to attack. The Garou makes a screeching sound like that of a bird of prey as she strikes. The attack does Strength +3 damage and healing powers (such as Mother’s Touch) are at +1 difficulty to treat the wound."
+      },
+      {
+        "type": "text",
+        "value": "The Silver Fang’s claws transform into impaling weapons, allowing her to cut muscle, bone, and sinew as though they were paper. A falcon-spirit teaches this Gift.\n\nSystem: The player spends one Gnosis point and makes a Dexterity + Brawl roll to attack. The attack does three additional levels of damage, and its damage may not be regenerated for the rest of the scene."
       }
     ]
   },
   {
-    "gift": 974,
+    "gift": 965,
     "name": "Tech Speak",
     "content": [
       {
@@ -14279,7 +14242,7 @@
     ]
   },
   {
-    "gift": 975,
+    "gift": 966,
     "name": "Techgnosis",
     "content": [
       {
@@ -14289,7 +14252,7 @@
     ]
   },
   {
-    "gift": 976,
+    "gift": 967,
     "name": "Tenacious Fury",
     "content": [
       {
@@ -14299,7 +14262,7 @@
     ]
   },
   {
-    "gift": 977,
+    "gift": 968,
     "name": "Technocratic Apocalyptica",
     "content": [
       {
@@ -14309,7 +14272,7 @@
     ]
   },
   {
-    "gift": 978,
+    "gift": 969,
     "name": "Terrify",
     "content": [
       {
@@ -14319,7 +14282,7 @@
     ]
   },
   {
-    "gift": 979,
+    "gift": 970,
     "name": "Terrain Shift",
     "content": [
       {
@@ -14329,7 +14292,7 @@
     ]
   },
   {
-    "gift": 980,
+    "gift": 971,
     "name": "Territory",
     "content": [
       {
@@ -14343,7 +14306,7 @@
     ]
   },
   {
-    "gift": 981,
+    "gift": 972,
     "name": "Terror of the Dire Wolf",
     "content": [
       {
@@ -14353,7 +14316,7 @@
     ]
   },
   {
-    "gift": 982,
+    "gift": 973,
     "name": "The Cleaving Hoof",
     "content": [
       {
@@ -14363,7 +14326,7 @@
     ]
   },
   {
-    "gift": 983,
+    "gift": 974,
     "name": "The Crawling Hand",
     "content": [
       {
@@ -14373,7 +14336,7 @@
     ]
   },
   {
-    "gift": 984,
+    "gift": 975,
     "name": "The Falling Touch",
     "content": [
       {
@@ -14383,7 +14346,7 @@
     ]
   },
   {
-    "gift": 985,
+    "gift": 976,
     "name": "The Freezing Night",
     "content": [
       {
@@ -14393,7 +14356,7 @@
     ]
   },
   {
-    "gift": 986,
+    "gift": 977,
     "name": "The Good Death",
     "content": [
       {
@@ -14403,7 +14366,7 @@
     ]
   },
   {
-    "gift": 987,
+    "gift": 978,
     "name": "The Great Leap",
     "content": [
       {
@@ -14413,7 +14376,7 @@
     ]
   },
   {
-    "gift": 988,
+    "gift": 979,
     "name": "The Hungry Hound",
     "content": [
       {
@@ -14423,7 +14386,7 @@
     ]
   },
   {
-    "gift": 989,
+    "gift": 980,
     "name": "The Living Wood",
     "content": [
       {
@@ -14445,7 +14408,7 @@
     ]
   },
   {
-    "gift": 990,
+    "gift": 981,
     "name": "The Malleable Spirit",
     "content": [
       {
@@ -14476,7 +14439,7 @@
     ]
   },
   {
-    "gift": 991,
+    "gift": 982,
     "name": "The Mark",
     "content": [
       {
@@ -14486,7 +14449,7 @@
     ]
   },
   {
-    "gift": 992,
+    "gift": 983,
     "name": "The Secret of Gaia",
     "content": [
       {
@@ -14500,7 +14463,7 @@
     ]
   },
   {
-    "gift": 993,
+    "gift": 984,
     "name": "The Silken Cloth",
     "content": [
       {
@@ -14510,7 +14473,7 @@
     ]
   },
   {
-    "gift": 994,
+    "gift": 985,
     "name": "The Spirits’ Displeasure",
     "content": [
       {
@@ -14520,7 +14483,7 @@
     ]
   },
   {
-    "gift": 995,
+    "gift": 986,
     "name": "The Teacher’s Ease",
     "content": [
       {
@@ -14530,7 +14493,7 @@
     ]
   },
   {
-    "gift": 996,
+    "gift": 987,
     "name": "The Thousand Forms",
     "content": [
       {
@@ -14540,7 +14503,7 @@
     ]
   },
   {
-    "gift": 997,
+    "gift": 988,
     "name": "The Usual Suspects",
     "content": [
       {
@@ -14550,7 +14513,7 @@
     ]
   },
   {
-    "gift": 998,
+    "gift": 989,
     "name": "Thieving Talons",
     "content": [
       {
@@ -14560,7 +14523,7 @@
     ]
   },
   {
-    "gift": 999,
+    "gift": 990,
     "name": "Thieving Talons of the Magpie",
     "content": [
       {
@@ -14582,7 +14545,7 @@
     ]
   },
   {
-    "gift": 1000,
+    "gift": 991,
     "name": "Thought-Form of the Twelve Ministers",
     "content": [
       {
@@ -14592,7 +14555,7 @@
     ]
   },
   {
-    "gift": 1001,
+    "gift": 992,
     "name": "Thousand Forms",
     "content": [
       {
@@ -14606,7 +14569,7 @@
     ]
   },
   {
-    "gift": 1002,
+    "gift": 993,
     "name": "Thousand Teeth",
     "content": [
       {
@@ -14616,7 +14579,7 @@
     ]
   },
   {
-    "gift": 1003,
+    "gift": 994,
     "name": "Threads of the Weaver",
     "content": [
       {
@@ -14630,7 +14593,7 @@
     ]
   },
   {
-    "gift": 1004,
+    "gift": 995,
     "name": "Tinker’s Touch",
     "content": [
       {
@@ -14640,7 +14603,7 @@
     ]
   },
   {
-    "gift": 1005,
+    "gift": 996,
     "name": "Tireless Running",
     "content": [
       {
@@ -14650,7 +14613,7 @@
     ]
   },
   {
-    "gift": 1006,
+    "gift": 997,
     "name": "Tommy’s New Trick",
     "content": [
       {
@@ -14660,7 +14623,7 @@
     ]
   },
   {
-    "gift": 1007,
+    "gift": 998,
     "name": "Tongues",
     "content": [
       {
@@ -14682,7 +14645,7 @@
     ]
   },
   {
-    "gift": 1008,
+    "gift": 999,
     "name": "Tornado Rider",
     "content": [
       {
@@ -14696,17 +14659,21 @@
     ]
   },
   {
-    "gift": 1009,
+    "gift": 1000,
     "name": "Totem Form",
     "content": [
       {
         "type": "text",
         "value": "This powerful Gift allows a Black Spiral to take on the appearance — and much of the power — of her pack’s Bane totem. For instance, a Dancer sworn to the Dark Fungus might sprout slime molds and pustules in place of fur, radiating a cloud of hallucinogenic spores, while a bastard of the Green Dragon might swell into a draconian war form the equal of any Mokole.\n\nThis Gift is only taught by the pack’s totem spirit, and only to the Dancer who shows the most promise. Some packmates have been known to horribly maim one another in the process of proving who is worthy to learn this Gift.\n\nSystem: The Dancer must spend a point of Willpower and roll Stamina + Primal-Urge (difficulty 7) to make the shift. It takes a full turn to transform, although the form lasts for the duration of the scene. The Storyteller must best adjudicate the appearance and abilities of the totem form; for instance, one of Hakken’s bastards might radiate fear so intense that opponents must make Willpower rolls just to act against him, much less confront him. The results, of course, should always be impressive."
+      },
+      {
+        "type": "text",
+        "value": "This Gift allows a Black Spiral to take on the appearance of his pack’s Bane-totem. The Garou has all the powers of the Bane-totem, and the Garou even changes in appearance to look exactly like the Bane. The powers and limitations placed on the Black Spiral vary greatly, so it is up to the Storyteller to specify the exact effects of this Gift. It costs one point of Willpower and it requires a transformation roll as if the Garou were changing into another Garou form (Stamina + Primal-Urge, difficulty 7). It takes six seconds to make the shift."
       }
     ]
   },
   {
-    "gift": 1010,
+    "gift": 1001,
     "name": "Totem Gift",
     "content": [
       {
@@ -14732,17 +14699,7 @@
     ]
   },
   {
-    "gift": 1011,
-    "name": "Totem-form",
-    "content": [
-      {
-        "type": "text",
-        "value": "This Gift allows a Black Spiral to take on the appearance of his pack’s Bane-totem. The Garou has all the powers of the Bane-totem, and the Garou even changes in appearance to look exactly like the Bane. The powers and limitations placed on the Black Spiral vary greatly, so it is up to the Storyteller to specify the exact effects of this Gift. It costs one point of Willpower and it requires a transformation roll as if the Garou were changing into another Garou form (Stamina + Primal-Urge, difficulty 7). It takes six seconds to make the shift."
-      }
-    ]
-  },
-  {
-    "gift": 1012,
+    "gift": 1002,
     "name": "Touch of Death",
     "content": [
       {
@@ -14764,7 +14721,7 @@
     ]
   },
   {
-    "gift": 1013,
+    "gift": 1003,
     "name": "Touch of Rage",
     "content": [
       {
@@ -14774,7 +14731,7 @@
     ]
   },
   {
-    "gift": 1014,
+    "gift": 1004,
     "name": "Touch of the Eel",
     "content": [
       {
@@ -14792,7 +14749,7 @@
     ]
   },
   {
-    "gift": 1015,
+    "gift": 1005,
     "name": "Touch of the Muse",
     "content": [
       {
@@ -14802,7 +14759,7 @@
     ]
   },
   {
-    "gift": 1016,
+    "gift": 1006,
     "name": "Tourniquet",
     "content": [
       {
@@ -14812,7 +14769,7 @@
     ]
   },
   {
-    "gift": 1017,
+    "gift": 1007,
     "name": "Toxic Claws",
     "content": [
       {
@@ -14822,7 +14779,7 @@
     ]
   },
   {
-    "gift": 1018,
+    "gift": 1008,
     "name": "Trackless Waste",
     "content": [
       {
@@ -14848,7 +14805,7 @@
     ]
   },
   {
-    "gift": 1019,
+    "gift": 1009,
     "name": "Trash is Treasure",
     "content": [
       {
@@ -14858,7 +14815,7 @@
     ]
   },
   {
-    "gift": 1020,
+    "gift": 1010,
     "name": "Tractor Beam",
     "content": [
       {
@@ -14868,7 +14825,7 @@
     ]
   },
   {
-    "gift": 1021,
+    "gift": 1011,
     "name": "Trail of Pain",
     "content": [
       {
@@ -14882,7 +14839,7 @@
     ]
   },
   {
-    "gift": 1022,
+    "gift": 1012,
     "name": "Trailblazer",
     "content": [
       {
@@ -14892,7 +14849,7 @@
     ]
   },
   {
-    "gift": 1023,
+    "gift": 1013,
     "name": "Trash Magnet",
     "content": [
       {
@@ -14910,7 +14867,7 @@
     ]
   },
   {
-    "gift": 1024,
+    "gift": 1014,
     "name": "Tread Sebek’s Back",
     "content": [
       {
@@ -14928,7 +14885,7 @@
     ]
   },
   {
-    "gift": 1025,
+    "gift": 1015,
     "name": "Trick Shot",
     "content": [
       {
@@ -14938,13 +14895,7 @@
       {
         "type": "text",
         "value": "This Gift allows the Garou to execute brilliant feats of sharpshooting, such as shooting a weapon from an opponent’s hand or firing down the barrel of an enemy’s gun. The Garou cannot use this Gift to harm an opponent directly, however, and can use Trick Shot only with rifles or pistols. Air-spirits teach this Gift.\n\nSystem: As a permanent enhancement, the player adds his character’s permanent Glory rating to his dice pool when performing a really outlandish shooting trick. Again, the Gift does not allow direct damage to targets (“I’ll shoot the armored fomor through the eye!”), but can be used to injure opponents indirectly (“I’ll shoot the blacked-out window behind the vampire so the sunlight hits him!”)."
-      }
-    ]
-  },
-  {
-    "gift": 1026,
-    "name": "Trick Shot",
-    "content": [
+      },
       {
         "type": "text",
         "value": "With this Gift, the Garou need not know the meaning of the word “impossible.” Shooting an arrow through a two-foot spot one hundred paces, ricocheting a bullet around a corner or even firing down the barrel of an opponent’s gun — the Ahroun can do them all. However, this Gift can only indirectly do any harm to a living thing — by shooting out a rope holding a chandelier, for instance. More direct usage is considered unsporting by the spirits, who will not permit such vulgarity. This Gift is taught by an Air-spirit.\n\nSystem: The player adds her character’s permanent rating in Glory to her Dice Pool for the trick shot. The shot must be declared prior to rolling, and only for a truly bizarre attempt (simply saying “I shoot ‘im in the head!” doesn’t count)."
@@ -14952,7 +14903,7 @@
     ]
   },
   {
-    "gift": 1027,
+    "gift": 1016,
     "name": "Trickster Beacon",
     "content": [
       {
@@ -14962,7 +14913,7 @@
     ]
   },
   {
-    "gift": 1028,
+    "gift": 1017,
     "name": "Troll Skin",
     "content": [
       {
@@ -14980,7 +14931,7 @@
     ]
   },
   {
-    "gift": 1029,
+    "gift": 1018,
     "name": "Troll’s Bridge",
     "content": [
       {
@@ -14990,7 +14941,7 @@
     ]
   },
   {
-    "gift": 1030,
+    "gift": 1019,
     "name": "Troubleseeker",
     "content": [
       {
@@ -15000,7 +14951,7 @@
     ]
   },
   {
-    "gift": 1031,
+    "gift": 1020,
     "name": "Truce of Helios",
     "content": [
       {
@@ -15014,7 +14965,7 @@
     ]
   },
   {
-    "gift": 1032,
+    "gift": 1021,
     "name": "True Fear",
     "content": [
       {
@@ -15040,7 +14991,7 @@
     ]
   },
   {
-    "gift": 1033,
+    "gift": 1022,
     "name": "True Shot",
     "content": [
       {
@@ -15050,7 +15001,7 @@
     ]
   },
   {
-    "gift": 1034,
+    "gift": 1023,
     "name": "Truest Sacrament",
     "content": [
       {
@@ -15060,7 +15011,7 @@
     ]
   },
   {
-    "gift": 1035,
+    "gift": 1024,
     "name": "Trust Me",
     "content": [
       {
@@ -15070,7 +15021,7 @@
     ]
   },
   {
-    "gift": 1036,
+    "gift": 1025,
     "name": "Trust of Gaia",
     "content": [
       {
@@ -15084,7 +15035,7 @@
     ]
   },
   {
-    "gift": 1037,
+    "gift": 1026,
     "name": "Truth of Gaia",
     "content": [
       {
@@ -15110,7 +15061,7 @@
     ]
   },
   {
-    "gift": 1038,
+    "gift": 1027,
     "name": "Truth of the Hunted",
     "content": [
       {
@@ -15120,7 +15071,7 @@
     ]
   },
   {
-    "gift": 1039,
+    "gift": 1028,
     "name": "Tune of Orpheus",
     "content": [
       {
@@ -15130,7 +15081,7 @@
     ]
   },
   {
-    "gift": 1040,
+    "gift": 1029,
     "name": "Turn the Moon",
     "content": [
       {
@@ -15140,7 +15091,7 @@
     ]
   },
   {
-    "gift": 1041,
+    "gift": 1030,
     "name": "Turtle Body",
     "content": [
       {
@@ -15158,7 +15109,7 @@
     ]
   },
   {
-    "gift": 1042,
+    "gift": 1031,
     "name": "Turtle Shell",
     "content": [
       {
@@ -15180,7 +15131,7 @@
     ]
   },
   {
-    "gift": 1043,
+    "gift": 1032,
     "name": "Two Tongues",
     "content": [
       {
@@ -15190,7 +15141,7 @@
     ]
   },
   {
-    "gift": 1044,
+    "gift": 1033,
     "name": "Twist of Fate",
     "content": [
       {
@@ -15200,7 +15151,7 @@
     ]
   },
   {
-    "gift": 1045,
+    "gift": 1034,
     "name": "Ubiquitous Presence",
     "content": [
       {
@@ -15210,7 +15161,7 @@
     ]
   },
   {
-    "gift": 1046,
+    "gift": 1035,
     "name": "Uktena’s Freezing Stare",
     "content": [
       {
@@ -15224,7 +15175,7 @@
     ]
   },
   {
-    "gift": 1047,
+    "gift": 1036,
     "name": "Uktena’s Glare",
     "content": [
       {
@@ -15234,7 +15185,7 @@
     ]
   },
   {
-    "gift": 1048,
+    "gift": 1037,
     "name": "Uktena’s Passage",
     "content": [
       {
@@ -15244,7 +15195,7 @@
     ]
   },
   {
-    "gift": 1049,
+    "gift": 1038,
     "name": "Ultimate Argument of Logic",
     "content": [
       {
@@ -15258,7 +15209,7 @@
     ]
   },
   {
-    "gift": 1050,
+    "gift": 1039,
     "name": "Umbral Body",
     "content": [
       {
@@ -15268,7 +15219,7 @@
     ]
   },
   {
-    "gift": 1051,
+    "gift": 1040,
     "name": "Umbral Burrowing",
     "content": [
       {
@@ -15282,7 +15233,7 @@
     ]
   },
   {
-    "gift": 1052,
+    "gift": 1041,
     "name": "Umbral Camouflage",
     "content": [
       {
@@ -15296,7 +15247,7 @@
     ]
   },
   {
-    "gift": 1053,
+    "gift": 1042,
     "name": "Umbral Compass",
     "content": [
       {
@@ -15306,7 +15257,7 @@
     ]
   },
   {
-    "gift": 1054,
+    "gift": 1043,
     "name": "Umbral Dodge",
     "content": [
       {
@@ -15316,7 +15267,7 @@
     ]
   },
   {
-    "gift": 1055,
+    "gift": 1044,
     "name": "Umbral Motorcade",
     "content": [
       {
@@ -15326,7 +15277,7 @@
     ]
   },
   {
-    "gift": 1056,
+    "gift": 1045,
     "name": "Umbral Sight",
     "content": [
       {
@@ -15336,7 +15287,7 @@
     ]
   },
   {
-    "gift": 1057,
+    "gift": 1046,
     "name": "Umbral Tether",
     "content": [
       {
@@ -15354,7 +15305,7 @@
     ]
   },
   {
-    "gift": 1058,
+    "gift": 1047,
     "name": "Umbral Tracking",
     "content": [
       {
@@ -15364,7 +15315,7 @@
     ]
   },
   {
-    "gift": 1059,
+    "gift": 1048,
     "name": "Uncaught Since the Primal Morn",
     "content": [
       {
@@ -15378,7 +15329,7 @@
     ]
   },
   {
-    "gift": 1060,
+    "gift": 1049,
     "name": "Under the Gun",
     "content": [
       {
@@ -15388,7 +15339,7 @@
     ]
   },
   {
-    "gift": 1061,
+    "gift": 1050,
     "name": "Unicorn’s Arsenal",
     "content": [
       {
@@ -15398,7 +15349,7 @@
     ]
   },
   {
-    "gift": 1062,
+    "gift": 1051,
     "name": "Unity of the Pack",
     "content": [
       {
@@ -15408,7 +15359,7 @@
     ]
   },
   {
-    "gift": 1063,
+    "gift": 1052,
     "name": "Underearth",
     "content": [
       {
@@ -15418,7 +15369,7 @@
     ]
   },
   {
-    "gift": 1064,
+    "gift": 1053,
     "name": "Underseal",
     "content": [
       {
@@ -15428,7 +15379,7 @@
     ]
   },
   {
-    "gift": 1065,
+    "gift": 1054,
     "name": "Unicorn’s Grace",
     "content": [
       {
@@ -15450,7 +15401,7 @@
     ]
   },
   {
-    "gift": 1066,
+    "gift": 1055,
     "name": "Unified Force",
     "content": [
       {
@@ -15460,7 +15411,7 @@
     ]
   },
   {
-    "gift": 1067,
+    "gift": 1056,
     "name": "Universal Interface",
     "content": [
       {
@@ -15470,7 +15421,7 @@
     ]
   },
   {
-    "gift": 1068,
+    "gift": 1057,
     "name": "Unseelie Faerie Kin",
     "content": [
       {
@@ -15484,7 +15435,7 @@
     ]
   },
   {
-    "gift": 1069,
+    "gift": 1058,
     "name": "Unstoppable Warrior",
     "content": [
       {
@@ -15498,7 +15449,7 @@
     ]
   },
   {
-    "gift": 1070,
+    "gift": 1059,
     "name": "Unwitting Pawn",
     "content": [
       {
@@ -15508,7 +15459,7 @@
     ]
   },
   {
-    "gift": 1071,
+    "gift": 1060,
     "name": "Urban Ward",
     "content": [
       {
@@ -15547,7 +15498,7 @@
     ]
   },
   {
-    "gift": 1072,
+    "gift": 1061,
     "name": "Blurring the Mirror",
     "content": [
       {
@@ -15557,7 +15508,7 @@
     ]
   },
   {
-    "gift": 1073,
+    "gift": 1062,
     "name": "Venom",
     "content": [
       {
@@ -15575,7 +15526,7 @@
     ]
   },
   {
-    "gift": 1074,
+    "gift": 1063,
     "name": "Venom Blood",
     "content": [
       {
@@ -15593,7 +15544,7 @@
     ]
   },
   {
-    "gift": 1075,
+    "gift": 1064,
     "name": "View the Battlefield",
     "content": [
       {
@@ -15603,7 +15554,7 @@
     ]
   },
   {
-    "gift": 1076,
+    "gift": 1065,
     "name": "Violation",
     "content": [
       {
@@ -15613,7 +15564,7 @@
     ]
   },
   {
-    "gift": 1077,
+    "gift": 1066,
     "name": "Virgin Snow",
     "content": [
       {
@@ -15623,7 +15574,7 @@
     ]
   },
   {
-    "gift": 1078,
+    "gift": 1067,
     "name": "Virtual Umbra",
     "content": [
       {
@@ -15637,7 +15588,7 @@
     ]
   },
   {
-    "gift": 1079,
+    "gift": 1068,
     "name": "Visage of Fenris",
     "content": [
       {
@@ -15655,7 +15606,7 @@
     ]
   },
   {
-    "gift": 1080,
+    "gift": 1069,
     "name": "Visceral Agony",
     "content": [
       {
@@ -15673,7 +15624,7 @@
     ]
   },
   {
-    "gift": 1081,
+    "gift": 1070,
     "name": "Vision of True Spirit",
     "content": [
       {
@@ -15683,7 +15634,7 @@
     ]
   },
   {
-    "gift": 1082,
+    "gift": 1071,
     "name": "Visions of Slaughter",
     "content": [
       {
@@ -15697,7 +15648,7 @@
     ]
   },
   {
-    "gift": 1083,
+    "gift": 1072,
     "name": "Waking the Dead",
     "content": [
       {
@@ -15707,7 +15658,7 @@
     ]
   },
   {
-    "gift": 1084,
+    "gift": 1073,
     "name": "Visuddha",
     "content": [
       {
@@ -15717,7 +15668,7 @@
     ]
   },
   {
-    "gift": 1085,
+    "gift": 1074,
     "name": "Voice of Reason",
     "content": [
       {
@@ -15727,7 +15678,7 @@
     ]
   },
   {
-    "gift": 1086,
+    "gift": 1075,
     "name": "Waking Dream",
     "content": [
       {
@@ -15737,7 +15688,7 @@
     ]
   },
   {
-    "gift": 1087,
+    "gift": 1076,
     "name": "Walk the Web",
     "content": [
       {
@@ -15747,7 +15698,7 @@
     ]
   },
   {
-    "gift": 1088,
+    "gift": 1077,
     "name": "Walk under the New Moon",
     "content": [
       {
@@ -15757,7 +15708,7 @@
     ]
   },
   {
-    "gift": 1089,
+    "gift": 1078,
     "name": "Walk Unseen",
     "content": [
       {
@@ -15767,7 +15718,7 @@
     ]
   },
   {
-    "gift": 1090,
+    "gift": 1079,
     "name": "Walk With Hades",
     "content": [
       {
@@ -15777,7 +15728,7 @@
     ]
   },
   {
-    "gift": 1091,
+    "gift": 1080,
     "name": "Wall of Granite",
     "content": [
       {
@@ -15799,7 +15750,7 @@
     ]
   },
   {
-    "gift": 1092,
+    "gift": 1081,
     "name": "Ward of the Road",
     "content": [
       {
@@ -15809,7 +15760,7 @@
     ]
   },
   {
-    "gift": 1093,
+    "gift": 1082,
     "name": "Warp Spasm",
     "content": [
       {
@@ -15819,7 +15770,7 @@
     ]
   },
   {
-    "gift": 1094,
+    "gift": 1083,
     "name": "Warp-Fury",
     "content": [
       {
@@ -15829,7 +15780,7 @@
     ]
   },
   {
-    "gift": 1095,
+    "gift": 1084,
     "name": "Warrior’s Draught",
     "content": [
       {
@@ -15839,7 +15790,7 @@
     ]
   },
   {
-    "gift": 1096,
+    "gift": 1085,
     "name": "Warrior’s Eye",
     "content": [
       {
@@ -15849,7 +15800,7 @@
     ]
   },
   {
-    "gift": 1097,
+    "gift": 1086,
     "name": "Wasp Talons",
     "content": [
       {
@@ -15871,7 +15822,7 @@
     ]
   },
   {
-    "gift": 1098,
+    "gift": 1087,
     "name": "Watchful Eyes",
     "content": [
       {
@@ -15881,7 +15832,7 @@
     ]
   },
   {
-    "gift": 1099,
+    "gift": 1088,
     "name": "Watchful Eyes",
     "content": [
       {
@@ -15891,7 +15842,7 @@
     ]
   },
   {
-    "gift": 1100,
+    "gift": 1089,
     "name": "Ways of the Urban Wolf",
     "content": [
       {
@@ -15901,7 +15852,7 @@
     ]
   },
   {
-    "gift": 1101,
+    "gift": 1090,
     "name": "Water Sense",
     "content": [
       {
@@ -15911,7 +15862,7 @@
     ]
   },
   {
-    "gift": 1102,
+    "gift": 1091,
     "name": "Water-Conning",
     "content": [
       {
@@ -15921,7 +15872,7 @@
     ]
   },
   {
-    "gift": 1103,
+    "gift": 1092,
     "name": "Weak Arm",
     "content": [
       {
@@ -15939,7 +15890,7 @@
     ]
   },
   {
-    "gift": 1104,
+    "gift": 1093,
     "name": "Weakest Link",
     "content": [
       {
@@ -15949,7 +15900,7 @@
     ]
   },
   {
-    "gift": 1105,
+    "gift": 1094,
     "name": "Wearing the Bear Shirt",
     "content": [
       {
@@ -15963,7 +15914,7 @@
     ]
   },
   {
-    "gift": 1106,
+    "gift": 1095,
     "name": "Weave of Steel",
     "content": [
       {
@@ -15977,7 +15928,7 @@
     ]
   },
   {
-    "gift": 1107,
+    "gift": 1096,
     "name": "Weaver’s Eyes",
     "content": [
       {
@@ -15987,7 +15938,7 @@
     ]
   },
   {
-    "gift": 1108,
+    "gift": 1097,
     "name": "Weaver’s Eyes",
     "content": [
       {
@@ -15997,7 +15948,7 @@
     ]
   },
   {
-    "gift": 1109,
+    "gift": 1098,
     "name": "Web of Knowledge",
     "content": [
       {
@@ -16007,7 +15958,7 @@
     ]
   },
   {
-    "gift": 1110,
+    "gift": 1099,
     "name": "Web Walker",
     "content": [
       {
@@ -16029,7 +15980,7 @@
     ]
   },
   {
-    "gift": 1111,
+    "gift": 1100,
     "name": "Well-Oiled Running",
     "content": [
       {
@@ -16047,7 +15998,7 @@
     ]
   },
   {
-    "gift": 1112,
+    "gift": 1101,
     "name": "Whelp Body",
     "content": [
       {
@@ -16065,7 +16016,7 @@
     ]
   },
   {
-    "gift": 1113,
+    "gift": 1102,
     "name": "Whelp the Insolent",
     "content": [
       {
@@ -16075,7 +16026,7 @@
     ]
   },
   {
-    "gift": 1114,
+    "gift": 1103,
     "name": "Whisper Catching",
     "content": [
       {
@@ -16089,7 +16040,7 @@
     ]
   },
   {
-    "gift": 1115,
+    "gift": 1104,
     "name": "Whispering Wind",
     "content": [
       {
@@ -16099,7 +16050,7 @@
     ]
   },
   {
-    "gift": 1116,
+    "gift": 1105,
     "name": "Whispers From Toth",
     "content": [
       {
@@ -16109,7 +16060,7 @@
     ]
   },
   {
-    "gift": 1117,
+    "gift": 1106,
     "name": "Whispers on the Street",
     "content": [
       {
@@ -16119,7 +16070,7 @@
     ]
   },
   {
-    "gift": 1118,
+    "gift": 1107,
     "name": "White Fire",
     "content": [
       {
@@ -16133,7 +16084,7 @@
     ]
   },
   {
-    "gift": 1119,
+    "gift": 1108,
     "name": "Wind Claws",
     "content": [
       {
@@ -16143,7 +16094,7 @@
     ]
   },
   {
-    "gift": 1120,
+    "gift": 1109,
     "name": "Whiteout",
     "content": [
       {
@@ -16153,7 +16104,7 @@
     ]
   },
   {
-    "gift": 1121,
+    "gift": 1110,
     "name": "Whore’s Vengeance",
     "content": [
       {
@@ -16163,7 +16114,7 @@
     ]
   },
   {
-    "gift": 1122,
+    "gift": 1111,
     "name": "Windrunner",
     "content": [
       {
@@ -16173,7 +16124,7 @@
     ]
   },
   {
-    "gift": 1123,
+    "gift": 1112,
     "name": "Wind’s Returning Favor",
     "content": [
       {
@@ -16187,7 +16138,7 @@
     ]
   },
   {
-    "gift": 1124,
+    "gift": 1113,
     "name": "Winged Delivery",
     "content": [
       {
@@ -16197,7 +16148,7 @@
     ]
   },
   {
-    "gift": 1125,
+    "gift": 1114,
     "name": "Wings of Pegasus",
     "content": [
       {
@@ -16211,7 +16162,7 @@
     ]
   },
   {
-    "gift": 1126,
+    "gift": 1115,
     "name": "Winter Frost",
     "content": [
       {
@@ -16221,7 +16172,7 @@
     ]
   },
   {
-    "gift": 1127,
+    "gift": 1116,
     "name": "Wisdom from the Heavens",
     "content": [
       {
@@ -16231,7 +16182,7 @@
     ]
   },
   {
-    "gift": 1128,
+    "gift": 1117,
     "name": "Wisdom of the Ancient Ways",
     "content": [
       {
@@ -16257,7 +16208,7 @@
     ]
   },
   {
-    "gift": 1129,
+    "gift": 1118,
     "name": "Wisdom of the Seer",
     "content": [
       {
@@ -16275,7 +16226,7 @@
     ]
   },
   {
-    "gift": 1130,
+    "gift": 1119,
     "name": "Wistiplaju’s Bow",
     "content": [
       {
@@ -16289,7 +16240,7 @@
     ]
   },
   {
-    "gift": 1131,
+    "gift": 1120,
     "name": "Wither Limb",
     "content": [
       {
@@ -16315,7 +16266,7 @@
     ]
   },
   {
-    "gift": 1132,
+    "gift": 1121,
     "name": "Woadling",
     "content": [
       {
@@ -16333,7 +16284,7 @@
     ]
   },
   {
-    "gift": 1133,
+    "gift": 1122,
     "name": "Wolf at the Door",
     "content": [
       {
@@ -16351,7 +16302,7 @@
     ]
   },
   {
-    "gift": 1134,
+    "gift": 1123,
     "name": "Words Like Wind",
     "content": [
       {
@@ -16361,7 +16312,7 @@
     ]
   },
   {
-    "gift": 1135,
+    "gift": 1124,
     "name": "Word of Honor",
     "content": [
       {
@@ -16371,7 +16322,7 @@
     ]
   },
   {
-    "gift": 1136,
+    "gift": 1125,
     "name": "Word-to-Weapon",
     "content": [
       {
@@ -16381,7 +16332,7 @@
     ]
   },
   {
-    "gift": 1137,
+    "gift": 1126,
     "name": "Words of the Alpha",
     "content": [
       {
@@ -16391,7 +16342,7 @@
     ]
   },
   {
-    "gift": 1138,
+    "gift": 1127,
     "name": "Wounding Lies",
     "content": [
       {
@@ -16405,7 +16356,7 @@
     ]
   },
   {
-    "gift": 1139,
+    "gift": 1128,
     "name": "Wrath of Gaia",
     "content": [
       {
@@ -16427,7 +16378,7 @@
     ]
   },
   {
-    "gift": 1140,
+    "gift": 1129,
     "name": "Wriggle",
     "content": [
       {
@@ -16437,7 +16388,7 @@
     ]
   },
   {
-    "gift": 1141,
+    "gift": 1130,
     "name": "Wrongful Death",
     "content": [
       {
@@ -16447,7 +16398,7 @@
     ]
   },
   {
-    "gift": 1142,
+    "gift": 1131,
     "name": "Wuxing",
     "content": [
       {
@@ -16461,7 +16412,7 @@
     ]
   },
   {
-    "gift": 1143,
+    "gift": 1132,
     "name": "Wyld Resurgence",
     "content": [
       {
@@ -16471,7 +16422,7 @@
     ]
   },
   {
-    "gift": 1144,
+    "gift": 1133,
     "name": "Wyld Ferocity",
     "content": [
       {
@@ -16481,7 +16432,7 @@
     ]
   },
   {
-    "gift": 1145,
+    "gift": 1134,
     "name": "Wyld Sight",
     "content": [
       {
@@ -16586,7 +16537,7 @@
     ]
   },
   {
-    "gift": 1146,
+    "gift": 1135,
     "name": "Wyld Warp",
     "content": [
       {
@@ -16608,7 +16559,7 @@
     ]
   },
   {
-    "gift": 1147,
+    "gift": 1136,
     "name": "Wyldstorm",
     "content": [
       {
@@ -16622,7 +16573,7 @@
     ]
   },
   {
-    "gift": 1148,
+    "gift": 1137,
     "name": "Wyrm Hide",
     "content": [
       {
@@ -16644,7 +16595,7 @@
     ]
   },
   {
-    "gift": 1149,
+    "gift": 1138,
     "name": "Wyrm Speech",
     "content": [
       {
@@ -16654,7 +16605,7 @@
     ]
   },
   {
-    "gift": 1150,
+    "gift": 1139,
     "name": "Wyrm Taint",
     "content": [
       {
@@ -16664,7 +16615,7 @@
     ]
   },
   {
-    "gift": 1151,
+    "gift": 1140,
     "name": "Wyrm Visions",
     "content": [
       {
@@ -16674,7 +16625,7 @@
     ]
   },
   {
-    "gift": 1152,
+    "gift": 1141,
     "name": "Wyrm Whispers",
     "content": [
       {
@@ -16684,7 +16635,7 @@
     ]
   },
   {
-    "gift": 1153,
+    "gift": 1142,
     "name": "Yao’s Commands",
     "content": [
       {
@@ -16698,7 +16649,7 @@
     ]
   },
   {
-    "gift": 1154,
+    "gift": 1143,
     "name": "Dreamspeak",
     "content": [
       {
@@ -16708,7 +16659,7 @@
     ]
   },
   {
-    "gift": 1155,
+    "gift": 1144,
     "name": "Durance",
     "content": [
       {
@@ -16718,7 +16669,7 @@
     ]
   },
   {
-    "gift": 1156,
+    "gift": 1145,
     "name": "Yu’s Endurance",
     "content": [
       {
@@ -16732,7 +16683,7 @@
     ]
   },
   {
-    "gift": 1157,
+    "gift": 1146,
     "name": "Übermensch",
     "content": [
       {
@@ -16742,7 +16693,7 @@
     ]
   },
   {
-    "gift": 1158,
+    "gift": 1147,
     "name": "Trapper’s Bane",
     "content": [
       {

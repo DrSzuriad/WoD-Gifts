@@ -26315,8 +26315,8 @@
                         "type": "text",
                         "en": "The Garou can change a spirit’s form or purpose. This Gift is taught by a Chimerling.\n\nSystem: The Garou must best the spirit in a resisted Gnosis vs. Gnosis roll. The Theurge’s difficulty is based on his goal (see below), while the spirit’s difficulty is the werewolf’s Gnosis.",
                         "pl": ""
-                    },                    
-					{
+                    },
+                    {
                         "type": "table",
                         "headers": {
                             "en": [

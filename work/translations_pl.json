@@ -2802,13 +2802,7 @@
       {
         "type": "text",
         "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 199,
-    "name": "Szał szczura w potrzasku",
-    "content": [
+      },
       {
         "type": "text",
         "value": ""
@@ -2816,7 +2810,7 @@
     ]
   },
   {
-    "gift": 200,
+    "gift": 199,
     "name": "Wyliczanie zasług",
     "content": [
       {
@@ -2834,7 +2828,7 @@
     ]
   },
   {
-    "gift": 201,
+    "gift": 200,
     "name": "Precyzyjny cios",
     "content": [
       {
@@ -2856,7 +2850,7 @@
     ]
   },
   {
-    "gift": 202,
+    "gift": 201,
     "name": "Poskromienie Broni",
     "content": [
       {
@@ -2866,7 +2860,7 @@
     ]
   },
   {
-    "gift": 203,
+    "gift": 202,
     "name": "Futro tutejszych",
     "content": [
       {
@@ -2876,7 +2870,7 @@
     ]
   },
   {
-    "gift": 204,
+    "gift": 203,
     "name": "Wycie kojota",
     "content": [
       {
@@ -2886,7 +2880,7 @@
     ]
   },
   {
-    "gift": 205,
+    "gift": 204,
     "name": "Pełzająca trucizna",
     "content": [
       {
@@ -2916,7 +2910,7 @@
     ]
   },
   {
-    "gift": 206,
+    "gift": 205,
     "name": "Stworzenie żywiołu",
     "content": [
       {
@@ -2942,7 +2936,7 @@
     ]
   },
   {
-    "gift": 207,
+    "gift": 206,
     "name": "Pakt z krokodylem",
     "content": [
       {
@@ -2952,7 +2946,7 @@
     ]
   },
   {
-    "gift": 208,
+    "gift": 207,
     "name": "Nici Losu Półksiężyca",
     "content": [
       {
@@ -2966,7 +2960,7 @@
     ]
   },
   {
-    "gift": 209,
+    "gift": 208,
     "name": "Czujność Półksiężyca",
     "content": [
       {
@@ -2976,7 +2970,7 @@
     ]
   },
   {
-    "gift": 210,
+    "gift": 209,
     "name": "Przebiegłość krokodyla",
     "content": [
       {
@@ -2990,7 +2984,7 @@
     ]
   },
   {
-    "gift": 211,
+    "gift": 210,
     "name": "Zew zabójcy",
     "content": [
       {
@@ -3000,7 +2994,7 @@
     ]
   },
   {
-    "gift": 212,
+    "gift": 211,
     "name": "Obserwacja ludzi",
     "content": [
       {
@@ -3010,7 +3004,7 @@
     ]
   },
   {
-    "gift": 213,
+    "gift": 212,
     "name": "Trzebienie stada",
     "content": [
       {
@@ -3020,7 +3014,7 @@
     ]
   },
   {
-    "gift": 214,
+    "gift": 213,
     "name": "Przenikliwe słowa",
     "content": [
       {
@@ -3030,7 +3024,7 @@
     ]
   },
   {
-    "gift": 215,
+    "gift": 214,
     "name": "Klątwa Eola",
     "content": [
       {
@@ -3056,7 +3050,7 @@
     ]
   },
   {
-    "gift": 216,
+    "gift": 215,
     "name": "Klątwa zepsucia",
     "content": [
       {
@@ -3070,7 +3064,7 @@
     ]
   },
   {
-    "gift": 217,
+    "gift": 216,
     "name": "Klątwa Dionizosa",
     "content": [
       {
@@ -3080,7 +3074,7 @@
     ]
   },
   {
-    "gift": 218,
+    "gift": 217,
     "name": "Klątwa Harano",
     "content": [
       {
@@ -3090,7 +3084,7 @@
     ]
   },
   {
-    "gift": 219,
+    "gift": 218,
     "name": "Klątwa nienawiści",
     "content": [
       {
@@ -3116,7 +3110,7 @@
     ]
   },
   {
-    "gift": 220,
+    "gift": 219,
     "name": "Klątwa Likaona",
     "content": [
       {
@@ -3130,7 +3124,7 @@
     ]
   },
   {
-    "gift": 221,
+    "gift": 220,
     "name": "Klątwa berserkera",
     "content": [
       {
@@ -3140,7 +3134,7 @@
     ]
   },
   {
-    "gift": 222,
+    "gift": 221,
     "name": "Klątwa zdrajcy",
     "content": [
       {
@@ -3150,7 +3144,7 @@
     ]
   },
   {
-    "gift": 223,
+    "gift": 222,
     "name": "Na zamówienie",
     "content": [
       {
@@ -3160,7 +3154,7 @@
     ]
   },
   {
-    "gift": 224,
+    "gift": 223,
     "name": "Porywisty wiatr",
     "content": [
       {
@@ -3178,7 +3172,7 @@
     ]
   },
   {
-    "gift": 225,
+    "gift": 224,
     "name": "Cyberzmysły",
     "content": [
       {
@@ -3196,7 +3190,7 @@
     ]
   },
   {
-    "gift": 226,
+    "gift": 225,
     "name": "Ujarzmienie łaknienia krwi",
     "content": [
       {
@@ -3206,7 +3200,7 @@
     ]
   },
   {
-    "gift": 227,
+    "gift": 226,
     "name": "Emocjonalna trucizna",
     "content": [
       {
@@ -3216,7 +3210,7 @@
     ]
   },
   {
-    "gift": 228,
+    "gift": 227,
     "name": "Ujarzmienie łaknienia krwi",
     "content": [
       {
@@ -3234,7 +3228,7 @@
     ]
   },
   {
-    "gift": 229,
+    "gift": 228,
     "name": "Gromowe węże",
     "content": [
       {
@@ -3248,7 +3242,7 @@
     ]
   },
   {
-    "gift": 230,
+    "gift": 229,
     "name": "Mroczne przestworza",
     "content": [
       {
@@ -3262,7 +3256,7 @@
     ]
   },
   {
-    "gift": 231,
+    "gift": 230,
     "name": "Mrok nocy",
     "content": [
       {
@@ -3280,7 +3274,7 @@
     ]
   },
   {
-    "gift": 232,
+    "gift": 231,
     "name": "Spojrzenie przez mrok",
     "content": [
       {
@@ -3290,7 +3284,7 @@
     ]
   },
   {
-    "gift": 233,
+    "gift": 232,
     "name": "Przepływ danych",
     "content": [
       {
@@ -3308,7 +3302,7 @@
     ]
   },
   {
-    "gift": 234,
+    "gift": 233,
     "name": "Oślepienie",
     "content": [
       {
@@ -3363,7 +3357,7 @@
     ]
   },
   {
-    "gift": 235,
+    "gift": 234,
     "name": "Wizje Duat",
     "content": [
       {
@@ -3373,7 +3367,7 @@
     ]
   },
   {
-    "gift": 236,
+    "gift": 235,
     "name": "Znaki donikąd",
     "content": [
       {
@@ -3383,7 +3377,7 @@
     ]
   },
   {
-    "gift": 237,
+    "gift": 236,
     "name": "Wróżba dla zaginionego",
     "content": [
       {
@@ -3393,7 +3387,7 @@
     ]
   },
   {
-    "gift": 238,
+    "gift": 237,
     "name": "Pewne oko",
     "content": [
       {
@@ -3403,7 +3397,7 @@
     ]
   },
   {
-    "gift": 239,
+    "gift": 238,
     "name": "Ścieżka zmarłych",
     "content": [
       {
@@ -3413,7 +3407,7 @@
     ]
   },
   {
-    "gift": 240,
+    "gift": 239,
     "name": "Śmiertelny trans",
     "content": [
       {
@@ -3423,7 +3417,7 @@
     ]
   },
   {
-    "gift": 241,
+    "gift": 240,
     "name": "Szepty zmarłego",
     "content": [
       {
@@ -3433,7 +3427,7 @@
     ]
   },
   {
-    "gift": 242,
+    "gift": 241,
     "name": "Deklamacja",
     "content": [
       {
@@ -3443,7 +3437,7 @@
     ]
   },
   {
-    "gift": 243,
+    "gift": 242,
     "name": "Głębokie korzenie",
     "content": [
       {
@@ -3453,7 +3447,7 @@
     ]
   },
   {
-    "gift": 244,
+    "gift": 243,
     "name": "Siła desperacji",
     "content": [
       {
@@ -3467,7 +3461,7 @@
     ]
   },
   {
-    "gift": 245,
+    "gift": 244,
     "name": "Diabelskie szpony",
     "content": [
       {
@@ -3477,7 +3471,7 @@
     ]
   },
   {
-    "gift": 246,
+    "gift": 245,
     "name": "Diabelski ryk",
     "content": [
       {
@@ -3487,7 +3481,7 @@
     ]
   },
   {
-    "gift": 247,
+    "gift": 246,
     "name": "Pożerający lód",
     "content": [
       {
@@ -3497,7 +3491,7 @@
     ]
   },
   {
-    "gift": 248,
+    "gift": 247,
     "name": "Diagnostyka",
     "content": [
       {
@@ -3511,7 +3505,7 @@
     ]
   },
   {
-    "gift": 249,
+    "gift": 248,
     "name": "Kierowanie burzą",
     "content": [
       {
@@ -3525,7 +3519,7 @@
     ]
   },
   {
-    "gift": 250,
+    "gift": 249,
     "name": "Ukrycie fetysza",
     "content": [
       {
@@ -3535,7 +3529,7 @@
     ]
   },
   {
-    "gift": 251,
+    "gift": 250,
     "name": "Kierowanie duszą",
     "content": [
       {
@@ -3549,7 +3543,7 @@
     ]
   },
   {
-    "gift": 252,
+    "gift": 251,
     "name": "Szpetota",
     "content": [
       {
@@ -3563,7 +3557,7 @@
     ]
   },
   {
-    "gift": 253,
+    "gift": 252,
     "name": "Uktycie prawdziwej postaci",
     "content": [
       {
@@ -3573,7 +3567,7 @@
     ]
   },
   {
-    "gift": 254,
+    "gift": 253,
     "name": "Rozwianie złota",
     "content": [
       {
@@ -3587,7 +3581,7 @@
     ]
   },
   {
-    "gift": 255,
+    "gift": 254,
     "name": "Ukojenie",
     "content": [
       {
@@ -3609,7 +3603,7 @@
     ]
   },
   {
-    "gift": 256,
+    "gift": 255,
     "name": "Spójrz tam!",
     "content": [
       {
@@ -3619,7 +3613,7 @@
     ]
   },
   {
-    "gift": 257,
+    "gift": 256,
     "name": "Dekoncentracja",
     "content": [
       {
@@ -3645,7 +3639,7 @@
     ]
   },
   {
-    "gift": 258,
+    "gift": 257,
     "name": "Kość niezgody",
     "content": [
       {
@@ -3655,7 +3649,7 @@
     ]
   },
   {
-    "gift": 259,
+    "gift": 258,
     "name": "Oderwanie Szału",
     "content": [
       {
@@ -3665,7 +3659,7 @@
     ]
   },
   {
-    "gift": 260,
+    "gift": 259,
     "name": "Boski wiatr",
     "content": [
       {
@@ -3683,7 +3677,7 @@
     ]
   },
   {
-    "gift": 261,
+    "gift": 260,
     "name": "Bolesne uderzenie",
     "content": [
       {
@@ -3693,7 +3687,7 @@
     ]
   },
   {
-    "gift": 262,
+    "gift": 261,
     "name": "Swojskie futro",
     "content": [
       {
@@ -3703,7 +3697,7 @@
     ]
   },
   {
-    "gift": 263,
+    "gift": 262,
     "name": "Uderzenie ujarzmienia",
     "content": [
       {
@@ -3713,7 +3707,7 @@
     ]
   },
   {
-    "gift": 264,
+    "gift": 263,
     "name": "Doppelganger",
     "content": [
       {
@@ -3735,7 +3729,7 @@
     ]
   },
   {
-    "gift": 265,
+    "gift": 264,
     "name": "Sobowtór",
     "content": [
       {
@@ -3745,7 +3739,7 @@
     ]
   },
   {
-    "gift": 266,
+    "gift": 265,
     "name": "Dramatyczne wejście",
     "content": [
       {
@@ -3755,7 +3749,7 @@
     ]
   },
   {
-    "gift": 267,
+    "gift": 266,
     "name": "Koszmar na jawie",
     "content": [
       {
@@ -3765,7 +3759,7 @@
     ]
   },
   {
-    "gift": 268,
+    "gift": 267,
     "name": "Sen tysiąca żurawi",
     "content": [
       {
@@ -3783,7 +3777,7 @@
     ]
   },
   {
-    "gift": 269,
+    "gift": 268,
     "name": "Mowa snu",
     "content": [
       {
@@ -3805,7 +3799,7 @@
     ]
   },
   {
-    "gift": 270,
+    "gift": 269,
     "name": "Wędrówka we śnie",
     "content": [
       {
@@ -3819,7 +3813,7 @@
     ]
   },
   {
-    "gift": 271,
+    "gift": 270,
     "name": "Szczęście pijaka",
     "content": [
       {
@@ -3829,7 +3823,7 @@
     ]
   },
   {
-    "gift": 272,
+    "gift": 271,
     "name": "Pijany tkacz",
     "content": [
       {
@@ -3839,7 +3833,7 @@
     ]
   },
   {
-    "gift": 273,
+    "gift": 272,
     "name": "Nurkowanie w śmietniku",
     "content": [
       {
@@ -3849,7 +3843,7 @@
     ]
   },
   {
-    "gift": 274,
+    "gift": 273,
     "name": "Piaskowe tornado",
     "content": [
       {
@@ -3863,7 +3857,7 @@
     ]
   },
   {
-    "gift": 275,
+    "gift": 274,
     "name": "Burza piaskowa",
     "content": [
       {
@@ -3951,7 +3945,7 @@
     ]
   },
   {
-    "gift": 276,
+    "gift": 275,
     "name": "Dziób orła",
     "content": [
       {
@@ -3961,7 +3955,7 @@
     ]
   },
   {
-    "gift": 277,
+    "gift": 276,
     "name": "Uszy nietoperza",
     "content": [
       {
@@ -3975,7 +3969,7 @@
     ]
   },
   {
-    "gift": 278,
+    "gift": 277,
     "name": "Uszy nietoperza",
     "content": [
       {
@@ -4001,7 +3995,7 @@
     ]
   },
   {
-    "gift": 279,
+    "gift": 278,
     "name": "Pakt z duchami ziemii",
     "content": [
       {
@@ -4011,7 +4005,7 @@
     ]
   },
   {
-    "gift": 280,
+    "gift": 279,
     "name": "Elektrowstrząs",
     "content": [
       {
@@ -4025,7 +4019,7 @@
     ]
   },
   {
-    "gift": 281,
+    "gift": 280,
     "name": "Łaska żywiołu",
     "content": [
       {
@@ -4043,7 +4037,7 @@
     ]
   },
   {
-    "gift": 282,
+    "gift": 281,
     "name": "Dar żywiołów",
     "content": [
       {
@@ -4069,7 +4063,7 @@
     ]
   },
   {
-    "gift": 283,
+    "gift": 282,
     "name": "Wyjście awaryjne",
     "content": [
       {
@@ -4079,7 +4073,7 @@
     ]
   },
   {
-    "gift": 284,
+    "gift": 283,
     "name": "Zwierzchnictwo",
     "content": [
       {
@@ -4089,7 +4083,7 @@
     ]
   },
   {
-    "gift": 285,
+    "gift": 284,
     "name": "Empatia",
     "content": [
       {
@@ -4107,7 +4101,7 @@
     ]
   },
   {
-    "gift": 286,
+    "gift": 285,
     "name": "Wyczucie Szału",
     "content": [
       {
@@ -4117,7 +4111,7 @@
     ]
   },
   {
-    "gift": 287,
+    "gift": 286,
     "name": "Pusta dłoń",
     "content": [
       {
@@ -4127,7 +4121,7 @@
     ]
   },
   {
-    "gift": 288,
+    "gift": 287,
     "name": "Szyfrowanie",
     "content": [
       {
@@ -4137,7 +4131,7 @@
     ]
   },
   {
-    "gift": 289,
+    "gift": 288,
     "name": "Wytrzymałość Heimdalla",
     "content": [
       {
@@ -4151,7 +4145,7 @@
     ]
   },
   {
-    "gift": 290,
+    "gift": 289,
     "name": "Błogosławieństwo Ewy",
     "content": [
       {
@@ -4161,7 +4155,7 @@
     ]
   },
   {
-    "gift": 291,
+    "gift": 290,
     "name": "Moc ceremonii",
     "content": [
       {
@@ -4171,7 +4165,7 @@
     ]
   },
   {
-    "gift": 292,
+    "gift": 291,
     "name": "Niezwykła szermierka",
     "content": [
       {
@@ -4181,7 +4175,7 @@
     ]
   },
   {
-    "gift": 293,
+    "gift": 292,
     "name": "Egzorcyzm",
     "content": [
       {
@@ -4207,7 +4201,7 @@
     ]
   },
   {
-    "gift": 294,
+    "gift": 293,
     "name": "Oko żmii",
     "content": [
       {
@@ -4217,7 +4211,7 @@
     ]
   },
   {
-    "gift": 295,
+    "gift": 294,
     "name": "Oko kobry",
     "content": [
       {
@@ -4235,7 +4229,7 @@
     ]
   },
   {
-    "gift": 296,
+    "gift": 295,
     "name": "Oko orła",
     "content": [
       {
@@ -4249,7 +4243,7 @@
     ]
   },
   {
-    "gift": 297,
+    "gift": 296,
     "name": "Oko sokoła",
     "content": [
       {
@@ -4271,7 +4265,7 @@
     ]
   },
   {
-    "gift": 298,
+    "gift": 297,
     "name": "Oko łowcy",
     "content": [
       {
@@ -4293,7 +4287,7 @@
     ]
   },
   {
-    "gift": 299,
+    "gift": 298,
     "name": "Oko burzy",
     "content": [
       {
@@ -4303,7 +4297,7 @@
     ]
   },
   {
-    "gift": 300,
+    "gift": 299,
     "name": "Oczy niewiedzy",
     "content": [
       {
@@ -4313,7 +4307,7 @@
     ]
   },
   {
-    "gift": 301,
+    "gift": 300,
     "name": "Oczy Ma’at",
     "content": [
       {
@@ -4323,7 +4317,7 @@
     ]
   },
   {
-    "gift": 302,
+    "gift": 301,
     "name": "Oczy kota",
     "content": [
       {
@@ -4349,9 +4343,13 @@
     ]
   },
   {
-    "gift": 303,
+    "gift": 302,
     "name": "Oczy Ptaka Gromu",
     "content": [
+      {
+        "type": "text",
+        "value": ""
+      },
       {
         "type": "text",
         "value": ""
@@ -4359,7 +4357,7 @@
     ]
   },
   {
-    "gift": 304,
+    "gift": 303,
     "name": "Oczy Żmija",
     "content": [
       {
@@ -4369,7 +4367,7 @@
     ]
   },
   {
-    "gift": 305,
+    "gift": 304,
     "name": "Oczy rysia",
     "content": [
       {
@@ -4379,17 +4377,7 @@
     ]
   },
   {
-    "gift": 306,
-    "name": "Oczy Ptaka Gromu",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 307,
+    "gift": 305,
     "name": "Materia umysłu",
     "content": [
       {
@@ -4407,7 +4395,7 @@
     ]
   },
   {
-    "gift": 308,
+    "gift": 306,
     "name": "Przewodnik zamieszek",
     "content": [
       {
@@ -4417,7 +4405,7 @@
     ]
   },
   {
-    "gift": 309,
+    "gift": 307,
     "name": "Nikt godny uwagi",
     "content": [
       {
@@ -4427,7 +4415,7 @@
     ]
   },
   {
-    "gift": 310,
+    "gift": 308,
     "name": "Pomoc istot faerie",
     "content": [
       {
@@ -4437,7 +4425,7 @@
     ]
   },
   {
-    "gift": 311,
+    "gift": 309,
     "name": "Krew istot faerie",
     "content": [
       {
@@ -4447,7 +4435,7 @@
     ]
   },
   {
-    "gift": 312,
+    "gift": 310,
     "name": "Przyjaciel istot faerie",
     "content": [
       {
@@ -4465,7 +4453,7 @@
     ]
   },
   {
-    "gift": 313,
+    "gift": 311,
     "name": "Błędny ognik",
     "content": [
       {
@@ -4491,7 +4479,7 @@
     ]
   },
   {
-    "gift": 314,
+    "gift": 312,
     "name": "Pomyślny los",
     "content": [
       {
@@ -4505,7 +4493,7 @@
     ]
   },
   {
-    "gift": 315,
+    "gift": 313,
     "name": "Nienaganna prezencja",
     "content": [
       {
@@ -4523,7 +4511,7 @@
     ]
   },
   {
-    "gift": 316,
+    "gift": 314,
     "name": "Uścisk sokoła",
     "content": [
       {
@@ -4537,7 +4525,7 @@
     ]
   },
   {
-    "gift": 317,
+    "gift": 315,
     "name": "Powalający dotyk",
     "content": [
       {
@@ -4555,7 +4543,7 @@
     ]
   },
   {
-    "gift": 318,
+    "gift": 316,
     "name": "Kły sprawiedliwości",
     "content": [
       {
@@ -4565,7 +4553,7 @@
     ]
   },
   {
-    "gift": 319,
+    "gift": 317,
     "name": "Lodowe kły",
     "content": [
       {
@@ -4575,7 +4563,7 @@
     ]
   },
   {
-    "gift": 320,
+    "gift": 318,
     "name": "Złudny komfort",
     "content": [
       {
@@ -4585,7 +4573,7 @@
     ]
   },
   {
-    "gift": 321,
+    "gift": 319,
     "name": "Rachunek sprzed wieków",
     "content": [
       {
@@ -4599,7 +4587,7 @@
     ]
   },
   {
-    "gift": 322,
+    "gift": 320,
     "name": "Kły Garma",
     "content": [
       {
@@ -4609,7 +4597,7 @@
     ]
   },
   {
-    "gift": 323,
+    "gift": 321,
     "name": "Najkrótsza ścieżka",
     "content": [
       {
@@ -4619,7 +4607,7 @@
     ]
   },
   {
-    "gift": 324,
+    "gift": 322,
     "name": "Słaby punkt",
     "content": [
       {
@@ -4645,7 +4633,7 @@
     ]
   },
   {
-    "gift": 325,
+    "gift": 323,
     "name": "Pożarcie ducha",
     "content": [
       {
@@ -4673,7 +4661,7 @@
     ]
   },
   {
-    "gift": 326,
+    "gift": 324,
     "name": "Kanibalistyczna pamięć",
     "content": [
       {
@@ -4683,7 +4671,7 @@
     ]
   },
   {
-    "gift": 327,
+    "gift": 325,
     "name": "Nieustraszony",
     "content": [
       {
@@ -4693,7 +4681,7 @@
     ]
   },
   {
-    "gift": 328,
+    "gift": 326,
     "name": "Mądrość Węża",
     "content": [
       {
@@ -4703,7 +4691,7 @@
     ]
   },
   {
-    "gift": 329,
+    "gift": 327,
     "name": "Nakarmienie watahy",
     "content": [
       {
@@ -4717,7 +4705,7 @@
     ]
   },
   {
-    "gift": 330,
+    "gift": 328,
     "name": "Dzika lobotomia",
     "content": [
       {
@@ -4727,7 +4715,7 @@
     ]
   },
   {
-    "gift": 331,
+    "gift": 329,
     "name": "Ukąszenie Fenrisa",
     "content": [
       {
@@ -4749,7 +4737,7 @@
     ]
   },
   {
-    "gift": 332,
+    "gift": 330,
     "name": "Dzika lobotomia",
     "content": [
       {
@@ -4763,7 +4751,7 @@
     ]
   },
   {
-    "gift": 333,
+    "gift": 331,
     "name": "Żyzne ziemie",
     "content": [
       {
@@ -4773,7 +4761,7 @@
     ]
   },
   {
-    "gift": 334,
+    "gift": 332,
     "name": "Kukła-fetysz",
     "content": [
       {
@@ -4791,7 +4779,7 @@
     ]
   },
   {
-    "gift": 335,
+    "gift": 333,
     "name": "Przywołanie fetysza",
     "content": [
       {
@@ -4805,7 +4793,7 @@
     ]
   },
   {
-    "gift": 336,
+    "gift": 334,
     "name": "Odnalezienie skarbu",
     "content": [
       {
@@ -4815,7 +4803,7 @@
     ]
   },
   {
-    "gift": 337,
+    "gift": 335,
     "name": "Odnalezienie winowajcy",
     "content": [
       {
@@ -4825,7 +4813,7 @@
     ]
   },
   {
-    "gift": 338,
+    "gift": 336,
     "name": "Odnalezienie wody",
     "content": [
       {
@@ -4835,7 +4823,7 @@
     ]
   },
   {
-    "gift": 339,
+    "gift": 337,
     "name": "Ogień w trzewiach",
     "content": [
       {
@@ -4845,7 +4833,7 @@
     ]
   },
   {
-    "gift": 340,
+    "gift": 338,
     "name": "Złodziej ognia",
     "content": [
       {
@@ -4863,7 +4851,7 @@
     ]
   },
   {
-    "gift": 341,
+    "gift": 339,
     "name": "Niezłomna postawa",
     "content": [
       {
@@ -4873,7 +4861,7 @@
     ]
   },
   {
-    "gift": 342,
+    "gift": 340,
     "name": "Taniec płomienia",
     "content": [
       {
@@ -4883,7 +4871,7 @@
     ]
   },
   {
-    "gift": 343,
+    "gift": 341,
     "name": "Z nurtem rzeki",
     "content": [
       {
@@ -4893,7 +4881,7 @@
     ]
   },
   {
-    "gift": 344,
+    "gift": 342,
     "name": "Ugaszenie ognistej wody",
     "content": [
       {
@@ -4903,7 +4891,7 @@
     ]
   },
   {
-    "gift": 345,
+    "gift": 343,
     "name": "Upojenie",
     "content": [
       {
@@ -4913,7 +4901,7 @@
     ]
   },
   {
-    "gift": 346,
+    "gift": 344,
     "name": "Niewidzialna dłoń",
     "content": [
       {
@@ -4923,7 +4911,7 @@
     ]
   },
   {
-    "gift": 347,
+    "gift": 345,
     "name": "Taniec ognia",
     "content": [
       {
@@ -4933,7 +4921,7 @@
     ]
   },
   {
-    "gift": 348,
+    "gift": 346,
     "name": "Płomienie Hestii",
     "content": [
       {
@@ -4951,7 +4939,7 @@
     ]
   },
   {
-    "gift": 349,
+    "gift": 347,
     "name": "Chyże stopy",
     "content": [
       {
@@ -4961,7 +4949,7 @@
     ]
   },
   {
-    "gift": 350,
+    "gift": 348,
     "name": "Wilk w rybiej łusce",
     "content": [
       {
@@ -4971,7 +4959,7 @@
     ]
   },
   {
-    "gift": 351,
+    "gift": 349,
     "name": "Lot kruka",
     "content": [
       {
@@ -4981,7 +4969,7 @@
     ]
   },
   {
-    "gift": 352,
+    "gift": 350,
     "name": "Nawałnica strzał",
     "content": [
       {
@@ -4991,7 +4979,7 @@
     ]
   },
   {
-    "gift": 353,
+    "gift": 351,
     "name": "Stopy muchy",
     "content": [
       {
@@ -5005,7 +4993,7 @@
     ]
   },
   {
-    "gift": 354,
+    "gift": 352,
     "name": "Wścieklizna Żmija",
     "content": [
       {
@@ -5035,7 +5023,7 @@
     ]
   },
   {
-    "gift": 355,
+    "gift": 353,
     "name": "Pogromca Żmija",
     "content": [
       {
@@ -5045,7 +5033,7 @@
     ]
   },
   {
-    "gift": 356,
+    "gift": 354,
     "name": "Mgła wojny",
     "content": [
       {
@@ -5055,7 +5043,7 @@
     ]
   },
   {
-    "gift": 357,
+    "gift": 355,
     "name": "Mglisty Całun",
     "content": [
       {
@@ -5069,7 +5057,7 @@
     ]
   },
   {
-    "gift": 358,
+    "gift": 356,
     "name": "Mistrzostwo postaci",
     "content": [
       {
@@ -5079,7 +5067,7 @@
     ]
   },
   {
-    "gift": 359,
+    "gift": 357,
     "name": "Swobodny przepływ",
     "content": [
       {
@@ -5089,7 +5077,7 @@
     ]
   },
   {
-    "gift": 360,
+    "gift": 358,
     "name": "Złoto głupców",
     "content": [
       {
@@ -5099,7 +5087,7 @@
     ]
   },
   {
-    "gift": 361,
+    "gift": 359,
     "name": "Szczęście głupców",
     "content": [
       {
@@ -5109,7 +5097,7 @@
     ]
   },
   {
-    "gift": 362,
+    "gift": 360,
     "name": "Lekarstwo głupca",
     "content": [
       {
@@ -5119,7 +5107,7 @@
     ]
   },
   {
-    "gift": 363,
+    "gift": 361,
     "name": "Srebro głupców",
     "content": [
       {
@@ -5129,7 +5117,7 @@
     ]
   },
   {
-    "gift": 364,
+    "gift": 362,
     "name": "Wcielenie Akhluta",
     "content": [
       {
@@ -5139,7 +5127,7 @@
     ]
   },
   {
-    "gift": 365,
+    "gift": 363,
     "name": "Wcielenia Cernunnosa",
     "content": [
       {
@@ -5149,7 +5137,7 @@
     ]
   },
   {
-    "gift": 366,
+    "gift": 364,
     "name": "Przyjaciel w potrzebie",
     "content": [
       {
@@ -5163,7 +5151,7 @@
     ]
   },
   {
-    "gift": 367,
+    "gift": 365,
     "name": "Zablokowanie formy",
     "content": [
       {
@@ -5173,7 +5161,7 @@
     ]
   },
   {
-    "gift": 368,
+    "gift": 366,
     "name": "Honor Fu Xi",
     "content": [
       {
@@ -5187,7 +5175,7 @@
     ]
   },
   {
-    "gift": 369,
+    "gift": 367,
     "name": "Oczyszczenie pełni księżyca",
     "content": [
       {
@@ -5201,7 +5189,7 @@
     ]
   },
   {
-    "gift": 370,
+    "gift": 368,
     "name": "Światło pełni księżyca",
     "content": [
       {
@@ -5215,7 +5203,7 @@
     ]
   },
   {
-    "gift": 371,
+    "gift": 369,
     "name": "Gniew pełni księżyca",
     "content": [
       {
@@ -5225,7 +5213,7 @@
     ]
   },
   {
-    "gift": 372,
+    "gift": 370,
     "name": "Furia Zeusa",
     "content": [
       {
@@ -5235,7 +5223,7 @@
     ]
   },
   {
-    "gift": 373,
+    "gift": 371,
     "name": "Balsam Gai",
     "content": [
       {
@@ -5245,7 +5233,7 @@
     ]
   },
   {
-    "gift": 374,
+    "gift": 372,
     "name": "Objęcia Gai",
     "content": [
       {
@@ -5255,7 +5243,7 @@
     ]
   },
   {
-    "gift": 375,
+    "gift": 373,
     "name": "Łaska Gai",
     "content": [
       {
@@ -5265,7 +5253,7 @@
     ]
   },
   {
-    "gift": 376,
+    "gift": 374,
     "name": "Wytrzymałość Gai",
     "content": [
       {
@@ -5275,7 +5263,7 @@
     ]
   },
   {
-    "gift": 377,
+    "gift": 375,
     "name": "Przybornik Gai",
     "content": [
       {
@@ -5285,7 +5273,7 @@
     ]
   },
   {
-    "gift": 378,
+    "gift": 376,
     "name": "Zemsta Gai",
     "content": [
       {
@@ -5311,7 +5299,7 @@
     ]
   },
   {
-    "gift": 379,
+    "gift": 377,
     "name": "Korona Garafeny",
     "content": [
       {
@@ -5321,7 +5309,7 @@
     ]
   },
   {
-    "gift": 380,
+    "gift": 378,
     "name": "Księżycowa brama",
     "content": [
       {
@@ -5347,7 +5335,7 @@
     ]
   },
   {
-    "gift": 381,
+    "gift": 379,
     "name": "Spojrzenie Gorgony",
     "content": [
       {
@@ -5357,7 +5345,7 @@
     ]
   },
   {
-    "gift": 382,
+    "gift": 380,
     "name": "Spojrzenie łowcy",
     "content": [
       {
@@ -5367,7 +5355,7 @@
     ]
   },
   {
-    "gift": 383,
+    "gift": 381,
     "name": "Przymus",
     "content": [
       {
@@ -5389,7 +5377,7 @@
     ]
   },
   {
-    "gift": 384,
+    "gift": 382,
     "name": "Taniec Duchów",
     "content": [
       {
@@ -5399,7 +5387,7 @@
     ]
   },
   {
-    "gift": 385,
+    "gift": 383,
     "name": "Duchowa Wataha",
     "content": [
       {
@@ -5413,7 +5401,7 @@
     ]
   },
   {
-    "gift": 386,
+    "gift": 384,
     "name": "Płaszcz Mrocznej Umbry",
     "content": [
       {
@@ -5423,7 +5411,7 @@
     ]
   },
   {
-    "gift": 387,
+    "gift": 385,
     "name": "Miasto widmo",
     "content": [
       {
@@ -5437,7 +5425,7 @@
     ]
   },
   {
-    "gift": 388,
+    "gift": 386,
     "name": "Dar snów",
     "content": [
       {
@@ -5447,7 +5435,7 @@
     ]
   },
   {
-    "gift": 389,
+    "gift": 387,
     "name": "Pomieszanie języków",
     "content": [
       {
@@ -5457,7 +5445,7 @@
     ]
   },
   {
-    "gift": 390,
+    "gift": 388,
     "name": "Pieśń rosnącego Księżyca",
     "content": [
       {
@@ -5471,7 +5459,7 @@
     ]
   },
   {
-    "gift": 391,
+    "gift": 389,
     "name": "Mądrość rosnącego Księżyca",
     "content": [
       {
@@ -5481,7 +5469,7 @@
     ]
   },
   {
-    "gift": 392,
+    "gift": 390,
     "name": "Dar obfitości",
     "content": [
       {
@@ -5495,7 +5483,7 @@
     ]
   },
   {
-    "gift": 393,
+    "gift": 391,
     "name": "Dar soli",
     "content": [
       {
@@ -5505,7 +5493,7 @@
     ]
   },
   {
-    "gift": 394,
+    "gift": 392,
     "name": "Dar żelaznego rumaka",
     "content": [
       {
@@ -5523,7 +5511,7 @@
     ]
   },
   {
-    "gift": 395,
+    "gift": 393,
     "name": "Dar jeżozwierza",
     "content": [
       {
@@ -5549,7 +5537,7 @@
     ]
   },
   {
-    "gift": 396,
+    "gift": 394,
     "name": "Dar skunksa",
     "content": [
       {
@@ -5563,7 +5551,7 @@
     ]
   },
   {
-    "gift": 397,
+    "gift": 395,
     "name": "Zmiana wielkości",
     "content": [
       {
@@ -5589,7 +5577,7 @@
     ]
   },
   {
-    "gift": 398,
+    "gift": 396,
     "name": "Dar skażonego totemu",
     "content": [
       {
@@ -5599,7 +5587,7 @@
     ]
   },
   {
-    "gift": 399,
+    "gift": 397,
     "name": "Dar termitów",
     "content": [
       {
@@ -5621,7 +5609,7 @@
     ]
   },
   {
-    "gift": 400,
+    "gift": 398,
     "name": "Szklane szpony",
     "content": [
       {
@@ -5631,7 +5619,7 @@
     ]
   },
   {
-    "gift": 401,
+    "gift": 399,
     "name": "Gładka mowa",
     "content": [
       {
@@ -5653,7 +5641,7 @@
     ]
   },
   {
-    "gift": 402,
+    "gift": 400,
     "name": "Obywatel świata",
     "content": [
       {
@@ -5663,7 +5651,7 @@
     ]
   },
   {
-    "gift": 403,
+    "gift": 401,
     "name": "Mowa wszechistot",
     "content": [
       {
@@ -5673,7 +5661,7 @@
     ]
   },
   {
-    "gift": 404,
+    "gift": 402,
     "name": "Chwalebna pięść Wotana",
     "content": [
       {
@@ -5683,7 +5671,7 @@
     ]
   },
   {
-    "gift": 405,
+    "gift": 403,
     "name": "Blizny chwały",
     "content": [
       {
@@ -5693,7 +5681,7 @@
     ]
   },
   {
-    "gift": 406,
+    "gift": 404,
     "name": "Obżarstwo",
     "content": [
       {
@@ -5707,7 +5695,7 @@
     ]
   },
   {
-    "gift": 407,
+    "gift": 405,
     "name": "Potężne szczęki",
     "content": [
       {
@@ -5733,7 +5721,7 @@
     ]
   },
   {
-    "gift": 408,
+    "gift": 406,
     "name": "Skok do gardła",
     "content": [
       {
@@ -5743,7 +5731,7 @@
     ]
   },
   {
-    "gift": 409,
+    "gift": 407,
     "name": "Pochodnia Gnowee",
     "content": [
       {
@@ -5753,7 +5741,7 @@
     ]
   },
   {
-    "gift": 410,
+    "gift": 408,
     "name": "Gorączka złota",
     "content": [
       {
@@ -5763,7 +5751,7 @@
     ]
   },
   {
-    "gift": 411,
+    "gift": 409,
     "name": "Wspólna sprawa",
     "content": [
       {
@@ -5773,7 +5761,7 @@
     ]
   },
   {
-    "gift": 412,
+    "gift": 410,
     "name": "Wilczy apetyt",
     "content": [
       {
@@ -5791,7 +5779,7 @@
     ]
   },
   {
-    "gift": 413,
+    "gift": 411,
     "name": "Spojrzenie Gorgony",
     "content": [
       {
@@ -5809,7 +5797,7 @@
     ]
   },
   {
-    "gift": 414,
+    "gift": 412,
     "name": "Taniec ostrzy",
     "content": [
       {
@@ -5819,7 +5807,7 @@
     ]
   },
   {
-    "gift": 415,
+    "gift": 413,
     "name": "Dotyk babki",
     "content": [
       {
@@ -5841,7 +5829,7 @@
     ]
   },
   {
-    "gift": 416,
+    "gift": 414,
     "name": "Zrozumienie niepojętego",
     "content": [
       {
@@ -5875,7 +5863,7 @@
     ]
   },
   {
-    "gift": 417,
+    "gift": 415,
     "name": "Szpony potępionych dusz",
     "content": [
       {
@@ -5885,7 +5873,7 @@
     ]
   },
   {
-    "gift": 418,
+    "gift": 416,
     "name": "Tętent Wielkiego Bizona",
     "content": [
       {
@@ -5895,7 +5883,7 @@
     ]
   },
   {
-    "gift": 419,
+    "gift": 417,
     "name": "Potężny sus",
     "content": [
       {
@@ -5913,7 +5901,7 @@
     ]
   },
   {
-    "gift": 420,
+    "gift": 418,
     "name": "Gremliny",
     "content": [
       {
@@ -6014,7 +6002,7 @@
     ]
   },
   {
-    "gift": 421,
+    "gift": 419,
     "name": "Ponura determinacja",
     "content": [
       {
@@ -6024,7 +6012,7 @@
     ]
   },
   {
-    "gift": 422,
+    "gift": 420,
     "name": "Płaszczenie się",
     "content": [
       {
@@ -6034,7 +6022,7 @@
     ]
   },
   {
-    "gift": 423,
+    "gift": 421,
     "name": "Opiekunowie Czasu Snu",
     "content": [
       {
@@ -6044,7 +6032,7 @@
     ]
   },
   {
-    "gift": 424,
+    "gift": 422,
     "name": "Nieugięty strażnik",
     "content": [
       {
@@ -6054,7 +6042,7 @@
     ]
   },
   {
-    "gift": 425,
+    "gift": 423,
     "name": "Przewodnia dłoń Djeheuty’ego",
     "content": [
       {
@@ -6097,7 +6085,7 @@
     ]
   },
   {
-    "gift": 426,
+    "gift": 424,
     "name": "Wyrzuty sumienia",
     "content": [
       {
@@ -6107,7 +6095,7 @@
     ]
   },
   {
-    "gift": 427,
+    "gift": 425,
     "name": "Poczucie winy",
     "content": [
       {
@@ -6117,7 +6105,7 @@
     ]
   },
   {
-    "gift": 428,
+    "gift": 426,
     "name": "Psie oblicze",
     "content": [
       {
@@ -6127,17 +6115,7 @@
     ]
   },
   {
-    "gift": 429,
-    "name": "Mnemonika półksiężyca",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 430,
+    "gift": 427,
     "name": "Dyplomacja półksiężyca",
     "content": [
       {
@@ -6147,9 +6125,13 @@
     ]
   },
   {
-    "gift": 431,
+    "gift": 428,
     "name": "Mnemonika półksiężyca",
     "content": [
+      {
+        "type": "text",
+        "value": ""
+      },
       {
         "type": "text",
         "value": ""
@@ -6157,7 +6139,7 @@
     ]
   },
   {
-    "gift": 432,
+    "gift": 429,
     "name": "Słoneczna aureola",
     "content": [
       {
@@ -6183,7 +6165,7 @@
     ]
   },
   {
-    "gift": 433,
+    "gift": 430,
     "name": "Powstrzymanie tchórza",
     "content": [
       {
@@ -6209,7 +6191,7 @@
     ]
   },
   {
-    "gift": 434,
+    "gift": 431,
     "name": "Przedłużenie Ostrza",
     "content": [
       {
@@ -6223,7 +6205,7 @@
     ]
   },
   {
-    "gift": 435,
+    "gift": 432,
     "name": "Dłoń władców ziemi",
     "content": [
       {
@@ -6241,7 +6223,7 @@
     ]
   },
   {
-    "gift": 436,
+    "gift": 433,
     "name": "Ołowiany grad",
     "content": [
       {
@@ -6251,7 +6233,7 @@
     ]
   },
   {
-    "gift": 437,
+    "gift": 434,
     "name": "Harano",
     "content": [
       {
@@ -6265,7 +6247,7 @@
     ]
   },
   {
-    "gift": 438,
+    "gift": 435,
     "name": "Zajęczy skok",
     "content": [
       {
@@ -6283,7 +6265,7 @@
     ]
   },
   {
-    "gift": 439,
+    "gift": 436,
     "name": "Zmysł Watahy",
     "content": [
       {
@@ -6293,7 +6275,7 @@
     ]
   },
   {
-    "gift": 440,
+    "gift": 437,
     "name": "Harmonijna jedność Szmaragdowej Matki",
     "content": [
       {
@@ -6303,7 +6285,7 @@
     ]
   },
   {
-    "gift": 441,
+    "gift": 438,
     "name": "Upiorne wycie",
     "content": [
       {
@@ -6317,7 +6299,7 @@
     ]
   },
   {
-    "gift": 442,
+    "gift": 439,
     "name": "Upiorny wzrok",
     "content": [
       {
@@ -6327,7 +6309,7 @@
     ]
   },
   {
-    "gift": 443,
+    "gift": 440,
     "name": "Uzdrowienie Havgana",
     "content": [
       {
@@ -6337,7 +6319,7 @@
     ]
   },
   {
-    "gift": 444,
+    "gift": 441,
     "name": "Podniebny drogowskaz",
     "content": [
       {
@@ -6347,7 +6329,7 @@
     ]
   },
   {
-    "gift": 445,
+    "gift": 442,
     "name": "Gra na uczuciach",
     "content": [
       {
@@ -6365,7 +6347,7 @@
     ]
   },
   {
-    "gift": 446,
+    "gift": 443,
     "name": "Uzdrawiające tchnienie Matki Gai",
     "content": [
       {
@@ -6412,7 +6394,7 @@
     ]
   },
   {
-    "gift": 447,
+    "gift": 444,
     "name": "Leczniczy sen",
     "content": [
       {
@@ -6426,7 +6408,7 @@
     ]
   },
   {
-    "gift": 448,
+    "gift": 445,
     "name": "Sen zimowy",
     "content": [
       {
@@ -6436,7 +6418,7 @@
     ]
   },
   {
-    "gift": 449,
+    "gift": 446,
     "name": "Dźwięk ciszy",
     "content": [
       {
@@ -6446,7 +6428,7 @@
     ]
   },
   {
-    "gift": 450,
+    "gift": 447,
     "name": "Uzdrowienie duszy",
     "content": [
       {
@@ -6456,7 +6438,7 @@
     ]
   },
   {
-    "gift": 451,
+    "gift": 448,
     "name": "Drążący Szpon",
     "content": [
       {
@@ -6466,7 +6448,7 @@
     ]
   },
   {
-    "gift": 452,
+    "gift": 449,
     "name": "Zdławienie furii",
     "content": [
       {
@@ -6492,7 +6474,7 @@
     ]
   },
   {
-    "gift": 453,
+    "gift": 450,
     "name": "Serce z lodu",
     "content": [
       {
@@ -6510,7 +6492,7 @@
     ]
   },
   {
-    "gift": 454,
+    "gift": 451,
     "name": "Serce Żmija",
     "content": [
       {
@@ -6520,7 +6502,7 @@
     ]
   },
   {
-    "gift": 455,
+    "gift": 452,
     "name": "Władca serc",
     "content": [
       {
@@ -6530,7 +6512,7 @@
     ]
   },
   {
-    "gift": 456,
+    "gift": 453,
     "name": "Rozgrzanie metalu",
     "content": [
       {
@@ -6544,7 +6526,7 @@
     ]
   },
   {
-    "gift": 457,
+    "gift": 454,
     "name": "Wytrwałość góry",
     "content": [
       {
@@ -6554,7 +6536,7 @@
     ]
   },
   {
-    "gift": 458,
+    "gift": 455,
     "name": "Wskazówki nieba",
     "content": [
       {
@@ -6572,7 +6554,7 @@
     ]
   },
   {
-    "gift": 459,
+    "gift": 456,
     "name": "Wyostrzone zmysły",
     "content": [
       {
@@ -6598,7 +6580,7 @@
     ]
   },
   {
-    "gift": 460,
+    "gift": 457,
     "name": "Ostrze Heimdalla",
     "content": [
       {
@@ -6608,7 +6590,7 @@
     ]
   },
   {
-    "gift": 461,
+    "gift": 458,
     "name": "Prośba o pomoc",
     "content": [
       {
@@ -6618,7 +6600,7 @@
     ]
   },
   {
-    "gift": 462,
+    "gift": 459,
     "name": "Zaganianie małpiątka",
     "content": [
       {
@@ -6628,7 +6610,7 @@
     ]
   },
   {
-    "gift": 463,
+    "gift": 460,
     "name": "Bastion herosa",
     "content": [
       {
@@ -6650,7 +6632,7 @@
     ]
   },
   {
-    "gift": 464,
+    "gift": 461,
     "name": "Ukryty zabójca",
     "content": [
       {
@@ -6664,7 +6646,7 @@
     ]
   },
   {
-    "gift": 465,
+    "gift": 462,
     "name": "Ukryty zabójca",
     "content": [
       {
@@ -6674,7 +6656,7 @@
     ]
   },
   {
-    "gift": 466,
+    "gift": 463,
     "name": "Między słowami",
     "content": [
       {
@@ -6684,7 +6666,7 @@
     ]
   },
   {
-    "gift": 467,
+    "gift": 464,
     "name": "Mroczne sekrety",
     "content": [
       {
@@ -6694,7 +6676,7 @@
     ]
   },
   {
-    "gift": 468,
+    "gift": 465,
     "name": "Ukrycie na widoku",
     "content": [
       {
@@ -6704,7 +6686,7 @@
     ]
   },
   {
-    "gift": 469,
+    "gift": 466,
     "name": "Wszędzie jak w domu",
     "content": [
       {
@@ -6714,7 +6696,7 @@
     ]
   },
   {
-    "gift": 470,
+    "gift": 467,
     "name": "Rozkaz honoru",
     "content": [
       {
@@ -6724,7 +6706,7 @@
     ]
   },
   {
-    "gift": 471,
+    "gift": 468,
     "name": "Przymierze honoru",
     "content": [
       {
@@ -6738,7 +6720,7 @@
     ]
   },
   {
-    "gift": 472,
+    "gift": 469,
     "name": "Honorowa śmierć",
     "content": [
       {
@@ -6748,7 +6730,7 @@
     ]
   },
   {
-    "gift": 473,
+    "gift": 470,
     "name": "Taneczne szaleństwo",
     "content": [
       {
@@ -6758,7 +6740,7 @@
     ]
   },
   {
-    "gift": 474,
+    "gift": 471,
     "name": "Własny teren",
     "content": [
       {
@@ -6768,7 +6750,7 @@
     ]
   },
   {
-    "gift": 475,
+    "gift": 472,
     "name": "Wataha z Valhalli",
     "content": [
       {
@@ -6790,7 +6772,7 @@
     ]
   },
   {
-    "gift": 476,
+    "gift": 473,
     "name": "Poroże",
     "content": [
       {
@@ -6808,7 +6790,7 @@
     ]
   },
   {
-    "gift": 477,
+    "gift": 474,
     "name": "Śmiercionośne wycie",
     "content": [
       {
@@ -6822,7 +6804,7 @@
     ]
   },
   {
-    "gift": 478,
+    "gift": 475,
     "name": "Leczące wycie",
     "content": [
       {
@@ -6832,7 +6814,7 @@
     ]
   },
   {
-    "gift": 479,
+    "gift": 476,
     "name": "Wycie Białych Wyjców",
     "content": [
       {
@@ -6842,7 +6824,7 @@
     ]
   },
   {
-    "gift": 480,
+    "gift": 477,
     "name": "Głodowe wycie",
     "content": [
       {
@@ -6852,7 +6834,7 @@
     ]
   },
   {
-    "gift": 481,
+    "gift": 478,
     "name": "Przywołanie Zmory",
     "content": [
       {
@@ -6862,7 +6844,7 @@
     ]
   },
   {
-    "gift": 482,
+    "gift": 479,
     "name": "Lament banshee",
     "content": [
       {
@@ -6888,7 +6870,7 @@
     ]
   },
   {
-    "gift": 483,
+    "gift": 480,
     "name": "Łowieckie wycie",
     "content": [
       {
@@ -6898,7 +6880,7 @@
     ]
   },
   {
-    "gift": 484,
+    "gift": 481,
     "name": "Wycie przez Rękawicę",
     "content": [
       {
@@ -6916,7 +6898,7 @@
     ]
   },
   {
-    "gift": 485,
+    "gift": 482,
     "name": "Wycie do watahy",
     "content": [
       {
@@ -6926,7 +6908,7 @@
     ]
   },
   {
-    "gift": 486,
+    "gift": 483,
     "name": "Nocne wycie",
     "content": [
       {
@@ -6936,7 +6918,7 @@
     ]
   },
   {
-    "gift": 487,
+    "gift": 484,
     "name": "Ofiara Huang Di",
     "content": [
       {
@@ -6950,7 +6932,7 @@
     ]
   },
   {
-    "gift": 488,
+    "gift": 485,
     "name": "Żarłoczna rdza",
     "content": [
       {
@@ -6960,7 +6942,7 @@
     ]
   },
   {
-    "gift": 489,
+    "gift": 486,
     "name": "Myśliwska więź",
     "content": [
       {
@@ -6970,7 +6952,7 @@
     ]
   },
   {
-    "gift": 490,
+    "gift": 487,
     "name": "Uciszenie",
     "content": [
       {
@@ -6980,7 +6962,7 @@
     ]
   },
   {
-    "gift": 491,
+    "gift": 488,
     "name": "Uliczny Miotacz",
     "content": [
       {
@@ -6990,7 +6972,7 @@
     ]
   },
   {
-    "gift": 492,
+    "gift": 489,
     "name": "Taniec na lodzie",
     "content": [
       {
@@ -7004,7 +6986,7 @@
     ]
   },
   {
-    "gift": 493,
+    "gift": 490,
     "name": "Lodowy sobowtór",
     "content": [
       {
@@ -7018,7 +7000,7 @@
     ]
   },
   {
-    "gift": 494,
+    "gift": 491,
     "name": "Posokowe ostrze",
     "content": [
       {
@@ -7028,7 +7010,7 @@
     ]
   },
   {
-    "gift": 495,
+    "gift": 492,
     "name": "Zaraźliwy śmiech",
     "content": [
       {
@@ -7038,7 +7020,7 @@
     ]
   },
   {
-    "gift": 496,
+    "gift": 493,
     "name": "Lodowa skóra",
     "content": [
       {
@@ -7048,7 +7030,7 @@
     ]
   },
   {
-    "gift": 497,
+    "gift": 494,
     "name": "Lodowaty dreszcz grozy",
     "content": [
       {
@@ -7070,7 +7052,7 @@
     ]
   },
   {
-    "gift": 498,
+    "gift": 495,
     "name": "Królewski Unik",
     "content": [
       {
@@ -7084,7 +7066,7 @@
     ]
   },
   {
-    "gift": 499,
+    "gift": 496,
     "name": "Niewrażliwość na obrażenia",
     "content": [
       {
@@ -7094,7 +7076,7 @@
     ]
   },
   {
-    "gift": 500,
+    "gift": 497,
     "name": "Wizerunek świętych",
     "content": [
       {
@@ -7104,7 +7086,7 @@
     ]
   },
   {
-    "gift": 501,
+    "gift": 498,
     "name": "Mantra przebudzonego snu",
     "content": [
       {
@@ -7114,7 +7096,7 @@
     ]
   },
   {
-    "gift": 502,
+    "gift": 499,
     "name": "Wytrącenie z równowagi",
     "content": [
       {
@@ -7124,7 +7106,7 @@
     ]
   },
   {
-    "gift": 503,
+    "gift": 500,
     "name": "Żelazny chwyt",
     "content": [
       {
@@ -7134,7 +7116,7 @@
     ]
   },
   {
-    "gift": 504,
+    "gift": 501,
     "name": "Bezkarność",
     "content": [
       {
@@ -7144,7 +7126,7 @@
     ]
   },
   {
-    "gift": 505,
+    "gift": 502,
     "name": "Pożyczony Sekret",
     "content": [
       {
@@ -7183,7 +7165,7 @@
     ]
   },
   {
-    "gift": 506,
+    "gift": 503,
     "name": "Inwazja robactwa",
     "content": [
       {
@@ -7201,7 +7183,7 @@
     ]
   },
   {
-    "gift": 507,
+    "gift": 504,
     "name": "Wewnętrzne światło",
     "content": [
       {
@@ -7215,7 +7197,7 @@
     ]
   },
   {
-    "gift": 508,
+    "gift": 505,
     "name": "Wewnętrzna siła",
     "content": [
       {
@@ -7233,7 +7215,7 @@
     ]
   },
   {
-    "gift": 509,
+    "gift": 506,
     "name": "Inspiracja",
     "content": [
       {
@@ -7259,7 +7241,7 @@
     ]
   },
   {
-    "gift": 510,
+    "gift": 507,
     "name": "Wymuszone zeznanie",
     "content": [
       {
@@ -7273,7 +7255,7 @@
     ]
   },
   {
-    "gift": 511,
+    "gift": 508,
     "name": "Uwolnione instynkty",
     "content": [
       {
@@ -7283,7 +7265,7 @@
     ]
   },
   {
-    "gift": 512,
+    "gift": 509,
     "name": "Wtargnięcie",
     "content": [
       {
@@ -7297,7 +7279,7 @@
     ]
   },
   {
-    "gift": 513,
+    "gift": 510,
     "name": "Wynalazczość",
     "content": [
       {
@@ -7307,7 +7289,7 @@
     ]
   },
   {
-    "gift": 514,
+    "gift": 511,
     "name": "Niewidzialność",
     "content": [
       {
@@ -7325,7 +7307,7 @@
     ]
   },
   {
-    "gift": 515,
+    "gift": 512,
     "name": "Wezwanie faraona",
     "content": [
       {
@@ -7335,7 +7317,7 @@
     ]
   },
   {
-    "gift": 516,
+    "gift": 513,
     "name": "Wezwanie duchów burzy",
     "content": [
       {
@@ -7353,7 +7335,7 @@
     ]
   },
   {
-    "gift": 517,
+    "gift": 514,
     "name": "Zstąpienie Obecności",
     "content": [
       {
@@ -7363,7 +7345,7 @@
     ]
   },
   {
-    "gift": 518,
+    "gift": 515,
     "name": "Odporność na stal",
     "content": [
       {
@@ -7373,7 +7355,7 @@
     ]
   },
   {
-    "gift": 519,
+    "gift": 516,
     "name": "Niezłomna wola",
     "content": [
       {
@@ -7383,7 +7365,7 @@
     ]
   },
   {
-    "gift": 520,
+    "gift": 517,
     "name": "Żelazne pazury",
     "content": [
       {
@@ -7397,7 +7379,7 @@
     ]
   },
   {
-    "gift": 521,
+    "gift": 518,
     "name": "Skok zająca wielkouchego",
     "content": [
       {
@@ -7407,7 +7389,7 @@
     ]
   },
   {
-    "gift": 522,
+    "gift": 519,
     "name": "Zakłócenie broni palnej",
     "content": [
       {
@@ -7421,7 +7403,7 @@
     ]
   },
   {
-    "gift": 523,
+    "gift": 520,
     "name": "Zakłócenie technologii",
     "content": [
       {
@@ -7522,7 +7504,7 @@
     ]
   },
   {
-    "gift": 524,
+    "gift": 521,
     "name": "Zakłócenie oręża",
     "content": [
       {
@@ -7536,7 +7518,7 @@
     ]
   },
   {
-    "gift": 525,
+    "gift": 522,
     "name": "Podróż do domu",
     "content": [
       {
@@ -7546,7 +7528,7 @@
     ]
   },
   {
-    "gift": 526,
+    "gift": 523,
     "name": "Osąd",
     "content": [
       {
@@ -7556,7 +7538,7 @@
     ]
   },
   {
-    "gift": 527,
+    "gift": 524,
     "name": "Osąd Hadesa",
     "content": [
       {
@@ -7566,7 +7548,7 @@
     ]
   },
   {
-    "gift": 528,
+    "gift": 525,
     "name": "Szczęście Kacziny",
     "content": [
       {
@@ -7576,7 +7558,7 @@
     ]
   },
   {
-    "gift": 529,
+    "gift": 526,
     "name": "Język Kali",
     "content": [
       {
@@ -7590,7 +7572,7 @@
     ]
   },
   {
-    "gift": 530,
+    "gift": 527,
     "name": "Włócznia Katanki-Sonnaka",
     "content": [
       {
@@ -7608,7 +7590,7 @@
     ]
   },
   {
-    "gift": 531,
+    "gift": 528,
     "name": "Władca zwierząt",
     "content": [
       {
@@ -7680,7 +7662,7 @@
     ]
   },
   {
-    "gift": 532,
+    "gift": 529,
     "name": "Pocałunek entropii",
     "content": [
       {
@@ -7690,7 +7672,7 @@
     ]
   },
   {
-    "gift": 533,
+    "gift": 530,
     "name": "Pocałunek Heliosa",
     "content": [
       {
@@ -7712,7 +7694,7 @@
     ]
   },
   {
-    "gift": 534,
+    "gift": 531,
     "name": "Domowe laboratorium",
     "content": [
       {
@@ -7722,7 +7704,7 @@
     ]
   },
   {
-    "gift": 535,
+    "gift": 532,
     "name": "Na kolana",
     "content": [
       {
@@ -7736,7 +7718,7 @@
     ]
   },
   {
-    "gift": 536,
+    "gift": 533,
     "name": "Płegający płomień",
     "content": [
       {
@@ -7762,7 +7744,7 @@
     ]
   },
   {
-    "gift": 537,
+    "gift": 534,
     "name": "Bicz Szału",
     "content": [
       {
@@ -7772,7 +7754,7 @@
     ]
   },
   {
-    "gift": 538,
+    "gift": 535,
     "name": "Pieśń ziemi",
     "content": [
       {
@@ -7786,7 +7768,7 @@
     ]
   },
   {
-    "gift": 539,
+    "gift": 536,
     "name": "Ostatnia deska ratunku",
     "content": [
       {
@@ -7796,7 +7778,7 @@
     ]
   },
   {
-    "gift": 540,
+    "gift": 537,
     "name": "Ostatni zew",
     "content": [
       {
@@ -7810,7 +7792,7 @@
     ]
   },
   {
-    "gift": 541,
+    "gift": 538,
     "name": "Hieni rechot",
     "content": [
       {
@@ -7824,7 +7806,7 @@
     ]
   },
   {
-    "gift": 542,
+    "gift": 539,
     "name": "Rozeznanie w terenie",
     "content": [
       {
@@ -7834,7 +7816,7 @@
     ]
   },
   {
-    "gift": 543,
+    "gift": 540,
     "name": "Skok nad przepaścią",
     "content": [
       {
@@ -7844,7 +7826,7 @@
     ]
   },
   {
-    "gift": 544,
+    "gift": 541,
     "name": "Wiedza przodków",
     "content": [
       {
@@ -7854,7 +7836,7 @@
     ]
   },
   {
-    "gift": 545,
+    "gift": 542,
     "name": "Klątwa trędowatego",
     "content": [
       {
@@ -7864,7 +7846,7 @@
     ]
   },
   {
-    "gift": 546,
+    "gift": 543,
     "name": "Dar leszego",
     "content": [
       {
@@ -7874,7 +7856,7 @@
     ]
   },
   {
-    "gift": 547,
+    "gift": 544,
     "name": "Żyły mocy",
     "content": [
       {
@@ -7884,7 +7866,7 @@
     ]
   },
   {
-    "gift": 548,
+    "gift": 545,
     "name": "Blokada",
     "content": [
       {
@@ -7906,7 +7888,7 @@
     ]
   },
   {
-    "gift": 549,
+    "gift": 546,
     "name": "Kunszt łgarza",
     "content": [
       {
@@ -7916,7 +7898,7 @@
     ]
   },
   {
-    "gift": 550,
+    "gift": 547,
     "name": "Oblicze łgarza",
     "content": [
       {
@@ -7926,7 +7908,7 @@
     ]
   },
   {
-    "gift": 551,
+    "gift": 548,
     "name": "Wyzwolenie z ciała",
     "content": [
       {
@@ -7936,7 +7918,7 @@
     ]
   },
   {
-    "gift": 552,
+    "gift": 549,
     "name": "Oznaczenie terytorium",
     "content": [
       {
@@ -7946,7 +7928,7 @@
     ]
   },
   {
-    "gift": 553,
+    "gift": 550,
     "name": "Szał błyskawicy",
     "content": [
       {
@@ -7960,7 +7942,7 @@
     ]
   },
   {
-    "gift": 554,
+    "gift": 551,
     "name": "Refleks błyskawicy",
     "content": [
       {
@@ -7970,7 +7952,7 @@
     ]
   },
   {
-    "gift": 555,
+    "gift": 552,
     "name": "Ugryzienie lwa",
     "content": [
       {
@@ -7984,7 +7966,7 @@
     ]
   },
   {
-    "gift": 556,
+    "gift": 553,
     "name": "Wiedza przedmiotów",
     "content": [
       {
@@ -8002,7 +7984,7 @@
     ]
   },
   {
-    "gift": 557,
+    "gift": 554,
     "name": "Odnalezienie ducha-nauczyciela",
     "content": [
       {
@@ -8012,7 +7994,7 @@
     ]
   },
   {
-    "gift": 558,
+    "gift": 555,
     "name": "Dotyk Lokiego",
     "content": [
       {
@@ -8026,7 +8008,7 @@
     ]
   },
   {
-    "gift": 559,
+    "gift": 556,
     "name": "Głos ostatniego Bunyipa",
     "content": [
       {
@@ -8040,7 +8022,7 @@
     ]
   },
   {
-    "gift": 560,
+    "gift": 557,
     "name": "Długi bieg",
     "content": [
       {
@@ -8091,7 +8073,7 @@
     ]
   },
   {
-    "gift": 561,
+    "gift": 558,
     "name": "Władca dziczy",
     "content": [
       {
@@ -8101,7 +8083,7 @@
     ]
   },
   {
-    "gift": 562,
+    "gift": 559,
     "name": "Wola władcy",
     "content": [
       {
@@ -8111,7 +8093,7 @@
     ]
   },
   {
-    "gift": 563,
+    "gift": 560,
     "name": "Dotyk miłości",
     "content": [
       {
@@ -8125,7 +8107,7 @@
     ]
   },
   {
-    "gift": 564,
+    "gift": 561,
     "name": "Przysięga obrońcy",
     "content": [
       {
@@ -8135,7 +8117,7 @@
     ]
   },
   {
-    "gift": 565,
+    "gift": 562,
     "name": "Czterolistna koniczyna",
     "content": [
       {
@@ -8145,7 +8127,7 @@
     ]
   },
   {
-    "gift": 566,
+    "gift": 563,
     "name": "Farciarz",
     "content": [
       {
@@ -8155,7 +8137,7 @@
     ]
   },
   {
-    "gift": 567,
+    "gift": 564,
     "name": "Pancerz Luny",
     "content": [
       {
@@ -8181,7 +8163,7 @@
     ]
   },
   {
-    "gift": 568,
+    "gift": 565,
     "name": "Mściciel Luny",
     "content": [
       {
@@ -8203,7 +8185,7 @@
     ]
   },
   {
-    "gift": 569,
+    "gift": 566,
     "name": "Błogosławieństwo Luny",
     "content": [
       {
@@ -8229,7 +8211,7 @@
     ]
   },
   {
-    "gift": 570,
+    "gift": 567,
     "name": "Moc Luny",
     "content": [
       {
@@ -8239,7 +8221,7 @@
     ]
   },
   {
-    "gift": 571,
+    "gift": 568,
     "name": "Siła obłędu",
     "content": [
       {
@@ -8253,7 +8235,7 @@
     ]
   },
   {
-    "gift": 572,
+    "gift": 569,
     "name": "Wycie obłędu",
     "content": [
       {
@@ -8267,7 +8249,7 @@
     ]
   },
   {
-    "gift": 573,
+    "gift": 570,
     "name": "Obłęd",
     "content": [
       {
@@ -8293,7 +8275,7 @@
     ]
   },
   {
-    "gift": 574,
+    "gift": 571,
     "name": "Czas szaleńców",
     "content": [
       {
@@ -8303,7 +8285,7 @@
     ]
   },
   {
-    "gift": 575,
+    "gift": 572,
     "name": "Giętki duch",
     "content": [
       {
@@ -8384,7 +8366,7 @@
     ]
   },
   {
-    "gift": 576,
+    "gift": 573,
     "name": "Bezimienny",
     "content": [
       {
@@ -8398,7 +8380,7 @@
     ]
   },
   {
-    "gift": 577,
+    "gift": 574,
     "name": "Urzeczywistnienie wizji",
     "content": [
       {
@@ -8408,7 +8390,7 @@
     ]
   },
   {
-    "gift": 578,
+    "gift": 575,
     "name": "Manipura",
     "content": [
       {
@@ -8418,7 +8400,7 @@
     ]
   },
   {
-    "gift": 579,
+    "gift": 576,
     "name": "Męskie oblicze",
     "content": [
       {
@@ -8432,7 +8414,7 @@
     ]
   },
   {
-    "gift": 580,
+    "gift": 577,
     "name": "Piętno hańby",
     "content": [
       {
@@ -8442,7 +8424,7 @@
     ]
   },
   {
-    "gift": 581,
+    "gift": 578,
     "name": "Napiętnowanie wroga",
     "content": [
       {
@@ -8460,7 +8442,7 @@
     ]
   },
   {
-    "gift": 582,
+    "gift": 579,
     "name": "Piętno zwierzyny",
     "content": [
       {
@@ -8470,7 +8452,7 @@
     ]
   },
   {
-    "gift": 583,
+    "gift": 580,
     "name": "Piętno Wilka Śmierci",
     "content": [
       {
@@ -8480,7 +8462,7 @@
     ]
   },
   {
-    "gift": 584,
+    "gift": 581,
     "name": "Piętno wilka",
     "content": [
       {
@@ -8490,7 +8472,7 @@
     ]
   },
   {
-    "gift": 585,
+    "gift": 582,
     "name": "Ukrycie skażenia",
     "content": [
       {
@@ -8508,7 +8490,7 @@
     ]
   },
   {
-    "gift": 586,
+    "gift": 583,
     "name": "Ukrycie drapieżnika",
     "content": [
       {
@@ -8518,7 +8500,7 @@
     ]
   },
   {
-    "gift": 587,
+    "gift": 584,
     "name": "Władca ognia",
     "content": [
       {
@@ -8536,7 +8518,7 @@
     ]
   },
   {
-    "gift": 588,
+    "gift": 585,
     "name": "Władza",
     "content": [
       {
@@ -8558,7 +8540,7 @@
     ]
   },
   {
-    "gift": 589,
+    "gift": 586,
     "name": "Władza nad doczesnym ciałem",
     "content": [
       {
@@ -8568,7 +8550,7 @@
     ]
   },
   {
-    "gift": 590,
+    "gift": 587,
     "name": "Paszcza wieloryba",
     "content": [
       {
@@ -8578,7 +8560,7 @@
     ]
   },
   {
-    "gift": 591,
+    "gift": 588,
     "name": "Pióro Ma’at",
     "content": [
       {
@@ -8588,7 +8570,7 @@
     ]
   },
   {
-    "gift": 592,
+    "gift": 589,
     "name": "Lekki krok",
     "content": [
       {
@@ -8598,7 +8580,7 @@
     ]
   },
   {
-    "gift": 593,
+    "gift": 590,
     "name": "Lecznicze sny",
     "content": [
       {
@@ -8608,7 +8590,7 @@
     ]
   },
   {
-    "gift": 594,
+    "gift": 591,
     "name": "Krąg pamięci",
     "content": [
       {
@@ -8618,7 +8600,7 @@
     ]
   },
   {
-    "gift": 595,
+    "gift": 592,
     "name": "Nakaz prawdomówności",
     "content": [
       {
@@ -8628,7 +8610,7 @@
     ]
   },
   {
-    "gift": 596,
+    "gift": 593,
     "name": "Mowa umysłu",
     "content": [
       {
@@ -8650,7 +8632,7 @@
     ]
   },
   {
-    "gift": 597,
+    "gift": 594,
     "name": "Unieszkodliwienie",
     "content": [
       {
@@ -8668,7 +8650,7 @@
     ]
   },
   {
-    "gift": 598,
+    "gift": 595,
     "name": "Litość",
     "content": [
       {
@@ -8682,7 +8664,7 @@
     ]
   },
   {
-    "gift": 599,
+    "gift": 596,
     "name": "Zew alfy",
     "content": [
       {
@@ -8692,7 +8674,7 @@
     ]
   },
   {
-    "gift": 600,
+    "gift": 597,
     "name": "Wiadomość w spojrzeniu",
     "content": [
       {
@@ -8702,7 +8684,7 @@
     ]
   },
   {
-    "gift": 601,
+    "gift": 598,
     "name": "Siła dla powstańca",
     "content": [
       {
@@ -8728,7 +8710,7 @@
     ]
   },
   {
-    "gift": 602,
+    "gift": 599,
     "name": "Moc Thora",
     "content": [
       {
@@ -8754,7 +8736,7 @@
     ]
   },
   {
-    "gift": 603,
+    "gift": 600,
     "name": "Naśladownictwo",
     "content": [
       {
@@ -8768,7 +8750,7 @@
     ]
   },
   {
-    "gift": 604,
+    "gift": 601,
     "name": "Wielowątkowy umysł",
     "content": [
       {
@@ -8778,7 +8760,7 @@
     ]
   },
   {
-    "gift": 605,
+    "gift": 602,
     "name": "Osłona umysłu",
     "content": [
       {
@@ -8796,7 +8778,7 @@
     ]
   },
   {
-    "gift": 606,
+    "gift": 603,
     "name": "Sen na jawie",
     "content": [
       {
@@ -8818,7 +8800,7 @@
     ]
   },
   {
-    "gift": 607,
+    "gift": 604,
     "name": "Miraż",
     "content": [
       {
@@ -8828,7 +8810,7 @@
     ]
   },
   {
-    "gift": 608,
+    "gift": 605,
     "name": "Grzmot Mjolnira",
     "content": [
       {
@@ -8838,17 +8820,38 @@
     ]
   },
   {
-    "gift": 609,
+    "gift": 606,
     "name": "Kształtowanie ducha",
     "content": [
       {
         "type": "text",
         "value": ""
+      },
+      {
+        "type": "table",
+        "headers": [
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "",
+            ""
+          ],
+          [
+            "",
+            ""
+          ],
+          [
+            "",
+            ""
+          ]
+        ]
       }
     ]
   },
   {
-    "gift": 610,
+    "gift": 607,
     "name": "Zmylenie",
     "content": [
       {
@@ -8858,21 +8861,7 @@
     ]
   },
   {
-    "gift": 611,
-    "name": "Małpi ogon",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      },
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 612,
+    "gift": 608,
     "name": "Wiedza księżyca",
     "content": [
       {
@@ -8882,7 +8871,7 @@
     ]
   },
   {
-    "gift": 613,
+    "gift": 609,
     "name": "Cień Luny",
     "content": [
       {
@@ -8892,7 +8881,7 @@
     ]
   },
   {
-    "gift": 614,
+    "gift": 610,
     "name": "Księżycowa ścieżka",
     "content": [
       {
@@ -8902,7 +8891,7 @@
     ]
   },
   {
-    "gift": 615,
+    "gift": 611,
     "name": "Gniew matki",
     "content": [
       {
@@ -8912,7 +8901,7 @@
     ]
   },
   {
-    "gift": 616,
+    "gift": 612,
     "name": "Matczyny dotyk",
     "content": [
       {
@@ -8938,7 +8927,7 @@
     ]
   },
   {
-    "gift": 617,
+    "gift": 613,
     "name": "Ostatnie słowa",
     "content": [
       {
@@ -8948,7 +8937,7 @@
     ]
   },
   {
-    "gift": 618,
+    "gift": 614,
     "name": "Muladhara",
     "content": [
       {
@@ -8958,7 +8947,7 @@
     ]
   },
   {
-    "gift": 619,
+    "gift": 615,
     "name": "Klątwa muła",
     "content": [
       {
@@ -8968,7 +8957,7 @@
     ]
   },
   {
-    "gift": 620,
+    "gift": 616,
     "name": "Poznanie ducha",
     "content": [
       {
@@ -8994,7 +8983,7 @@
     ]
   },
   {
-    "gift": 621,
+    "gift": 617,
     "name": "Nierozpoznawalny bękart",
     "content": [
       {
@@ -9004,7 +8993,7 @@
     ]
   },
   {
-    "gift": 622,
+    "gift": 618,
     "name": "Naturalny kamuflaż",
     "content": [
       {
@@ -9014,7 +9003,7 @@
     ]
   },
   {
-    "gift": 623,
+    "gift": 619,
     "name": "Odrodzenie natury",
     "content": [
       {
@@ -9024,7 +9013,7 @@
     ]
   },
   {
-    "gift": 624,
+    "gift": 620,
     "name": "Obfitość natury",
     "content": [
       {
@@ -9034,7 +9023,7 @@
     ]
   },
   {
-    "gift": 625,
+    "gift": 621,
     "name": "Terminal sieciowy",
     "content": [
       {
@@ -9044,7 +9033,7 @@
     ]
   },
   {
-    "gift": 626,
+    "gift": 622,
     "name": "Kuglarstwo nowiu",
     "content": [
       {
@@ -9058,7 +9047,7 @@
     ]
   },
   {
-    "gift": 627,
+    "gift": 623,
     "name": "Śmiech nowiu",
     "content": [
       {
@@ -9068,7 +9057,7 @@
     ]
   },
   {
-    "gift": 628,
+    "gift": 624,
     "name": "Koszmarne opętanie",
     "content": [
       {
@@ -9078,7 +9067,7 @@
     ]
   },
   {
-    "gift": 629,
+    "gift": 625,
     "name": "Węch głodnego ogara",
     "content": [
       {
@@ -9088,7 +9077,7 @@
     ]
   },
   {
-    "gift": 630,
+    "gift": 626,
     "name": "Wilczy kłębek",
     "content": [
       {
@@ -9098,7 +9087,7 @@
     ]
   },
   {
-    "gift": 631,
+    "gift": 627,
     "name": "Posłuszeństwo",
     "content": [
       {
@@ -9120,7 +9109,7 @@
     ]
   },
   {
-    "gift": 632,
+    "gift": 628,
     "name": "Ukrycie Umbry",
     "content": [
       {
@@ -9130,7 +9119,7 @@
     ]
   },
   {
-    "gift": 633,
+    "gift": 629,
     "name": "Przysłonięcie prawdy",
     "content": [
       {
@@ -9140,7 +9129,7 @@
     ]
   },
   {
-    "gift": 634,
+    "gift": 630,
     "name": "Wstrętny zapach",
     "content": [
       {
@@ -9162,7 +9151,7 @@
     ]
   },
   {
-    "gift": 635,
+    "gift": 631,
     "name": "Złowieszcze pazury",
     "content": [
       {
@@ -9172,7 +9161,7 @@
     ]
   },
   {
-    "gift": 636,
+    "gift": 632,
     "name": "Ofiara z zabitych",
     "content": [
       {
@@ -9182,7 +9171,7 @@
     ]
   },
   {
-    "gift": 637,
+    "gift": 633,
     "name": "Zwiastun potęgi",
     "content": [
       {
@@ -9192,7 +9181,7 @@
     ]
   },
   {
-    "gift": 638,
+    "gift": 634,
     "name": "Omen prawdy",
     "content": [
       {
@@ -9202,7 +9191,7 @@
     ]
   },
   {
-    "gift": 639,
+    "gift": 635,
     "name": "Patrol",
     "content": [
       {
@@ -9212,7 +9201,7 @@
     ]
   },
   {
-    "gift": 640,
+    "gift": 636,
     "name": "Jeden na jednego",
     "content": [
       {
@@ -9222,7 +9211,7 @@
     ]
   },
   {
-    "gift": 641,
+    "gift": 637,
     "name": "Otwarcie Księżycowego Mostu",
     "content": [
       {
@@ -9248,7 +9237,7 @@
     ]
   },
   {
-    "gift": 642,
+    "gift": 638,
     "name": "Złamanie pieczęci",
     "content": [
       {
@@ -9266,7 +9255,7 @@
     ]
   },
   {
-    "gift": 643,
+    "gift": 639,
     "name": "Otwarta rana",
     "content": [
       {
@@ -9288,7 +9277,7 @@
     ]
   },
   {
-    "gift": 644,
+    "gift": 640,
     "name": "Osłona watahy",
     "content": [
       {
@@ -9298,7 +9287,7 @@
     ]
   },
   {
-    "gift": 645,
+    "gift": 641,
     "name": "Oko rybołowa",
     "content": [
       {
@@ -9308,7 +9297,7 @@
     ]
   },
   {
-    "gift": 646,
+    "gift": 642,
     "name": "Skrzydła rybołowa",
     "content": [
       {
@@ -9318,7 +9307,7 @@
     ]
   },
   {
-    "gift": 647,
+    "gift": 643,
     "name": "Podkręcenie",
     "content": [
       {
@@ -9328,7 +9317,7 @@
     ]
   },
   {
-    "gift": 648,
+    "gift": 644,
     "name": "Niezauważony",
     "content": [
       {
@@ -9338,7 +9327,7 @@
     ]
   },
   {
-    "gift": 649,
+    "gift": 645,
     "name": "Mowa sów",
     "content": [
       {
@@ -9348,7 +9337,7 @@
     ]
   },
   {
-    "gift": 650,
+    "gift": 646,
     "name": "Taktyka watahy",
     "content": [
       {
@@ -9362,7 +9351,7 @@
     ]
   },
   {
-    "gift": 651,
+    "gift": 647,
     "name": "Przymierze",
     "content": [
       {
@@ -9372,7 +9361,7 @@
     ]
   },
   {
-    "gift": 652,
+    "gift": 648,
     "name": "Ogniwa zepsucia",
     "content": [
       {
@@ -9382,7 +9371,7 @@
     ]
   },
   {
-    "gift": 653,
+    "gift": 649,
     "name": "Cierpienie ziemi",
     "content": [
       {
@@ -9392,7 +9381,7 @@
     ]
   },
   {
-    "gift": 654,
+    "gift": 650,
     "name": "Potęga cierpienia",
     "content": [
       {
@@ -9406,7 +9395,7 @@
     ]
   },
   {
-    "gift": 655,
+    "gift": 651,
     "name": "Para Bellum",
     "content": [
       {
@@ -9416,7 +9405,7 @@
     ]
   },
   {
-    "gift": 656,
+    "gift": 652,
     "name": "Papierowy motyl",
     "content": [
       {
@@ -9426,7 +9415,7 @@
     ]
   },
   {
-    "gift": 657,
+    "gift": 653,
     "name": "Paraliżujące spojrzenie",
     "content": [
       {
@@ -9444,7 +9433,7 @@
     ]
   },
   {
-    "gift": 658,
+    "gift": 654,
     "name": "Paranoja",
     "content": [
       {
@@ -9454,7 +9443,7 @@
     ]
   },
   {
-    "gift": 659,
+    "gift": 655,
     "name": "Rozdarcie zasłony",
     "content": [
       {
@@ -9476,7 +9465,7 @@
     ]
   },
   {
-    "gift": 660,
+    "gift": 656,
     "name": "Rozsunięcie aksamitnej zasłony",
     "content": [
       {
@@ -9490,7 +9479,7 @@
     ]
   },
   {
-    "gift": 661,
+    "gift": 657,
     "name": "Patagia",
     "content": [
       {
@@ -9516,7 +9505,7 @@
     ]
   },
   {
-    "gift": 662,
+    "gift": 658,
     "name": "Tropiciel ścieżek",
     "content": [
       {
@@ -9526,7 +9515,7 @@
     ]
   },
   {
-    "gift": 663,
+    "gift": 659,
     "name": "Cierpliwość Żmija",
     "content": [
       {
@@ -9536,7 +9525,7 @@
     ]
   },
   {
-    "gift": 664,
+    "gift": 660,
     "name": "Łapki szczenięcia",
     "content": [
       {
@@ -9558,7 +9547,7 @@
     ]
   },
   {
-    "gift": 665,
+    "gift": 661,
     "name": "Deszcz Gotówki",
     "content": [
       {
@@ -9691,7 +9680,7 @@
     ]
   },
   {
-    "gift": 666,
+    "gift": 662,
     "name": "Spostrzegawczy sługa",
     "content": [
       {
@@ -9705,7 +9694,7 @@
     ]
   },
   {
-    "gift": 667,
+    "gift": 663,
     "name": "Pamięć absolutna",
     "content": [
       {
@@ -9719,7 +9708,7 @@
     ]
   },
   {
-    "gift": 668,
+    "gift": 664,
     "name": "Dusza Persefony",
     "content": [
       {
@@ -9729,7 +9718,7 @@
     ]
   },
   {
-    "gift": 669,
+    "gift": 665,
     "name": "Perswazja",
     "content": [
       {
@@ -9755,7 +9744,7 @@
     ]
   },
   {
-    "gift": 670,
+    "gift": 666,
     "name": "Lekkość płatka kwiatu",
     "content": [
       {
@@ -9765,7 +9754,7 @@
     ]
   },
   {
-    "gift": 671,
+    "gift": 667,
     "name": "Urojenie",
     "content": [
       {
@@ -9783,7 +9772,7 @@
     ]
   },
   {
-    "gift": 672,
+    "gift": 668,
     "name": "Martwy na pokaz",
     "content": [
       {
@@ -9793,7 +9782,7 @@
     ]
   },
   {
-    "gift": 673,
+    "gift": 669,
     "name": "Telefoniczna podróż",
     "content": [
       {
@@ -9803,7 +9792,7 @@
     ]
   },
   {
-    "gift": 674,
+    "gift": 670,
     "name": "Przyszpilenie orlego skrzydła",
     "content": [
       {
@@ -9813,7 +9802,7 @@
     ]
   },
   {
-    "gift": 675,
+    "gift": 671,
     "name": "Duchowe wezwanie",
     "content": [
       {
@@ -9823,7 +9812,7 @@
     ]
   },
   {
-    "gift": 676,
+    "gift": 672,
     "name": "Przebłaganie",
     "content": [
       {
@@ -9833,7 +9822,7 @@
     ]
   },
   {
-    "gift": 677,
+    "gift": 673,
     "name": "Dziecko zarazy",
     "content": [
       {
@@ -9843,7 +9832,7 @@
     ]
   },
   {
-    "gift": 678,
+    "gift": 674,
     "name": "Oblicze zarazy",
     "content": [
       {
@@ -9853,7 +9842,7 @@
     ]
   },
   {
-    "gift": 679,
+    "gift": 675,
     "name": "Oposia śmierć",
     "content": [
       {
@@ -9863,7 +9852,7 @@
     ]
   },
   {
-    "gift": 680,
+    "gift": 676,
     "name": "Wskazanie kością",
     "content": [
       {
@@ -9881,7 +9870,7 @@
     ]
   },
   {
-    "gift": 681,
+    "gift": 677,
     "name": "Zatrute dziedzictwo",
     "content": [
       {
@@ -9891,7 +9880,7 @@
     ]
   },
   {
-    "gift": 682,
+    "gift": 678,
     "name": "Łapki oposa",
     "content": [
       {
@@ -9901,7 +9890,7 @@
     ]
   },
   {
-    "gift": 683,
+    "gift": 679,
     "name": "Wędrówka ścieżkami duchów",
     "content": [
       {
@@ -9911,7 +9900,7 @@
     ]
   },
   {
-    "gift": 684,
+    "gift": 680,
     "name": "Plug and Play",
     "content": [
       {
@@ -9921,7 +9910,7 @@
     ]
   },
   {
-    "gift": 685,
+    "gift": 681,
     "name": "Zatruta Rękawica",
     "content": [
       {
@@ -9931,7 +9920,7 @@
     ]
   },
   {
-    "gift": 686,
+    "gift": 682,
     "name": "Udar elektryczny",
     "content": [
       {
@@ -9978,7 +9967,7 @@
     ]
   },
   {
-    "gift": 687,
+    "gift": 683,
     "name": "Arsenał drapieżnika",
     "content": [
       {
@@ -9988,7 +9977,7 @@
     ]
   },
   {
-    "gift": 688,
+    "gift": 684,
     "name": "Skok drapieżnika",
     "content": [
       {
@@ -9998,7 +9987,7 @@
     ]
   },
   {
-    "gift": 689,
+    "gift": 685,
     "name": "Wiele oczu drapieżnika",
     "content": [
       {
@@ -10012,7 +10001,7 @@
     ]
   },
   {
-    "gift": 690,
+    "gift": 686,
     "name": "Zapowiedź Apokalipsy",
     "content": [
       {
@@ -10022,7 +10011,7 @@
     ]
   },
   {
-    "gift": 691,
+    "gift": 687,
     "name": "Nadnaturalna czujność",
     "content": [
       {
@@ -10044,7 +10033,7 @@
     ]
   },
   {
-    "gift": 692,
+    "gift": 688,
     "name": "Umysł ofiary",
     "content": [
       {
@@ -10058,7 +10047,7 @@
     ]
   },
   {
-    "gift": 693,
+    "gift": 689,
     "name": "Krzyk ofiary",
     "content": [
       {
@@ -10072,7 +10061,7 @@
     ]
   },
   {
-    "gift": 694,
+    "gift": 690,
     "name": "Pierwotny gniew",
     "content": [
       {
@@ -10086,7 +10075,7 @@
     ]
   },
   {
-    "gift": 695,
+    "gift": 691,
     "name": "Pierwotne wycie",
     "content": [
       {
@@ -10104,7 +10093,7 @@
     ]
   },
   {
-    "gift": 696,
+    "gift": 692,
     "name": "Pierwotny instynkt",
     "content": [
       {
@@ -10118,7 +10107,7 @@
     ]
   },
   {
-    "gift": 697,
+    "gift": 693,
     "name": "Pierwotna pieśń",
     "content": [
       {
@@ -10128,7 +10117,7 @@
     ]
   },
   {
-    "gift": 698,
+    "gift": 694,
     "name": "Książęca postawa",
     "content": [
       {
@@ -10138,7 +10127,7 @@
     ]
   },
   {
-    "gift": 699,
+    "gift": 695,
     "name": "Przepowiednia",
     "content": [
       {
@@ -10148,7 +10137,7 @@
     ]
   },
   {
-    "gift": 700,
+    "gift": 696,
     "name": "Prorocza wizja",
     "content": [
       {
@@ -10158,7 +10147,7 @@
     ]
   },
   {
-    "gift": 701,
+    "gift": 697,
     "name": "Szczęście poszukiwacza złota",
     "content": [
       {
@@ -10172,7 +10161,7 @@
     ]
   },
   {
-    "gift": 702,
+    "gift": 698,
     "name": "Zmienna postać",
     "content": [
       {
@@ -10182,7 +10171,7 @@
     ]
   },
   {
-    "gift": 703,
+    "gift": 699,
     "name": "Wydobycie wody",
     "content": [
       {
@@ -10192,7 +10181,7 @@
     ]
   },
   {
-    "gift": 704,
+    "gift": 700,
     "name": "Tętno niewidzialności",
     "content": [
       {
@@ -10218,7 +10207,7 @@
     ]
   },
   {
-    "gift": 705,
+    "gift": 701,
     "name": "Tętno ofiary",
     "content": [
       {
@@ -10228,7 +10217,7 @@
     ]
   },
   {
-    "gift": 706,
+    "gift": 702,
     "name": "Puls kolei",
     "content": [
       {
@@ -10246,7 +10235,7 @@
     ]
   },
   {
-    "gift": 707,
+    "gift": 703,
     "name": "Fałszywa natura",
     "content": [
       {
@@ -10260,7 +10249,7 @@
     ]
   },
   {
-    "gift": 708,
+    "gift": 704,
     "name": "Oczyszczenie mięsa",
     "content": [
       {
@@ -10270,7 +10259,7 @@
     ]
   },
   {
-    "gift": 709,
+    "gift": 705,
     "name": "Maskowanie woni",
     "content": [
       {
@@ -10284,7 +10273,7 @@
     ]
   },
   {
-    "gift": 710,
+    "gift": 706,
     "name": "Nieskalana krew",
     "content": [
       {
@@ -10298,7 +10287,7 @@
     ]
   },
   {
-    "gift": 711,
+    "gift": 707,
     "name": "Nieskalany duch",
     "content": [
       {
@@ -10308,7 +10297,7 @@
     ]
   },
   {
-    "gift": 712,
+    "gift": 708,
     "name": "Poskromienie burzy",
     "content": [
       {
@@ -10326,7 +10315,7 @@
     ]
   },
   {
-    "gift": 713,
+    "gift": 709,
     "name": "Zastrzeżenie",
     "content": [
       {
@@ -10336,7 +10325,7 @@
     ]
   },
   {
-    "gift": 714,
+    "gift": 710,
     "name": "Lotne piaski",
     "content": [
       {
@@ -10362,7 +10351,7 @@
     ]
   },
   {
-    "gift": 715,
+    "gift": 711,
     "name": "Szał niedocenianego",
     "content": [
       {
@@ -10372,7 +10361,7 @@
     ]
   },
   {
-    "gift": 716,
+    "gift": 712,
     "name": "Zwołanie oddziałów",
     "content": [
       {
@@ -10382,7 +10371,7 @@
     ]
   },
   {
-    "gift": 717,
+    "gift": 713,
     "name": "Walka z cieniem",
     "content": [
       {
@@ -10392,7 +10381,7 @@
     ]
   },
   {
-    "gift": 718,
+    "gift": 714,
     "name": "Szał Fenrisa",
     "content": [
       {
@@ -10402,7 +10391,7 @@
     ]
   },
   {
-    "gift": 719,
+    "gift": 715,
     "name": "Miłosierny deszcz",
     "content": [
       {
@@ -10412,7 +10401,7 @@
     ]
   },
   {
-    "gift": 720,
+    "gift": 716,
     "name": "Zjednoczenie kłów i pazurów",
     "content": [
       {
@@ -10422,7 +10411,7 @@
     ]
   },
   {
-    "gift": 721,
+    "gift": 717,
     "name": "Dewastacja",
     "content": [
       {
@@ -10432,7 +10421,7 @@
     ]
   },
   {
-    "gift": 722,
+    "gift": 718,
     "name": "Tyrada szaleńca",
     "content": [
       {
@@ -10475,9 +10464,13 @@
     ]
   },
   {
-    "gift": 723,
+    "gift": 719,
     "name": "Szczurza głowa",
     "content": [
+      {
+        "type": "text",
+        "value": ""
+      },
       {
         "type": "text",
         "value": ""
@@ -10485,17 +10478,7 @@
     ]
   },
   {
-    "gift": 724,
-    "name": "Szczurza głowa",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 725,
+    "gift": 720,
     "name": "Ukoszęnie grzechotnika",
     "content": [
       {
@@ -10513,7 +10496,7 @@
     ]
   },
   {
-    "gift": 726,
+    "gift": 721,
     "name": "Klątwa kruka",
     "content": [
       {
@@ -10556,7 +10539,7 @@
     ]
   },
   {
-    "gift": 727,
+    "gift": 722,
     "name": "Skrzydła kruka",
     "content": [
       {
@@ -10570,7 +10553,7 @@
     ]
   },
   {
-    "gift": 728,
+    "gift": 723,
     "name": "Stalowe pazury",
     "content": [
       {
@@ -10596,7 +10579,7 @@
     ]
   },
   {
-    "gift": 729,
+    "gift": 724,
     "name": "Wejście w Umbrę",
     "content": [
       {
@@ -10622,7 +10605,7 @@
     ]
   },
   {
-    "gift": 730,
+    "gift": 725,
     "name": "Droga prawdy",
     "content": [
       {
@@ -10632,7 +10615,7 @@
     ]
   },
   {
-    "gift": 731,
+    "gift": 726,
     "name": "Wiedza Królestwa",
     "content": [
       {
@@ -10642,7 +10625,7 @@
     ]
   },
   {
-    "gift": 732,
+    "gift": 727,
     "name": "Żniwa dusz",
     "content": [
       {
@@ -10652,7 +10635,7 @@
     ]
   },
   {
-    "gift": 733,
+    "gift": 728,
     "name": "Jasność umysłu",
     "content": [
       {
@@ -10662,7 +10645,7 @@
     ]
   },
   {
-    "gift": 734,
+    "gift": 729,
     "name": "Silny umysł",
     "content": [
       {
@@ -10672,7 +10655,7 @@
     ]
   },
   {
-    "gift": 735,
+    "gift": 730,
     "name": "Odrodzenie",
     "content": [
       {
@@ -10682,7 +10665,7 @@
     ]
   },
   {
-    "gift": 736,
+    "gift": 731,
     "name": "Ponowne narodziny",
     "content": [
       {
@@ -10692,7 +10675,7 @@
     ]
   },
   {
-    "gift": 737,
+    "gift": 732,
     "name": "Recykling",
     "content": [
       {
@@ -10702,7 +10685,7 @@
     ]
   },
   {
-    "gift": 738,
+    "gift": 733,
     "name": "Przekierowanie bólu",
     "content": [
       {
@@ -10716,7 +10699,7 @@
     ]
   },
   {
-    "gift": 739,
+    "gift": 734,
     "name": "Rozkład materii",
     "content": [
       {
@@ -10726,7 +10709,7 @@
     ]
   },
   {
-    "gift": 740,
+    "gift": 735,
     "name": "Rozdarcie magii",
     "content": [
       {
@@ -10736,7 +10719,7 @@
     ]
   },
   {
-    "gift": 741,
+    "gift": 736,
     "name": "Zerwanie więzów",
     "content": [
       {
@@ -10746,7 +10729,7 @@
     ]
   },
   {
-    "gift": 742,
+    "gift": 737,
     "name": "Przeładowanie",
     "content": [
       {
@@ -10756,7 +10739,7 @@
     ]
   },
   {
-    "gift": 743,
+    "gift": 738,
     "name": "Rozdarcie",
     "content": [
       {
@@ -10766,7 +10749,7 @@
     ]
   },
   {
-    "gift": 744,
+    "gift": 739,
     "name": "Rozdarcie rzeczywistości",
     "content": [
       {
@@ -10776,7 +10759,7 @@
     ]
   },
   {
-    "gift": 745,
+    "gift": 740,
     "name": "Odnowienie cyklu",
     "content": [
       {
@@ -10794,7 +10777,7 @@
     ]
   },
   {
-    "gift": 746,
+    "gift": 741,
     "name": "Odnowiony wigor",
     "content": [
       {
@@ -10804,7 +10787,7 @@
     ]
   },
   {
-    "gift": 747,
+    "gift": 742,
     "name": "Magnetyczny odrzut",
     "content": [
       {
@@ -10822,7 +10805,7 @@
     ]
   },
   {
-    "gift": 748,
+    "gift": 743,
     "name": "Ukrycie zepsucia",
     "content": [
       {
@@ -10832,7 +10815,7 @@
     ]
   },
   {
-    "gift": 749,
+    "gift": 744,
     "name": "Przekształcenie materii",
     "content": [
       {
@@ -10916,7 +10899,7 @@
     ]
   },
   {
-    "gift": 750,
+    "gift": 745,
     "name": "Odporność na ból",
     "content": [
       {
@@ -10942,7 +10925,7 @@
     ]
   },
   {
-    "gift": 751,
+    "gift": 746,
     "name": "Odporność na pokusę",
     "content": [
       {
@@ -10956,7 +10939,7 @@
     ]
   },
   {
-    "gift": 752,
+    "gift": 747,
     "name": "Odporność na trucizny",
     "content": [
       {
@@ -10982,7 +10965,7 @@
     ]
   },
   {
-    "gift": 753,
+    "gift": 748,
     "name": "Rytm wojny",
     "content": [
       {
@@ -10992,7 +10975,7 @@
     ]
   },
   {
-    "gift": 754,
+    "gift": 749,
     "name": "Niezłomna Przysięga",
     "content": [
       {
@@ -11006,7 +10989,7 @@
     ]
   },
   {
-    "gift": 755,
+    "gift": 750,
     "name": "Ujawnienie ukrytego",
     "content": [
       {
@@ -11016,7 +10999,7 @@
     ]
   },
   {
-    "gift": 756,
+    "gift": 751,
     "name": "Zaduma",
     "content": [
       {
@@ -11030,7 +11013,7 @@
     ]
   },
   {
-    "gift": 757,
+    "gift": 752,
     "name": "Zaduma Kol-Kin",
     "content": [
       {
@@ -11040,7 +11023,7 @@
     ]
   },
   {
-    "gift": 758,
+    "gift": 753,
     "name": "Zagadka",
     "content": [
       {
@@ -11050,7 +11033,7 @@
     ]
   },
   {
-    "gift": 759,
+    "gift": 754,
     "name": "Zamieszki",
     "content": [
       {
@@ -11122,7 +11105,7 @@
     ]
   },
   {
-    "gift": 760,
+    "gift": 755,
     "name": "Przygotowanie rytuału",
     "content": [
       {
@@ -11132,7 +11115,7 @@
     ]
   },
   {
-    "gift": 761,
+    "gift": 756,
     "name": "Strażnik drogi",
     "content": [
       {
@@ -11142,7 +11125,7 @@
     ]
   },
   {
-    "gift": 762,
+    "gift": 757,
     "name": "Ryk zemsty",
     "content": [
       {
@@ -11152,7 +11135,7 @@
     ]
   },
   {
-    "gift": 763,
+    "gift": 758,
     "name": "Pan i władca",
     "content": [
       {
@@ -11178,7 +11161,7 @@
     ]
   },
   {
-    "gift": 764,
+    "gift": 759,
     "name": "Bieg dachami",
     "content": [
       {
@@ -11188,7 +11171,7 @@
     ]
   },
   {
-    "gift": 765,
+    "gift": 760,
     "name": "Sztuczki z liną",
     "content": [
       {
@@ -11202,7 +11185,7 @@
     ]
   },
   {
-    "gift": 766,
+    "gift": 761,
     "name": "Zniszczenie urządzeń Tkaczki",
     "content": [
       {
@@ -11212,7 +11195,7 @@
     ]
   },
   {
-    "gift": 767,
+    "gift": 762,
     "name": "Do nory",
     "content": [
       {
@@ -11222,7 +11205,7 @@
     ]
   },
   {
-    "gift": 768,
+    "gift": 763,
     "name": "Bezpieczna jaskinia",
     "content": [
       {
@@ -11302,7 +11285,7 @@
     ]
   },
   {
-    "gift": 769,
+    "gift": 764,
     "name": "Bezpieczna przystań",
     "content": [
       {
@@ -11316,7 +11299,7 @@
     ]
   },
   {
-    "gift": 770,
+    "gift": 765,
     "name": "Skok łososia",
     "content": [
       {
@@ -11326,7 +11309,7 @@
     ]
   },
   {
-    "gift": 771,
+    "gift": 766,
     "name": "Płynięcie Łososia",
     "content": [
       {
@@ -11344,7 +11327,7 @@
     ]
   },
   {
-    "gift": 772,
+    "gift": 767,
     "name": "Klątwa sztucznego świata",
     "content": [
       {
@@ -11354,7 +11337,7 @@
     ]
   },
   {
-    "gift": 773,
+    "gift": 768,
     "name": "Burza piaskowa",
     "content": [
       {
@@ -11364,7 +11347,7 @@
     ]
   },
   {
-    "gift": 774,
+    "gift": 769,
     "name": "Rozszarpanie umysłu",
     "content": [
       {
@@ -11374,7 +11357,7 @@
     ]
   },
   {
-    "gift": 775,
+    "gift": 770,
     "name": "Sąd Ma’at",
     "content": [
       {
@@ -11384,7 +11367,7 @@
     ]
   },
   {
-    "gift": 776,
+    "gift": 771,
     "name": "Przeniesienie zmysłów",
     "content": [
       {
@@ -11406,7 +11389,7 @@
     ]
   },
   {
-    "gift": 777,
+    "gift": 772,
     "name": "Wyczucie natury miejsca",
     "content": [
       {
@@ -11416,7 +11399,7 @@
     ]
   },
   {
-    "gift": 778,
+    "gift": 773,
     "name": "Ludzki odór",
     "content": [
       {
@@ -11426,7 +11409,7 @@
     ]
   },
   {
-    "gift": 779,
+    "gift": 774,
     "name": "Woń płynącej wody",
     "content": [
       {
@@ -11452,7 +11435,7 @@
     ]
   },
   {
-    "gift": 780,
+    "gift": 775,
     "name": "Węch zamiast wzroku",
     "content": [
       {
@@ -11478,7 +11461,7 @@
     ]
   },
   {
-    "gift": 781,
+    "gift": 776,
     "name": "Zapach słodkiego miodu",
     "content": [
       {
@@ -11496,7 +11479,7 @@
     ]
   },
   {
-    "gift": 782,
+    "gift": 777,
     "name": "Woń krzywoprzysięzcy",
     "content": [
       {
@@ -11506,7 +11489,7 @@
     ]
   },
   {
-    "gift": 783,
+    "gift": 778,
     "name": "Zapach plastra miodu",
     "content": [
       {
@@ -11516,7 +11499,7 @@
     ]
   },
   {
-    "gift": 784,
+    "gift": 779,
     "name": "Woń ludożercy",
     "content": [
       {
@@ -11526,7 +11509,7 @@
     ]
   },
   {
-    "gift": 785,
+    "gift": 780,
     "name": "Wyczucie prawdziwej postaci",
     "content": [
       {
@@ -11552,7 +11535,7 @@
     ]
   },
   {
-    "gift": 786,
+    "gift": 781,
     "name": "Wrzask Gai",
     "content": [
       {
@@ -11570,7 +11553,7 @@
     ]
   },
   {
-    "gift": 787,
+    "gift": 782,
     "name": "Podglądanie",
     "content": [
       {
@@ -11592,7 +11575,7 @@
     ]
   },
   {
-    "gift": 788,
+    "gift": 783,
     "name": "Spojrzenie pod skórę",
     "content": [
       {
@@ -11602,7 +11585,7 @@
     ]
   },
   {
-    "gift": 789,
+    "gift": 784,
     "name": "Tajemnice",
     "content": [
       {
@@ -11616,7 +11599,7 @@
     ]
   },
   {
-    "gift": 790,
+    "gift": 785,
     "name": "Harmonia mowy",
     "content": [
       {
@@ -11626,7 +11609,7 @@
     ]
   },
   {
-    "gift": 791,
+    "gift": 786,
     "name": "Nasiona zwątpienia",
     "content": [
       {
@@ -11640,7 +11623,7 @@
     ]
   },
   {
-    "gift": 792,
+    "gift": 787,
     "name": "Poszukiwanie pustki",
     "content": [
       {
@@ -11650,7 +11633,7 @@
     ]
   },
   {
-    "gift": 793,
+    "gift": 788,
     "name": "Zdobycie przewagi",
     "content": [
       {
@@ -11668,7 +11651,7 @@
     ]
   },
   {
-    "gift": 794,
+    "gift": 789,
     "name": "Miraż",
     "content": [
       {
@@ -11678,7 +11661,7 @@
     ]
   },
   {
-    "gift": 795,
+    "gift": 790,
     "name": "Wyczucie równowagi",
     "content": [
       {
@@ -11692,7 +11675,7 @@
     ]
   },
   {
-    "gift": 796,
+    "gift": 791,
     "name": "Wyczucie duchowego długu",
     "content": [
       {
@@ -11702,7 +11685,7 @@
     ]
   },
   {
-    "gift": 797,
+    "gift": 792,
     "name": "Wyczucie Fae",
     "content": [
       {
@@ -11712,7 +11695,7 @@
     ]
   },
   {
-    "gift": 798,
+    "gift": 793,
     "name": "Wyczucie winy",
     "content": [
       {
@@ -11734,7 +11717,7 @@
     ]
   },
   {
-    "gift": 799,
+    "gift": 794,
     "name": "Wyczucie magii",
     "content": [
       {
@@ -11752,7 +11735,7 @@
     ]
   },
   {
-    "gift": 800,
+    "gift": 795,
     "name": "Wyczucie duchowej mocy",
     "content": [
       {
@@ -11762,7 +11745,7 @@
     ]
   },
   {
-    "gift": 801,
+    "gift": 796,
     "name": "Wyczucie podziemi",
     "content": [
       {
@@ -11776,7 +11759,7 @@
     ]
   },
   {
-    "gift": 802,
+    "gift": 797,
     "name": "Trop zwierzyny",
     "content": [
       {
@@ -11798,7 +11781,7 @@
     ]
   },
   {
-    "gift": 803,
+    "gift": 798,
     "name": "Trop zwierzyny",
     "content": [
       {
@@ -11816,7 +11799,7 @@
     ]
   },
   {
-    "gift": 804,
+    "gift": 799,
     "name": "Wyczucie tajemnic",
     "content": [
       {
@@ -11826,7 +11809,7 @@
     ]
   },
   {
-    "gift": 805,
+    "gift": 800,
     "name": "Wyczucie srebra",
     "content": [
       {
@@ -11852,7 +11835,7 @@
     ]
   },
   {
-    "gift": 806,
+    "gift": 801,
     "name": "Wyczucie demonów",
     "content": [
       {
@@ -11862,7 +11845,7 @@
     ]
   },
   {
-    "gift": 807,
+    "gift": 802,
     "name": "Wyczucie woni Żmija",
     "content": [
       {
@@ -11872,7 +11855,7 @@
     ]
   },
   {
-    "gift": 808,
+    "gift": 803,
     "name": "Wyczucie nadnaturalnego",
     "content": [
       {
@@ -11898,7 +11881,7 @@
     ]
   },
   {
-    "gift": 809,
+    "gift": 804,
     "name": "Rozpoznanie traumy",
     "content": [
       {
@@ -11908,7 +11891,7 @@
     ]
   },
   {
-    "gift": 810,
+    "gift": 805,
     "name": "Wyczucie Tkaczki",
     "content": [
       {
@@ -11930,7 +11913,7 @@
     ]
   },
   {
-    "gift": 811,
+    "gift": 806,
     "name": "Wyczucie Dzikuna",
     "content": [
       {
@@ -11944,7 +11927,7 @@
     ]
   },
   {
-    "gift": 812,
+    "gift": 807,
     "name": "Wyczucie Żmija",
     "content": [
       {
@@ -11970,7 +11953,7 @@
     ]
   },
   {
-    "gift": 813,
+    "gift": 808,
     "name": "Spokój",
     "content": [
       {
@@ -11988,7 +11971,7 @@
     ]
   },
   {
-    "gift": 814,
+    "gift": 809,
     "name": "Odpędzanie węży",
     "content": [
       {
@@ -11998,7 +11981,7 @@
     ]
   },
   {
-    "gift": 815,
+    "gift": 810,
     "name": "Siedmiomilowy skok",
     "content": [
       {
@@ -12008,7 +11991,7 @@
     ]
   },
   {
-    "gift": 816,
+    "gift": 811,
     "name": "Zranienie cienia",
     "content": [
       {
@@ -12030,7 +12013,7 @@
     ]
   },
   {
-    "gift": 817,
+    "gift": 812,
     "name": "Cień Szczura",
     "content": [
       {
@@ -12040,7 +12023,7 @@
     ]
   },
   {
-    "gift": 818,
+    "gift": 813,
     "name": "Wataha cieni",
     "content": [
       {
@@ -12066,7 +12049,7 @@
     ]
   },
   {
-    "gift": 819,
+    "gift": 814,
     "name": "Splatanie cieni",
     "content": [
       {
@@ -12076,7 +12059,7 @@
     ]
   },
   {
-    "gift": 820,
+    "gift": 815,
     "name": "Cienie o świcie",
     "content": [
       {
@@ -12086,7 +12069,7 @@
     ]
   },
   {
-    "gift": 821,
+    "gift": 816,
     "name": "Widma Impergium",
     "content": [
       {
@@ -12096,7 +12079,7 @@
     ]
   },
   {
-    "gift": 822,
+    "gift": 817,
     "name": "Gra cieni",
     "content": [
       {
@@ -12110,17 +12093,7 @@
     ]
   },
   {
-    "gift": 823,
-    "name": "Teatr cieni",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 824,
+    "gift": 818,
     "name": "Teatr cieni",
     "content": [
       {
@@ -12138,11 +12111,15 @@
       {
         "type": "text",
         "value": ""
+      },
+      {
+        "type": "text",
+        "value": ""
       }
     ]
   },
   {
-    "gift": 825,
+    "gift": 819,
     "name": "Wstrząs ziemi",
     "content": [
       {
@@ -12152,7 +12129,7 @@
     ]
   },
   {
-    "gift": 826,
+    "gift": 820,
     "name": "Kształtowanie dymu",
     "content": [
       {
@@ -12162,7 +12139,7 @@
     ]
   },
   {
-    "gift": 827,
+    "gift": 821,
     "name": "Przemiana w wilka",
     "content": [
       {
@@ -12176,7 +12153,7 @@
     ]
   },
   {
-    "gift": 828,
+    "gift": 822,
     "name": "Użyczenie siły",
     "content": [
       {
@@ -12186,7 +12163,7 @@
     ]
   },
   {
-    "gift": 829,
+    "gift": 823,
     "name": "Zdruzgotanie kości",
     "content": [
       {
@@ -12231,7 +12208,7 @@
     ]
   },
   {
-    "gift": 830,
+    "gift": 824,
     "name": "Druzgocące wycie",
     "content": [
       {
@@ -12241,7 +12218,7 @@
     ]
   },
   {
-    "gift": 831,
+    "gift": 825,
     "name": "Druzgocące wycie",
     "content": [
       {
@@ -12251,7 +12228,7 @@
     ]
   },
   {
-    "gift": 832,
+    "gift": 826,
     "name": "Wyszarpnięcie",
     "content": [
       {
@@ -12281,7 +12258,7 @@
     ]
   },
   {
-    "gift": 833,
+    "gift": 827,
     "name": "Skorupa",
     "content": [
       {
@@ -12295,7 +12272,7 @@
     ]
   },
   {
-    "gift": 834,
+    "gift": 828,
     "name": "Gra w trzy kubki",
     "content": [
       {
@@ -12305,7 +12282,7 @@
     ]
   },
   {
-    "gift": 835,
+    "gift": 829,
     "name": "Schronienie pod igłami sosny",
     "content": [
       {
@@ -12315,7 +12292,7 @@
     ]
   },
   {
-    "gift": 836,
+    "gift": 830,
     "name": "Oczy Sheng-Nonga",
     "content": [
       {
@@ -12329,7 +12306,7 @@
     ]
   },
   {
-    "gift": 837,
+    "gift": 831,
     "name": "Tarcza Gai",
     "content": [
       {
@@ -12343,7 +12320,7 @@
     ]
   },
   {
-    "gift": 838,
+    "gift": 832,
     "name": "Tarcza Szału",
     "content": [
       {
@@ -12353,7 +12330,7 @@
     ]
   },
   {
-    "gift": 839,
+    "gift": 833,
     "name": "Lśniące symbole",
     "content": [
       {
@@ -12363,7 +12340,7 @@
     ]
   },
   {
-    "gift": 840,
+    "gift": 834,
     "name": "Zasłona mroku",
     "content": [
       {
@@ -12385,7 +12362,7 @@
     ]
   },
   {
-    "gift": 841,
+    "gift": 835,
     "name": "Uniknięcie śmierci",
     "content": [
       {
@@ -12399,17 +12376,7 @@
     ]
   },
   {
-    "gift": 842,
-    "name": "Wizje",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 843,
+    "gift": 836,
     "name": "Skok z impulsem",
     "content": [
       {
@@ -12419,7 +12386,7 @@
     ]
   },
   {
-    "gift": 844,
+    "gift": 837,
     "name": "Cios przez Rękawicę",
     "content": [
       {
@@ -12429,7 +12396,7 @@
     ]
   },
   {
-    "gift": 845,
+    "gift": 838,
     "name": "Wizje",
     "content": [
       {
@@ -12447,11 +12414,15 @@
       {
         "type": "text",
         "value": ""
+      },
+      {
+        "type": "text",
+        "value": ""
       }
     ]
   },
   {
-    "gift": 846,
+    "gift": 839,
     "name": "Wizje ukrytych miejsc",
     "content": [
       {
@@ -12461,7 +12432,7 @@
     ]
   },
   {
-    "gift": 847,
+    "gift": 840,
     "name": "Krok Sigurda",
     "content": [
       {
@@ -12471,7 +12442,7 @@
     ]
   },
   {
-    "gift": 848,
+    "gift": 841,
     "name": "Wytłumienie",
     "content": [
       {
@@ -12485,7 +12456,7 @@
     ]
   },
   {
-    "gift": 849,
+    "gift": 842,
     "name": "Uciszenie Tkaczki",
     "content": [
       {
@@ -12495,7 +12466,7 @@
     ]
   },
   {
-    "gift": 850,
+    "gift": 843,
     "name": "Cisza",
     "content": [
       {
@@ -12505,7 +12476,7 @@
     ]
   },
   {
-    "gift": 851,
+    "gift": 844,
     "name": "Uciszenie ofiary",
     "content": [
       {
@@ -12515,7 +12486,7 @@
     ]
   },
   {
-    "gift": 852,
+    "gift": 845,
     "name": "Srebrne kule",
     "content": [
       {
@@ -12525,7 +12496,7 @@
     ]
   },
   {
-    "gift": 853,
+    "gift": 846,
     "name": "Srebrne pazury",
     "content": [
       {
@@ -12551,7 +12522,7 @@
     ]
   },
   {
-    "gift": 854,
+    "gift": 847,
     "name": "Srebrny odwet",
     "content": [
       {
@@ -12561,7 +12532,7 @@
     ]
   },
   {
-    "gift": 855,
+    "gift": 848,
     "name": "Dotyk niesiony głosem",
     "content": [
       {
@@ -12571,7 +12542,7 @@
     ]
   },
   {
-    "gift": 856,
+    "gift": 849,
     "name": "Wyśpiewanie deszczu",
     "content": [
       {
@@ -12585,7 +12556,7 @@
     ]
   },
   {
-    "gift": 857,
+    "gift": 850,
     "name": "Pieśń odpędzania duchów",
     "content": [
       {
@@ -12595,7 +12566,7 @@
     ]
   },
   {
-    "gift": 858,
+    "gift": 851,
     "name": "Niezachwiane skupienie",
     "content": [
       {
@@ -12605,7 +12576,7 @@
     ]
   },
   {
-    "gift": 859,
+    "gift": 852,
     "name": "Skórzane skrzydła",
     "content": [
       {
@@ -12615,7 +12586,7 @@
     ]
   },
   {
-    "gift": 860,
+    "gift": 853,
     "name": "Bieg po niebie",
     "content": [
       {
@@ -12633,7 +12604,7 @@
     ]
   },
   {
-    "gift": 861,
+    "gift": 854,
     "name": "Spojrzenie z wieżowca",
     "content": [
       {
@@ -12643,7 +12614,7 @@
     ]
   },
   {
-    "gift": 862,
+    "gift": 855,
     "name": "Sen bohatera",
     "content": [
       {
@@ -12653,7 +12624,7 @@
     ]
   },
   {
-    "gift": 863,
+    "gift": 856,
     "name": "Przejęzyczenie",
     "content": [
       {
@@ -12663,7 +12634,7 @@
     ]
   },
   {
-    "gift": 864,
+    "gift": 857,
     "name": "Woń strachu",
     "content": [
       {
@@ -12681,7 +12652,7 @@
     ]
   },
   {
-    "gift": 865,
+    "gift": 858,
     "name": "Woń człowieka",
     "content": [
       {
@@ -12699,7 +12670,7 @@
     ]
   },
   {
-    "gift": 866,
+    "gift": 859,
     "name": "Zapach sukcesu",
     "content": [
       {
@@ -12709,7 +12680,7 @@
     ]
   },
   {
-    "gift": 867,
+    "gift": 860,
     "name": "Sygnały dymne",
     "content": [
       {
@@ -12719,7 +12690,7 @@
     ]
   },
   {
-    "gift": 868,
+    "gift": 861,
     "name": "Wyzwolenie dzikiej natury",
     "content": [
       {
@@ -12733,7 +12704,7 @@
     ]
   },
   {
-    "gift": 869,
+    "gift": 862,
     "name": "Warknięcie drapieżnika",
     "content": [
       {
@@ -12751,7 +12722,7 @@
     ]
   },
   {
-    "gift": 870,
+    "gift": 863,
     "name": "Dusza towarzystwa",
     "content": [
       {
@@ -12761,7 +12732,7 @@
     ]
   },
   {
-    "gift": 871,
+    "gift": 864,
     "name": "Pieśń bohaterów",
     "content": [
       {
@@ -12771,7 +12742,7 @@
     ]
   },
   {
-    "gift": 872,
+    "gift": 865,
     "name": "Bieg po śniegu",
     "content": [
       {
@@ -12781,7 +12752,7 @@
     ]
   },
   {
-    "gift": 873,
+    "gift": 866,
     "name": "Bieg po śniegu",
     "content": [
       {
@@ -12791,7 +12762,7 @@
     ]
   },
   {
-    "gift": 874,
+    "gift": 867,
     "name": "Śnieżny wzrok",
     "content": [
       {
@@ -12801,7 +12772,7 @@
     ]
   },
   {
-    "gift": 875,
+    "gift": 868,
     "name": "Pieśń szyderstwa",
     "content": [
       {
@@ -12811,7 +12782,7 @@
     ]
   },
   {
-    "gift": 876,
+    "gift": 869,
     "name": "Pieśń Szału",
     "content": [
       {
@@ -12837,7 +12808,7 @@
     ]
   },
   {
-    "gift": 877,
+    "gift": 870,
     "name": "Pieśń miejskiej bestii",
     "content": [
       {
@@ -12847,7 +12818,7 @@
     ]
   },
   {
-    "gift": 878,
+    "gift": 871,
     "name": "Straszliwy zew",
     "content": [
       {
@@ -12861,7 +12832,7 @@
     ]
   },
   {
-    "gift": 879,
+    "gift": 872,
     "name": "Pieśń Matki Ziemi",
     "content": [
       {
@@ -12875,7 +12846,7 @@
     ]
   },
   {
-    "gift": 880,
+    "gift": 873,
     "name": "Pieśń Wielkiej Bestii",
     "content": [
       {
@@ -12901,7 +12872,7 @@
     ]
   },
   {
-    "gift": 881,
+    "gift": 874,
     "name": "Pieśń pór roku",
     "content": [
       {
@@ -12915,7 +12886,7 @@
     ]
   },
   {
-    "gift": 882,
+    "gift": 875,
     "name": "Pieśń syreny",
     "content": [
       {
@@ -12933,7 +12904,7 @@
     ]
   },
   {
-    "gift": 883,
+    "gift": 876,
     "name": "Pieśń burzy",
     "content": [
       {
@@ -12947,7 +12918,7 @@
     ]
   },
   {
-    "gift": 884,
+    "gift": 877,
     "name": "Poskromienie dzikiej bestii",
     "content": [
       {
@@ -12957,7 +12928,7 @@
     ]
   },
   {
-    "gift": 885,
+    "gift": 878,
     "name": "Brzemię winy",
     "content": [
       {
@@ -12967,7 +12938,7 @@
     ]
   },
   {
-    "gift": 886,
+    "gift": 879,
     "name": "Głos cierpienia",
     "content": [
       {
@@ -12977,7 +12948,7 @@
     ]
   },
   {
-    "gift": 887,
+    "gift": 880,
     "name": "Rozmowa z duchami wiatru",
     "content": [
       {
@@ -12995,7 +12966,7 @@
     ]
   },
   {
-    "gift": 888,
+    "gift": 881,
     "name": "Taniec włóczni",
     "content": [
       {
@@ -13005,7 +12976,7 @@
     ]
   },
   {
-    "gift": 889,
+    "gift": 882,
     "name": "Język świata",
     "content": [
       {
@@ -13019,7 +12990,7 @@
     ]
   },
   {
-    "gift": 890,
+    "gift": 883,
     "name": "Niewyobrażalna szybkość",
     "content": [
       {
@@ -13041,7 +13012,7 @@
     ]
   },
   {
-    "gift": 891,
+    "gift": 884,
     "name": "Niezwykła szybkość",
     "content": [
       {
@@ -13067,7 +13038,7 @@
     ]
   },
   {
-    "gift": 892,
+    "gift": 885,
     "name": "Hipnotyzująca przemowa",
     "content": [
       {
@@ -13077,7 +13048,7 @@
     ]
   },
   {
-    "gift": 893,
+    "gift": 886,
     "name": "Pieśń Pająka",
     "content": [
       {
@@ -13095,7 +13066,7 @@
     ]
   },
   {
-    "gift": 894,
+    "gift": 887,
     "name": "Taniec cienia Spirali",
     "content": [
       {
@@ -13105,7 +13076,7 @@
     ]
   },
   {
-    "gift": 895,
+    "gift": 888,
     "name": "Duchowy kwiat",
     "content": [
       {
@@ -13115,7 +13086,7 @@
     ]
   },
   {
-    "gift": 896,
+    "gift": 889,
     "name": "Duchowe piętno",
     "content": [
       {
@@ -13125,7 +13096,7 @@
     ]
   },
   {
-    "gift": 897,
+    "gift": 890,
     "name": "Wyssanie Mocy",
     "content": [
       {
@@ -13147,7 +13118,7 @@
     ]
   },
   {
-    "gift": 898,
+    "gift": 891,
     "name": "Duch przyjaciel",
     "content": [
       {
@@ -13173,7 +13144,7 @@
     ]
   },
   {
-    "gift": 899,
+    "gift": 892,
     "name": "Duchowy nóż",
     "content": [
       {
@@ -13183,7 +13154,7 @@
     ]
   },
   {
-    "gift": 900,
+    "gift": 893,
     "name": "Pożyczenie Daru",
     "content": [
       {
@@ -13193,7 +13164,7 @@
     ]
   },
   {
-    "gift": 901,
+    "gift": 894,
     "name": "Duch ptaka",
     "content": [
       {
@@ -13211,7 +13182,7 @@
     ]
   },
   {
-    "gift": 902,
+    "gift": 895,
     "name": "Duch ryby",
     "content": [
       {
@@ -13229,7 +13200,7 @@
     ]
   },
   {
-    "gift": 903,
+    "gift": 896,
     "name": "Duch walki",
     "content": [
       {
@@ -13255,7 +13226,7 @@
     ]
   },
   {
-    "gift": 904,
+    "gift": 897,
     "name": "Duch jaszczurki",
     "content": [
       {
@@ -13265,7 +13236,7 @@
     ]
   },
   {
-    "gift": 905,
+    "gift": 898,
     "name": "Duchowe sidła",
     "content": [
       {
@@ -13275,7 +13246,7 @@
     ]
   },
   {
-    "gift": 906,
+    "gift": 899,
     "name": "Duchowy szlak",
     "content": [
       {
@@ -13285,7 +13256,7 @@
     ]
   },
   {
-    "gift": 907,
+    "gift": 900,
     "name": "Rozpruwacz duchów",
     "content": [
       {
@@ -13295,7 +13266,7 @@
     ]
   },
   {
-    "gift": 908,
+    "gift": 901,
     "name": "Rozszarpanie ducha",
     "content": [
       {
@@ -13305,7 +13276,7 @@
     ]
   },
   {
-    "gift": 909,
+    "gift": 902,
     "name": "Duchowa powłoka",
     "content": [
       {
@@ -13315,7 +13286,7 @@
     ]
   },
   {
-    "gift": 910,
+    "gift": 903,
     "name": "Duchowy przemyt",
     "content": [
       {
@@ -13325,7 +13296,7 @@
     ]
   },
   {
-    "gift": 911,
+    "gift": 904,
     "name": "Mowa duchów",
     "content": [
       {
@@ -13351,7 +13322,7 @@
     ]
   },
   {
-    "gift": 912,
+    "gift": 905,
     "name": "Duchowe naczynie",
     "content": [
       {
@@ -13369,7 +13340,7 @@
     ]
   },
   {
-    "gift": 913,
+    "gift": 906,
     "name": "Zapora przeciw duchom",
     "content": [
       {
@@ -13395,7 +13366,7 @@
     ]
   },
   {
-    "gift": 914,
+    "gift": 907,
     "name": "Świadectwo ducha",
     "content": [
       {
@@ -13405,7 +13376,7 @@
     ]
   },
   {
-    "gift": 915,
+    "gift": 908,
     "name": "Duchy rozkładu",
     "content": [
       {
@@ -13456,7 +13427,7 @@
     ]
   },
   {
-    "gift": 916,
+    "gift": 909,
     "name": "Gniew ducha",
     "content": [
       {
@@ -13466,7 +13437,7 @@
     ]
   },
   {
-    "gift": 917,
+    "gift": 910,
     "name": "Duchowy wierzchowiec",
     "content": [
       {
@@ -13480,7 +13451,7 @@
     ]
   },
   {
-    "gift": 918,
+    "gift": 911,
     "name": "Rozszczepiony pazur",
     "content": [
       {
@@ -13490,7 +13461,7 @@
     ]
   },
   {
-    "gift": 919,
+    "gift": 912,
     "name": "Bieg w cieniu",
     "content": [
       {
@@ -13500,7 +13471,7 @@
     ]
   },
   {
-    "gift": 920,
+    "gift": 913,
     "name": "Pazury-żądła",
     "content": [
       {
@@ -13514,7 +13485,7 @@
     ]
   },
   {
-    "gift": 921,
+    "gift": 914,
     "name": "Szaleństwo św. Hervégo",
     "content": [
       {
@@ -13524,7 +13495,7 @@
     ]
   },
   {
-    "gift": 922,
+    "gift": 915,
     "name": "Zmrożenie wzrokiem",
     "content": [
       {
@@ -13550,7 +13521,7 @@
     ]
   },
   {
-    "gift": 923,
+    "gift": 916,
     "name": "Niezłomność",
     "content": [
       {
@@ -13560,7 +13531,7 @@
     ]
   },
   {
-    "gift": 924,
+    "gift": 917,
     "name": "Duchowa kradzież",
     "content": [
       {
@@ -13570,7 +13541,7 @@
     ]
   },
   {
-    "gift": 925,
+    "gift": 918,
     "name": "Stalowa rozdymka",
     "content": [
       {
@@ -13580,7 +13551,7 @@
     ]
   },
   {
-    "gift": 926,
+    "gift": 919,
     "name": "Stalowe futro",
     "content": [
       {
@@ -13602,7 +13573,7 @@
     ]
   },
   {
-    "gift": 927,
+    "gift": 920,
     "name": "Przebranie gronostaja",
     "content": [
       {
@@ -13612,7 +13583,7 @@
     ]
   },
   {
-    "gift": 928,
+    "gift": 921,
     "name": "Przemiana stali w ciało",
     "content": [
       {
@@ -13622,7 +13593,7 @@
     ]
   },
   {
-    "gift": 929,
+    "gift": 922,
     "name": "Fetor miasta",
     "content": [
       {
@@ -13632,7 +13603,7 @@
     ]
   },
   {
-    "gift": 930,
+    "gift": 923,
     "name": "Smród parobka",
     "content": [
       {
@@ -13642,7 +13613,7 @@
     ]
   },
   {
-    "gift": 931,
+    "gift": 924,
     "name": "Kłujące uderzenia",
     "content": [
       {
@@ -13652,7 +13623,7 @@
     ]
   },
   {
-    "gift": 932,
+    "gift": 925,
     "name": "Płomień Szału",
     "content": [
       {
@@ -13678,7 +13649,7 @@
     ]
   },
   {
-    "gift": 933,
+    "gift": 926,
     "name": "Skradziona skóra",
     "content": [
       {
@@ -13688,7 +13659,7 @@
     ]
   },
   {
-    "gift": 934,
+    "gift": 927,
     "name": "Zupa z kamienia",
     "content": [
       {
@@ -13698,7 +13669,7 @@
     ]
   },
   {
-    "gift": 935,
+    "gift": 928,
     "name": "Kamienny miotacz",
     "content": [
       {
@@ -13708,7 +13679,7 @@
     ]
   },
   {
-    "gift": 936,
+    "gift": 929,
     "name": "Nawałnica matczynej furii",
     "content": [
       {
@@ -13718,7 +13689,7 @@
     ]
   },
   {
-    "gift": 937,
+    "gift": 930,
     "name": "Tnący wicher",
     "content": [
       {
@@ -13736,7 +13707,7 @@
     ]
   },
   {
-    "gift": 938,
+    "gift": 931,
     "name": "Gawędziarz",
     "content": [
       {
@@ -13746,7 +13717,7 @@
     ]
   },
   {
-    "gift": 939,
+    "gift": 932,
     "name": "Niezwykły deszcz",
     "content": [
       {
@@ -13756,7 +13727,7 @@
     ]
   },
   {
-    "gift": 940,
+    "gift": 933,
     "name": "Opowieści ulic",
     "content": [
       {
@@ -13766,7 +13737,7 @@
     ]
   },
   {
-    "gift": 941,
+    "gift": 934,
     "name": "Siła Gai",
     "content": [
       {
@@ -13780,7 +13751,7 @@
     ]
   },
   {
-    "gift": 942,
+    "gift": 935,
     "name": "Potęga sosny",
     "content": [
       {
@@ -13790,7 +13761,7 @@
     ]
   },
   {
-    "gift": 943,
+    "gift": 936,
     "name": "Świadomość celu",
     "content": [
       {
@@ -13812,7 +13783,7 @@
     ]
   },
   {
-    "gift": 944,
+    "gift": 937,
     "name": "Potęga przodków",
     "content": [
       {
@@ -13822,7 +13793,7 @@
     ]
   },
   {
-    "gift": 945,
+    "gift": 938,
     "name": "Moc gniewu",
     "content": [
       {
@@ -13848,7 +13819,7 @@
     ]
   },
   {
-    "gift": 946,
+    "gift": 939,
     "name": "Potęga Einherjarów",
     "content": [
       {
@@ -13858,7 +13829,7 @@
     ]
   },
   {
-    "gift": 947,
+    "gift": 940,
     "name": "Potęga opiekuna",
     "content": [
       {
@@ -13868,7 +13839,7 @@
     ]
   },
   {
-    "gift": 948,
+    "gift": 941,
     "name": "Potęga watahy",
     "content": [
       {
@@ -13878,7 +13849,7 @@
     ]
   },
   {
-    "gift": 949,
+    "gift": 942,
     "name": "Przywołanie wspomnień",
     "content": [
       {
@@ -13888,7 +13859,7 @@
     ]
   },
   {
-    "gift": 950,
+    "gift": 943,
     "name": "Silna wola",
     "content": [
       {
@@ -13914,7 +13885,7 @@
     ]
   },
   {
-    "gift": 951,
+    "gift": 944,
     "name": "Nieograniczona siła",
     "content": [
       {
@@ -13924,7 +13895,7 @@
     ]
   },
   {
-    "gift": 952,
+    "gift": 945,
     "name": "Uderzenie w powietrze",
     "content": [
       {
@@ -13938,7 +13909,7 @@
     ]
   },
   {
-    "gift": 953,
+    "gift": 946,
     "name": "Siła z kamienia",
     "content": [
       {
@@ -13952,7 +13923,7 @@
     ]
   },
   {
-    "gift": 954,
+    "gift": 947,
     "name": "Podporządkuj się",
     "content": [
       {
@@ -13962,7 +13933,7 @@
     ]
   },
   {
-    "gift": 955,
+    "gift": 948,
     "name": "Pawi krok",
     "content": [
       {
@@ -13972,7 +13943,7 @@
     ]
   },
   {
-    "gift": 956,
+    "gift": 949,
     "name": "Przywołanie Pająka Sieciarza",
     "content": [
       {
@@ -13990,7 +13961,7 @@
     ]
   },
   {
-    "gift": 957,
+    "gift": 950,
     "name": "Przywołanie żywiołaka Żmija",
     "content": [
       {
@@ -14000,7 +13971,7 @@
     ]
   },
   {
-    "gift": 958,
+    "gift": 951,
     "name": "Przywołanie Kruka Burzy",
     "content": [
       {
@@ -14018,7 +13989,7 @@
     ]
   },
   {
-    "gift": 959,
+    "gift": 952,
     "name": "Przywołanie talizmanu",
     "content": [
       {
@@ -14040,7 +14011,7 @@
     ]
   },
   {
-    "gift": 960,
+    "gift": 953,
     "name": "Przywołanie Chu-Monga",
     "content": [
       {
@@ -14087,7 +14058,7 @@
     ]
   },
   {
-    "gift": 961,
+    "gift": 954,
     "name": "Słoneczny taniec",
     "content": [
       {
@@ -14097,17 +14068,7 @@
     ]
   },
   {
-    "gift": 962,
-    "name": "Zestrojenie z powierzchnią",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 963,
+    "gift": 955,
     "name": "Zestrojenie z powierzchnią",
     "content": [
       {
@@ -14125,7 +14086,7 @@
     ]
   },
   {
-    "gift": 964,
+    "gift": 956,
     "name": "Szkoła przeżycia",
     "content": [
       {
@@ -14147,7 +14108,7 @@
     ]
   },
   {
-    "gift": 965,
+    "gift": 957,
     "name": "Powstrzymanie Szału",
     "content": [
       {
@@ -14157,7 +14118,7 @@
     ]
   },
   {
-    "gift": 966,
+    "gift": 958,
     "name": "Na doczepkę",
     "content": [
       {
@@ -14167,17 +14128,25 @@
     ]
   },
   {
-    "gift": 967,
+    "gift": 959,
     "name": "Małpi ogon",
     "content": [
       {
         "type": "text",
         "value": "Garou posiada chwytny ogon. Nie może nim wykonywać precyzyjnych czynności, potrafi za to okręcić go wokół gałęzi drzewa i zawisnąć (jeżeli jego Siła jest równa lub przewyższa Wytrzymałość). Ogonem można również atakować przeciwnika — w takim przypadku stopień trudności trafienia wynosi osiem, natomiast obrażenia to Siła -1. Każda próba użycia tego członka wymaga wykonania testu Zręczność + Wysportowanie; wyjątek stanowi walka, w której Wysportowanie zastępujemy Bójką."
+      },
+      {
+        "type": "text",
+        "value": ""
+      },
+      {
+        "type": "text",
+        "value": ""
       }
     ]
   },
   {
-    "gift": 968,
+    "gift": 960,
     "name": "Przybranie prawdziwej postaci",
     "content": [
       {
@@ -14199,7 +14168,7 @@
     ]
   },
   {
-    "gift": 969,
+    "gift": 961,
     "name": "Przejęcie",
     "content": [
       {
@@ -14209,7 +14178,7 @@
     ]
   },
   {
-    "gift": 970,
+    "gift": 962,
     "name": "Kradzież z zapomnieniem",
     "content": [
       {
@@ -14227,17 +14196,7 @@
     ]
   },
   {
-    "gift": 971,
-    "name": "Szpony Sokoła",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 972,
+    "gift": 963,
     "name": "Lepki cień",
     "content": [
       {
@@ -14247,9 +14206,13 @@
     ]
   },
   {
-    "gift": 973,
+    "gift": 964,
     "name": "Szpony Sokoła",
     "content": [
+      {
+        "type": "text",
+        "value": ""
+      },
       {
         "type": "text",
         "value": ""
@@ -14261,7 +14224,7 @@
     ]
   },
   {
-    "gift": 974,
+    "gift": 965,
     "name": "Technomowa",
     "content": [
       {
@@ -14279,7 +14242,7 @@
     ]
   },
   {
-    "gift": 975,
+    "gift": 966,
     "name": "Technognoza",
     "content": [
       {
@@ -14289,7 +14252,7 @@
     ]
   },
   {
-    "gift": 976,
+    "gift": 967,
     "name": "Nieustępliwa furia",
     "content": [
       {
@@ -14299,7 +14262,7 @@
     ]
   },
   {
-    "gift": 977,
+    "gift": 968,
     "name": "Technokratyczna apokalipsa",
     "content": [
       {
@@ -14309,7 +14272,7 @@
     ]
   },
   {
-    "gift": 978,
+    "gift": 969,
     "name": "Groza",
     "content": [
       {
@@ -14319,7 +14282,7 @@
     ]
   },
   {
-    "gift": 979,
+    "gift": 970,
     "name": "Przemiana terenu",
     "content": [
       {
@@ -14329,7 +14292,7 @@
     ]
   },
   {
-    "gift": 980,
+    "gift": 971,
     "name": "Terytorium",
     "content": [
       {
@@ -14343,7 +14306,7 @@
     ]
   },
   {
-    "gift": 981,
+    "gift": 972,
     "name": "Terror pradawnego wilka",
     "content": [
       {
@@ -14353,7 +14316,7 @@
     ]
   },
   {
-    "gift": 982,
+    "gift": 973,
     "name": "Rozłupujące kopyto",
     "content": [
       {
@@ -14363,7 +14326,7 @@
     ]
   },
   {
-    "gift": 983,
+    "gift": 974,
     "name": "Pełzająca dłoń",
     "content": [
       {
@@ -14373,7 +14336,7 @@
     ]
   },
   {
-    "gift": 984,
+    "gift": 975,
     "name": "Powalający dotyk",
     "content": [
       {
@@ -14383,7 +14346,7 @@
     ]
   },
   {
-    "gift": 985,
+    "gift": 976,
     "name": "Mroźna noc",
     "content": [
       {
@@ -14393,7 +14356,7 @@
     ]
   },
   {
-    "gift": 986,
+    "gift": 977,
     "name": "Godna śmierć",
     "content": [
       {
@@ -14403,7 +14366,7 @@
     ]
   },
   {
-    "gift": 987,
+    "gift": 978,
     "name": "Długi skok",
     "content": [
       {
@@ -14413,7 +14376,7 @@
     ]
   },
   {
-    "gift": 988,
+    "gift": 979,
     "name": "Głodny ogar",
     "content": [
       {
@@ -14423,7 +14386,7 @@
     ]
   },
   {
-    "gift": 989,
+    "gift": 980,
     "name": "Żywe drzewa",
     "content": [
       {
@@ -14445,7 +14408,7 @@
     ]
   },
   {
-    "gift": 990,
+    "gift": 981,
     "name": "Giętki duch",
     "content": [
       {
@@ -14476,7 +14439,7 @@
     ]
   },
   {
-    "gift": 991,
+    "gift": 982,
     "name": "Znamię",
     "content": [
       {
@@ -14486,7 +14449,7 @@
     ]
   },
   {
-    "gift": 992,
+    "gift": 983,
     "name": "Tajemnica Gai",
     "content": [
       {
@@ -14500,7 +14463,7 @@
     ]
   },
   {
-    "gift": 993,
+    "gift": 984,
     "name": "Jedwabna szata",
     "content": [
       {
@@ -14510,7 +14473,7 @@
     ]
   },
   {
-    "gift": 994,
+    "gift": 985,
     "name": "Niełaska duchów",
     "content": [
       {
@@ -14520,7 +14483,7 @@
     ]
   },
   {
-    "gift": 995,
+    "gift": 986,
     "name": "Łatwość nauczania",
     "content": [
       {
@@ -14530,7 +14493,7 @@
     ]
   },
   {
-    "gift": 996,
+    "gift": 987,
     "name": "Tysiąc kształtów",
     "content": [
       {
@@ -14540,7 +14503,7 @@
     ]
   },
   {
-    "gift": 997,
+    "gift": 988,
     "name": "Podejrzany",
     "content": [
       {
@@ -14550,7 +14513,7 @@
     ]
   },
   {
-    "gift": 998,
+    "gift": 989,
     "name": "Szpony złodzieja",
     "content": [
       {
@@ -14560,7 +14523,7 @@
     ]
   },
   {
-    "gift": 999,
+    "gift": 990,
     "name": "Szpony sroki złodziejki",
     "content": [
       {
@@ -14582,7 +14545,7 @@
     ]
   },
   {
-    "gift": 1000,
+    "gift": 991,
     "name": "Myślokształt Dwunastu Ministrów",
     "content": [
       {
@@ -14592,7 +14555,7 @@
     ]
   },
   {
-    "gift": 1001,
+    "gift": 992,
     "name": "Tysiąc kształtów",
     "content": [
       {
@@ -14606,7 +14569,7 @@
     ]
   },
   {
-    "gift": 1002,
+    "gift": 993,
     "name": "Tysiąc zębów",
     "content": [
       {
@@ -14616,7 +14579,7 @@
     ]
   },
   {
-    "gift": 1003,
+    "gift": 994,
     "name": "Nici Tkaczki",
     "content": [
       {
@@ -14630,7 +14593,7 @@
     ]
   },
   {
-    "gift": 1004,
+    "gift": 995,
     "name": "Dotyk złotej rączki",
     "content": [
       {
@@ -14640,7 +14603,7 @@
     ]
   },
   {
-    "gift": 1005,
+    "gift": 996,
     "name": "Bieg bez wytchnienia",
     "content": [
       {
@@ -14650,7 +14613,7 @@
     ]
   },
   {
-    "gift": 1006,
+    "gift": 997,
     "name": "Nowa sztuczka Tommy’ego",
     "content": [
       {
@@ -14660,7 +14623,7 @@
     ]
   },
   {
-    "gift": 1007,
+    "gift": 998,
     "name": "Języki",
     "content": [
       {
@@ -14682,7 +14645,7 @@
     ]
   },
   {
-    "gift": 1008,
+    "gift": 999,
     "name": "Jeździec tornada",
     "content": [
       {
@@ -14696,9 +14659,13 @@
     ]
   },
   {
-    "gift": 1009,
+    "gift": 1000,
     "name": "Postać totemu",
     "content": [
+      {
+        "type": "text",
+        "value": ""
+      },
       {
         "type": "text",
         "value": ""
@@ -14706,7 +14673,7 @@
     ]
   },
   {
-    "gift": 1010,
+    "gift": 1001,
     "name": "Dar totemu",
     "content": [
       {
@@ -14732,17 +14699,7 @@
     ]
   },
   {
-    "gift": 1011,
-    "name": "Postać totemu",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 1012,
+    "gift": 1002,
     "name": "Dotknięcie śmierci",
     "content": [
       {
@@ -14764,7 +14721,7 @@
     ]
   },
   {
-    "gift": 1013,
+    "gift": 1003,
     "name": "Dotknięcie Szałem",
     "content": [
       {
@@ -14774,7 +14731,7 @@
     ]
   },
   {
-    "gift": 1014,
+    "gift": 1004,
     "name": "Dotyk węgorza",
     "content": [
       {
@@ -14792,7 +14749,7 @@
     ]
   },
   {
-    "gift": 1015,
+    "gift": 1005,
     "name": "Dotyk Muzy",
     "content": [
       {
@@ -14802,7 +14759,7 @@
     ]
   },
   {
-    "gift": 1016,
+    "gift": 1006,
     "name": "Opaska uciskowa",
     "content": [
       {
@@ -14812,7 +14769,7 @@
     ]
   },
   {
-    "gift": 1017,
+    "gift": 1007,
     "name": "Toksyczne pazury",
     "content": [
       {
@@ -14822,7 +14779,7 @@
     ]
   },
   {
-    "gift": 1018,
+    "gift": 1008,
     "name": "Pustkowie bez dróg",
     "content": [
       {
@@ -14848,7 +14805,7 @@
     ]
   },
   {
-    "gift": 1019,
+    "gift": 1009,
     "name": "Śmieciowy skarb",
     "content": [
       {
@@ -14858,7 +14815,7 @@
     ]
   },
   {
-    "gift": 1020,
+    "gift": 1010,
     "name": "Przeniesienie",
     "content": [
       {
@@ -14868,7 +14825,7 @@
     ]
   },
   {
-    "gift": 1021,
+    "gift": 1011,
     "name": "Szlak bólu",
     "content": [
       {
@@ -14882,7 +14839,7 @@
     ]
   },
   {
-    "gift": 1022,
+    "gift": 1012,
     "name": "Pionier",
     "content": [
       {
@@ -14892,7 +14849,7 @@
     ]
   },
   {
-    "gift": 1023,
+    "gift": 1013,
     "name": "Magnes na odpady",
     "content": [
       {
@@ -14910,7 +14867,7 @@
     ]
   },
   {
-    "gift": 1024,
+    "gift": 1014,
     "name": "Po grzbiecie Sebeka",
     "content": [
       {
@@ -14928,9 +14885,13 @@
     ]
   },
   {
-    "gift": 1025,
+    "gift": 1015,
     "name": "Popisowy strzał",
     "content": [
+      {
+        "type": "text",
+        "value": ""
+      },
       {
         "type": "text",
         "value": ""
@@ -14942,17 +14903,7 @@
     ]
   },
   {
-    "gift": 1026,
-    "name": "Popisowy strzał",
-    "content": [
-      {
-        "type": "text",
-        "value": ""
-      }
-    ]
-  },
-  {
-    "gift": 1027,
+    "gift": 1016,
     "name": "Przyciąganie pecha",
     "content": [
       {
@@ -14962,7 +14913,7 @@
     ]
   },
   {
-    "gift": 1028,
+    "gift": 1017,
     "name": "Skóra trolla",
     "content": [
       {
@@ -14980,7 +14931,7 @@
     ]
   },
   {
-    "gift": 1029,
+    "gift": 1018,
     "name": "Most trolli",
     "content": [
       {
@@ -14990,7 +14941,7 @@
     ]
   },
   {
-    "gift": 1030,
+    "gift": 1019,
     "name": "Poszukiwacz kłopotów",
     "content": [
       {
@@ -15000,7 +14951,7 @@
     ]
   },
   {
-    "gift": 1031,
+    "gift": 1020,
     "name": "Pokój Heliosa",
     "content": [
       {
@@ -15014,7 +14965,7 @@
     ]
   },
   {
-    "gift": 1032,
+    "gift": 1021,
     "name": "Prawdziwe przerażenie",
     "content": [
       {
@@ -15040,7 +14991,7 @@
     ]
   },
   {
-    "gift": 1033,
+    "gift": 1022,
     "name": "Nieomylny strzał",
     "content": [
       {
@@ -15050,7 +15001,7 @@
     ]
   },
   {
-    "gift": 1034,
+    "gift": 1023,
     "name": "Najprawdziwszy sakrament",
     "content": [
       {
@@ -15060,7 +15011,7 @@
     ]
   },
   {
-    "gift": 1035,
+    "gift": 1024,
     "name": "Zaufaj mi",
     "content": [
       {
@@ -15070,7 +15021,7 @@
     ]
   },
   {
-    "gift": 1036,
+    "gift": 1025,
     "name": "Zaufanie Gai",
     "content": [
       {
@@ -15084,7 +15035,7 @@
     ]
   },
   {
-    "gift": 1037,
+    "gift": 1026,
     "name": "Prawda Gai",
     "content": [
       {
@@ -15110,7 +15061,7 @@
     ]
   },
   {
-    "gift": 1038,
+    "gift": 1027,
     "name": "Prawda o ofierze",
     "content": [
       {
@@ -15120,7 +15071,7 @@
     ]
   },
   {
-    "gift": 1039,
+    "gift": 1028,
     "name": "Pieśń Orfeusza",
     "content": [
       {
@@ -15130,7 +15081,7 @@
     ]
   },
   {
-    "gift": 1040,
+    "gift": 1029,
     "name": "Zmiana Patronatu",
     "content": [
       {
@@ -15140,7 +15091,7 @@
     ]
   },
   {
-    "gift": 1041,
+    "gift": 1030,
     "name": "Uśpiony metabolizm",
     "content": [
       {
@@ -15158,7 +15109,7 @@
     ]
   },
   {
-    "gift": 1042,
+    "gift": 1031,
     "name": "Skorupa Żółwia",
     "content": [
       {
@@ -15180,7 +15131,7 @@
     ]
   },
   {
-    "gift": 1043,
+    "gift": 1032,
     "name": "Dwoista mowa",
     "content": [
       {
@@ -15190,7 +15141,7 @@
     ]
   },
   {
-    "gift": 1044,
+    "gift": 1033,
     "name": "Śmiertelny uścisk",
     "content": [
       {
@@ -15200,7 +15151,7 @@
     ]
   },
   {
-    "gift": 1045,
+    "gift": 1034,
     "name": "Wszechobecność",
     "content": [
       {
@@ -15210,7 +15161,7 @@
     ]
   },
   {
-    "gift": 1046,
+    "gift": 1035,
     "name": "Lodowate spojrzenie Ukteny",
     "content": [
       {
@@ -15224,7 +15175,7 @@
     ]
   },
   {
-    "gift": 1047,
+    "gift": 1036,
     "name": "Wzrok Ukteny",
     "content": [
       {
@@ -15234,7 +15185,7 @@
     ]
   },
   {
-    "gift": 1048,
+    "gift": 1037,
     "name": "Władza nad nurtem",
     "content": [
       {
@@ -15244,7 +15195,7 @@
     ]
   },
   {
-    "gift": 1049,
+    "gift": 1038,
     "name": "Ostateczny argument logiczny",
     "content": [
       {
@@ -15258,7 +15209,7 @@
     ]
   },
   {
-    "gift": 1050,
+    "gift": 1039,
     "name": "Umbralne ciało",
     "content": [
       {
@@ -15268,7 +15219,7 @@
     ]
   },
   {
-    "gift": 1051,
+    "gift": 1040,
     "name": "Umbralne tunele",
     "content": [
       {
@@ -15282,7 +15233,7 @@
     ]
   },
   {
-    "gift": 1052,
+    "gift": 1041,
     "name": "Umbralny kamuflaż",
     "content": [
       {
@@ -15296,7 +15247,7 @@
     ]
   },
   {
-    "gift": 1053,
+    "gift": 1042,
     "name": "Umbralny kompas",
     "content": [
       {
@@ -15306,7 +15257,7 @@
     ]
   },
   {
-    "gift": 1054,
+    "gift": 1043,
     "name": "Umbralny unik",
     "content": [
       {
@@ -15316,7 +15267,7 @@
     ]
   },
   {
-    "gift": 1055,
+    "gift": 1044,
     "name": "Pocisk spoza Rękawicy",
     "content": [
       {
@@ -15326,7 +15277,7 @@
     ]
   },
   {
-    "gift": 1056,
+    "gift": 1045,
     "name": "Umbralny wzrok",
     "content": [
       {
@@ -15336,7 +15287,7 @@
     ]
   },
   {
-    "gift": 1057,
+    "gift": 1046,
     "name": "Umbralna więź",
     "content": [
       {
@@ -15354,7 +15305,7 @@
     ]
   },
   {
-    "gift": 1058,
+    "gift": 1047,
     "name": "Umbralne tropienie",
     "content": [
       {
@@ -15364,7 +15315,7 @@
     ]
   },
   {
-    "gift": 1059,
+    "gift": 1048,
     "name": "Nieuchwytny od zarania świata",
     "content": [
       {
@@ -15378,7 +15329,7 @@
     ]
   },
   {
-    "gift": 1060,
+    "gift": 1049,
     "name": "Na celowniku",
     "content": [
       {
@@ -15388,7 +15339,7 @@
     ]
   },
   {
-    "gift": 1061,
+    "gift": 1050,
     "name": "Perłowe szpony",
     "content": [
       {
@@ -15398,7 +15349,7 @@
     ]
   },
   {
-    "gift": 1062,
+    "gift": 1051,
     "name": "Jedność watahy",
     "content": [
       {
@@ -15408,7 +15359,7 @@
     ]
   },
   {
-    "gift": 1063,
+    "gift": 1052,
     "name": "Podziemia",
     "content": [
       {
@@ -15418,7 +15369,7 @@
     ]
   },
   {
-    "gift": 1064,
+    "gift": 1053,
     "name": "Podziemne szlaki",
     "content": [
       {
@@ -15428,7 +15379,7 @@
     ]
   },
   {
-    "gift": 1065,
+    "gift": 1054,
     "name": "Wdzięk Jednorożca",
     "content": [
       {
@@ -15450,7 +15401,7 @@
     ]
   },
   {
-    "gift": 1066,
+    "gift": 1055,
     "name": "Zjednoczona siła",
     "content": [
       {
@@ -15460,7 +15411,7 @@
     ]
   },
   {
-    "gift": 1067,
+    "gift": 1056,
     "name": "Uniwersalny interfejs",
     "content": [
       {
@@ -15470,7 +15421,7 @@
     ]
   },
   {
-    "gift": 1068,
+    "gift": 1057,
     "name": "Sojusznicy z Dworu Unseelie",
     "content": [
       {
@@ -15484,7 +15435,7 @@
     ]
   },
   {
-    "gift": 1069,
+    "gift": 1058,
     "name": "Niepowstrzymany wojownik",
     "content": [
       {
@@ -15498,7 +15449,7 @@
     ]
   },
   {
-    "gift": 1070,
+    "gift": 1059,
     "name": "Marionetka",
     "content": [
       {
@@ -15508,7 +15459,7 @@
     ]
   },
   {
-    "gift": 1071,
+    "gift": 1060,
     "name": "Straż noclegowiska",
     "content": [
       {
@@ -15547,7 +15498,7 @@
     ]
   },
   {
-    "gift": 1072,
+    "gift": 1061,
     "name": "Zmącenie odbicia",
     "content": [
       {
@@ -15557,7 +15508,7 @@
     ]
   },
   {
-    "gift": 1073,
+    "gift": 1062,
     "name": "Jad",
     "content": [
       {
@@ -15575,7 +15526,7 @@
     ]
   },
   {
-    "gift": 1074,
+    "gift": 1063,
     "name": "Trująca krew",
     "content": [
       {
@@ -15593,7 +15544,7 @@
     ]
   },
   {
-    "gift": 1075,
+    "gift": 1064,
     "name": "Ogląd pola bitwy",
     "content": [
       {
@@ -15603,7 +15554,7 @@
     ]
   },
   {
-    "gift": 1076,
+    "gift": 1065,
     "name": "Pogwałcenie",
     "content": [
       {
@@ -15613,7 +15564,7 @@
     ]
   },
   {
-    "gift": 1077,
+    "gift": 1066,
     "name": "Nieskalany śnieg",
     "content": [
       {
@@ -15623,7 +15574,7 @@
     ]
   },
   {
-    "gift": 1078,
+    "gift": 1067,
     "name": "Wirtualna Umbra",
     "content": [
       {
@@ -15637,7 +15588,7 @@
     ]
   },
   {
-    "gift": 1079,
+    "gift": 1068,
     "name": "Oblicze Fenrisa",
     "content": [
       {
@@ -15655,7 +15606,7 @@
     ]
   },
   {
-    "gift": 1080,
+    "gift": 1069,
     "name": "Przeszywający ból",
     "content": [
       {
@@ -15673,7 +15624,7 @@
     ]
   },
   {
-    "gift": 1081,
+    "gift": 1070,
     "name": "Widzenie prawdziwego ducha",
     "content": [
       {
@@ -15683,7 +15634,7 @@
     ]
   },
   {
-    "gift": 1082,
+    "gift": 1071,
     "name": "Widma zabitych",
     "content": [
       {
@@ -15697,7 +15648,7 @@
     ]
   },
   {
-    "gift": 1083,
+    "gift": 1072,
     "name": "Przebudzenie zmarłych",
     "content": [
       {
@@ -15707,7 +15658,7 @@
     ]
   },
   {
-    "gift": 1084,
+    "gift": 1073,
     "name": "Visuddha",
     "content": [
       {
@@ -15717,7 +15668,7 @@
     ]
   },
   {
-    "gift": 1085,
+    "gift": 1074,
     "name": "Głos rozsądku",
     "content": [
       {
@@ -15727,7 +15678,7 @@
     ]
   },
   {
-    "gift": 1086,
+    "gift": 1075,
     "name": "Sen na jawie",
     "content": [
       {
@@ -15737,7 +15688,7 @@
     ]
   },
   {
-    "gift": 1087,
+    "gift": 1076,
     "name": "Spacer po Pajęczynie",
     "content": [
       {
@@ -15747,7 +15698,7 @@
     ]
   },
   {
-    "gift": 1088,
+    "gift": 1077,
     "name": "Spacer pod nowiem",
     "content": [
       {
@@ -15757,7 +15708,7 @@
     ]
   },
   {
-    "gift": 1089,
+    "gift": 1078,
     "name": "Niewidzialny krok",
     "content": [
       {
@@ -15767,7 +15718,7 @@
     ]
   },
   {
-    "gift": 1090,
+    "gift": 1079,
     "name": "Wędrówka z Hadesem",
     "content": [
       {
@@ -15777,7 +15728,7 @@
     ]
   },
   {
-    "gift": 1091,
+    "gift": 1080,
     "name": "Granitowy mur",
     "content": [
       {
@@ -15799,7 +15750,7 @@
     ]
   },
   {
-    "gift": 1092,
+    "gift": 1081,
     "name": "Ochrona drogi",
     "content": [
       {
@@ -15809,7 +15760,7 @@
     ]
   },
   {
-    "gift": 1093,
+    "gift": 1082,
     "name": "Szaleńczy żar",
     "content": [
       {
@@ -15819,7 +15770,7 @@
     ]
   },
   {
-    "gift": 1094,
+    "gift": 1083,
     "name": "Desperacki szał",
     "content": [
       {
@@ -15829,7 +15780,7 @@
     ]
   },
   {
-    "gift": 1095,
+    "gift": 1084,
     "name": "Trunek wojownika",
     "content": [
       {
@@ -15839,7 +15790,7 @@
     ]
   },
   {
-    "gift": 1096,
+    "gift": 1085,
     "name": "Oko wojownika",
     "content": [
       {
@@ -15849,7 +15800,7 @@
     ]
   },
   {
-    "gift": 1097,
+    "gift": 1086,
     "name": "Żądła osy",
     "content": [
       {
@@ -15871,7 +15822,7 @@
     ]
   },
   {
-    "gift": 1098,
+    "gift": 1087,
     "name": "Baczne spojrzenie",
     "content": [
       {
@@ -15881,7 +15832,7 @@
     ]
   },
   {
-    "gift": 1099,
+    "gift": 1088,
     "name": "Baczne spojrzenie",
     "content": [
       {
@@ -15891,7 +15842,7 @@
     ]
   },
   {
-    "gift": 1100,
+    "gift": 1089,
     "name": "Ścieżki miejskiego wilka",
     "content": [
       {
@@ -15901,7 +15852,7 @@
     ]
   },
   {
-    "gift": 1101,
+    "gift": 1090,
     "name": "Wyczucie wody",
     "content": [
       {
@@ -15911,7 +15862,7 @@
     ]
   },
   {
-    "gift": 1102,
+    "gift": 1091,
     "name": "Oczyszczenie wody",
     "content": [
       {
@@ -15921,7 +15872,7 @@
     ]
   },
   {
-    "gift": 1103,
+    "gift": 1092,
     "name": "Osłabienie ciosu",
     "content": [
       {
@@ -15939,7 +15890,7 @@
     ]
   },
   {
-    "gift": 1104,
+    "gift": 1093,
     "name": "Słaby punkt",
     "content": [
       {
@@ -15949,7 +15900,7 @@
     ]
   },
   {
-    "gift": 1105,
+    "gift": 1094,
     "name": "W niedźwiedziej koszuli",
     "content": [
       {
@@ -15963,7 +15914,7 @@
     ]
   },
   {
-    "gift": 1106,
+    "gift": 1095,
     "name": "Wytrzymałość stali",
     "content": [
       {
@@ -15977,7 +15928,7 @@
     ]
   },
   {
-    "gift": 1107,
+    "gift": 1096,
     "name": "Oczy Tkaczki",
     "content": [
       {
@@ -15987,7 +15938,7 @@
     ]
   },
   {
-    "gift": 1108,
+    "gift": 1097,
     "name": "Oczy Tkaczki",
     "content": [
       {
@@ -15997,7 +15948,7 @@
     ]
   },
   {
-    "gift": 1109,
+    "gift": 1098,
     "name": "Sieć wiedzy",
     "content": [
       {
@@ -16007,7 +15958,7 @@
     ]
   },
   {
-    "gift": 1110,
+    "gift": 1099,
     "name": "Wędrowiec sieci",
     "content": [
       {
@@ -16029,8 +15980,8 @@
     ]
   },
   {
-    "gift": 1111,
-    "name": "Dobrze naoliwione",
+    "gift": 1100,
+    "name": "Dobrze nasmarowane",
     "content": [
       {
         "type": "text",
@@ -16047,7 +15998,7 @@
     ]
   },
   {
-    "gift": 1112,
+    "gift": 1101,
     "name": "Ciało szczeniaka",
     "content": [
       {
@@ -16065,7 +16016,7 @@
     ]
   },
   {
-    "gift": 1113,
+    "gift": 1102,
     "name": "Zdolności szczeniaka",
     "content": [
       {
@@ -16075,7 +16026,7 @@
     ]
   },
   {
-    "gift": 1114,
+    "gift": 1103,
     "name": "Łapanie szeptów",
     "content": [
       {
@@ -16089,7 +16040,7 @@
     ]
   },
   {
-    "gift": 1115,
+    "gift": 1104,
     "name": "Szepczący wiatr",
     "content": [
       {
@@ -16099,7 +16050,7 @@
     ]
   },
   {
-    "gift": 1116,
+    "gift": 1105,
     "name": "Szepty Thota",
     "content": [
       {
@@ -16109,7 +16060,7 @@
     ]
   },
   {
-    "gift": 1117,
+    "gift": 1106,
     "name": "Szept ulicy",
     "content": [
       {
@@ -16119,7 +16070,7 @@
     ]
   },
   {
-    "gift": 1118,
+    "gift": 1107,
     "name": "Biały płomień",
     "content": [
       {
@@ -16133,7 +16084,7 @@
     ]
   },
   {
-    "gift": 1119,
+    "gift": 1108,
     "name": "Szpony wichru",
     "content": [
       {
@@ -16143,7 +16094,7 @@
     ]
   },
   {
-    "gift": 1120,
+    "gift": 1109,
     "name": "Ślepota śnieżna",
     "content": [
       {
@@ -16153,7 +16104,7 @@
     ]
   },
   {
-    "gift": 1121,
+    "gift": 1110,
     "name": "Odwet ladacznicy",
     "content": [
       {
@@ -16163,7 +16114,7 @@
     ]
   },
   {
-    "gift": 1122,
+    "gift": 1111,
     "name": "Pędziwiatr",
     "content": [
       {
@@ -16173,7 +16124,7 @@
     ]
   },
   {
-    "gift": 1123,
+    "gift": 1112,
     "name": "Odebranie broni",
     "content": [
       {
@@ -16187,7 +16138,7 @@
     ]
   },
   {
-    "gift": 1124,
+    "gift": 1113,
     "name": "Skrzydlata przesyłka",
     "content": [
       {
@@ -16197,7 +16148,7 @@
     ]
   },
   {
-    "gift": 1125,
+    "gift": 1114,
     "name": "Skrzydła Pegaza",
     "content": [
       {
@@ -16211,7 +16162,7 @@
     ]
   },
   {
-    "gift": 1126,
+    "gift": 1115,
     "name": "Zimowy mróz",
     "content": [
       {
@@ -16221,7 +16172,7 @@
     ]
   },
   {
-    "gift": 1127,
+    "gift": 1116,
     "name": "Mądrość z niebios",
     "content": [
       {
@@ -16231,7 +16182,7 @@
     ]
   },
   {
-    "gift": 1128,
+    "gift": 1117,
     "name": "Mądrość starszych",
     "content": [
       {
@@ -16257,7 +16208,7 @@
     ]
   },
   {
-    "gift": 1129,
+    "gift": 1118,
     "name": "Mądrość proroka",
     "content": [
       {
@@ -16275,7 +16226,7 @@
     ]
   },
   {
-    "gift": 1130,
+    "gift": 1119,
     "name": "Łuk Wisitiplaju",
     "content": [
       {
@@ -16289,7 +16240,7 @@
     ]
   },
   {
-    "gift": 1131,
+    "gift": 1120,
     "name": "Uschnięcie kończyny",
     "content": [
       {
@@ -16315,7 +16266,7 @@
     ]
   },
   {
-    "gift": 1132,
+    "gift": 1121,
     "name": "Malowidła",
     "content": [
       {
@@ -16333,7 +16284,7 @@
     ]
   },
   {
-    "gift": 1133,
+    "gift": 1122,
     "name": "Wilk u drzwi",
     "content": [
       {
@@ -16351,7 +16302,7 @@
     ]
   },
   {
-    "gift": 1134,
+    "gift": 1123,
     "name": "Słowa niesione wiatrem",
     "content": [
       {
@@ -16361,7 +16312,7 @@
     ]
   },
   {
-    "gift": 1135,
+    "gift": 1124,
     "name": "Słowo honoru",
     "content": [
       {
@@ -16371,7 +16322,7 @@
     ]
   },
   {
-    "gift": 1136,
+    "gift": 1125,
     "name": "Ostrze modlitwy",
     "content": [
       {
@@ -16381,7 +16332,7 @@
     ]
   },
   {
-    "gift": 1137,
+    "gift": 1126,
     "name": "Słowa alfy",
     "content": [
       {
@@ -16391,7 +16342,7 @@
     ]
   },
   {
-    "gift": 1138,
+    "gift": 1127,
     "name": "Raniące kłamstwa",
     "content": [
       {
@@ -16405,7 +16356,7 @@
     ]
   },
   {
-    "gift": 1139,
+    "gift": 1128,
     "name": "Gniew Gai",
     "content": [
       {
@@ -16427,7 +16378,7 @@
     ]
   },
   {
-    "gift": 1140,
+    "gift": 1129,
     "name": "Wyślizgnięcie",
     "content": [
       {
@@ -16437,7 +16388,7 @@
     ]
   },
   {
-    "gift": 1141,
+    "gift": 1130,
     "name": "Nienaturalna śmierć",
     "content": [
       {
@@ -16447,7 +16398,7 @@
     ]
   },
   {
-    "gift": 1142,
+    "gift": 1131,
     "name": "Krąg pięciu żywiołów",
     "content": [
       {
@@ -16461,7 +16412,7 @@
     ]
   },
   {
-    "gift": 1143,
+    "gift": 1132,
     "name": "Uzdrowienie Dzikuna",
     "content": [
       {
@@ -16471,7 +16422,7 @@
     ]
   },
   {
-    "gift": 1144,
+    "gift": 1133,
     "name": "Zaciekłość Dzikuna",
     "content": [
       {
@@ -16481,7 +16432,7 @@
     ]
   },
   {
-    "gift": 1145,
+    "gift": 1134,
     "name": "Widzenie Dzikuna",
     "content": [
       {
@@ -16586,7 +16537,7 @@
     ]
   },
   {
-    "gift": 1146,
+    "gift": 1135,
     "name": "Wezwanie Dzikuna",
     "content": [
       {
@@ -16608,7 +16559,7 @@
     ]
   },
   {
-    "gift": 1147,
+    "gift": 1136,
     "name": "Burza Dzikuna",
     "content": [
       {
@@ -16622,7 +16573,7 @@
     ]
   },
   {
-    "gift": 1148,
+    "gift": 1137,
     "name": "Skóra Żmija",
     "content": [
       {
@@ -16644,7 +16595,7 @@
     ]
   },
   {
-    "gift": 1149,
+    "gift": 1138,
     "name": "Mowa Żmija",
     "content": [
       {
@@ -16654,7 +16605,7 @@
     ]
   },
   {
-    "gift": 1150,
+    "gift": 1139,
     "name": "Skażenie Żmijem",
     "content": [
       {
@@ -16664,7 +16615,7 @@
     ]
   },
   {
-    "gift": 1151,
+    "gift": 1140,
     "name": "Wizje Żmija",
     "content": [
       {
@@ -16674,7 +16625,7 @@
     ]
   },
   {
-    "gift": 1152,
+    "gift": 1141,
     "name": "Szepty Żmija",
     "content": [
       {
@@ -16684,7 +16635,7 @@
     ]
   },
   {
-    "gift": 1153,
+    "gift": 1142,
     "name": "Rozkazy Yao",
     "content": [
       {
@@ -16698,7 +16649,7 @@
     ]
   },
   {
-    "gift": 1154,
+    "gift": 1143,
     "name": "Mowa snu",
     "content": [
       {
@@ -16708,7 +16659,7 @@
     ]
   },
   {
-    "gift": 1155,
+    "gift": 1144,
     "name": "Zniewolenie",
     "content": [
       {
@@ -16718,7 +16669,7 @@
     ]
   },
   {
-    "gift": 1156,
+    "gift": 1145,
     "name": "Niezłomność Yu",
     "content": [
       {
@@ -16732,7 +16683,7 @@
     ]
   },
   {
-    "gift": 1157,
+    "gift": 1146,
     "name": "Übermensch",
     "content": [
       {
@@ -16742,7 +16693,7 @@
     ]
   },
   {
-    "gift": 1158,
+    "gift": 1147,
     "name": "Przekleństwo trapera",
     "content": [
       {

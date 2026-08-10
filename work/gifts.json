@@ -21354,6 +21354,18 @@
                     "en": "Indian Giver",
                     "pl": "Pożyczony Sekret"
                 }
+            },
+            {
+                "race": "Garou",
+                "type": "Tribe",
+                "value": "Uktena",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 2,
+                "names": {
+                    "en": "Shadows at Dawn",
+                    "pl": "Cienie o świcie"
+                }
             }
         ],
         "versions": [
@@ -21430,6 +21442,17 @@
                                 ]
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf the Apocalypse",
+                "edition": "W20",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Sometimes, one must give information to get information. However, Uktena are notoriously tightfisted with secrets. With this Gift, the werewolf can share a bit of knowledge that later vanishes from the subject’s memory. An ancestor-spirit teaches this Gift.\n\nSystem: After relating a bit of lore, the player rolls Wits + Subterfuge (difficulty of the opponent’s Wits + Subterfuge). If the roll succeeds, whatever information the Uktena imparted completely vanishes from the target’s memory when the sun next rises.",
+                        "pl": ""
                     }
                 ]
             }
@@ -24658,192 +24681,6 @@
                         "type": "text",
                         "en": "A fine line often exists between madcap humor and the precipice of insanity. The New Moon’s understanding of this boundary enables her to send enemies teetering off the brink into lunacy. While this Gift does no lasting harm to the victim, it can make him an object of ridicule and scorn… and grant a measure of respect to the Ragabash who uses it. Any spirit of Luna can teach this Gift.\n\nSystem: The player expends one Gnosis point and makes a resisted Manipulation + Subterfuge roll against the target’s Willpower. One success causes the victim to become gibbering and helpless in a fit of madness for a number of turns equal to the Ragabash’s Gnosis rating; three successes cause the madness to last the remainder of the scene.",
                         "pl": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Auspice",
-                "value": "Theurge",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 5,
-                "names": {
-                    "en": "Malleable Spirit",
-                    "pl": "Giętki duch"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Core Rulebook (Revised)",
-                "edition": "",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The Garou can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The Garou’s player must beat the spirit in a contested Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
-                        "pl": ""
-                    },
-                    {
-                        "type": "table",
-                        "headers": {
-                            "en": [
-                                "Change",
-                                "Difficulty"
-                            ],
-                            "pl": [
-                                "",
-                                ""
-                            ]
-                        },
-                        "rows": [
-                            {
-                                "en": [
-                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
-                                    "6"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Disposition (Friendly, Neutral, Hostile)",
-                                    "8"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Type (Nature, Elemental, Bane, etc.)",
-                                    "10"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "book": "Dark Ages",
-                "edition": "",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "Reshape a spirit’s nature (traits, disposition, type).",
-                        "pl": ""
-                    },
-                    {
-                        "type": "table",
-                        "headers": {
-                            "en": [
-                                "Change",
-                                "Difficulty"
-                            ],
-                            "pl": [
-                                "",
-                                ""
-                            ]
-                        },
-                        "rows": [
-                            {
-                                "en": [
-                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
-                                    "6"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Disposition",
-                                    "8"
-                                ],
-                                "pl": [
-                                    "Disposition (Friendly, Neutral, Hostile) or Affiliation within Type (water to fire, etc.)",
-                                    "8"
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Type (Naturae, Elemental, Bane, etc.)",
-                                    "10"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "book": "Werewolf the Apocalypse",
-                "edition": "W20",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The werewolf can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The player must best the spirit in a resisted Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
-                        "pl": ""
-                    },
-                    {
-                        "type": "table",
-                        "headers": {
-                            "en": [
-                                "Change",
-                                "Difficulty"
-                            ],
-                            "pl": [
-                                "",
-                                ""
-                            ]
-                        },
-                        "rows": [
-                            {
-                                "en": [
-                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
-                                    "6"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Disposition",
-                                    "8"
-                                ],
-                                "pl": [
-                                    "Disposition (Friendly, Neutral, Hostile)",
-                                    "8"
-                                ]
-                            },
-                            {
-                                "en": [
-                                    "Type (Naturae, Elemental, Bane, etc.)",
-                                    "10"
-                                ],
-                                "pl": [
-                                    "",
-                                    ""
-                                ]
-                            }
-                        ]
                     }
                 ]
             }
@@ -36126,35 +35963,6 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Uktena",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 2,
-                "names": {
-                    "en": "Shadows at Dawn",
-                    "pl": "Cienie o świcie"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Werewolf the Apocalypse",
-                "edition": "W20",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "Sometimes, one must give information to get information. However, Uktena are notoriously tightfisted with secrets. With this Gift, the werewolf can share a bit of knowledge that later vanishes from the subject’s memory. An ancestor-spirit teaches this Gift.\n\nSystem: After relating a bit of lore, the player rolls Wits + Subterfuge (difficulty of the opponent’s Wits + Subterfuge). If the roll succeeds, whatever information the Uktena imparted completely vanishes from the target’s memory when the sun next rises.",
-                        "pl": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Tribe",
                 "value": "Red Talons",
                 "faction_type": "All",
                 "faction_value": "All",
@@ -43209,6 +43017,174 @@
                         ]
                     }
                 ]
+            },
+            {
+                "book": "Core Rulebook (Revised)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Garou can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The Garou’s player must beat the spirit in a contested Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Change",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Disposition (Friendly, Neutral, Hostile)",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Type (Nature, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "book": "Dark Ages",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Reshape a spirit’s nature (traits, disposition, type).",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Change",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Disposition",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Disposition (Friendly, Neutral, Hostile) or Affiliation within Type (water to fire, etc.)",
+                                    "8"
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Type (Naturae, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf the Apocalypse",
+                "edition": "W20",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The werewolf can change a spirit’s form or purpose. A Chimerling teaches this Gift.\n\nSystem: The player must best the spirit in a resisted Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis.",
+                        "pl": ""
+                    },
+                    {
+                        "type": "table",
+                        "headers": {
+                            "en": [
+                                "Change",
+                                "Difficulty"
+                            ],
+                            "pl": [
+                                "",
+                                ""
+                            ]
+                        },
+                        "rows": [
+                            {
+                                "en": [
+                                    "Characteristics (Willpower, Rage, Gnosis) one point changed per success",
+                                    "6"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Disposition",
+                                    "8"
+                                ],
+                                "pl": [
+                                    "Disposition (Friendly, Neutral, Hostile)",
+                                    "8"
+                                ]
+                            },
+                            {
+                                "en": [
+                                    "Type (Naturae, Elemental, Bane, etc.)",
+                                    "10"
+                                ],
+                                "pl": [
+                                    "",
+                                    ""
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -43381,6 +43357,30 @@
                     "en": "The Thousand Forms",
                     "pl": "Tysiąc kształtów"
                 }
+            },
+            {
+                "race": "Garou",
+                "type": "Auspice",
+                "value": "Ragabash",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 5,
+                "names": {
+                    "en": "Thousand Forms",
+                    "pl": "Tysiąc kształtów"
+                }
+            },
+            {
+                "race": "Garou",
+                "type": "Tribe",
+                "value": "Black Furies",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 5,
+                "names": {
+                    "en": "Thousand Forms",
+                    "pl": "Tysiąc kształtów"
+                }
             }
         ],
         "versions": [
@@ -43390,8 +43390,30 @@
                 "content": [
                     {
                         "type": "text",
-                        "en": "The Garou may take the form of any animal between the sizes of a sparrow and a bison, gaining all special abilities thereof (flight, gills, etc.). This Gift is taught by an Animal Father Incarna avatar. No monsters, et al., may be mimicked.\n\nSystem: The Garou spends a Gnosis point and rolls Dexterity + Animal Ken. The difficulty depends on the form chosen.",
-                        "pl": "Garou może przybrać kształt dowolnego zwierzęcia, od jaszczółki poczynając, na bizonie kończąc, nabywając wszystkie specjalne zdolności wybranego gatunku (umiejętność latania, oddychania skrzelami itp.). Mocą tą obdarza wilkołaka awatar Ojca Zwierząt (jeden z Incarna). Nie można w ten sposób zmienić się w istotę nadnaturalną, potwora itp. \n\nSystem: Garou wydaje punkt Gnozy i wykonuje test Zręczność + Poskramianie Zwierząt. Trudność testu zależy od tego, w co chce się zmienić."
+                        "en": "Rank: 4\n\nThe Garou may take the form of any animal between the sizes of a sparrow and a bison, gaining all special abilities thereof (flight, gills, etc.). This Gift is taught by an Animal Father Incarna avatar. No monsters, et al., may be mimicked.\n\nSystem: The Garou spends a Gnosis point and rolls Dexterity + Animal Ken. The difficulty depends on the form chosen.",
+                        "pl": "Ranga: 4\n\nGarou może przybrać kształt dowolnego zwierzęcia, od jaszczółki poczynając, na bizonie kończąc, nabywając wszystkie specjalne zdolności wybranego gatunku (umiejętność latania, oddychania skrzelami itp.). Mocą tą obdarza wilkołaka awatar Ojca Zwierząt (jeden z Incarna). Nie można w ten sposób zmienić się w istotę nadnaturalną, potwora itp. \n\nSystem: Garou wydaje punkt Gnozy i wykonuje test Zręczność + Poskramianie Zwierząt. Trudność testu zależy od tego, w co chce się zmienić."
+                    }
+                ]
+            },
+            {
+                "book": "Core Rulebook (Revised)",
+                "edition": "",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Rank: 5\n\nMost tricksters are shapeshifters, and the Ragabash is no different. The Garou with this Gift may change her form into any animal between the sizes of a small bird and a bison. The Garou gains all the special powers (flight, gills, poison, sensory abilities, etc.) of the animal she mimics. She may not take the form of Wyrm-beasts (not that she would wish to), but she may take the form of mythical beasts and some extinct forms.\n\nSystem: The player spends a Gnosis point and rolls Intelligence + Animal Ken. The difficulty varies, rising higher for more exotic forms. Mimicking mythical animals is always difficulty 10.",
+                        "pl": ""
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf the Apocalypse",
+                "edition": "W20",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Rank: 5\n\nThe werewolf with this Gift may change herself into any animal between the sizes of a small bird and a bison. The Garou gains all the special capabilities (flight, gills, poison, sensory abilities, etc.) of the animal she mimics. She may not take the form of Wyrm-beasts (not that she would wish to!), but with some extra effort she may take the form of mystical beasts (such as a griffon or unicorn), provided the beast remains within the usual size limitations of the Gift. Wyld-spirits teach this Gift.\n\nSystem: The player spends a point of Gnosis and rolls Intelligence + Animal Ken (difficulty 6). One success allows the character to assume the shape of any normal animal. For the duration of the scene, he may make additional transformation rolls without spending additional Gnosis, provided he only takes the shape of normal animals. To allow the character to take on a mythical form, the player must spend an additional point of Gnosis and succeed against a difficulty of 9.",
+                        "pl": ""
                     }
                 ]
             }
@@ -43552,58 +43574,6 @@
                     {
                         "type": "text",
                         "en": "The spoken mantra for this Gift is Aum-ka-la-rim-sa-ka-la-rim-ha-ka-la-rim. This Gift allows a Stargazer to attain true spiritual balance for a single moment. In that moment, all extreme desires and impure emotions are blasted away by an unmitigated blast of the Self. A startling, crackle of energy travels like lightning to each of the Stargazer’s chakra points. It only lasts for a second, and then it is gone. But in its wake, the Stargazer is left empowered and burning with a halo of pale green light. There is only a handful of Stargazers who have ever been worthy enough to learn this Gift, and it can only be taught by an avatar of Chimera.\n\nSystem: The player spends a single temporary point of Gnosis, Rage, and Willpower. For the remainder of the scene, the Garou gains a series of Trait bonuses: +2 to Perception, +3 to Enigmas, +3 to Empathy, and +2 to Brawl. There are two other benefits, as well. First, any Garou standing within ten feet of the Stargazer using this Gift find that their temporary Gnosis pools are suddenly refreshed. Also, this Gift burns out any corruption that was contained in the werewolf grasping the power. Hence, any Wyrm-taint that the character had thus disappears.",
-                        "pl": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Auspice",
-                "value": "Ragabash",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 5,
-                "names": {
-                    "en": "Thousand Forms",
-                    "pl": "Tysiąc kształtów"
-                }
-            },
-            {
-                "race": "Garou",
-                "type": "Tribe",
-                "value": "Black Furies",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 5,
-                "names": {
-                    "en": "Thousand Forms",
-                    "pl": "Tysiąc kształtów"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Core Rulebook (Revised)",
-                "edition": "",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "Most tricksters are shapeshifters, and the Ragabash is no different. The Garou with this Gift may change her form into any animal between the sizes of a small bird and a bison. The Garou gains all the special powers (flight, gills, poison, sensory abilities, etc.) of the animal she mimics. She may not take the form of Wyrm-beasts (not that she would wish to), but she may take the form of mythical beasts and some extinct forms.\n\nSystem: The player spends a Gnosis point and rolls Intelligence + Animal Ken. The difficulty varies, rising higher for more exotic forms. Mimicking mythical animals is always difficulty 10.",
-                        "pl": ""
-                    }
-                ]
-            },
-            {
-                "book": "Werewolf the Apocalypse",
-                "edition": "W20",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The werewolf with this Gift may change herself into any animal between the sizes of a small bird and a bison. The Garou gains all the special capabilities (flight, gills, poison, sensory abilities, etc.) of the animal she mimics. She may not take the form of Wyrm-beasts (not that she would wish to!), but with some extra effort she may take the form of mystical beasts (such as a griffon or unicorn), provided the beast remains within the usual size limitations of the Gift. Wyld-spirits teach this Gift.\n\nSystem: The player spends a point of Gnosis and rolls Intelligence + Animal Ken (difficulty 6). One success allows the character to assume the shape of any normal animal. For the duration of the scene, he may make additional transformation rolls without spending additional Gnosis, provided he only takes the shape of normal animals. To allow the character to take on a mythical form, the player must spend an additional point of Gnosis and succeed against a difficulty of 9.",
                         "pl": ""
                     }
                 ]

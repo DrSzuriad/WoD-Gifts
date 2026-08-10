@@ -4143,7 +4143,7 @@
       "Czuć nici świata",
       "Tkaczka drży w palcach"
     ],
-    "pl_selected": null
+    "pl_selected": "Dzika lobotomia"
   },
   {
     "gift": 331,
@@ -5139,7 +5139,7 @@
       "Jednym skokiem do gardła",
       "Tam, gdzie kończy się walka"
     ],
-    "pl_selected": null
+    "pl_selected": "Skok do gardła"
   },
   {
     "gift": 409,
@@ -6321,7 +6321,7 @@
       "Wyobraźnia budzi świat",
       "Mantra otwiera sen"
     ],
-    "pl_selected": "Mantra przebudzonego snu",
+    "pl_selected": "Mantra przebudzonego snu"
   },
   {
     "gift": 502,
@@ -7783,7 +7783,7 @@
       "Umierający mówi moim głosem",
       "Ostatnia wola ma rzecznika"
     ],
-    "pl_selected": null
+    "pl_selected": "Ostatnie słowa"
   },
   {
     "gift": 618,
@@ -10265,7 +10265,7 @@
       "Róg Jednorożca oczyszcza drogę",
       "Węże i złe duchy precz"
     ],
-    "pl_selected": null
+    "pl_selected": "Odpędzanie węży"
   },
   {
     "gift": 815,
@@ -10719,7 +10719,7 @@
       "Maszyny milkną",
       "Sieć zapada w ciszę"
     ],
-    "pl_selected": null
+    "pl_selected": "Uciszenie Tkaczki"
   },
   {
     "gift": 850,
@@ -14599,7 +14599,7 @@
       "Ponad człowieczą miarę",
       "Człowiek jutra"
     ],
-    "pl_selected": Übermensch
+    "pl_selected": "Übermensch"
   },
   {
     "gift": 1158,

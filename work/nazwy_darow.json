@@ -1,0 +1,5792 @@
+[
+  {
+    "gift": 1,
+    "en": "A Thousand Eyes",
+    "pl": "Tysiąc oczu"
+  },
+  {
+    "gift": 2,
+    "en": "A Thousand Voices",
+    "pl": "Tysiąc głosów"
+  },
+  {
+    "gift": 3,
+    "en": "Acid Talons",
+    "pl": "Palące szpony"
+  },
+  {
+    "gift": 4,
+    "en": "Adaptation",
+    "pl": "Przystosowanie"
+  },
+  {
+    "gift": 5,
+    "en": "Aegis",
+    "pl": "Egida"
+  },
+  {
+    "gift": 6,
+    "en": "Agro Culture",
+    "pl": "Uprawa nieużytków"
+  },
+  {
+    "gift": 7,
+    "en": "Airitech’s Daughters",
+    "pl": "Córki Airitecha"
+  },
+  {
+    "gift": 8,
+    "en": "Airt Perception",
+    "pl": "Wyczucie duchowego tropu"
+  },
+  {
+    "gift": 9,
+    "en": "Alberich’s Claws",
+    "pl": "Pazury Alberyka"
+  },
+  {
+    "gift": 10,
+    "en": "Allies Below",
+    "pl": "Wstrząs z otchłani"
+  },
+  {
+    "gift": 11,
+    "en": "Apecraft’s Blessings",
+    "pl": "Dar Małpich Rąk"
+  },
+  {
+    "gift": 12,
+    "en": "Brother’s Scent",
+    "pl": "Swojski Zapach"
+  },
+  {
+    "gift": 13,
+    "en": "Building a Legend",
+    "pl": "Tworzenie legendy"
+  },
+  {
+    "gift": 14,
+    "en": "Alter Scent",
+    "pl": "Zmiana zapachu"
+  },
+  {
+    "gift": 15,
+    "en": "Anahata",
+    "pl": "Anahata"
+  },
+  {
+    "gift": 16,
+    "en": "Ancestral Incarnation",
+    "pl": "Wcielenie przodków"
+  },
+  {
+    "gift": 17,
+    "en": "Ancestral Recall",
+    "pl": "Pamięć przodków"
+  },
+  {
+    "gift": 18,
+    "en": "Angel’s Semblance",
+    "pl": "Anielskie oblicze"
+  },
+  {
+    "gift": 19,
+    "en": "Anger of the Goddess",
+    "pl": "Pomsta Gai"
+  },
+  {
+    "gift": 20,
+    "en": "Another’s Moccasins",
+    "pl": "W cudzych mokasynach"
+  },
+  {
+    "gift": 21,
+    "en": "Arion’s Burden",
+    "pl": "Wierzchowiec Ariona"
+  },
+  {
+    "gift": 22,
+    "en": "Artisan’s Command",
+    "pl": "Rozkaz rzemieślnika"
+  },
+  {
+    "gift": 23,
+    "en": "Assassin’s Strike",
+    "pl": "Cios zabójcy"
+  },
+  {
+    "gift": 24,
+    "en": "Assimilation",
+    "pl": "Asymilacja"
+  },
+  {
+    "gift": 25,
+    "en": "Astral Mind",
+    "pl": "Astralny umysł"
+  },
+  {
+    "gift": 26,
+    "en": "Atma",
+    "pl": "Atma"
+  },
+  {
+    "gift": 27,
+    "en": "Attunement",
+    "pl": "Zestrojenie"
+  },
+  {
+    "gift": 28,
+    "en": "Aura of Confidence",
+    "pl": "Aura pewności siebie"
+  },
+  {
+    "gift": 29,
+    "en": "Aura of Poison",
+    "pl": "Opary śmierci"
+  },
+  {
+    "gift": 30,
+    "en": "Aura of Nobility",
+    "pl": "Majestat arystokraty"
+  },
+  {
+    "gift": 31,
+    "en": "Aura of the Just",
+    "pl": "Świadectwo sprawiedliwości"
+  },
+  {
+    "gift": 32,
+    "en": "Austere Mind",
+    "pl": "Stoicyzm kamienia"
+  },
+  {
+    "gift": 33,
+    "en": "Avalanche",
+    "pl": "Lawina"
+  },
+  {
+    "gift": 34,
+    "en": "Avatar of the Wyrm",
+    "pl": "Przeobrażenie w Żmija"
+  },
+  {
+    "gift": 35,
+    "en": "Avoid Fate",
+    "pl": "Oszukać przeznaczenie"
+  },
+  {
+    "gift": 36,
+    "en": "Awaken Beast",
+    "pl": "Przebudzenie bestii"
+  },
+  {
+    "gift": 37,
+    "en": "Awe",
+    "pl": "Majestat"
+  },
+  {
+    "gift": 38,
+    "en": "Axis Mundi",
+    "pl": "Axis Mundi"
+  },
+  {
+    "gift": 39,
+    "en": "Babble",
+    "pl": "Bełkot"
+  },
+  {
+    "gift": 40,
+    "en": "Bacchantes’ Rage",
+    "pl": "Ukierunkowany gniew"
+  },
+  {
+    "gift": 41,
+    "en": "Badger’s Heart",
+    "pl": "Borsuczy szał"
+  },
+  {
+    "gift": 42,
+    "en": "Balance",
+    "pl": "Równowaga"
+  },
+  {
+    "gift": 43,
+    "en": "Balance Man and Beast",
+    "pl": "Między wilkiem a człowiekiem"
+  },
+  {
+    "gift": 44,
+    "en": "Balance of Wormwood",
+    "pl": "Piołunowe oczyszczenie"
+  },
+  {
+    "gift": 45,
+    "en": "Bald-Faced Lie",
+    "pl": "Bezczelne kłamstwo"
+  },
+  {
+    "gift": 46,
+    "en": "Bale Armor",
+    "pl": "Paląca osłona"
+  },
+  {
+    "gift": 47,
+    "en": "Bale Aura",
+    "pl": "Aura zepsucia"
+  },
+  {
+    "gift": 48,
+    "en": "Bale Armor",
+    "pl": "Paląca osłona"
+  },
+  {
+    "gift": 49,
+    "en": "Balefire",
+    "pl": "Zatruty płomień"
+  },
+  {
+    "gift": 50,
+    "en": "Balor’s Gaze",
+    "pl": "Zabójczy wzrok"
+  },
+  {
+    "gift": 51,
+    "en": "Bane Protector",
+    "pl": "Wezwanie Zmor"
+  },
+  {
+    "gift": 52,
+    "en": "Banish Totem",
+    "pl": "Wygnanie totemu"
+  },
+  {
+    "gift": 53,
+    "en": "Battle Cry",
+    "pl": "Okrzyk wojenny"
+  },
+  {
+    "gift": 54,
+    "en": "Battle Mandala",
+    "pl": "Bitewna Mandala"
+  },
+  {
+    "gift": 55,
+    "en": "Bare the Heart",
+    "pl": "Obnażenie serca"
+  },
+  {
+    "gift": 56,
+    "en": "Bark of Willow",
+    "pl": "Kora wierzby"
+  },
+  {
+    "gift": 57,
+    "en": "Beast Life",
+    "pl": "Życie zwierząt"
+  },
+  {
+    "gift": 58,
+    "en": "Beast Speech",
+    "pl": "Mowa zwierząt"
+  },
+  {
+    "gift": 59,
+    "en": "Beast Witch",
+    "pl": "Wiedźmia przemiana"
+  },
+  {
+    "gift": 60,
+    "en": "Beastmind",
+    "pl": "Umysł zwierzęcia"
+  },
+  {
+    "gift": 61,
+    "en": "Beat of the Heart-Drum",
+    "pl": "Trop bijącego serca"
+  },
+  {
+    "gift": 62,
+    "en": "Beautiful Lie",
+    "pl": "Piękne kłamstwo"
+  },
+  {
+    "gift": 63,
+    "en": "Bestowing the Predator’s Shadow",
+    "pl": "Narzucenie cienia drapieżnika"
+  },
+  {
+    "gift": 64,
+    "en": "Between the Cracks",
+    "pl": "Pusty zakamarek"
+  },
+  {
+    "gift": 65,
+    "en": "Becoming Uktena",
+    "pl": "Przemiana w Uktenę"
+  },
+  {
+    "gift": 66,
+    "en": "Befriend the Beast Within",
+    "pl": "Uwolnienie wewnętrznej bestii"
+  },
+  {
+    "gift": 67,
+    "en": "Beg",
+    "pl": "Błaganie"
+  },
+  {
+    "gift": 68,
+    "en": "Beneath Notice",
+    "pl": "Pospolity wygląd"
+  },
+  {
+    "gift": 69,
+    "en": "Berserker’s Song",
+    "pl": "Pieśń berserkerów"
+  },
+  {
+    "gift": 70,
+    "en": "Beyond Fear",
+    "pl": "Wizja śmierci"
+  },
+  {
+    "gift": 71,
+    "en": "Beyond Human",
+    "pl": "Nadludzka natura"
+  },
+  {
+    "gift": 72,
+    "en": "Billabong Bridge",
+    "pl": "Most Billabong"
+  },
+  {
+    "gift": 73,
+    "en": "Black Mamba Strike",
+    "pl": "Cios czarnej mamby"
+  },
+  {
+    "gift": 74,
+    "en": "Black Mark",
+    "pl": "Piętno umarłych"
+  },
+  {
+    "gift": 75,
+    "en": "Bird Bones",
+    "pl": "Ptasie kości"
+  },
+  {
+    "gift": 76,
+    "en": "Bite of the Bat",
+    "pl": "Ukąszenie nietoperza"
+  },
+  {
+    "gift": 77,
+    "en": "Bitter Wind",
+    "pl": "Siarczysty Wiatr"
+  },
+  {
+    "gift": 78,
+    "en": "Black Swans",
+    "pl": "Czarne łabędzie"
+  },
+  {
+    "gift": 79,
+    "en": "Blank",
+    "pl": "Wyciszenie impulsów"
+  },
+  {
+    "gift": 80,
+    "en": "Blaze of Glory",
+    "pl": "Płomień chwały"
+  },
+  {
+    "gift": 81,
+    "en": "Blending",
+    "pl": "Wtopienie"
+  },
+  {
+    "gift": 82,
+    "en": "Blessing of the First Pack",
+    "pl": "Błogosławieństwo Pierwszej Watahy"
+  },
+  {
+    "gift": 83,
+    "en": "Bleed",
+    "pl": "Krwawienie"
+  },
+  {
+    "gift": 84,
+    "en": "Blink",
+    "pl": "Szczurzy skrót"
+  },
+  {
+    "gift": 85,
+    "en": "Blissful Ignorance",
+    "pl": "Błoga ignorancja"
+  },
+  {
+    "gift": 86,
+    "en": "Blood Life",
+    "pl": "Pamięć krwi"
+  },
+  {
+    "gift": 87,
+    "en": "Blood of the North",
+    "pl": "Krew Północy"
+  },
+  {
+    "gift": 88,
+    "en": "Blizzard of Arrows",
+    "pl": "Nawałnica strzał"
+  },
+  {
+    "gift": 89,
+    "en": "Blood Omen",
+    "pl": "Wróżba z wnętrzności"
+  },
+  {
+    "gift": 90,
+    "en": "Blood-Scent",
+    "pl": "Woń krwi"
+  },
+  {
+    "gift": 91,
+    "en": "Blood Scent",
+    "pl": "Woń krwi"
+  },
+  {
+    "gift": 92,
+    "en": "Blooding Fury",
+    "pl": "Krwawy szał"
+  },
+  {
+    "gift": 93,
+    "en": "Bloody Feast",
+    "pl": "Krwawa uczta"
+  },
+  {
+    "gift": 94,
+    "en": "Bloody-Mindedness",
+    "pl": "Nieugięta determinacja"
+  },
+  {
+    "gift": 95,
+    "en": "Blur of the Milky Eye",
+    "pl": "Rozmycie postaci"
+  },
+  {
+    "gift": 96,
+    "en": "Body Shift",
+    "pl": "Przemiana"
+  },
+  {
+    "gift": 97,
+    "en": "Body Wrack",
+    "pl": "Wywołanie bólu"
+  },
+  {
+    "gift": 98,
+    "en": "Bolster the True Name",
+    "pl": "Odnowienie duchowej siły"
+  },
+  {
+    "gift": 99,
+    "en": "Bonds that Tie Us",
+    "pl": "Niewidzialne więzy"
+  },
+  {
+    "gift": 100,
+    "en": "Book of Years",
+    "pl": "Pamięć minionych wieków"
+  },
+  {
+    "gift": 101,
+    "en": "Boon of Animal Fathers",
+    "pl": "Łaska Ojców Zwierząt"
+  },
+  {
+    "gift": 102,
+    "en": "Bounty of the Corn Maiden",
+    "pl": "Szczodrość Kukurydzianej Panny"
+  },
+  {
+    "gift": 103,
+    "en": "Bow of Pegasus",
+    "pl": "Łuk Pegaza"
+  },
+  {
+    "gift": 104,
+    "en": "Brand of Suspicion",
+    "pl": "Piętno podejrzliwości"
+  },
+  {
+    "gift": 105,
+    "en": "Break the Bonds",
+    "pl": "Zerwanie więzów"
+  },
+  {
+    "gift": 106,
+    "en": "Break the Loom",
+    "pl": "Splątanie nici"
+  },
+  {
+    "gift": 107,
+    "en": "Breath of the Wyld",
+    "pl": "Tchnienie Dzikuna"
+  },
+  {
+    "gift": 108,
+    "en": "Brew",
+    "pl": "Bimber"
+  },
+  {
+    "gift": 109,
+    "en": "Bridge Walker",
+    "pl": "Przejście po moście"
+  },
+  {
+    "gift": 110,
+    "en": "Budget Approval Process",
+    "pl": "Procedura zatwierdzania budżetu"
+  },
+  {
+    "gift": 111,
+    "en": "Buffalo Hide",
+    "pl": "Skóra bizona"
+  },
+  {
+    "gift": 112,
+    "en": "Bunyip’s Spell",
+    "pl": "Zaklęcie Bunyipa"
+  },
+  {
+    "gift": 113,
+    "en": "Bunyip’s Boom",
+    "pl": "Grzmot Bunyipa"
+  },
+  {
+    "gift": 114,
+    "en": "Burning Blade",
+    "pl": "Płonące ostrze"
+  },
+  {
+    "gift": 115,
+    "en": "Burning Fire-Mind",
+    "pl": "Mantra palącego szału"
+  },
+  {
+    "gift": 116,
+    "en": "Burning Scars",
+    "pl": "Płonące blizny"
+  },
+  {
+    "gift": 117,
+    "en": "Burning Tumbleweeds",
+    "pl": "Płonący preriowy wiatr"
+  },
+  {
+    "gift": 118,
+    "en": "Burrow",
+    "pl": "Nora"
+  },
+  {
+    "gift": 119,
+    "en": "Burrow-Bed",
+    "pl": "Podziemne posłanie"
+  },
+  {
+    "gift": 120,
+    "en": "Bury the Wolf",
+    "pl": "Ukrycie wilka"
+  },
+  {
+    "gift": 121,
+    "en": "Buzzword Language",
+    "pl": "Korporacyjna nowomowa"
+  },
+  {
+    "gift": 122,
+    "en": "Cairbre’s Tongue",
+    "pl": "Język Cairbre’a"
+  },
+  {
+    "gift": 123,
+    "en": "Call Earth Spirit",
+    "pl": "Przyzwanie Ducha Ziemi"
+  },
+  {
+    "gift": 124,
+    "en": "Call Elemental",
+    "pl": "Wezwanie żywiołaka"
+  },
+  {
+    "gift": 125,
+    "en": "Call Flame Spirit",
+    "pl": "Wezwanie ducha ognia"
+  },
+  {
+    "gift": 126,
+    "en": "Call for Vengeance",
+    "pl": "Zew zemsty"
+  },
+  {
+    "gift": 127,
+    "en": "Call Forth the Wyld",
+    "pl": "Wyzwolenie Dzikuna"
+  },
+  {
+    "gift": 128,
+    "en": "Call Great Fenris",
+    "pl": "Przywołanie Wielkiego Fenrisa"
+  },
+  {
+    "gift": 129,
+    "en": "Call of the Cannibal Spirit",
+    "pl": "Przywołanie ducha-kanibala"
+  },
+  {
+    "gift": 130,
+    "en": "Call of the Wild",
+    "pl": "Zew dziczy"
+  },
+  {
+    "gift": 131,
+    "en": "Call of the Wyld",
+    "pl": "Zew Dzikuna"
+  },
+  {
+    "gift": 132,
+    "en": "Call of the Wyrm",
+    "pl": "Zew Żmija"
+  },
+  {
+    "gift": 133,
+    "en": "Call the Breeze",
+    "pl": "Wezwanie bryzy"
+  },
+  {
+    "gift": 134,
+    "en": "Call the Cannibal Spirit",
+    "pl": "Przywołanie ducha-kanibala"
+  },
+  {
+    "gift": 135,
+    "en": "Call the City’s Wolves",
+    "pl": "Przywołanie wilków miasta"
+  },
+  {
+    "gift": 136,
+    "en": "Call the Four Brothers",
+    "pl": "Przywołanie Czterech Braci"
+  },
+  {
+    "gift": 137,
+    "en": "Call the Hunt",
+    "pl": "Przywołanie Gonu"
+  },
+  {
+    "gift": 138,
+    "en": "Call the Ice",
+    "pl": "Przywołanie lodu"
+  },
+  {
+    "gift": 139,
+    "en": "Call the Rust",
+    "pl": "Przywołanie korozji"
+  },
+  {
+    "gift": 140,
+    "en": "Call to Arms",
+    "pl": "Wezwanie do broni"
+  },
+  {
+    "gift": 141,
+    "en": "Call to Duty",
+    "pl": "Przywołanie ducha"
+  },
+  {
+    "gift": 142,
+    "en": "Calm",
+    "pl": "Uspokojenie"
+  },
+  {
+    "gift": 143,
+    "en": "Calm Before the Storm",
+    "pl": "Cisza przed burzą"
+  },
+  {
+    "gift": 144,
+    "en": "Calm the Flock",
+    "pl": "Uspokojenie trzody"
+  },
+  {
+    "gift": 145,
+    "en": "Calm the Savage Beast",
+    "pl": "Uspokojenie dzikiej bestii"
+  },
+  {
+    "gift": 146,
+    "en": "Camera Eye",
+    "pl": "Oko kamery"
+  },
+  {
+    "gift": 147,
+    "en": "Camouflage",
+    "pl": "Kamuflaż"
+  },
+  {
+    "gift": 148,
+    "en": "Cassandra’s Blessing",
+    "pl": "Błogosławieństwo Kasandry"
+  },
+  {
+    "gift": 149,
+    "en": "Canine Call",
+    "pl": "Psi zew"
+  },
+  {
+    "gift": 150,
+    "en": "Cardboard Mansion",
+    "pl": "Kartonowy pałac"
+  },
+  {
+    "gift": 151,
+    "en": "Carried on the Wind",
+    "pl": "Rozwiane na Wietrze"
+  },
+  {
+    "gift": 152,
+    "en": "Castigate",
+    "pl": "Skarcenie"
+  },
+  {
+    "gift": 153,
+    "en": "Catfeet",
+    "pl": "Kocia zwinność"
+  },
+  {
+    "gift": 154,
+    "en": "Ceridwen’s Blood",
+    "pl": "Krew Ceridwen"
+  },
+  {
+    "gift": 155,
+    "en": "Chains of Mist",
+    "pl": "Mgliste łańcuchy"
+  },
+  {
+    "gift": 156,
+    "en": "Chameleon",
+    "pl": "Kameleon"
+  },
+  {
+    "gift": 157,
+    "en": "Channeling",
+    "pl": "Ukierunkowanie"
+  },
+  {
+    "gift": 158,
+    "en": "Chant of Morpheus",
+    "pl": "Pieśń Morfeusza"
+  },
+  {
+    "gift": 159,
+    "en": "Chaos Mechanics",
+    "pl": "Chaos porządku"
+  },
+  {
+    "gift": 160,
+    "en": "Chill of Early Frost",
+    "pl": "Wczesny przymrozek"
+  },
+  {
+    "gift": 161,
+    "en": "Chimerical Form",
+    "pl": "Chimeryczna postać"
+  },
+  {
+    "gift": 162,
+    "en": "Circular Attack",
+    "pl": "Przeniesienie ataków"
+  },
+  {
+    "gift": 163,
+    "en": "Claim of Authority",
+    "pl": "Mandat władzy"
+  },
+  {
+    "gift": 164,
+    "en": "City Running",
+    "pl": "Betonowy szlak"
+  },
+  {
+    "gift": 165,
+    "en": "Clap of Thunder",
+    "pl": "Huk grzmotu"
+  },
+  {
+    "gift": 166,
+    "en": "Clarity",
+    "pl": "Przejrzystość"
+  },
+  {
+    "gift": 167,
+    "en": "Claw-to-Thumb",
+    "pl": "Zrozumienie homida"
+  },
+  {
+    "gift": 168,
+    "en": "Claws of Corrosion",
+    "pl": "Pazury zepsucia"
+  },
+  {
+    "gift": 169,
+    "en": "Claws of Frozen Death",
+    "pl": "Ostrza wiecznego mrozu"
+  },
+  {
+    "gift": 170,
+    "en": "Claws of the Glassblower",
+    "pl": "Szklane pazury"
+  },
+  {
+    "gift": 171,
+    "en": "Clenched Jaw",
+    "pl": "Szczęki ze stali"
+  },
+  {
+    "gift": 172,
+    "en": "Cloak of Anthelios",
+    "pl": "Płaszcz Antheliosa"
+  },
+  {
+    "gift": 173,
+    "en": "Cliché Curse",
+    "pl": "Klątwa filmowego banału"
+  },
+  {
+    "gift": 174,
+    "en": "Climb Like an Ape",
+    "pl": "Małpia wspinaczka"
+  },
+  {
+    "gift": 175,
+    "en": "Cloud of Night",
+    "pl": "Przywołanie ciemności"
+  },
+  {
+    "gift": 176,
+    "en": "Coal Breath",
+    "pl": "Wyziew z podziemi"
+  },
+  {
+    "gift": 177,
+    "en": "Cocoon",
+    "pl": "Kokon"
+  },
+  {
+    "gift": 178,
+    "en": "Coils of the Serpent",
+    "pl": "Mgliste macki"
+  },
+  {
+    "gift": 179,
+    "en": "Cold Voice of Reason",
+    "pl": "Chłodny głos rozsądku"
+  },
+  {
+    "gift": 180,
+    "en": "Collapse the Barrow",
+    "pl": "Zniszczenie tuneli"
+  },
+  {
+    "gift": 181,
+    "en": "Combat Healing",
+    "pl": "Bojowe leczenie"
+  },
+  {
+    "gift": 182,
+    "en": "Come Hither",
+    "pl": "Chodź do mnie"
+  },
+  {
+    "gift": 183,
+    "en": "Command Spirit",
+    "pl": "Rozkazywanie duchom"
+  },
+  {
+    "gift": 184,
+    "en": "Command the Gathering",
+    "pl": "Uwaga zgromadzenia"
+  },
+  {
+    "gift": 185,
+    "en": "Command the Blaze",
+    "pl": "Kierowanie pożarem"
+  },
+  {
+    "gift": 186,
+    "en": "Command the Heart of Rage",
+    "pl": "Okiełznanie Źródła Szału"
+  },
+  {
+    "gift": 187,
+    "en": "Commanding Voice",
+    "pl": "Rozkazujący głos"
+  },
+  {
+    "gift": 188,
+    "en": "Connection",
+    "pl": "Pamięć otoczenia"
+  },
+  {
+    "gift": 189,
+    "en": "Control Complex Machine",
+    "pl": "Kontrolowanie złożonych urządzeń"
+  },
+  {
+    "gift": 190,
+    "en": "Control Simple Machine",
+    "pl": "Kontrolowanie prostych urządzeń"
+  },
+  {
+    "gift": 191,
+    "en": "Conundrum",
+    "pl": "Łamigłówka"
+  },
+  {
+    "gift": 192,
+    "en": "Cookery",
+    "pl": "Kuchcenie"
+  },
+  {
+    "gift": 193,
+    "en": "Cookfire",
+    "pl": "Palenisko"
+  },
+  {
+    "gift": 194,
+    "en": "Cooking",
+    "pl": "Gotowanie"
+  },
+  {
+    "gift": 195,
+    "en": "Cool Mind",
+    "pl": "Chłodny umysł"
+  },
+  {
+    "gift": 196,
+    "en": "Cooter’s Revenge",
+    "pl": "Zemsta Cootera"
+  },
+  {
+    "gift": 197,
+    "en": "Corner Shot",
+    "pl": "Strzał zza rogu"
+  },
+  {
+    "gift": 198,
+    "en": "Cornered Rat",
+    "pl": "Szczur w potrzasku"
+  },
+  {
+    "gift": 199,
+    "en": "Cornered Rat’s Ferocity",
+    "pl": "Szał szczura w potrzasku"
+  },
+  {
+    "gift": 200,
+    "en": "Counting Coup",
+    "pl": "Wyliczanie zasług"
+  },
+  {
+    "gift": 201,
+    "en": "Coup de Grace",
+    "pl": "Precyzyjny cios"
+  },
+  {
+    "gift": 202,
+    "en": "Cowing the Bullet",
+    "pl": "Poskromienie Broni"
+  },
+  {
+    "gift": 203,
+    "en": "Cousin’s Coat",
+    "pl": "Futro tutejszych"
+  },
+  {
+    "gift": 204,
+    "en": "Coyote Howl",
+    "pl": "Wycie kojota"
+  },
+  {
+    "gift": 205,
+    "en": "Crawling Poison",
+    "pl": "Pełzająca trucizna"
+  },
+  {
+    "gift": 206,
+    "en": "Create Element",
+    "pl": "Stworzenie żywiołu"
+  },
+  {
+    "gift": 207,
+    "en": "Crocodile Pact",
+    "pl": "Pakt z krokodylem"
+  },
+  {
+    "gift": 208,
+    "en": "Crescent Moon Fata",
+    "pl": "Nici Losu Półksiężyca"
+  },
+  {
+    "gift": 209,
+    "en": "Crescent Moon’s Awareness",
+    "pl": "Czujność Półksiężyca"
+  },
+  {
+    "gift": 210,
+    "en": "Crocodile’s Cunning",
+    "pl": "Przebiegłość krokodyla"
+  },
+  {
+    "gift": 211,
+    "en": "Cry of the Killer",
+    "pl": "Zew zabójcy"
+  },
+  {
+    "gift": 212,
+    "en": "Cub’s Lesson",
+    "pl": "Obserwacja ludzi"
+  },
+  {
+    "gift": 213,
+    "en": "Cull the Herd",
+    "pl": "Trzebienie stada"
+  },
+  {
+    "gift": 214,
+    "en": "Cunning Koan",
+    "pl": "Przenikliwe słowa"
+  },
+  {
+    "gift": 215,
+    "en": "Curse of Aeolus",
+    "pl": "Klątwa Eola"
+  },
+  {
+    "gift": 216,
+    "en": "Curse of Corruption",
+    "pl": "Klątwa zepsucia"
+  },
+  {
+    "gift": 217,
+    "en": "Curse of Dionysis",
+    "pl": "Klątwa Dionizosa"
+  },
+  {
+    "gift": 218,
+    "en": "Curse of Harano",
+    "pl": "Klątwa Harano"
+  },
+  {
+    "gift": 219,
+    "en": "Curse of Hatred",
+    "pl": "Klątwa nienawiści"
+  },
+  {
+    "gift": 220,
+    "en": "Curse of Lycaon",
+    "pl": "Klątwa Likaona"
+  },
+  {
+    "gift": 221,
+    "en": "Curse of the Berserker",
+    "pl": "Klątwa berserkera"
+  },
+  {
+    "gift": 222,
+    "en": "Curse the Betrayer",
+    "pl": "Klątwa zdrajcy"
+  },
+  {
+    "gift": 223,
+    "en": "Custom Built",
+    "pl": "Na zamówienie"
+  },
+  {
+    "gift": 224,
+    "en": "Cutting Wind",
+    "pl": "Porywisty wiatr"
+  },
+  {
+    "gift": 225,
+    "en": "Cybersenses",
+    "pl": "Cyberzmysły"
+  },
+  {
+    "gift": 226,
+    "en": "Dam the Heartflood",
+    "pl": "Ujarzmienie łaknienia krwi"
+  },
+  {
+    "gift": 227,
+    "en": "Dagger of the Mind",
+    "pl": "Emocjonalna trucizna"
+  },
+  {
+    "gift": 228,
+    "en": "Dam the Heartlood",
+    "pl": "Ujarzmienie łaknienia krwi"
+  },
+  {
+    "gift": 229,
+    "en": "Dance of the Lightning Snakes",
+    "pl": "Gromowe węże"
+  },
+  {
+    "gift": 230,
+    "en": "Dark Aerie",
+    "pl": "Mroczne przestworza"
+  },
+  {
+    "gift": 231,
+    "en": "Dark of Night",
+    "pl": "Mrok nocy"
+  },
+  {
+    "gift": 232,
+    "en": "Dark Peering",
+    "pl": "Spojrzenie przez mrok"
+  },
+  {
+    "gift": 233,
+    "en": "Data Flow",
+    "pl": "Przepływ danych"
+  },
+  {
+    "gift": 234,
+    "en": "Dazzle",
+    "pl": "Oślepienie"
+  },
+  {
+    "gift": 235,
+    "en": "Visions of Duat",
+    "pl": "Wizje Duat"
+  },
+  {
+    "gift": 236,
+    "en": "Dead End",
+    "pl": "Znaki donikąd"
+  },
+  {
+    "gift": 237,
+    "en": "Dead Stick",
+    "pl": "Wróżba dla zaginionego"
+  },
+  {
+    "gift": 238,
+    "en": "Dead-Eye",
+    "pl": "Pewne oko"
+  },
+  {
+    "gift": 239,
+    "en": "Death Track",
+    "pl": "Ścieżka zmarłych"
+  },
+  {
+    "gift": 240,
+    "en": "Death Trance",
+    "pl": "Śmiertelny trans"
+  },
+  {
+    "gift": 241,
+    "en": "Death Whispers",
+    "pl": "Szepty zmarłego"
+  },
+  {
+    "gift": 242,
+    "en": "Declamation",
+    "pl": "Deklamacja"
+  },
+  {
+    "gift": 243,
+    "en": "Deep Roots",
+    "pl": "Głębokie korzenie"
+  },
+  {
+    "gift": 244,
+    "en": "Desperate Strength",
+    "pl": "Siła desperacji"
+  },
+  {
+    "gift": 245,
+    "en": "Devil Talons",
+    "pl": "Diabelskie szpony"
+  },
+  {
+    "gift": 246,
+    "en": "Devil’s Child",
+    "pl": "Diabelski ryk"
+  },
+  {
+    "gift": 247,
+    "en": "Devouring Rime",
+    "pl": "Pożerający lód"
+  },
+  {
+    "gift": 248,
+    "en": "Diagnostics",
+    "pl": "Diagnostyka"
+  },
+  {
+    "gift": 249,
+    "en": "Direct the Storm",
+    "pl": "Kierowanie burzą"
+  },
+  {
+    "gift": 250,
+    "en": "Disguise Fetish",
+    "pl": "Ukrycie fetysza"
+  },
+  {
+    "gift": 251,
+    "en": "Directing the Soul",
+    "pl": "Kierowanie duszą"
+  },
+  {
+    "gift": 252,
+    "en": "Disfigurement",
+    "pl": "Szpetota"
+  },
+  {
+    "gift": 253,
+    "en": "Disguise the True Form",
+    "pl": "Uktycie prawdziwej postaci"
+  },
+  {
+    "gift": 254,
+    "en": "Dispel the Golden Waste",
+    "pl": "Rozwianie złota"
+  },
+  {
+    "gift": 255,
+    "en": "Disquiet",
+    "pl": "Ukojenie"
+  },
+  {
+    "gift": 256,
+    "en": "Distract the Fool",
+    "pl": "Spójrz tam!"
+  },
+  {
+    "gift": 257,
+    "en": "Distractions",
+    "pl": "Dekoncentracja"
+  },
+  {
+    "gift": 258,
+    "en": "Divide",
+    "pl": "Kość niezgody"
+  },
+  {
+    "gift": 259,
+    "en": "Divided Heart",
+    "pl": "Oderwanie Szału"
+  },
+  {
+    "gift": 260,
+    "en": "Divine Wind",
+    "pl": "Boski wiatr"
+  },
+  {
+    "gift": 261,
+    "en": "Dolorous Stroke",
+    "pl": "Bolesne uderzenie"
+  },
+  {
+    "gift": 262,
+    "en": "Domestic Seeming",
+    "pl": "Swojskie futro"
+  },
+  {
+    "gift": 263,
+    "en": "Dominance Blow",
+    "pl": "Uderzenie ujarzmienia"
+  },
+  {
+    "gift": 264,
+    "en": "Doppelganger",
+    "pl": "Doppelganger"
+  },
+  {
+    "gift": 265,
+    "en": "Double Walker",
+    "pl": "Sobowtór"
+  },
+  {
+    "gift": 266,
+    "en": "Dramatic Entrance",
+    "pl": "Dramatyczne wejście"
+  },
+  {
+    "gift": 267,
+    "en": "Dream Golem",
+    "pl": "Koszmar na jawie"
+  },
+  {
+    "gift": 268,
+    "en": "Dream of a Thousand Cranes",
+    "pl": "Sen tysiąca żurawi"
+  },
+  {
+    "gift": 269,
+    "en": "Dreamchaser",
+    "pl": "Mowa snu"
+  },
+  {
+    "gift": 270,
+    "en": "Dreamwalk",
+    "pl": "Wędrówka we śnie"
+  },
+  {
+    "gift": 271,
+    "en": "Drunkard’s Luck",
+    "pl": "Szczęście pijaka"
+  },
+  {
+    "gift": 272,
+    "en": "Drunken Spider",
+    "pl": "Pijany tkacz"
+  },
+  {
+    "gift": 273,
+    "en": "Dumpster Diving",
+    "pl": "Nurkowanie w śmietniku"
+  },
+  {
+    "gift": 274,
+    "en": "Dust Squall",
+    "pl": "Piaskowe tornado"
+  },
+  {
+    "gift": 275,
+    "en": "Dust Storm",
+    "pl": "Burza piaskowa"
+  },
+  {
+    "gift": 276,
+    "en": "Eagle’s Beak",
+    "pl": "Dziób orła"
+  },
+  {
+    "gift": 277,
+    "en": "Ears of the Bat",
+    "pl": "Uszy nietoperza"
+  },
+  {
+    "gift": 278,
+    "en": "Ears of the Bat",
+    "pl": "Uszy nietoperza"
+  },
+  {
+    "gift": 279,
+    "en": "Earthfriend’s Pact",
+    "pl": "Pakt z duchami ziemii"
+  },
+  {
+    "gift": 280,
+    "en": "Electroshock",
+    "pl": "Elektrowstrząs"
+  },
+  {
+    "gift": 281,
+    "en": "Elemental Favor",
+    "pl": "Łaska żywiołu"
+  },
+  {
+    "gift": 282,
+    "en": "Elemental Gift",
+    "pl": "Dar żywiołów"
+  },
+  {
+    "gift": 283,
+    "en": "Emergency Exit",
+    "pl": "Wyjście awaryjne"
+  },
+  {
+    "gift": 284,
+    "en": "Eminent Domain",
+    "pl": "Zwierzchnictwo"
+  },
+  {
+    "gift": 285,
+    "en": "Empathy",
+    "pl": "Empatia"
+  },
+  {
+    "gift": 286,
+    "en": "Empathy of Hatred",
+    "pl": "Wyczucie Szału"
+  },
+  {
+    "gift": 287,
+    "en": "Empty Hand",
+    "pl": "Pusta dłoń"
+  },
+  {
+    "gift": 288,
+    "en": "Encrypt",
+    "pl": "Szyfrowanie"
+  },
+  {
+    "gift": 289,
+    "en": "Endurance of Heimdall",
+    "pl": "Wytrzymałość Heimdalla"
+  },
+  {
+    "gift": 290,
+    "en": "Eve’s Blessing",
+    "pl": "Błogosławieństwo Ewy"
+  },
+  {
+    "gift": 291,
+    "en": "Evocation of Ceremony",
+    "pl": "Moc ceremonii"
+  },
+  {
+    "gift": 292,
+    "en": "Exceptional Swordplay",
+    "pl": "Niezwykła szermierka"
+  },
+  {
+    "gift": 293,
+    "en": "Exorcism",
+    "pl": "Egzorcyzm"
+  },
+  {
+    "gift": 294,
+    "en": "Eye of the Asp",
+    "pl": "Oko żmii"
+  },
+  {
+    "gift": 295,
+    "en": "Eye of the Cobra",
+    "pl": "Oko kobry"
+  },
+  {
+    "gift": 296,
+    "en": "Eye of the Eagle",
+    "pl": "Oko orła"
+  },
+  {
+    "gift": 297,
+    "en": "Eye of the Falcon",
+    "pl": "Oko sokoła"
+  },
+  {
+    "gift": 298,
+    "en": "Eye of the Hunter",
+    "pl": "Oko łowcy"
+  },
+  {
+    "gift": 299,
+    "en": "Eye of the Storm",
+    "pl": "Oko burzy"
+  },
+  {
+    "gift": 300,
+    "en": "Eyes of Ignorance",
+    "pl": "Oczy niewiedzy"
+  },
+  {
+    "gift": 301,
+    "en": "Eyes of Ma’at",
+    "pl": "Oczy Ma’at"
+  },
+  {
+    "gift": 302,
+    "en": "Eyes of the Cat",
+    "pl": "Oczy kota"
+  },
+  {
+    "gift": 303,
+    "en": "Eyes of the Thunderbird",
+    "pl": "Oczy Ptaka Gromu"
+  },
+  {
+    "gift": 304,
+    "en": "Eyes of the Wyrm",
+    "pl": "Oczy Żmija"
+  },
+  {
+    "gift": 305,
+    "en": "Eyes of the Lynx",
+    "pl": "Oczy rysia"
+  },
+  {
+    "gift": 306,
+    "en": "Eyes of the Thunderbird",
+    "pl": "Oczy Ptaka Gromu"
+  },
+  {
+    "gift": 307,
+    "en": "Fabric of the Mind",
+    "pl": "Materia umysłu"
+  },
+  {
+    "gift": 308,
+    "en": "Face in the Crowd",
+    "pl": "Przewodnik zamieszek"
+  },
+  {
+    "gift": 309,
+    "en": "Faceless Stranger",
+    "pl": "Nikt godny uwagi"
+  },
+  {
+    "gift": 310,
+    "en": "Faerie Aid",
+    "pl": "Pomoc istot faerie"
+  },
+  {
+    "gift": 311,
+    "en": "Faerie Blood",
+    "pl": "Krew istot faerie"
+  },
+  {
+    "gift": 312,
+    "en": "Faerie Kin",
+    "pl": "Przyjaciel istot faerie"
+  },
+  {
+    "gift": 313,
+    "en": "Faerie Light",
+    "pl": "Błędny ognik"
+  },
+  {
+    "gift": 314,
+    "en": "Fair Fortune",
+    "pl": "Pomyślny los"
+  },
+  {
+    "gift": 315,
+    "en": "Fair Path",
+    "pl": "Nienaganna prezencja"
+  },
+  {
+    "gift": 316,
+    "en": "Falcon’s Grasp",
+    "pl": "Uścisk sokoła"
+  },
+  {
+    "gift": 317,
+    "en": "Falling Touch",
+    "pl": "Powalający dotyk"
+  },
+  {
+    "gift": 318,
+    "en": "Fangs of Judgment",
+    "pl": "Kły sprawiedliwości"
+  },
+  {
+    "gift": 319,
+    "en": "Fangs of the North",
+    "pl": "Lodowe kły"
+  },
+  {
+    "gift": 320,
+    "en": "False Comfort",
+    "pl": "Złudny komfort"
+  },
+  {
+    "gift": 321,
+    "en": "Family Debt",
+    "pl": "Rachunek sprzed wieków"
+  },
+  {
+    "gift": 322,
+    "en": "Fangs of Garm",
+    "pl": "Kły Garma"
+  },
+  {
+    "gift": 323,
+    "en": "Fast Track",
+    "pl": "Najkrótsza ścieżka"
+  },
+  {
+    "gift": 324,
+    "en": "Fatal Flaw",
+    "pl": "Słaby punkt"
+  },
+  {
+    "gift": 325,
+    "en": "Feast of Essence",
+    "pl": "Pożarcie ducha"
+  },
+  {
+    "gift": 326,
+    "en": "Feast of Man-Flesh",
+    "pl": "Kanibalistyczna pamięć"
+  },
+  {
+    "gift": 327,
+    "en": "Fearless",
+    "pl": "Nieustraszony"
+  },
+  {
+    "gift": 328,
+    "en": "Feast Upon Snake’s Wisdom",
+    "pl": "Mądrość Węża"
+  },
+  {
+    "gift": 329,
+    "en": "Feed the Pack",
+    "pl": "Nakarmienie watahy"
+  },
+  {
+    "gift": 330,
+    "en": "Feel the Loom",
+    "pl": "Dzika lobotomia"
+  },
+  {
+    "gift": 331,
+    "en": "Fenris Bite",
+    "pl": "Ukąszenie Fenrisa"
+  },
+  {
+    "gift": 332,
+    "en": "Feral Lobotomy",
+    "pl": "Dzika lobotomia"
+  },
+  {
+    "gift": 333,
+    "en": "Fertile Lands",
+    "pl": "Żyzne ziemie"
+  },
+  {
+    "gift": 334,
+    "en": "Fetish Doll",
+    "pl": "Kukła-fetysz"
+  },
+  {
+    "gift": 335,
+    "en": "Fetish Fetch",
+    "pl": "Przywołanie fetysza"
+  },
+  {
+    "gift": 336,
+    "en": "Find the Prize",
+    "pl": "Odnalezienie skarbu"
+  },
+  {
+    "gift": 337,
+    "en": "Find the Transgressor",
+    "pl": "Odnalezienie winowajcy"
+  },
+  {
+    "gift": 338,
+    "en": "Find Water",
+    "pl": "Odnalezienie wody"
+  },
+  {
+    "gift": 339,
+    "en": "Fire in the Belly",
+    "pl": "Ogień w trzewiach"
+  },
+  {
+    "gift": 340,
+    "en": "Firebringer",
+    "pl": "Złodziej ognia"
+  },
+  {
+    "gift": 341,
+    "en": "Firm Stance",
+    "pl": "Niezłomna postawa"
+  },
+  {
+    "gift": 342,
+    "en": "Flame Dance",
+    "pl": "Taniec płomienia"
+  },
+  {
+    "gift": 343,
+    "en": "Flow Like Water",
+    "pl": "Z nurtem rzeki"
+  },
+  {
+    "gift": 344,
+    "en": "Firewater’s Quench",
+    "pl": "Ugaszenie ognistej wody"
+  },
+  {
+    "gift": 345,
+    "en": "Fireworks Kiss",
+    "pl": "Upojenie"
+  },
+  {
+    "gift": 346,
+    "en": "Fist of the Winds",
+    "pl": "Niewidzialna dłoń"
+  },
+  {
+    "gift": 347,
+    "en": "Flame of the Sun Dance",
+    "pl": "Taniec ognia"
+  },
+  {
+    "gift": 348,
+    "en": "Flames of Hestia",
+    "pl": "Płomienie Hestii"
+  },
+  {
+    "gift": 349,
+    "en": "Fleet Footed",
+    "pl": "Chyże stopy"
+  },
+  {
+    "gift": 350,
+    "en": "Flick of the Fish’s Tail",
+    "pl": "Wilk w rybiej łusce"
+  },
+  {
+    "gift": 351,
+    "en": "Flight of the Raven",
+    "pl": "Lot kruka"
+  },
+  {
+    "gift": 352,
+    "en": "Flurry of Arrows",
+    "pl": "Nawałnica strzał"
+  },
+  {
+    "gift": 353,
+    "en": "Fly Feet",
+    "pl": "Stopy muchy"
+  },
+  {
+    "gift": 354,
+    "en": "Foaming Fury",
+    "pl": "Wścieklizna Żmija"
+  },
+  {
+    "gift": 355,
+    "en": "Foe of the Wyrm",
+    "pl": "Pogromca Żmija"
+  },
+  {
+    "gift": 356,
+    "en": "Fog of War",
+    "pl": "Mgła wojny"
+  },
+  {
+    "gift": 357,
+    "en": "Fog on the Moor",
+    "pl": "Mglisty Całun"
+  },
+  {
+    "gift": 358,
+    "en": "Form Mastery",
+    "pl": "Mistrzostwo postaci"
+  },
+  {
+    "gift": 359,
+    "en": "Free Flowing",
+    "pl": "Swobodny przepływ"
+  },
+  {
+    "gift": 360,
+    "en": "Fool’s Gold",
+    "pl": "Złoto głupców"
+  },
+  {
+    "gift": 361,
+    "en": "Fool’s Luck",
+    "pl": "Szczęście głupców"
+  },
+  {
+    "gift": 362,
+    "en": "Fool’s Medicine",
+    "pl": "Lekarstwo głupca"
+  },
+  {
+    "gift": 363,
+    "en": "Fool’s Silver",
+    "pl": "Srebro głupców"
+  },
+  {
+    "gift": 364,
+    "en": "Form of Akhlut",
+    "pl": "Wcielenie Akhluta"
+  },
+  {
+    "gift": 365,
+    "en": "Forms of Cernunnos",
+    "pl": "Wcielenia Cernunnosa"
+  },
+  {
+    "gift": 366,
+    "en": "Friend in Need",
+    "pl": "Przyjaciel w potrzebie"
+  },
+  {
+    "gift": 367,
+    "en": "Frozen Form",
+    "pl": "Zablokowanie formy"
+  },
+  {
+    "gift": 368,
+    "en": "Fu Xi’s Honor",
+    "pl": "Honor Fu Xi"
+  },
+  {
+    "gift": 369,
+    "en": "Full Moon Cleansing",
+    "pl": "Oczyszczenie pełni księżyca"
+  },
+  {
+    "gift": 370,
+    "en": "Full Moon’s Light",
+    "pl": "Światło pełni księżyca"
+  },
+  {
+    "gift": 371,
+    "en": "Full Moon’s Wrath",
+    "pl": "Gniew pełni księżyca"
+  },
+  {
+    "gift": 372,
+    "en": "Fury of Zeus",
+    "pl": "Furia Zeusa"
+  },
+  {
+    "gift": 373,
+    "en": "Gaia’s Balm",
+    "pl": "Balsam Gai"
+  },
+  {
+    "gift": 374,
+    "en": "Gaia’s Embrace",
+    "pl": "Objęcia Gai"
+  },
+  {
+    "gift": 375,
+    "en": "Gaia’s Favor",
+    "pl": "Łaska Gai"
+  },
+  {
+    "gift": 376,
+    "en": "Gaia’s Resilience",
+    "pl": "Wytrzymałość Gai"
+  },
+  {
+    "gift": 377,
+    "en": "Gaia’s Toolbox",
+    "pl": "Przybornik Gai"
+  },
+  {
+    "gift": 378,
+    "en": "Gaia’s Vengeance",
+    "pl": "Zemsta Gai"
+  },
+  {
+    "gift": 379,
+    "en": "Garafena’s Crown",
+    "pl": "Korona Garafeny"
+  },
+  {
+    "gift": 380,
+    "en": "Gate of the Moon",
+    "pl": "Księżycowa brama"
+  },
+  {
+    "gift": 381,
+    "en": "Gaze of the Gorgon",
+    "pl": "Spojrzenie Gorgony"
+  },
+  {
+    "gift": 382,
+    "en": "Gaze of the Hunter",
+    "pl": "Spojrzenie łowcy"
+  },
+  {
+    "gift": 383,
+    "en": "Geas",
+    "pl": "Przymus"
+  },
+  {
+    "gift": 384,
+    "en": "Ghost Dance",
+    "pl": "Taniec Duchów"
+  },
+  {
+    "gift": 385,
+    "en": "Ghost Pack",
+    "pl": "Duchowa Wataha"
+  },
+  {
+    "gift": 386,
+    "en": "Ghost Touched",
+    "pl": "Płaszcz Mrocznej Umbry"
+  },
+  {
+    "gift": 387,
+    "en": "Ghost Town",
+    "pl": "Miasto widmo"
+  },
+  {
+    "gift": 388,
+    "en": "Gift of Dreams",
+    "pl": "Dar snów"
+  },
+  {
+    "gift": 389,
+    "en": "Gibberish",
+    "pl": "Pomieszanie języków"
+  },
+  {
+    "gift": 390,
+    "en": "Gibbous Moon Song",
+    "pl": "Pieśń rosnącego Księżyca"
+  },
+  {
+    "gift": 391,
+    "en": "Gibbous Moon’s Understanding",
+    "pl": "Mądrość rosnącego Księżyca"
+  },
+  {
+    "gift": 392,
+    "en": "Gift of Plenty",
+    "pl": "Dar obfitości"
+  },
+  {
+    "gift": 393,
+    "en": "Gift of Salt",
+    "pl": "Dar soli"
+  },
+  {
+    "gift": 394,
+    "en": "Gift of the Iron Horse",
+    "pl": "Dar żelaznego rumaka"
+  },
+  {
+    "gift": 395,
+    "en": "Gift of the Porcupine",
+    "pl": "Dar jeżozwierza"
+  },
+  {
+    "gift": 396,
+    "en": "Gift of the Skunk",
+    "pl": "Dar skunksa"
+  },
+  {
+    "gift": 397,
+    "en": "Gift of the Spriggan",
+    "pl": "Zmiana wielkości"
+  },
+  {
+    "gift": 398,
+    "en": "Gift of the Tainted Totem",
+    "pl": "Dar skażonego totemu"
+  },
+  {
+    "gift": 399,
+    "en": "Gift of the Termite",
+    "pl": "Dar termitów"
+  },
+  {
+    "gift": 400,
+    "en": "Glass Talons",
+    "pl": "Szklane szpony"
+  },
+  {
+    "gift": 401,
+    "en": "Glib Tongue",
+    "pl": "Gładka mowa"
+  },
+  {
+    "gift": 402,
+    "en": "Global Citizen",
+    "pl": "Obywatel świata"
+  },
+  {
+    "gift": 403,
+    "en": "Speech of All Things",
+    "pl": "Mowa wszechistot"
+  },
+  {
+    "gift": 404,
+    "en": "Glorious Fist of Wotan",
+    "pl": "Chwalebna pięść Wotana"
+  },
+  {
+    "gift": 405,
+    "en": "Glory-Scars",
+    "pl": "Blizny chwały"
+  },
+  {
+    "gift": 406,
+    "en": "Gluttony",
+    "pl": "Obżarstwo"
+  },
+  {
+    "gift": 407,
+    "en": "Gnaw",
+    "pl": "Potężne szczęki"
+  },
+  {
+    "gift": 408,
+    "en": "Go for the Jugular",
+    "pl": "Skok do gardła"
+  },
+  {
+    "gift": 409,
+    "en": "Gnowee’s Torch",
+    "pl": "Pochodnia Gnowee"
+  },
+  {
+    "gift": 410,
+    "en": "Gold Fever",
+    "pl": "Gorączka złota"
+  },
+  {
+    "gift": 411,
+    "en": "Good Faith",
+    "pl": "Wspólna sprawa"
+  },
+  {
+    "gift": 412,
+    "en": "Gorge",
+    "pl": "Wilczy apetyt"
+  },
+  {
+    "gift": 413,
+    "en": "Gorgon’s Gaze",
+    "pl": "Spojrzenie Gorgony"
+  },
+  {
+    "gift": 414,
+    "en": "Graceful Strike",
+    "pl": "Taniec ostrzy"
+  },
+  {
+    "gift": 415,
+    "en": "Grandmother’s Touch",
+    "pl": "Dotyk babki"
+  },
+  {
+    "gift": 416,
+    "en": "Grasp the Beyond",
+    "pl": "Zrozumienie niepojętego"
+  },
+  {
+    "gift": 417,
+    "en": "Grave Claws",
+    "pl": "Szpony potępionych dusz"
+  },
+  {
+    "gift": 418,
+    "en": "Great Bison",
+    "pl": "Tętent Wielkiego Bizona"
+  },
+  {
+    "gift": 419,
+    "en": "Great Leap",
+    "pl": "Potężny sus"
+  },
+  {
+    "gift": 420,
+    "en": "Gremlins",
+    "pl": "Gremliny"
+  },
+  {
+    "gift": 421,
+    "en": "Grim Resolve",
+    "pl": "Ponura determinacja"
+  },
+  {
+    "gift": 422,
+    "en": "Grovel",
+    "pl": "Płaszczenie się"
+  },
+  {
+    "gift": 423,
+    "en": "Guardians of the Dreamtime",
+    "pl": "Opiekunowie Czasu Snu"
+  },
+  {
+    "gift": 424,
+    "en": "Guardian’s Fortitude",
+    "pl": "Nieugięty strażnik"
+  },
+  {
+    "gift": 425,
+    "en": "Guiding Hand of Djeheuty",
+    "pl": "Przewodnia dłoń Djeheuty’ego"
+  },
+  {
+    "gift": 426,
+    "en": "Guilt Trip",
+    "pl": "Wyrzuty sumienia"
+  },
+  {
+    "gift": 427,
+    "en": "The Guilty Mind",
+    "pl": "Poczucie winy"
+  },
+  {
+    "gift": 428,
+    "en": "Guise of the Hound",
+    "pl": "Psie oblicze"
+  },
+  {
+    "gift": 429,
+    "en": "Half Moon Mnemonics",
+    "pl": "Mnemonika półksiężyca"
+  },
+  {
+    "gift": 430,
+    "en": "Half Moon’s Diplomacy",
+    "pl": "Dyplomacja półksiężyca"
+  },
+  {
+    "gift": 431,
+    "en": "Half-Moon Mnemonics",
+    "pl": "Mnemonika półksiężyca"
+  },
+  {
+    "gift": 432,
+    "en": "Halo of the Sun",
+    "pl": "Słoneczna aureola"
+  },
+  {
+    "gift": 433,
+    "en": "Halt the Coward’s Flight",
+    "pl": "Powstrzymanie tchórza"
+  },
+  {
+    "gift": 434,
+    "en": "Hand Blade",
+    "pl": "Przedłużenie Ostrza"
+  },
+  {
+    "gift": 435,
+    "en": "Hand of the Earth Lords",
+    "pl": "Dłoń władców ziemi"
+  },
+  {
+    "gift": 436,
+    "en": "Hands Full of Thunder",
+    "pl": "Ołowiany grad"
+  },
+  {
+    "gift": 437,
+    "en": "Harano",
+    "pl": "Harano"
+  },
+  {
+    "gift": 438,
+    "en": "Hare’s Leap",
+    "pl": "Zajęczy skok"
+  },
+  {
+    "gift": 439,
+    "en": "Harrier’s View",
+    "pl": "Zmysł Watahy"
+  },
+  {
+    "gift": 440,
+    "en": "Harmonious Unity of the Emerald Mother",
+    "pl": "Harmonijna jedność Szmaragdowej Matki"
+  },
+  {
+    "gift": 441,
+    "en": "Haunting Howl",
+    "pl": "Upiorne wycie"
+  },
+  {
+    "gift": 442,
+    "en": "Haunting Stare",
+    "pl": "Upiorny wzrok"
+  },
+  {
+    "gift": 443,
+    "en": "Havgan’s Healing",
+    "pl": "Uzdrowienie Havgana"
+  },
+  {
+    "gift": 444,
+    "en": "Hawk’s Guidance",
+    "pl": "Podniebny drogowskaz"
+  },
+  {
+    "gift": 445,
+    "en": "Head Games",
+    "pl": "Gra na uczuciach"
+  },
+  {
+    "gift": 446,
+    "en": "Healing Breath of Mother Gaia",
+    "pl": "Uzdrawiające tchnienie Matki Gai"
+  },
+  {
+    "gift": 447,
+    "en": "Healing Sleep",
+    "pl": "Leczniczy sen"
+  },
+  {
+    "gift": 448,
+    "en": "Hibernation",
+    "pl": "Sen zimowy"
+  },
+  {
+    "gift": 449,
+    "en": "Hear the Silence",
+    "pl": "Dźwięk ciszy"
+  },
+  {
+    "gift": 450,
+    "en": "Healing the Soul",
+    "pl": "Uzdrowienie duszy"
+  },
+  {
+    "gift": 451,
+    "en": "Heart Claw",
+    "pl": "Drążący Szpon"
+  },
+  {
+    "gift": 452,
+    "en": "Heart of Fury",
+    "pl": "Zdławienie furii"
+  },
+  {
+    "gift": 453,
+    "en": "Heart of Ice",
+    "pl": "Serce z lodu"
+  },
+  {
+    "gift": 454,
+    "en": "Heart of the Wyrm",
+    "pl": "Serce Żmija"
+  },
+  {
+    "gift": 455,
+    "en": "Heart Twister",
+    "pl": "Władca serc"
+  },
+  {
+    "gift": 456,
+    "en": "Heat Metal",
+    "pl": "Rozgrzanie metalu"
+  },
+  {
+    "gift": 457,
+    "en": "Heart of the Mountain",
+    "pl": "Wytrwałość góry"
+  },
+  {
+    "gift": 458,
+    "en": "Heaven's Guidance",
+    "pl": "Wskazówki nieba"
+  },
+  {
+    "gift": 459,
+    "en": "Heightened Senses",
+    "pl": "Wyostrzone zmysły"
+  },
+  {
+    "gift": 460,
+    "en": "Heimdall’s Blade",
+    "pl": "Ostrze Heimdalla"
+  },
+  {
+    "gift": 461,
+    "en": "Help Me",
+    "pl": "Prośba o pomoc"
+  },
+  {
+    "gift": 462,
+    "en": "Herding the Infant Ape",
+    "pl": "Zaganianie małpiątka"
+  },
+  {
+    "gift": 463,
+    "en": "Hero’s Stand",
+    "pl": "Bastion herosa"
+  },
+  {
+    "gift": 464,
+    "en": "Hidden Killer",
+    "pl": "Ukryty zabójca"
+  },
+  {
+    "gift": 465,
+    "en": "Hidden Killer",
+    "pl": "Ukryty zabójca"
+  },
+  {
+    "gift": 466,
+    "en": "Hidden Meaning",
+    "pl": "Między słowami"
+  },
+  {
+    "gift": 467,
+    "en": "Hidden Secrets",
+    "pl": "Mroczne sekrety"
+  },
+  {
+    "gift": 468,
+    "en": "Hide in Plain Sight",
+    "pl": "Ukrycie na widoku"
+  },
+  {
+    "gift": 469,
+    "en": "Home All Lands",
+    "pl": "Wszędzie jak w domu"
+  },
+  {
+    "gift": 470,
+    "en": "Honor Bound",
+    "pl": "Rozkaz honoru"
+  },
+  {
+    "gift": 471,
+    "en": "Honor Pact",
+    "pl": "Przymierze honoru"
+  },
+  {
+    "gift": 472,
+    "en": "Honorable Death",
+    "pl": "Honorowa śmierć"
+  },
+  {
+    "gift": 473,
+    "en": "Hootenanny",
+    "pl": "Taneczne szaleństwo"
+  },
+  {
+    "gift": 474,
+    "en": "Home Turf",
+    "pl": "Własny teren"
+  },
+  {
+    "gift": 475,
+    "en": "Horde of Valhalla",
+    "pl": "Wataha z Valhalli"
+  },
+  {
+    "gift": 476,
+    "en": "Horns of the Impaler",
+    "pl": "Poroże"
+  },
+  {
+    "gift": 477,
+    "en": "Howl of Death",
+    "pl": "Śmiercionośne wycie"
+  },
+  {
+    "gift": 478,
+    "en": "Howl of Healing",
+    "pl": "Leczące wycie"
+  },
+  {
+    "gift": 479,
+    "en": "The White Howl",
+    "pl": "Wycie Białych Wyjców"
+  },
+  {
+    "gift": 480,
+    "en": "Howl of Hunger",
+    "pl": "Głodowe wycie"
+  },
+  {
+    "gift": 481,
+    "en": "Howl of the Bane",
+    "pl": "Przywołanie Zmory"
+  },
+  {
+    "gift": 482,
+    "en": "Howl of the Banshee",
+    "pl": "Lament banshee"
+  },
+  {
+    "gift": 483,
+    "en": "Howl of the Hunter",
+    "pl": "Łowieckie wycie"
+  },
+  {
+    "gift": 484,
+    "en": "Howl of the Unseen",
+    "pl": "Wycie przez Rękawicę"
+  },
+  {
+    "gift": 485,
+    "en": "Howl to the Pack",
+    "pl": "Wycie do watahy"
+  },
+  {
+    "gift": 486,
+    "en": "Howls in the Night",
+    "pl": "Nocne wycie"
+  },
+  {
+    "gift": 487,
+    "en": "Huang Di’s Sacrifice",
+    "pl": "Ofiara Huang Di"
+  },
+  {
+    "gift": 488,
+    "en": "Hungry Rust",
+    "pl": "Żarłoczna rdza"
+  },
+  {
+    "gift": 489,
+    "en": "Hunter’s Harmony",
+    "pl": "Myśliwska więź"
+  },
+  {
+    "gift": 490,
+    "en": "Hush",
+    "pl": "Uciszenie"
+  },
+  {
+    "gift": 491,
+    "en": "I Got a Rock",
+    "pl": "Uliczny Miotacz"
+  },
+  {
+    "gift": 492,
+    "en": "Ice Dance",
+    "pl": "Taniec na lodzie"
+  },
+  {
+    "gift": 493,
+    "en": "Ice Echo",
+    "pl": "Lodowy sobowtór"
+  },
+  {
+    "gift": 494,
+    "en": "Ichor Blade",
+    "pl": "Posokowe ostrze"
+  },
+  {
+    "gift": 495,
+    "en": "Infectious Laughter",
+    "pl": "Zaraźliwy śmiech"
+  },
+  {
+    "gift": 496,
+    "en": "Icicle-Hide",
+    "pl": "Lodowa skóra"
+  },
+  {
+    "gift": 497,
+    "en": "Icy Child of Despair",
+    "pl": "Lodowaty dreszcz grozy"
+  },
+  {
+    "gift": 498,
+    "en": "Ignore Death Blow",
+    "pl": "Królewski Unik"
+  },
+  {
+    "gift": 499,
+    "en": "Ignore Wound",
+    "pl": "Niewrażliwość na obrażenia"
+  },
+  {
+    "gift": 500,
+    "en": "Image of the Saints",
+    "pl": "Wizerunek świętych"
+  },
+  {
+    "gift": 501,
+    "en": "Imaginal Mantra",
+    "pl": "Mantra przebudzonego snu"
+  },
+  {
+    "gift": 502,
+    "en": "Imbalance",
+    "pl": "Wytrącenie z równowagi"
+  },
+  {
+    "gift": 503,
+    "en": "Implacable Grip",
+    "pl": "Żelazny chwyt"
+  },
+  {
+    "gift": 504,
+    "en": "Impunity",
+    "pl": "Bezkarność"
+  },
+  {
+    "gift": 505,
+    "en": "Indian Giver",
+    "pl": "Pożyczony Sekret"
+  },
+  {
+    "gift": 506,
+    "en": "Infest",
+    "pl": "Inwazja robactwa"
+  },
+  {
+    "gift": 507,
+    "en": "Inner Light",
+    "pl": "Wewnętrzne światło"
+  },
+  {
+    "gift": 508,
+    "en": "Inner Strength",
+    "pl": "Wewnętrzna siła"
+  },
+  {
+    "gift": 509,
+    "en": "Inspiration",
+    "pl": "Inspiracja"
+  },
+  {
+    "gift": 510,
+    "en": "Interrogator",
+    "pl": "Wymuszone zeznanie"
+  },
+  {
+    "gift": 511,
+    "en": "Instincts Unbound",
+    "pl": "Uwolnione instynkty"
+  },
+  {
+    "gift": 512,
+    "en": "Intrusion",
+    "pl": "Wtargnięcie"
+  },
+  {
+    "gift": 513,
+    "en": "Invent",
+    "pl": "Wynalazczość"
+  },
+  {
+    "gift": 514,
+    "en": "Invisibility",
+    "pl": "Niewidzialność"
+  },
+  {
+    "gift": 515,
+    "en": "Invocation of the Pharaoh",
+    "pl": "Wezwanie faraona"
+  },
+  {
+    "gift": 516,
+    "en": "Invoke the Spirits of the Storm",
+    "pl": "Wezwanie duchów burzy"
+  },
+  {
+    "gift": 517,
+    "en": "Invoked Presence",
+    "pl": "Zstąpienie Obecności"
+  },
+  {
+    "gift": 518,
+    "en": "Iron Cannot Pierce",
+    "pl": "Odporność na stal"
+  },
+  {
+    "gift": 519,
+    "en": "Iron Resolve",
+    "pl": "Niezłomna wola"
+  },
+  {
+    "gift": 520,
+    "en": "Iron Claws",
+    "pl": "Żelazne pazury"
+  },
+  {
+    "gift": 521,
+    "en": "Jackrabbit Jump",
+    "pl": "Skok zająca wielkouchego"
+  },
+  {
+    "gift": 522,
+    "en": "Jam Gun",
+    "pl": "Zakłócenie broni palnej"
+  },
+  {
+    "gift": 523,
+    "en": "Jam Technology",
+    "pl": "Zakłócenie technologii"
+  },
+  {
+    "gift": 524,
+    "en": "Jam Weapon",
+    "pl": "Zakłócenie oręża"
+  },
+  {
+    "gift": 525,
+    "en": "Journey Home",
+    "pl": "Podróż do domu"
+  },
+  {
+    "gift": 526,
+    "en": "Judgment",
+    "pl": "Osąd"
+  },
+  {
+    "gift": 527,
+    "en": "Judgment of Hades",
+    "pl": "Osąd Hadesa"
+  },
+  {
+    "gift": 528,
+    "en": "Kachina’s Luck",
+    "pl": "Szczęście Kacziny"
+  },
+  {
+    "gift": 529,
+    "en": "Kali’s Tongue",
+    "pl": "Język Kali"
+  },
+  {
+    "gift": 530,
+    "en": "Katanka-Sonnak’s Spear",
+    "pl": "Włócznia Katanki-Sonnaka"
+  },
+  {
+    "gift": 531,
+    "en": "King of the Beasts",
+    "pl": "Władca zwierząt"
+  },
+  {
+    "gift": 532,
+    "en": "Kiss of Entropy",
+    "pl": "Pocałunek entropii"
+  },
+  {
+    "gift": 533,
+    "en": "Kiss of Helios",
+    "pl": "Pocałunek Heliosa"
+  },
+  {
+    "gift": 534,
+    "en": "Kitchen Chemistry",
+    "pl": "Domowe laboratorium"
+  },
+  {
+    "gift": 535,
+    "en": "Kneel",
+    "pl": "Na kolana"
+  },
+  {
+    "gift": 536,
+    "en": "Lambent Flame",
+    "pl": "Płegający płomień"
+  },
+  {
+    "gift": 537,
+    "en": "Lash of Rage",
+    "pl": "Bicz Szału"
+  },
+  {
+    "gift": 538,
+    "en": "Landscape",
+    "pl": "Pieśń ziemi"
+  },
+  {
+    "gift": 539,
+    "en": "Last Ditch",
+    "pl": "Ostatnia deska ratunku"
+  },
+  {
+    "gift": 540,
+    "en": "Last Stand",
+    "pl": "Ostatni zew"
+  },
+  {
+    "gift": 541,
+    "en": "Laugh of the Hyena",
+    "pl": "Hieni rechot"
+  },
+  {
+    "gift": 542,
+    "en": "Lay of the Land",
+    "pl": "Rozeznanie w terenie"
+  },
+  {
+    "gift": 543,
+    "en": "Leap the Chasm",
+    "pl": "Skok nad przepaścią"
+  },
+  {
+    "gift": 544,
+    "en": "Legend’s Insight",
+    "pl": "Wiedza przodków"
+  },
+  {
+    "gift": 545,
+    "en": "Leper’s Curse",
+    "pl": "Klątwa trędowatego"
+  },
+  {
+    "gift": 546,
+    "en": "Leshii’s Boon",
+    "pl": "Dar leszego"
+  },
+  {
+    "gift": 547,
+    "en": "Ley Lines",
+    "pl": "Żyły mocy"
+  },
+  {
+    "gift": 548,
+    "en": "Ley Lines",
+    "pl": "Blokada"
+  },
+  {
+    "gift": 549,
+    "en": "Liar’s Craft",
+    "pl": "Kunszt łgarza"
+  },
+  {
+    "gift": 550,
+    "en": "Liar’s Face",
+    "pl": "Oblicze łgarza"
+  },
+  {
+    "gift": 551,
+    "en": "Liberation of Flesh",
+    "pl": "Wyzwolenie z ciała"
+  },
+  {
+    "gift": 552,
+    "en": "Lift-Your-Leg",
+    "pl": "Oznaczenie terytorium"
+  },
+  {
+    "gift": 553,
+    "en": "Lightning Rage",
+    "pl": "Szał błyskawicy"
+  },
+  {
+    "gift": 554,
+    "en": "Lightning Reflexes",
+    "pl": "Refleks błyskawicy"
+  },
+  {
+    "gift": 555,
+    "en": "Lion’s Bite",
+    "pl": "Ugryzienie lwa"
+  },
+  {
+    "gift": 556,
+    "en": "Living Treasure",
+    "pl": "Wiedza przedmiotów"
+  },
+  {
+    "gift": 557,
+    "en": "Locate Spirit Tutor",
+    "pl": "Odnalezienie ducha-nauczyciela"
+  },
+  {
+    "gift": 558,
+    "en": "Loki’s Touch",
+    "pl": "Dotyk Lokiego"
+  },
+  {
+    "gift": 559,
+    "en": "Lonesome Voice of the Bunyip",
+    "pl": "Głos ostatniego Bunyipa"
+  },
+  {
+    "gift": 560,
+    "en": "Long Running",
+    "pl": "Długi bieg"
+  },
+  {
+    "gift": 561,
+    "en": "Lord of the Wilds",
+    "pl": "Władca dziczy"
+  },
+  {
+    "gift": 562,
+    "en": "Lordly Will",
+    "pl": "Wola władcy"
+  },
+  {
+    "gift": 563,
+    "en": "Lover’s Touch",
+    "pl": "Dotyk miłości"
+  },
+  {
+    "gift": 564,
+    "en": "Loyal Defender",
+    "pl": "Przysięga obrońcy"
+  },
+  {
+    "gift": 565,
+    "en": "Luck of the Irish",
+    "pl": "Czterolistna koniczyna"
+  },
+  {
+    "gift": 566,
+    "en": "Lucky Bastard",
+    "pl": "Farciarz"
+  },
+  {
+    "gift": 567,
+    "en": "Luna’s Armor",
+    "pl": "Pancerz Luny"
+  },
+  {
+    "gift": 568,
+    "en": "Luna’s Avenger",
+    "pl": "Mściciel Luny"
+  },
+  {
+    "gift": 569,
+    "en": "Luna’s Blessing",
+    "pl": "Błogosławieństwo Luny"
+  },
+  {
+    "gift": 570,
+    "en": "Luna’s Might",
+    "pl": "Moc Luny"
+  },
+  {
+    "gift": 571,
+    "en": "Mad Strength",
+    "pl": "Siła obłędu"
+  },
+  {
+    "gift": 572,
+    "en": "Maddening Howl",
+    "pl": "Wycie obłędu"
+  },
+  {
+    "gift": 573,
+    "en": "Madness",
+    "pl": "Obłęd"
+  },
+  {
+    "gift": 574,
+    "en": "Madness Season",
+    "pl": "Czas szaleńców"
+  },
+  {
+    "gift": 575,
+    "en": "Malleable Spirit",
+    "pl": "Giętki duch"
+  },
+  {
+    "gift": 576,
+    "en": "Man With No Name",
+    "pl": "Bezimienny"
+  },
+  {
+    "gift": 577,
+    "en": "Manifest the Vision",
+    "pl": "Urzeczywistnienie wizji"
+  },
+  {
+    "gift": 578,
+    "en": "Manipura",
+    "pl": "Manipura"
+  },
+  {
+    "gift": 579,
+    "en": "Man’s Skin",
+    "pl": "Męskie oblicze"
+  },
+  {
+    "gift": 580,
+    "en": "Mark of Shame",
+    "pl": "Piętno hańby"
+  },
+  {
+    "gift": 581,
+    "en": "Mark of the Enemy",
+    "pl": "Napiętnowanie wroga"
+  },
+  {
+    "gift": 582,
+    "en": "Mark of the Prey",
+    "pl": "Piętno zwierzyny"
+  },
+  {
+    "gift": 583,
+    "en": "Mark of the Death-Wolf",
+    "pl": "Piętno Wilka Śmierci"
+  },
+  {
+    "gift": 584,
+    "en": "Mark of the Wolf",
+    "pl": "Piętno wilka"
+  },
+  {
+    "gift": 585,
+    "en": "Mask Taint",
+    "pl": "Ukrycie skażenia"
+  },
+  {
+    "gift": 586,
+    "en": "Mask the Predator",
+    "pl": "Ukrycie drapieżnika"
+  },
+  {
+    "gift": 587,
+    "en": "Master of Fire",
+    "pl": "Władca ognia"
+  },
+  {
+    "gift": 588,
+    "en": "Mastery",
+    "pl": "Władza"
+  },
+  {
+    "gift": 589,
+    "en": "Mastery of the Mortal Coil",
+    "pl": "Władza nad doczesnym ciałem"
+  },
+  {
+    "gift": 590,
+    "en": "Maw of the Whale",
+    "pl": "Paszcza wieloryba"
+  },
+  {
+    "gift": 591,
+    "en": "Ma’at’s Feather",
+    "pl": "Pióro Ma’at"
+  },
+  {
+    "gift": 592,
+    "en": "Measured Step",
+    "pl": "Lekki krok"
+  },
+  {
+    "gift": 593,
+    "en": "Medicine Dreams",
+    "pl": "Lecznicze sny"
+  },
+  {
+    "gift": 594,
+    "en": "Memory Circle",
+    "pl": "Krąg pamięci"
+  },
+  {
+    "gift": 595,
+    "en": "Mend the Forked Tongue",
+    "pl": "Nakaz prawdomówności"
+  },
+  {
+    "gift": 596,
+    "en": "Mental Speech",
+    "pl": "Mowa umysłu"
+  },
+  {
+    "gift": 597,
+    "en": "Merciful Blow",
+    "pl": "Unieszkodliwienie"
+  },
+  {
+    "gift": 598,
+    "en": "Mercy",
+    "pl": "Litość"
+  },
+  {
+    "gift": 599,
+    "en": "Merlin’s Call",
+    "pl": "Zew alfy"
+  },
+  {
+    "gift": 600,
+    "en": "Message Glance",
+    "pl": "Wiadomość w spojrzeniu"
+  },
+  {
+    "gift": 601,
+    "en": "Messenger’s Fortitude",
+    "pl": "Siła dla powstańca"
+  },
+  {
+    "gift": 602,
+    "en": "Might of Thor",
+    "pl": "Moc Thora"
+  },
+  {
+    "gift": 603,
+    "en": "Mimic",
+    "pl": "Naśladownictwo"
+  },
+  {
+    "gift": 604,
+    "en": "Mind Partition",
+    "pl": "Wielowątkowy umysł"
+  },
+  {
+    "gift": 605,
+    "en": "Mindblock",
+    "pl": "Osłona umysłu"
+  },
+  {
+    "gift": 606,
+    "en": "Mindspeak",
+    "pl": "Sen na jawie"
+  },
+  {
+    "gift": 607,
+    "en": "Mirage",
+    "pl": "Miraż"
+  },
+  {
+    "gift": 608,
+    "en": "Mjolnir’s Thunder",
+    "pl": "Grzmot Mjolnira"
+  },
+  {
+    "gift": 609,
+    "en": "Mold the Spirit",
+    "pl": "Kształtowanie ducha"
+  },
+  {
+    "gift": 610,
+    "en": "Misdirection",
+    "pl": "Zmylenie"
+  },
+  {
+    "gift": 611,
+    "en": "Monkey Tail",
+    "pl": "Małpi ogon"
+  },
+  {
+    "gift": 612,
+    "en": "Moon Lore",
+    "pl": "Wiedza księżyca"
+  },
+  {
+    "gift": 613,
+    "en": "Moonshadow",
+    "pl": "Cień Luny"
+  },
+  {
+    "gift": 614,
+    "en": "Moonstruck Path",
+    "pl": "Księżycowa ścieżka"
+  },
+  {
+    "gift": 615,
+    "en": "Mother’s Rage",
+    "pl": "Gniew matki"
+  },
+  {
+    "gift": 616,
+    "en": "Mother’s Touch",
+    "pl": "Matczyny dotyk"
+  },
+  {
+    "gift": 617,
+    "en": "Mouthpiece of the Successor",
+    "pl": "Ostatnie słowa"
+  },
+  {
+    "gift": 618,
+    "en": "Muladhara",
+    "pl": "Muladhara"
+  },
+  {
+    "gift": 619,
+    "en": "Mule’s Bane",
+    "pl": "Klątwa muła"
+  },
+  {
+    "gift": 620,
+    "en": "Name the Spirit",
+    "pl": "Poznanie ducha"
+  },
+  {
+    "gift": 621,
+    "en": "Nobody’s Bastard",
+    "pl": "Nierozpoznawalny bękart"
+  },
+  {
+    "gift": 622,
+    "en": "Natural Camouflage",
+    "pl": "Naturalny kamuflaż"
+  },
+  {
+    "gift": 623,
+    "en": "Natural Renewal",
+    "pl": "Odrodzenie natury"
+  },
+  {
+    "gift": 624,
+    "en": "Nature’s Bounty",
+    "pl": "Obfitość natury"
+  },
+  {
+    "gift": 625,
+    "en": "Network Terminal",
+    "pl": "Terminal sieciowy"
+  },
+  {
+    "gift": 626,
+    "en": "New Moon Legerdemain",
+    "pl": "Kuglarstwo nowiu"
+  },
+  {
+    "gift": 627,
+    "en": "New Moon’s Laughter",
+    "pl": "Śmiech nowiu"
+  },
+  {
+    "gift": 628,
+    "en": "Nightmare Possession",
+    "pl": "Koszmarne opętanie"
+  },
+  {
+    "gift": 629,
+    "en": "Nose of the Hungry Hound",
+    "pl": "Węch głodnego ogara"
+  },
+  {
+    "gift": 630,
+    "en": "Nose-to-Tail",
+    "pl": "Wilczy kłębek"
+  },
+  {
+    "gift": 631,
+    "en": "Obedience",
+    "pl": "Posłuszeństwo"
+  },
+  {
+    "gift": 632,
+    "en": "Obscure the Spirit World",
+    "pl": "Ukrycie Umbry"
+  },
+  {
+    "gift": 633,
+    "en": "Obscure the Truth",
+    "pl": "Przysłonięcie prawdy"
+  },
+  {
+    "gift": 634,
+    "en": "Odious Aroma",
+    "pl": "Wstrętny zapach"
+  },
+  {
+    "gift": 635,
+    "en": "Omen Claws",
+    "pl": "Złowieszcze pazury"
+  },
+  {
+    "gift": 636,
+    "en": "Offering of the Slain",
+    "pl": "Ofiara z zabitych"
+  },
+  {
+    "gift": 637,
+    "en": "Omen of Power",
+    "pl": "Zwiastun potęgi"
+  },
+  {
+    "gift": 638,
+    "en": "Omen of Truth",
+    "pl": "Omen prawdy"
+  },
+  {
+    "gift": 639,
+    "en": "On Patrol",
+    "pl": "Patrol"
+  },
+  {
+    "gift": 640,
+    "en": "One on One",
+    "pl": "Jeden na jednego"
+  },
+  {
+    "gift": 641,
+    "en": "Open Moon Bridge",
+    "pl": "Otwarcie Księżycowego Mostu"
+  },
+  {
+    "gift": 642,
+    "en": "Open Seal",
+    "pl": "Złamanie pieczęci"
+  },
+  {
+    "gift": 643,
+    "en": "Open Wounds",
+    "pl": "Otwarta rana"
+  },
+  {
+    "gift": 644,
+    "en": "Pack Shield",
+    "pl": "Osłona watahy"
+  },
+  {
+    "gift": 645,
+    "en": "Osprey’s Eye",
+    "pl": "Oko rybołowa"
+  },
+  {
+    "gift": 646,
+    "en": "Osprey’s Flight",
+    "pl": "Skrzydła rybołowa"
+  },
+  {
+    "gift": 647,
+    "en": "Overclock",
+    "pl": "Podkręcenie"
+  },
+  {
+    "gift": 648,
+    "en": "Overlook",
+    "pl": "Niezauważony"
+  },
+  {
+    "gift": 649,
+    "en": "Owl Speech",
+    "pl": "Mowa sów"
+  },
+  {
+    "gift": 650,
+    "en": "Pack Tactics",
+    "pl": "Taktyka watahy"
+  },
+  {
+    "gift": 651,
+    "en": "Pact",
+    "pl": "Przymierze"
+  },
+  {
+    "gift": 652,
+    "en": "Pain Chain",
+    "pl": "Ogniwa zepsucia"
+  },
+  {
+    "gift": 653,
+    "en": "Pain of the Land",
+    "pl": "Cierpienie ziemi"
+  },
+  {
+    "gift": 654,
+    "en": "Pain-Strength",
+    "pl": "Potęga cierpienia"
+  },
+  {
+    "gift": 655,
+    "en": "Para Bellum",
+    "pl": "Para Bellum"
+  },
+  {
+    "gift": 656,
+    "en": "Paper Butterfly",
+    "pl": "Papierowy motyl"
+  },
+  {
+    "gift": 657,
+    "en": "Paralyzing Stare",
+    "pl": "Paraliżujące spojrzenie"
+  },
+  {
+    "gift": 658,
+    "en": "Paranoia",
+    "pl": "Paranoja"
+  },
+  {
+    "gift": 659,
+    "en": "Part the Veil",
+    "pl": "Rozdarcie zasłony"
+  },
+  {
+    "gift": 660,
+    "en": "Parting the Velvet Curtain",
+    "pl": "Rozsunięcie aksamitnej zasłony"
+  },
+  {
+    "gift": 661,
+    "en": "Patagia",
+    "pl": "Patagia"
+  },
+  {
+    "gift": 662,
+    "en": "Pathfinder",
+    "pl": "Tropiciel ścieżek"
+  },
+  {
+    "gift": 663,
+    "en": "Patience of the Wyrm",
+    "pl": "Cierpliwość Żmija"
+  },
+  {
+    "gift": 664,
+    "en": "Paws of the Newborn Cub",
+    "pl": "Łapki szczenięcia"
+  },
+  {
+    "gift": 665,
+    "en": "Pennies from Heaven",
+    "pl": "Deszcz Gotówki"
+  },
+  {
+    "gift": 666,
+    "en": "Perceptive Servant",
+    "pl": "Spostrzegawczy sługa"
+  },
+  {
+    "gift": 667,
+    "en": "Perfect Recall",
+    "pl": "Pamięć absolutna"
+  },
+  {
+    "gift": 668,
+    "en": "Persephone’s Soul",
+    "pl": "Dusza Persefony"
+  },
+  {
+    "gift": 669,
+    "en": "Persuasion",
+    "pl": "Perswazja"
+  },
+  {
+    "gift": 670,
+    "en": "Petal Float",
+    "pl": "Lekkość płatka kwiatu"
+  },
+  {
+    "gift": 671,
+    "en": "Phantasm",
+    "pl": "Urojenie"
+  },
+  {
+    "gift": 672,
+    "en": "Play Dead",
+    "pl": "Martwy na pokaz"
+  },
+  {
+    "gift": 673,
+    "en": "Phone Travel",
+    "pl": "Telefoniczna podróż"
+  },
+  {
+    "gift": 674,
+    "en": "Pin The Eagle’s Wing",
+    "pl": "Przyszpilenie orlego skrzydła"
+  },
+  {
+    "gift": 675,
+    "en": "Piping",
+    "pl": "Duchowe wezwanie"
+  },
+  {
+    "gift": 676,
+    "en": "Placation",
+    "pl": "Przebłaganie"
+  },
+  {
+    "gift": 677,
+    "en": "Plague Child",
+    "pl": "Dziecko zarazy"
+  },
+  {
+    "gift": 678,
+    "en": "Plague Visage",
+    "pl": "Oblicze zarazy"
+  },
+  {
+    "gift": 679,
+    "en": "Play Possum",
+    "pl": "Oposia śmierć"
+  },
+  {
+    "gift": 680,
+    "en": "Pointing the Bone",
+    "pl": "Wskazanie kością"
+  },
+  {
+    "gift": 681,
+    "en": "Poisoned Legacy",
+    "pl": "Zatrute dziedzictwo"
+  },
+  {
+    "gift": 682,
+    "en": "Possum’s Feet",
+    "pl": "Łapki oposa"
+  },
+  {
+    "gift": 683,
+    "en": "Power of the Ways",
+    "pl": "Wędrówka ścieżkami duchów"
+  },
+  {
+    "gift": 684,
+    "en": "Plug and Play",
+    "pl": "Plug and Play"
+  },
+  {
+    "gift": 685,
+    "en": "Poisoned Gauntlet",
+    "pl": "Zatruta Rękawica"
+  },
+  {
+    "gift": 686,
+    "en": "Power Surge",
+    "pl": "Udar elektryczny"
+  },
+  {
+    "gift": 687,
+    "en": "Predator’s Arsenal",
+    "pl": "Arsenał drapieżnika"
+  },
+  {
+    "gift": 688,
+    "en": "Predator’s Leap",
+    "pl": "Skok drapieżnika"
+  },
+  {
+    "gift": 689,
+    "en": "Predator’s Many Eyes",
+    "pl": "Wiele oczu drapieżnika"
+  },
+  {
+    "gift": 690,
+    "en": "Prelude to Apocalypse",
+    "pl": "Zapowiedź Apokalipsy"
+  },
+  {
+    "gift": 691,
+    "en": "Preternatural Awareness",
+    "pl": "Nadnaturalna czujność"
+  },
+  {
+    "gift": 692,
+    "en": "Prey Mind",
+    "pl": "Umysł ofiary"
+  },
+  {
+    "gift": 693,
+    "en": "Prey’s Cry",
+    "pl": "Krzyk ofiary"
+  },
+  {
+    "gift": 694,
+    "en": "Primal Anger",
+    "pl": "Pierwotny gniew"
+  },
+  {
+    "gift": 695,
+    "en": "Primal Howl",
+    "pl": "Pierwotne wycie"
+  },
+  {
+    "gift": 696,
+    "en": "Primal Instinct",
+    "pl": "Pierwotny instynkt"
+  },
+  {
+    "gift": 697,
+    "en": "Primal Song",
+    "pl": "Pierwotna pieśń"
+  },
+  {
+    "gift": 698,
+    "en": "Princely Bearing",
+    "pl": "Książęca postawa"
+  },
+  {
+    "gift": 699,
+    "en": "Prophecy",
+    "pl": "Przepowiednia"
+  },
+  {
+    "gift": 700,
+    "en": "Prophetic Vision",
+    "pl": "Prorocza wizja"
+  },
+  {
+    "gift": 701,
+    "en": "Prospector’s Luck",
+    "pl": "Szczęście poszukiwacza złota"
+  },
+  {
+    "gift": 702,
+    "en": "Protean Form",
+    "pl": "Zmienna postać"
+  },
+  {
+    "gift": 703,
+    "en": "Pull Water",
+    "pl": "Wydobycie wody"
+  },
+  {
+    "gift": 704,
+    "en": "Pulse of the Invisible",
+    "pl": "Tętno niewidzialności"
+  },
+  {
+    "gift": 705,
+    "en": "Pulse of the Prey",
+    "pl": "Tętno ofiary"
+  },
+  {
+    "gift": 706,
+    "en": "Pulse of the Railroad",
+    "pl": "Puls kolei"
+  },
+  {
+    "gift": 707,
+    "en": "Pure Identity",
+    "pl": "Fałszywa natura"
+  },
+  {
+    "gift": 708,
+    "en": "Purify Meat",
+    "pl": "Oczyszczenie mięsa"
+  },
+  {
+    "gift": 709,
+    "en": "Purify Scent",
+    "pl": "Maskowanie woni"
+  },
+  {
+    "gift": 710,
+    "en": "Purity of Blood",
+    "pl": "Nieskalana krew"
+  },
+  {
+    "gift": 711,
+    "en": "Purity of Spirit",
+    "pl": "Nieskalany duch"
+  },
+  {
+    "gift": 712,
+    "en": "Quell the Storm",
+    "pl": "Poskromienie burzy"
+  },
+  {
+    "gift": 713,
+    "en": "Questioning",
+    "pl": "Zastrzeżenie"
+  },
+  {
+    "gift": 714,
+    "en": "Quicksand",
+    "pl": "Lotne piaski"
+  },
+  {
+    "gift": 715,
+    "en": "Rage of the Underdog",
+    "pl": "Szał niedocenianego"
+  },
+  {
+    "gift": 716,
+    "en": "Rally the Troops",
+    "pl": "Zwołanie oddziałów"
+  },
+  {
+    "gift": 717,
+    "en": "Rage at Shadows",
+    "pl": "Walka z cieniem"
+  },
+  {
+    "gift": 718,
+    "en": "Rage of Fenris",
+    "pl": "Szał Fenrisa"
+  },
+  {
+    "gift": 719,
+    "en": "Rains of Mercy",
+    "pl": "Miłosierny deszcz"
+  },
+  {
+    "gift": 720,
+    "en": "Rally to the Cause",
+    "pl": "Zjednoczenie kłów i pazurów"
+  },
+  {
+    "gift": 721,
+    "en": "Rampage",
+    "pl": "Dewastacja"
+  },
+  {
+    "gift": 722,
+    "en": "Rant and Rave",
+    "pl": "Tyrada szaleńca"
+  },
+  {
+    "gift": 723,
+    "en": "Rathead",
+    "pl": "Szczurza głowa"
+  },
+  {
+    "gift": 724,
+    "en": "Rat Head",
+    "pl": "Szczurza głowa"
+  },
+  {
+    "gift": 725,
+    "en": "Rattler’s Bite",
+    "pl": "Ukoszęnie grzechotnika"
+  },
+  {
+    "gift": 726,
+    "en": "Raven’s Curse",
+    "pl": "Klątwa kruka"
+  },
+  {
+    "gift": 727,
+    "en": "Raven’s Wings",
+    "pl": "Skrzydła kruka"
+  },
+  {
+    "gift": 728,
+    "en": "Razor Claws",
+    "pl": "Stalowe pazury"
+  },
+  {
+    "gift": 729,
+    "en": "Reach the Umbra",
+    "pl": "Wejście w Umbrę"
+  },
+  {
+    "gift": 730,
+    "en": "Reality’s Path",
+    "pl": "Droga prawdy"
+  },
+  {
+    "gift": 731,
+    "en": "Realm Wisdom",
+    "pl": "Wiedza Królestwa"
+  },
+  {
+    "gift": 732,
+    "en": "Reap the Soul",
+    "pl": "Żniwa dusz"
+  },
+  {
+    "gift": 733,
+    "en": "Reason",
+    "pl": "Jasność umysłu"
+  },
+  {
+    "gift": 734,
+    "en": "Reason’s Grasp",
+    "pl": "Silny umysł"
+  },
+  {
+    "gift": 735,
+    "en": "Rebirth",
+    "pl": "Odrodzenie"
+  },
+  {
+    "gift": 736,
+    "en": "Rebirthing",
+    "pl": "Ponowne narodziny"
+  },
+  {
+    "gift": 737,
+    "en": "Recycle",
+    "pl": "Recykling"
+  },
+  {
+    "gift": 738,
+    "en": "Redirect Pain",
+    "pl": "Przekierowanie bólu"
+  },
+  {
+    "gift": 739,
+    "en": "Render Down",
+    "pl": "Rozkład materii"
+  },
+  {
+    "gift": 740,
+    "en": "Rending the Craft",
+    "pl": "Rozdarcie magii"
+  },
+  {
+    "gift": 741,
+    "en": "Release from Bondage",
+    "pl": "Zerwanie więzów"
+  },
+  {
+    "gift": 742,
+    "en": "Reload",
+    "pl": "Przeładowanie"
+  },
+  {
+    "gift": 743,
+    "en": "Rend",
+    "pl": "Rozdarcie"
+  },
+  {
+    "gift": 744,
+    "en": "Rend Reality",
+    "pl": "Rozdarcie rzeczywistości"
+  },
+  {
+    "gift": 745,
+    "en": "Renew the Cycle",
+    "pl": "Odnowienie cyklu"
+  },
+  {
+    "gift": 746,
+    "en": "Renewed Vigor",
+    "pl": "Odnowiony wigor"
+  },
+  {
+    "gift": 747,
+    "en": "Repel Metal",
+    "pl": "Magnetyczny odrzut"
+  },
+  {
+    "gift": 748,
+    "en": "Repress Taint",
+    "pl": "Ukrycie zepsucia"
+  },
+  {
+    "gift": 749,
+    "en": "Reshape Object",
+    "pl": "Przekształcenie materii"
+  },
+  {
+    "gift": 750,
+    "en": "Resist Pain",
+    "pl": "Odporność na ból"
+  },
+  {
+    "gift": 751,
+    "en": "Resist Temptation",
+    "pl": "Odporność na pokusę"
+  },
+  {
+    "gift": 752,
+    "en": "Resist Toxin",
+    "pl": "Odporność na trucizny"
+  },
+  {
+    "gift": 753,
+    "en": "Rhythm of War",
+    "pl": "Rytm wojny"
+  },
+  {
+    "gift": 754,
+    "en": "Resolute Vow",
+    "pl": "Niezłomna Przysięga"
+  },
+  {
+    "gift": 755,
+    "en": "Reveal the Hidden",
+    "pl": "Ujawnienie ukrytego"
+  },
+  {
+    "gift": 756,
+    "en": "Reverie",
+    "pl": "Zaduma"
+  },
+  {
+    "gift": 757,
+    "en": "Reverie of the Kol-Kin",
+    "pl": "Zaduma Kol-Kin"
+  },
+  {
+    "gift": 758,
+    "en": "Riddle",
+    "pl": "Zagadka"
+  },
+  {
+    "gift": 759,
+    "en": "Riot",
+    "pl": "Zamieszki"
+  },
+  {
+    "gift": 760,
+    "en": "Ritual Tuning",
+    "pl": "Przygotowanie rytuału"
+  },
+  {
+    "gift": 761,
+    "en": "Road Ward",
+    "pl": "Strażnik drogi"
+  },
+  {
+    "gift": 762,
+    "en": "Roar of Vengeance",
+    "pl": "Ryk zemsty"
+  },
+  {
+    "gift": 763,
+    "en": "Roll Over",
+    "pl": "Pan i władca"
+  },
+  {
+    "gift": 764,
+    "en": "Rooftop Sprint",
+    "pl": "Bieg dachami"
+  },
+  {
+    "gift": 765,
+    "en": "Rope Tricks",
+    "pl": "Sztuczki z liną"
+  },
+  {
+    "gift": 766,
+    "en": "Rot Weavertetch",
+    "pl": "Zniszczenie urządzeń Tkaczki"
+  },
+  {
+    "gift": 767,
+    "en": "Run for Ground",
+    "pl": "Do nory"
+  },
+  {
+    "gift": 768,
+    "en": "Safe Cave",
+    "pl": "Bezpieczna jaskinia"
+  },
+  {
+    "gift": 769,
+    "en": "Safe Haven",
+    "pl": "Bezpieczna przystań"
+  },
+  {
+    "gift": 770,
+    "en": "Salmon Leap",
+    "pl": "Skok łososia"
+  },
+  {
+    "gift": 771,
+    "en": "Salmon Swim",
+    "pl": "Płynięcie Łososia"
+  },
+  {
+    "gift": 772,
+    "en": "Scabwalker Curse",
+    "pl": "Klątwa sztucznego świata"
+  },
+  {
+    "gift": 773,
+    "en": "Sandstorm",
+    "pl": "Burza piaskowa"
+  },
+  {
+    "gift": 774,
+    "en": "Savage the Mind",
+    "pl": "Rozszarpanie umysłu"
+  },
+  {
+    "gift": 775,
+    "en": "Scale of Ma’at",
+    "pl": "Sąd Ma’at"
+  },
+  {
+    "gift": 776,
+    "en": "Scent of Beyond",
+    "pl": "Przeniesienie zmysłów"
+  },
+  {
+    "gift": 777,
+    "en": "Scent of Distinction",
+    "pl": "Wyczucie natury miejsca"
+  },
+  {
+    "gift": 778,
+    "en": "Scent of Man",
+    "pl": "Ludzki odór"
+  },
+  {
+    "gift": 779,
+    "en": "Scent of Running Water",
+    "pl": "Woń płynącej wody"
+  },
+  {
+    "gift": 780,
+    "en": "Scent of Sight",
+    "pl": "Węch zamiast wzroku"
+  },
+  {
+    "gift": 781,
+    "en": "Scent of Sweet Honey",
+    "pl": "Zapach słodkiego miodu"
+  },
+  {
+    "gift": 782,
+    "en": "Scent of the Oathbreaker",
+    "pl": "Woń krzywoprzysięzcy"
+  },
+  {
+    "gift": 783,
+    "en": "Scent of the Honeycomb",
+    "pl": "Zapach plastra miodu"
+  },
+  {
+    "gift": 784,
+    "en": "Scent of the Man-Eater",
+    "pl": "Woń ludożercy"
+  },
+  {
+    "gift": 785,
+    "en": "Scent of the True Form",
+    "pl": "Wyczucie prawdziwej postaci"
+  },
+  {
+    "gift": 786,
+    "en": "Scream of Gaia",
+    "pl": "Wrzask Gai"
+  },
+  {
+    "gift": 787,
+    "en": "Scrying",
+    "pl": "Podglądanie"
+  },
+  {
+    "gift": 788,
+    "en": "See Past the Skin",
+    "pl": "Spojrzenie pod skórę"
+  },
+  {
+    "gift": 789,
+    "en": "Secrets",
+    "pl": "Tajemnice"
+  },
+  {
+    "gift": 790,
+    "en": "Seed of Speech",
+    "pl": "Harmonia mowy"
+  },
+  {
+    "gift": 791,
+    "en": "Seeds of Doubt",
+    "pl": "Nasiona zwątpienia"
+  },
+  {
+    "gift": 792,
+    "en": "Seeking the Void",
+    "pl": "Poszukiwanie pustki"
+  },
+  {
+    "gift": 793,
+    "en": "Seizing the Edge",
+    "pl": "Zdobycie przewagi"
+  },
+  {
+    "gift": 794,
+    "en": "Semblance",
+    "pl": "Miraż"
+  },
+  {
+    "gift": 795,
+    "en": "Sense Balance",
+    "pl": "Wyczucie równowagi"
+  },
+  {
+    "gift": 796,
+    "en": "Sense Chiminage",
+    "pl": "Wyczucie duchowego długu"
+  },
+  {
+    "gift": 797,
+    "en": "Sense Fae",
+    "pl": "Wyczucie Fae"
+  },
+  {
+    "gift": 798,
+    "en": "Sense Guilt",
+    "pl": "Wyczucie winy"
+  },
+  {
+    "gift": 799,
+    "en": "Sense Magic",
+    "pl": "Wyczucie magii"
+  },
+  {
+    "gift": 800,
+    "en": "Sense Medicine",
+    "pl": "Wyczucie duchowej mocy"
+  },
+  {
+    "gift": 801,
+    "en": "Sense of the Deep",
+    "pl": "Wyczucie podziemi"
+  },
+  {
+    "gift": 802,
+    "en": "Sense of the Prey",
+    "pl": "Trop zwierzyny"
+  },
+  {
+    "gift": 803,
+    "en": "Sense Prey",
+    "pl": "Wyczucie ofiary"
+  },
+  {
+    "gift": 804,
+    "en": "Sense Secrets",
+    "pl": "Wyczucie tajemnic"
+  },
+  {
+    "gift": 805,
+    "en": "Sense Silver",
+    "pl": "Wyczucie srebra"
+  },
+  {
+    "gift": 806,
+    "en": "Sense the Demonic",
+    "pl": "Wyczucie demonów"
+  },
+  {
+    "gift": 807,
+    "en": "Sense the Tunneler’s Passage",
+    "pl": "Wyczucie woni Żmija"
+  },
+  {
+    "gift": 808,
+    "en": "Sense the Unnatural",
+    "pl": "Wyczucie nadnaturalnego"
+  },
+  {
+    "gift": 809,
+    "en": "Sense Trauma",
+    "pl": "Rozpoznanie traumy"
+  },
+  {
+    "gift": 810,
+    "en": "Sense Weaver",
+    "pl": "Wyczucie Tkaczki"
+  },
+  {
+    "gift": 811,
+    "en": "Sense Wyld",
+    "pl": "Wyczucie Dzikuna"
+  },
+  {
+    "gift": 812,
+    "en": "Sense Wyrm",
+    "pl": "Wyczucie Żmija"
+  },
+  {
+    "gift": 813,
+    "en": "Serenity",
+    "pl": "Spokój"
+  },
+  {
+    "gift": 814,
+    "en": "Serpent-Driving",
+    "pl": "Odpędzanie węży"
+  },
+  {
+    "gift": 815,
+    "en": "Seven Mile Leap",
+    "pl": "Siedmiomilowy skok"
+  },
+  {
+    "gift": 816,
+    "en": "Shadow Cutting",
+    "pl": "Zranienie cienia"
+  },
+  {
+    "gift": 817,
+    "en": "Shadow of the Rat",
+    "pl": "Cień Szczura"
+  },
+  {
+    "gift": 818,
+    "en": "Shadow Pack",
+    "pl": "Wataha cieni"
+  },
+  {
+    "gift": 819,
+    "en": "Shadow Weaving",
+    "pl": "Splatanie cieni"
+  },
+  {
+    "gift": 820,
+    "en": "Shadows at Dawn",
+    "pl": "Cienie o świcie"
+  },
+  {
+    "gift": 821,
+    "en": "Shadows of the Impergium",
+    "pl": "Widma Impergium"
+  },
+  {
+    "gift": 822,
+    "en": "Shadowplay",
+    "pl": "Gra cieni"
+  },
+  {
+    "gift": 823,
+    "en": "Shadows by Firelight",
+    "pl": "Teatr cieni"
+  },
+  {
+    "gift": 824,
+    "en": "Shadows by the Fire Light",
+    "pl": "Teatr cieni"
+  },
+  {
+    "gift": 825,
+    "en": "Shake the Earth",
+    "pl": "Wstrząs ziemi"
+  },
+  {
+    "gift": 826,
+    "en": "Shape Smoke",
+    "pl": "Kształtowanie dymu"
+  },
+  {
+    "gift": 827,
+    "en": "Share the Wolf’s Skin",
+    "pl": "Przemiana w wilka"
+  },
+  {
+    "gift": 828,
+    "en": "Shared Strength",
+    "pl": "Użyczenie siły"
+  },
+  {
+    "gift": 829,
+    "en": "Shatter Bone",
+    "pl": "Zdruzgotanie kości"
+  },
+  {
+    "gift": 830,
+    "en": "Shattering Howl",
+    "pl": "Druzgocące wycie"
+  },
+  {
+    "gift": 831,
+    "en": "Shattering Howl",
+    "pl": "Druzgocące wycie"
+  },
+  {
+    "gift": 832,
+    "en": "Shed",
+    "pl": "Wyszarpnięcie"
+  },
+  {
+    "gift": 833,
+    "en": "Shell",
+    "pl": "Skorupa"
+  },
+  {
+    "gift": 834,
+    "en": "Shell Game",
+    "pl": "Gra w trzy kubki"
+  },
+  {
+    "gift": 835,
+    "en": "Shelter of Needles",
+    "pl": "Schronienie pod igłami sosny"
+  },
+  {
+    "gift": 836,
+    "en": "Sheng-Nong’s Eyes",
+    "pl": "Oczy Sheng-Nonga"
+  },
+  {
+    "gift": 837,
+    "en": "Shield of Gaia",
+    "pl": "Tarcza Gai"
+  },
+  {
+    "gift": 838,
+    "en": "Shield of Rage",
+    "pl": "Tarcza Szału"
+  },
+  {
+    "gift": 839,
+    "en": "Shining Sigils",
+    "pl": "Lśniące symbole"
+  },
+  {
+    "gift": 840,
+    "en": "Shroud",
+    "pl": "Zasłona mroku"
+  },
+  {
+    "gift": 841,
+    "en": "Sidestep Death",
+    "pl": "Uniknięcie śmierci"
+  },
+  {
+    "gift": 842,
+    "en": "Sight From Beyond",
+    "pl": "Wizje"
+  },
+  {
+    "gift": 843,
+    "en": "Signal Rider",
+    "pl": "Skok z impulsem"
+  },
+  {
+    "gift": 844,
+    "en": "Sideways Attack",
+    "pl": "Cios przez Rękawicę"
+  },
+  {
+    "gift": 845,
+    "en": "Sight from Beyond",
+    "pl": "Wizje"
+  },
+  {
+    "gift": 846,
+    "en": "Sight of Hidden Places",
+    "pl": "Wizje ukrytych miejsc"
+  },
+  {
+    "gift": 847,
+    "en": "Sigurd’s Stride",
+    "pl": "Krok Sigurda"
+  },
+  {
+    "gift": 848,
+    "en": "Silence",
+    "pl": "Wytłumienie"
+  },
+  {
+    "gift": 849,
+    "en": "Silence the Weaver",
+    "pl": "Uciszenie Tkaczki"
+  },
+  {
+    "gift": 850,
+    "en": "Silence",
+    "pl": "Cisza"
+  },
+  {
+    "gift": 851,
+    "en": "Silence the Slain",
+    "pl": "Uciszenie ofiary"
+  },
+  {
+    "gift": 852,
+    "en": "Silver Bullets",
+    "pl": "Srebrne kule"
+  },
+  {
+    "gift": 853,
+    "en": "Silver Claws",
+    "pl": "Srebrne pazury"
+  },
+  {
+    "gift": 854,
+    "en": "Silver Reprisal",
+    "pl": "Srebrny odwet"
+  },
+  {
+    "gift": 855,
+    "en": "Singing Dog’s Cry",
+    "pl": "Dotyk niesiony głosem"
+  },
+  {
+    "gift": 856,
+    "en": "Sing Down the Rain",
+    "pl": "Wyśpiewanie deszczu"
+  },
+  {
+    "gift": 857,
+    "en": "Sing the Spirits",
+    "pl": "Pieśń odpędzania duchów"
+  },
+  {
+    "gift": 858,
+    "en": "Singleness of Purpose",
+    "pl": "Niezachwiane skupienie"
+  },
+  {
+    "gift": 859,
+    "en": "Skinglide",
+    "pl": "Skórzane skrzydła"
+  },
+  {
+    "gift": 860,
+    "en": "Sky Running",
+    "pl": "Bieg po niebie"
+  },
+  {
+    "gift": 861,
+    "en": "Skyscraper Vision",
+    "pl": "Spojrzenie z wieżowca"
+  },
+  {
+    "gift": 862,
+    "en": "Sleep of the Hero",
+    "pl": "Sen bohatera"
+  },
+  {
+    "gift": 863,
+    "en": "Slip of the Tongue",
+    "pl": "Przejęzyczenie"
+  },
+  {
+    "gift": 864,
+    "en": "Smell Fear",
+    "pl": "Woń strachu"
+  },
+  {
+    "gift": 865,
+    "en": "Smell of Man",
+    "pl": "Woń człowieka"
+  },
+  {
+    "gift": 866,
+    "en": "Smell of Success",
+    "pl": "Zapach sukcesu"
+  },
+  {
+    "gift": 867,
+    "en": "Smoke Signals",
+    "pl": "Sygnały dymne"
+  },
+  {
+    "gift": 868,
+    "en": "Snap Man’s Chains",
+    "pl": "Wyzwolenie dzikiej natury"
+  },
+  {
+    "gift": 869,
+    "en": "Snarl of the Predator",
+    "pl": "Warknięcie drapieżnika"
+  },
+  {
+    "gift": 870,
+    "en": "Social Butterfly",
+    "pl": "Dusza towarzystwa"
+  },
+  {
+    "gift": 871,
+    "en": "Song of Heroes",
+    "pl": "Pieśń bohaterów"
+  },
+  {
+    "gift": 872,
+    "en": "Snow Running",
+    "pl": "Bieg po śniegu"
+  },
+  {
+    "gift": 873,
+    "en": "Snow Running",
+    "pl": "Bieg po śniegu"
+  },
+  {
+    "gift": 874,
+    "en": "Snow Sight",
+    "pl": "Śnieżny wzrok"
+  },
+  {
+    "gift": 875,
+    "en": "Song of Mockery",
+    "pl": "Pieśń szyderstwa"
+  },
+  {
+    "gift": 876,
+    "en": "Song of Rage",
+    "pl": "Pieśń Szału"
+  },
+  {
+    "gift": 877,
+    "en": "Song of the City-Beast",
+    "pl": "Pieśń miejskiej bestii"
+  },
+  {
+    "gift": 878,
+    "en": "Song of the Dire",
+    "pl": "Straszliwy zew"
+  },
+  {
+    "gift": 879,
+    "en": "Song of the Earth Mother",
+    "pl": "Pieśń Matki Ziemi"
+  },
+  {
+    "gift": 880,
+    "en": "Song of the Great Beast",
+    "pl": "Pieśń Wielkiej Bestii"
+  },
+  {
+    "gift": 881,
+    "en": "Song of the Seasons",
+    "pl": "Pieśń pór roku"
+  },
+  {
+    "gift": 882,
+    "en": "Song of the Siren",
+    "pl": "Pieśń syreny"
+  },
+  {
+    "gift": 883,
+    "en": "Song of the Storm",
+    "pl": "Pieśń burzy"
+  },
+  {
+    "gift": 884,
+    "en": "Soothe the Savage Beast",
+    "pl": "Poskromienie dzikiej bestii"
+  },
+  {
+    "gift": 885,
+    "en": "Soul’s Guilt",
+    "pl": "Brzemię winy"
+  },
+  {
+    "gift": 886,
+    "en": "Sound of Suffering",
+    "pl": "Głos cierpienia"
+  },
+  {
+    "gift": 887,
+    "en": "Speak with the Wind Spirits",
+    "pl": "Rozmowa z duchami wiatru"
+  },
+  {
+    "gift": 888,
+    "en": "Spear Dancing",
+    "pl": "Taniec włóczni"
+  },
+  {
+    "gift": 889,
+    "en": "Speech of the World",
+    "pl": "Język świata"
+  },
+  {
+    "gift": 890,
+    "en": "Speed Beyond Thought",
+    "pl": "Niewyobrażalna szybkość"
+  },
+  {
+    "gift": 891,
+    "en": "Speed of Thought",
+    "pl": "Niezwykła szybkość"
+  },
+  {
+    "gift": 892,
+    "en": "Spellbinding Oration",
+    "pl": "Hipnotyzująca przemowa"
+  },
+  {
+    "gift": 893,
+    "en": "Spider’s Song",
+    "pl": "Pieśń Pająka"
+  },
+  {
+    "gift": 894,
+    "en": "Spiral-Shadow Dance",
+    "pl": "Taniec cienia Spirali"
+  },
+  {
+    "gift": 895,
+    "en": "Spirit Blossom",
+    "pl": "Duchowy kwiat"
+  },
+  {
+    "gift": 896,
+    "en": "Spirit Brand",
+    "pl": "Duchowe piętno"
+  },
+  {
+    "gift": 897,
+    "en": "Spirit Drain",
+    "pl": "Wyssanie Mocy"
+  },
+  {
+    "gift": 898,
+    "en": "Spirit Friend",
+    "pl": "Duch przyjaciel"
+  },
+  {
+    "gift": 899,
+    "en": "Spirit Knife",
+    "pl": "Duchowy nóż"
+  },
+  {
+    "gift": 900,
+    "en": "Spirit Loan",
+    "pl": "Pożyczenie Daru"
+  },
+  {
+    "gift": 901,
+    "en": "Spirit of the Bird",
+    "pl": "Duch ptaka"
+  },
+  {
+    "gift": 902,
+    "en": "Spirit of the Fish",
+    "pl": "Duch ryby"
+  },
+  {
+    "gift": 903,
+    "en": "Spirit of the Fray",
+    "pl": "Duch walki"
+  },
+  {
+    "gift": 904,
+    "en": "Spirit of the Lizard",
+    "pl": "Duch jaszczurki"
+  },
+  {
+    "gift": 905,
+    "en": "Spirit Snare",
+    "pl": "Duchowe sidła"
+  },
+  {
+    "gift": 906,
+    "en": "Spirit Path",
+    "pl": "Duchowy szlak"
+  },
+  {
+    "gift": 907,
+    "en": "Spirit Ripper",
+    "pl": "Rozpruwacz duchów"
+  },
+  {
+    "gift": 908,
+    "en": "Spirit Savage",
+    "pl": "Rozszarpanie ducha"
+  },
+  {
+    "gift": 909,
+    "en": "Spirit Skin",
+    "pl": "Duchowa powłoka"
+  },
+  {
+    "gift": 910,
+    "en": "Spirit Smuggler",
+    "pl": "Duchowy przemyt"
+  },
+  {
+    "gift": 911,
+    "en": "Spirit Speech",
+    "pl": "Mowa duchów"
+  },
+  {
+    "gift": 912,
+    "en": "Spirit Vessel",
+    "pl": "Duchowe naczynie"
+  },
+  {
+    "gift": 913,
+    "en": "Spirit Ward",
+    "pl": "Zapora przeciw duchom"
+  },
+  {
+    "gift": 914,
+    "en": "Spirit Witness",
+    "pl": "Świadectwo ducha"
+  },
+  {
+    "gift": 915,
+    "en": "Spirits of Decay",
+    "pl": "Duchy rozkładu"
+  },
+  {
+    "gift": 916,
+    "en": "Spiritual Wrath",
+    "pl": "Gniew ducha"
+  },
+  {
+    "gift": 917,
+    "en": "Spirit’s Horse",
+    "pl": "Duchowy wierzchowiec"
+  },
+  {
+    "gift": 918,
+    "en": "Splintered Claw",
+    "pl": "Rozszczepiony pazur"
+  },
+  {
+    "gift": 919,
+    "en": "Sprint in Shadow",
+    "pl": "Bieg w cieniu"
+  },
+  {
+    "gift": 920,
+    "en": "Spur Claws",
+    "pl": "Pazury-żądła"
+  },
+  {
+    "gift": 921,
+    "en": "St. Herve’s Folly",
+    "pl": "Szaleństwo św. Hervégo"
+  },
+  {
+    "gift": 922,
+    "en": "Staredown",
+    "pl": "Zmrożenie wzrokiem"
+  },
+  {
+    "gift": 923,
+    "en": "Steadfast",
+    "pl": "Niezłomność"
+  },
+  {
+    "gift": 924,
+    "en": "Steal Spirit",
+    "pl": "Duchowa kradzież"
+  },
+  {
+    "gift": 925,
+    "en": "Steel Blowfish",
+    "pl": "Stalowa rozdymka"
+  },
+  {
+    "gift": 926,
+    "en": "Steel Fur",
+    "pl": "Stalowe futro"
+  },
+  {
+    "gift": 927,
+    "en": "Stoat’s Guise",
+    "pl": "Przebranie gronostaja"
+  },
+  {
+    "gift": 928,
+    "en": "Steel Made Flesh",
+    "pl": "Przemiana stali w ciało"
+  },
+  {
+    "gift": 929,
+    "en": "Stench and the City",
+    "pl": "Fetor miasta"
+  },
+  {
+    "gift": 930,
+    "en": "Stench of the Peasant",
+    "pl": "Smród parobka"
+  },
+  {
+    "gift": 931,
+    "en": "Stinging Blows",
+    "pl": "Kłujące uderzenia"
+  },
+  {
+    "gift": 932,
+    "en": "Stoking Fury’s Furnace",
+    "pl": "Płomień Szału"
+  },
+  {
+    "gift": 933,
+    "en": "Stolen Hide",
+    "pl": "Skradziona skóra"
+  },
+  {
+    "gift": 934,
+    "en": "Stone Soup",
+    "pl": "Zupa z kamienia"
+  },
+  {
+    "gift": 935,
+    "en": "Stone-Throwing Devil",
+    "pl": "Kamienny miotacz"
+  },
+  {
+    "gift": 936,
+    "en": "Storm of Mother’s Wrath",
+    "pl": "Nawałnica matczynej furii"
+  },
+  {
+    "gift": 937,
+    "en": "Storm Winds Slash",
+    "pl": "Tnący wicher"
+  },
+  {
+    "gift": 938,
+    "en": "Storyteller",
+    "pl": "Gawędziarz"
+  },
+  {
+    "gift": 939,
+    "en": "Strange Rain",
+    "pl": "Niezwykły deszcz"
+  },
+  {
+    "gift": 940,
+    "en": "Streets Tell Stories",
+    "pl": "Opowieści ulic"
+  },
+  {
+    "gift": 941,
+    "en": "Strength of Gaia",
+    "pl": "Siła Gai"
+  },
+  {
+    "gift": 942,
+    "en": "Strength of Pine",
+    "pl": "Potęga sosny"
+  },
+  {
+    "gift": 943,
+    "en": "Strength of Purpose",
+    "pl": "Świadomość celu"
+  },
+  {
+    "gift": 944,
+    "en": "Strength of the Ancestors",
+    "pl": "Potęga przodków"
+  },
+  {
+    "gift": 945,
+    "en": "Strength of the Dominator",
+    "pl": "Moc gniewu"
+  },
+  {
+    "gift": 946,
+    "en": "Strength of the Einherjar",
+    "pl": "Potęga Einherjarów"
+  },
+  {
+    "gift": 947,
+    "en": "Strength of the Guardian",
+    "pl": "Potęga opiekuna"
+  },
+  {
+    "gift": 948,
+    "en": "Strength of the Pack",
+    "pl": "Potęga watahy"
+  },
+  {
+    "gift": 949,
+    "en": "Strength of Vision",
+    "pl": "Przywołanie wspomnień"
+  },
+  {
+    "gift": 950,
+    "en": "Strength of Will",
+    "pl": "Silna wola"
+  },
+  {
+    "gift": 951,
+    "en": "Strength Without Limit",
+    "pl": "Nieograniczona siła"
+  },
+  {
+    "gift": 952,
+    "en": "Strike the Air",
+    "pl": "Uderzenie w powietrze"
+  },
+  {
+    "gift": 953,
+    "en": "Stronger on Stone",
+    "pl": "Siła z kamienia"
+  },
+  {
+    "gift": 954,
+    "en": "Submit",
+    "pl": "Podporządkuj się"
+  },
+  {
+    "gift": 955,
+    "en": "Strut",
+    "pl": "Pawi krok"
+  },
+  {
+    "gift": 956,
+    "en": "Summon Net-Spider",
+    "pl": "Przywołanie Pająka Sieciarza"
+  },
+  {
+    "gift": 957,
+    "en": "Summon Wyrm Elemental",
+    "pl": "Przywołanie żywiołaka Żmija"
+  },
+  {
+    "gift": 958,
+    "en": "Summon Stormcrow",
+    "pl": "Przywołanie Kruka Burzy"
+  },
+  {
+    "gift": 959,
+    "en": "Summon Talisman",
+    "pl": "Przywołanie talizmanu"
+  },
+  {
+    "gift": 960,
+    "en": "Summon the Chu-Mong",
+    "pl": "Przywołanie Chu-Monga"
+  },
+  {
+    "gift": 961,
+    "en": "Sun Dance",
+    "pl": "Słoneczny taniec"
+  },
+  {
+    "gift": 962,
+    "en": "Surface Attachment",
+    "pl": "Zestrojenie z powierzchnią"
+  },
+  {
+    "gift": 963,
+    "en": "Surface Attunement",
+    "pl": "Zestrojenie z powierzchnią"
+  },
+  {
+    "gift": 964,
+    "en": "Survivor",
+    "pl": "Szkoła przeżycia"
+  },
+  {
+    "gift": 965,
+    "en": "Swallow Rage",
+    "pl": "Powstrzymanie Szału"
+  },
+  {
+    "gift": 966,
+    "en": "Tagalong",
+    "pl": "Na doczepkę"
+  },
+  {
+    "gift": 967,
+    "en": "Tail of the Monkey",
+    "pl": "Małpi ogon"
+  },
+  {
+    "gift": 968,
+    "en": "Take the True Form",
+    "pl": "Przybranie prawdziwej postaci"
+  },
+  {
+    "gift": 969,
+    "en": "Takeover",
+    "pl": "Przejęcie"
+  },
+  {
+    "gift": 970,
+    "en": "Taking the Forgotten",
+    "pl": "Kradzież z zapomnieniem"
+  },
+  {
+    "gift": 971,
+    "en": "Talons of the Falcon",
+    "pl": "Szpony Sokoła"
+  },
+  {
+    "gift": 972,
+    "en": "Tar Shadow",
+    "pl": "Lepki cień"
+  },
+  {
+    "gift": 973,
+    "en": "Talons of Falcon",
+    "pl": "Szpony Sokoła"
+  },
+  {
+    "gift": 974,
+    "en": "Tech Speak",
+    "pl": "Technomowa"
+  },
+  {
+    "gift": 975,
+    "en": "Techgnosis",
+    "pl": "Technognoza"
+  },
+  {
+    "gift": 976,
+    "en": "Tenacious Fury",
+    "pl": "Nieustępliwa furia"
+  },
+  {
+    "gift": 977,
+    "en": "Technocratic Apocalyptica",
+    "pl": "Technokratyczna apokalipsa"
+  },
+  {
+    "gift": 978,
+    "en": "Terrify",
+    "pl": "Groza"
+  },
+  {
+    "gift": 979,
+    "en": "Terrain Shift",
+    "pl": "Przemiana terenu"
+  },
+  {
+    "gift": 980,
+    "en": "Territory",
+    "pl": "Terytorium"
+  },
+  {
+    "gift": 981,
+    "en": "Terror of the Dire Wolf",
+    "pl": "Terror pradawnego wilka"
+  },
+  {
+    "gift": 982,
+    "en": "The Cleaving Hoof",
+    "pl": "Rozłupujące kopyto"
+  },
+  {
+    "gift": 983,
+    "en": "The Crawling Hand",
+    "pl": "Pełzająca dłoń"
+  },
+  {
+    "gift": 984,
+    "en": "The Falling Touch",
+    "pl": "Powalający dotyk"
+  },
+  {
+    "gift": 985,
+    "en": "The Freezing Night",
+    "pl": "Mroźna noc"
+  },
+  {
+    "gift": 986,
+    "en": "The Good Death",
+    "pl": "Godna śmierć"
+  },
+  {
+    "gift": 987,
+    "en": "The Great Leap",
+    "pl": "Długi skok"
+  },
+  {
+    "gift": 988,
+    "en": "The Hungry Hound",
+    "pl": "Głodny ogar"
+  },
+  {
+    "gift": 989,
+    "en": "The Living Wood",
+    "pl": "Żywe drzewa"
+  },
+  {
+    "gift": 990,
+    "en": "The Malleable Spirit",
+    "pl": "Giętki duch"
+  },
+  {
+    "gift": 991,
+    "en": "The Mark",
+    "pl": "Znamię"
+  },
+  {
+    "gift": 992,
+    "en": "The Secret of Gaia",
+    "pl": "Tajemnica Gai"
+  },
+  {
+    "gift": 993,
+    "en": "The Silken Cloth",
+    "pl": "Jedwabna szata"
+  },
+  {
+    "gift": 994,
+    "en": "The Spirits’ Displeasure",
+    "pl": "Niełaska duchów"
+  },
+  {
+    "gift": 995,
+    "en": "The Teacher’s Ease",
+    "pl": "Łatwość nauczania"
+  },
+  {
+    "gift": 996,
+    "en": "The Thousand Forms",
+    "pl": "Tysiąc kształtów"
+  },
+  {
+    "gift": 997,
+    "en": "The Usual Suspects",
+    "pl": "Podejrzany"
+  },
+  {
+    "gift": 998,
+    "en": "Thieving Talons",
+    "pl": "Szpony złodzieja"
+  },
+  {
+    "gift": 999,
+    "en": "Thieving Talons of the Magpie",
+    "pl": "Szpony sroki złodziejki"
+  },
+  {
+    "gift": 1000,
+    "en": "Thought-Form of the Twelve Ministers",
+    "pl": "Myślokształt Dwunastu Ministrów"
+  },
+  {
+    "gift": 1001,
+    "en": "Thousand Forms",
+    "pl": "Tysiąc kształtów"
+  },
+  {
+    "gift": 1002,
+    "en": "Thousand Teeth",
+    "pl": "Tysiąc zębów"
+  },
+  {
+    "gift": 1003,
+    "en": "Threads of the Weaver",
+    "pl": "Nici Tkaczki"
+  },
+  {
+    "gift": 1004,
+    "en": "Tinker’s Touch",
+    "pl": "Dotyk złotej rączki"
+  },
+  {
+    "gift": 1005,
+    "en": "Tireless Running",
+    "pl": "Bieg bez wytchnienia"
+  },
+  {
+    "gift": 1006,
+    "en": "Tommy’s New Trick",
+    "pl": "Nowa sztuczka Tommy’ego"
+  },
+  {
+    "gift": 1007,
+    "en": "Tongues",
+    "pl": "Języki"
+  },
+  {
+    "gift": 1008,
+    "en": "Tornado Rider",
+    "pl": "Jeździec tornada"
+  },
+  {
+    "gift": 1009,
+    "en": "Totem Form",
+    "pl": "Postać totemu"
+  },
+  {
+    "gift": 1010,
+    "en": "Totem Gift",
+    "pl": "Dar totemu"
+  },
+  {
+    "gift": 1011,
+    "en": "Totem-form",
+    "pl": "Postać totemu"
+  },
+  {
+    "gift": 1012,
+    "en": "Touch of Death",
+    "pl": "Dotknięcie śmierci"
+  },
+  {
+    "gift": 1013,
+    "en": "Touch of Rage",
+    "pl": "Dotknięcie Szałem"
+  },
+  {
+    "gift": 1014,
+    "en": "Touch of the Eel",
+    "pl": "Dotyk węgorza"
+  },
+  {
+    "gift": 1015,
+    "en": "Touch of the Muse",
+    "pl": "Dotyk Muzy"
+  },
+  {
+    "gift": 1016,
+    "en": "Tourniquet",
+    "pl": "Opaska uciskowa"
+  },
+  {
+    "gift": 1017,
+    "en": "Toxic Claws",
+    "pl": "Toksyczne pazury"
+  },
+  {
+    "gift": 1018,
+    "en": "Trackless Waste",
+    "pl": "Pustkowie bez dróg"
+  },
+  {
+    "gift": 1019,
+    "en": "Trash is Treasure",
+    "pl": "Śmieciowy skarb"
+  },
+  {
+    "gift": 1020,
+    "en": "Tractor Beam",
+    "pl": "Przeniesienie"
+  },
+  {
+    "gift": 1021,
+    "en": "Trail of Pain",
+    "pl": "Szlak bólu"
+  },
+  {
+    "gift": 1022,
+    "en": "Trailblazer",
+    "pl": "Pionier"
+  },
+  {
+    "gift": 1023,
+    "en": "Trash Magnet",
+    "pl": "Magnes na odpady"
+  },
+  {
+    "gift": 1024,
+    "en": "Tread Sebek’s Back",
+    "pl": "Po grzbiecie Sebeka"
+  },
+  {
+    "gift": 1025,
+    "en": "Trick Shot",
+    "pl": "Popisowy strzał"
+  },
+  {
+    "gift": 1026,
+    "en": "Trick Shot",
+    "pl": "Popisowy strzał"
+  },
+  {
+    "gift": 1027,
+    "en": "Trickster Beacon",
+    "pl": "Przyciąganie pecha"
+  },
+  {
+    "gift": 1028,
+    "en": "Troll Skin",
+    "pl": "Skóra trolla"
+  },
+  {
+    "gift": 1029,
+    "en": "Troll’s Bridge",
+    "pl": "Most trolli"
+  },
+  {
+    "gift": 1030,
+    "en": "Troubleseeker",
+    "pl": "Poszukiwacz kłopotów"
+  },
+  {
+    "gift": 1031,
+    "en": "Truce of Helios",
+    "pl": "Pokój Heliosa"
+  },
+  {
+    "gift": 1032,
+    "en": "True Fear",
+    "pl": "Prawdziwe przerażenie"
+  },
+  {
+    "gift": 1033,
+    "en": "True Shot",
+    "pl": "Nieomylny strzał"
+  },
+  {
+    "gift": 1034,
+    "en": "Truest Sacrament",
+    "pl": "Najprawdziwszy sakrament"
+  },
+  {
+    "gift": 1035,
+    "en": "Trust Me",
+    "pl": "Zaufaj mi"
+  },
+  {
+    "gift": 1036,
+    "en": "Trust of Gaia",
+    "pl": "Zaufanie Gai"
+  },
+  {
+    "gift": 1037,
+    "en": "Truth of Gaia",
+    "pl": "Prawda Gai"
+  },
+  {
+    "gift": 1038,
+    "en": "Truth of the Hunted",
+    "pl": "Prawda o ofierze"
+  },
+  {
+    "gift": 1039,
+    "en": "Tune of Orpheus",
+    "pl": "Pieśń Orfeusza"
+  },
+  {
+    "gift": 1040,
+    "en": "Turn the Moon",
+    "pl": "Zmiana Patronatu"
+  },
+  {
+    "gift": 1041,
+    "en": "Turtle Body",
+    "pl": "Uśpiony metabolizm"
+  },
+  {
+    "gift": 1042,
+    "en": "Turtle Shell",
+    "pl": "Skorupa Żółwia"
+  },
+  {
+    "gift": 1043,
+    "en": "Two Tongues",
+    "pl": "Dwoista mowa"
+  },
+  {
+    "gift": 1044,
+    "en": "Twist of Fate",
+    "pl": "Śmiertelny uścisk"
+  },
+  {
+    "gift": 1045,
+    "en": "Ubiquitous Presence",
+    "pl": "Wszechobecność"
+  },
+  {
+    "gift": 1046,
+    "en": "Uktena’s Freezing Stare",
+    "pl": "Lodowate spojrzenie Ukteny"
+  },
+  {
+    "gift": 1047,
+    "en": "Uktena’s Glare",
+    "pl": "Wzrok Ukteny"
+  },
+  {
+    "gift": 1048,
+    "en": "Uktena’s Passage",
+    "pl": "Władza nad nurtem"
+  },
+  {
+    "gift": 1049,
+    "en": "Ultimate Argument of Logic",
+    "pl": "Ostateczny argument logiczny"
+  },
+  {
+    "gift": 1050,
+    "en": "Umbral Body",
+    "pl": "Umbralne ciało"
+  },
+  {
+    "gift": 1051,
+    "en": "Umbral Burrowing",
+    "pl": "Umbralne tunele"
+  },
+  {
+    "gift": 1052,
+    "en": "Umbral Camouflage",
+    "pl": "Umbralny kamuflaż"
+  },
+  {
+    "gift": 1053,
+    "en": "Umbral Compass",
+    "pl": "Umbralny kompas"
+  },
+  {
+    "gift": 1054,
+    "en": "Umbral Dodge",
+    "pl": "Umbralny unik"
+  },
+  {
+    "gift": 1055,
+    "en": "Umbral Motorcade",
+    "pl": "Pocisk spoza Rękawicy"
+  },
+  {
+    "gift": 1056,
+    "en": "Umbral Sight",
+    "pl": "Umbralny wzrok"
+  },
+  {
+    "gift": 1057,
+    "en": "Umbral Tether",
+    "pl": "Umbralna więź"
+  },
+  {
+    "gift": 1058,
+    "en": "Umbral Tracking",
+    "pl": "Umbralne tropienie"
+  },
+  {
+    "gift": 1059,
+    "en": "Uncaught Since the Primal Morn",
+    "pl": "Nieuchwytny od zarania świata"
+  },
+  {
+    "gift": 1060,
+    "en": "Under the Gun",
+    "pl": "Na celowniku"
+  },
+  {
+    "gift": 1061,
+    "en": "Unicorn’s Arsenal",
+    "pl": "Perłowe szpony"
+  },
+  {
+    "gift": 1062,
+    "en": "Unity of the Pack",
+    "pl": "Jedność watahy"
+  },
+  {
+    "gift": 1063,
+    "en": "Underearth",
+    "pl": "Podziemia"
+  },
+  {
+    "gift": 1064,
+    "en": "Underseal",
+    "pl": "Podziemne szlaki"
+  },
+  {
+    "gift": 1065,
+    "en": "Unicorn’s Grace",
+    "pl": "Wdzięk Jednorożca"
+  },
+  {
+    "gift": 1066,
+    "en": "Unified Force",
+    "pl": "Zjednoczona siła"
+  },
+  {
+    "gift": 1067,
+    "en": "Universal Interface",
+    "pl": "Uniwersalny interfejs"
+  },
+  {
+    "gift": 1068,
+    "en": "Unseelie Faerie Kin",
+    "pl": "Sojusznicy z Dworu Unseelie"
+  },
+  {
+    "gift": 1069,
+    "en": "Unstoppable Warrior",
+    "pl": "Niepowstrzymany wojownik"
+  },
+  {
+    "gift": 1070,
+    "en": "Unwitting Pawn",
+    "pl": "Marionetka"
+  },
+  {
+    "gift": 1071,
+    "en": "Urban Ward",
+    "pl": "Straż noclegowiska"
+  },
+  {
+    "gift": 1072,
+    "en": "Blurring the Mirror",
+    "pl": "Zmącenie odbicia"
+  },
+  {
+    "gift": 1073,
+    "en": "Venom",
+    "pl": "Jad"
+  },
+  {
+    "gift": 1074,
+    "en": "Venom Blood",
+    "pl": "Trująca krew"
+  },
+  {
+    "gift": 1075,
+    "en": "View the Battlefield",
+    "pl": "Ogląd pola bitwy"
+  },
+  {
+    "gift": 1076,
+    "en": "Violation",
+    "pl": "Pogwałcenie"
+  },
+  {
+    "gift": 1077,
+    "en": "Virgin Snow",
+    "pl": "Nieskalany śnieg"
+  },
+  {
+    "gift": 1078,
+    "en": "Virtual Umbra",
+    "pl": "Wirtualna Umbra"
+  },
+  {
+    "gift": 1079,
+    "en": "Visage of Fenris",
+    "pl": "Oblicze Fenrisa"
+  },
+  {
+    "gift": 1080,
+    "en": "Visceral Agony",
+    "pl": "Przeszywający ból"
+  },
+  {
+    "gift": 1081,
+    "en": "Vision of True Spirit",
+    "pl": "Widzenie prawdziwego ducha"
+  },
+  {
+    "gift": 1082,
+    "en": "Visions of Slaughter",
+    "pl": "Widma zabitych"
+  },
+  {
+    "gift": 1083,
+    "en": "Waking the Dead",
+    "pl": "Przebudzenie zmarłych"
+  },
+  {
+    "gift": 1084,
+    "en": "Visuddha",
+    "pl": "Visuddha"
+  },
+  {
+    "gift": 1085,
+    "en": "Voice of Reason",
+    "pl": "Głos rozsądku"
+  },
+  {
+    "gift": 1086,
+    "en": "Waking Dream",
+    "pl": "Sen na jawie"
+  },
+  {
+    "gift": 1087,
+    "en": "Walk the Web",
+    "pl": "Spacer po Pajęczynie"
+  },
+  {
+    "gift": 1088,
+    "en": "Walk under the New Moon",
+    "pl": "Spacer pod nowiem"
+  },
+  {
+    "gift": 1089,
+    "en": "Walk Unseen",
+    "pl": "Niewidzialny krok"
+  },
+  {
+    "gift": 1090,
+    "en": "Walk With Hades",
+    "pl": "Wędrówka z Hadesem"
+  },
+  {
+    "gift": 1091,
+    "en": "Wall of Granite",
+    "pl": "Granitowy mur"
+  },
+  {
+    "gift": 1092,
+    "en": "Ward of the Road",
+    "pl": "Ochrona drogi"
+  },
+  {
+    "gift": 1093,
+    "en": "Warp Spasm",
+    "pl": "Szaleńczy żar"
+  },
+  {
+    "gift": 1094,
+    "en": "Warp-Fury",
+    "pl": "Desperacki szał"
+  },
+  {
+    "gift": 1095,
+    "en": "Warrior’s Draught",
+    "pl": "Trunek wojownika"
+  },
+  {
+    "gift": 1096,
+    "en": "Warrior’s Eye",
+    "pl": "Oko wojownika"
+  },
+  {
+    "gift": 1097,
+    "en": "Wasp Talons",
+    "pl": "Żądła osy"
+  },
+  {
+    "gift": 1098,
+    "en": "Watchful Eyes",
+    "pl": "Baczne spojrzenie"
+  },
+  {
+    "gift": 1099,
+    "en": "Watchful Eyes",
+    "pl": "Baczne spojrzenie"
+  },
+  {
+    "gift": 1100,
+    "en": "Ways of the Urban Wolf",
+    "pl": "Ścieżki miejskiego wilka"
+  },
+  {
+    "gift": 1101,
+    "en": "Water Sense",
+    "pl": "Wyczucie wody"
+  },
+  {
+    "gift": 1102,
+    "en": "Water-Conning",
+    "pl": "Oczyszczenie wody"
+  },
+  {
+    "gift": 1103,
+    "en": "Weak Arm",
+    "pl": "Osłabienie ciosu"
+  },
+  {
+    "gift": 1104,
+    "en": "Weakest Link",
+    "pl": "Słaby punkt"
+  },
+  {
+    "gift": 1105,
+    "en": "Wearing the Bear Shirt",
+    "pl": "W niedźwiedziej koszuli"
+  },
+  {
+    "gift": 1106,
+    "en": "Weave of Steel",
+    "pl": "Wytrzymałość stali"
+  },
+  {
+    "gift": 1107,
+    "en": "Weaver’s Eyes",
+    "pl": "Oczy Tkaczki"
+  },
+  {
+    "gift": 1108,
+    "en": "Weaver’s Eyes",
+    "pl": "Oczy Tkaczki"
+  },
+  {
+    "gift": 1109,
+    "en": "Web of Knowledge",
+    "pl": "Sieć wiedzy"
+  },
+  {
+    "gift": 1110,
+    "en": "Web Walker",
+    "pl": "Wędrowiec sieci"
+  },
+  {
+    "gift": 1111,
+    "en": "Well-Oiled Running",
+    "pl": "Dobrze naoliwione"
+  },
+  {
+    "gift": 1112,
+    "en": "Whelp Body",
+    "pl": "Ciało szczeniaka"
+  },
+  {
+    "gift": 1113,
+    "en": "Whelp the Insolent",
+    "pl": "Zdolności szczeniaka"
+  },
+  {
+    "gift": 1114,
+    "en": "Whisper Catching",
+    "pl": "Łapanie szeptów"
+  },
+  {
+    "gift": 1115,
+    "en": "Whispering Wind",
+    "pl": "Szepczący wiatr"
+  },
+  {
+    "gift": 1116,
+    "en": "Whispers From Toth",
+    "pl": "Szepty Thota"
+  },
+  {
+    "gift": 1117,
+    "en": "Whispers on the Street",
+    "pl": "Szept ulicy"
+  },
+  {
+    "gift": 1118,
+    "en": "White Fire",
+    "pl": "Biały płomień"
+  },
+  {
+    "gift": 1119,
+    "en": "Wind Claws",
+    "pl": "Szpony wichru"
+  },
+  {
+    "gift": 1120,
+    "en": "Whiteout",
+    "pl": "Ślepota śnieżna"
+  },
+  {
+    "gift": 1121,
+    "en": "Whore’s Vengeance",
+    "pl": "Odwet ladacznicy"
+  },
+  {
+    "gift": 1122,
+    "en": "Windrunner",
+    "pl": "Pędziwiatr"
+  },
+  {
+    "gift": 1123,
+    "en": "Wind’s Returning Favor",
+    "pl": "Odebranie broni"
+  },
+  {
+    "gift": 1124,
+    "en": "Winged Delivery",
+    "pl": "Skrzydlata przesyłka"
+  },
+  {
+    "gift": 1125,
+    "en": "Wings of Pegasus",
+    "pl": "Skrzydła Pegaza"
+  },
+  {
+    "gift": 1126,
+    "en": "Winter Frost",
+    "pl": "Zimowy mróz"
+  },
+  {
+    "gift": 1127,
+    "en": "Wisdom from the Heavens",
+    "pl": "Mądrość z niebios"
+  },
+  {
+    "gift": 1128,
+    "en": "Wisdom of the Ancient Ways",
+    "pl": "Mądrość starszych"
+  },
+  {
+    "gift": 1129,
+    "en": "Wisdom of the Seer",
+    "pl": "Mądrość proroka"
+  },
+  {
+    "gift": 1130,
+    "en": "Wistiplaju’s Bow",
+    "pl": "Łuk Wisitiplaju"
+  },
+  {
+    "gift": 1131,
+    "en": "Wither Limb",
+    "pl": "Uschnięcie kończyny"
+  },
+  {
+    "gift": 1132,
+    "en": "Woadling",
+    "pl": "Malowidła"
+  },
+  {
+    "gift": 1133,
+    "en": "Wolf at the Door",
+    "pl": "Wilk u drzwi"
+  },
+  {
+    "gift": 1134,
+    "en": "Words Like Wind",
+    "pl": "Słowa niesione wiatrem"
+  },
+  {
+    "gift": 1135,
+    "en": "Word of Honor",
+    "pl": "Słowo honoru"
+  },
+  {
+    "gift": 1136,
+    "en": "Word-to-Weapon",
+    "pl": "Ostrze modlitwy"
+  },
+  {
+    "gift": 1137,
+    "en": "Words of the Alpha",
+    "pl": "Słowa alfy"
+  },
+  {
+    "gift": 1138,
+    "en": "Wounding Lies",
+    "pl": "Raniące kłamstwa"
+  },
+  {
+    "gift": 1139,
+    "en": "Wrath of Gaia",
+    "pl": "Gniew Gai"
+  },
+  {
+    "gift": 1140,
+    "en": "Wriggle",
+    "pl": "Wyślizgnięcie"
+  },
+  {
+    "gift": 1141,
+    "en": "Wrongful Death",
+    "pl": "Nienaturalna śmierć"
+  },
+  {
+    "gift": 1142,
+    "en": "Wuxing",
+    "pl": "Krąg pięciu żywiołów"
+  },
+  {
+    "gift": 1143,
+    "en": "Wyld Resurgence",
+    "pl": "Uzdrowienie Dzikuna"
+  },
+  {
+    "gift": 1144,
+    "en": "Wyld Ferocity",
+    "pl": "Zaciekłość Dzikuna"
+  },
+  {
+    "gift": 1145,
+    "en": "Wyld Sight",
+    "pl": "Widzenie Dzikuna"
+  },
+  {
+    "gift": 1146,
+    "en": "Wyld Warp",
+    "pl": "Wezwanie Dzikuna"
+  },
+  {
+    "gift": 1147,
+    "en": "Wyldstorm",
+    "pl": "Burza Dzikuna"
+  },
+  {
+    "gift": 1148,
+    "en": "Wyrm Hide",
+    "pl": "Skóra Żmija"
+  },
+  {
+    "gift": 1149,
+    "en": "Wyrm Speech",
+    "pl": "Mowa Żmija"
+  },
+  {
+    "gift": 1150,
+    "en": "Wyrm Taint",
+    "pl": "Skażenie Żmijem"
+  },
+  {
+    "gift": 1151,
+    "en": "Wyrm Visions",
+    "pl": "Wizje Żmija"
+  },
+  {
+    "gift": 1152,
+    "en": "Wyrm Whispers",
+    "pl": "Szepty Żmija"
+  },
+  {
+    "gift": 1153,
+    "en": "Yao’s Commands",
+    "pl": "Rozkazy Yao"
+  },
+  {
+    "gift": 1154,
+    "en": "Dreamspeak",
+    "pl": "Mowa snu"
+  },
+  {
+    "gift": 1155,
+    "en": "Durance",
+    "pl": "Zniewolenie"
+  },
+  {
+    "gift": 1156,
+    "en": "Yu’s Endurance",
+    "pl": "Niezłomność Yu"
+  },
+  {
+    "gift": 1157,
+    "en": "Übermensch",
+    "pl": "Übermensch"
+  },
+  {
+    "gift": 1158,
+    "en": "Trapper’s Bane",
+    "pl": "Przekleństwo trapera"
+  }
+]

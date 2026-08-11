@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,21 +23,21 @@
 <div class="top-bar">
 
     <div class="app-version">
-        Version: v1.0.0
+        <span data-i18n="Version">Version</span>: v1.0.0
     </div>
 
     <div class="language-switch">
 
         <label for="languageSelect">
-            Language:
+            <span data-i18n="Language">Language</span>:
         </label>
 
         <select id="languageSelect">
-            <option value="en">
+            <option value="en" data-i18n="English">
                 English
             </option>
 
-            <option value="pl">
+            <option value="pl" data-i18n="Polski">
                 Polski
             </option>
         </select>
@@ -48,7 +48,7 @@
 
 <div class="tabs">
 
-    <div class="tab active">Garou</div>
+    <div class="tab active" data-i18n="Garou">Garou</div>
 
     <div class="tab">Bastet</div>
 
@@ -83,7 +83,8 @@
 
 <div
     class="coming-soon"
-    style="display:none;">
+    style="display:none;"
+    data-i18n="Coming soon">
 
     Coming soon
 

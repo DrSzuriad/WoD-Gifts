@@ -1,12 +1,20 @@
 
 
   let gifts = [];
+  let translations = {};
 
   let breedChoices;
   let auspiceChoices;
   let tribeChoices;
   let otherChoices;
   let rankChoices;
+
+  let filterValues = {
+    breeds: [],
+    auspices: [],
+    tribes: [],
+    ranks: []
+  };
 
   let currentLanguage = "en";
 
@@ -18,17 +26,30 @@ async function loadData() {
 
     try {
 
-        console.log("Loading gifts.json...");
+        console.log("Loading data...");
 
-        const response = await fetch("./data/gifts.json");
+        const [giftsResponse, translationsResponse] =
+          await Promise.all([
+            fetch("./data/gifts.json"),
+            fetch("./data/translations.json")
+          ]);
 
-        if (!response.ok) {
+        if (!giftsResponse.ok) {
             throw new Error(
-                `HTTP ${response.status} ${response.statusText}`
+                `gifts.json: HTTP ${giftsResponse.status} ${giftsResponse.statusText}`
             );
         }
 
-        gifts = await response.json();
+        if (!translationsResponse.ok) {
+            throw new Error(
+                `translations.json: HTTP ${translationsResponse.status} ${translationsResponse.statusText}`
+            );
+        }
+
+        [gifts, translations] = await Promise.all([
+          giftsResponse.json(),
+          translationsResponse.json()
+        ]);
 
         console.log(`Loaded ${gifts.length} gifts.`);
 
@@ -45,7 +66,7 @@ async function loadData() {
                 padding:20px;
                 border-radius:12px;
             ">
-                <b>Failed to load gifts.json</b><br><br>
+                <b>${translate("Failed to load gifts.json")}</b><br><br>
 
                 ${error.message}
             </div>
@@ -236,6 +257,59 @@ function getLocalizedText(obj) {
   );
 }
 
+function translate(value) {
+
+  const key = String(value ?? "");
+  const entry = translations[key];
+
+  if (!entry) {
+    return key;
+  }
+
+  return (
+    entry[currentLanguage] ||
+    entry.en ||
+    key
+  );
+}
+
+function getFactionTranslationKey(requirement) {
+
+  const contextualKey =
+    `${requirement.faction_value} ${requirement.faction_type}`;
+
+  return translations[contextualKey]
+    ? contextualKey
+    : requirement.faction_value;
+}
+
+function getFactionMetadataText(requirement) {
+
+  const factionKey =
+    getFactionTranslationKey(requirement);
+
+  const sourceText =
+    factionKey !== requirement.faction_value
+      ? factionKey
+      : `${requirement.faction_type}: ${requirement.faction_value}`;
+
+  return translate(sourceText);
+}
+
+function updateInterfaceLanguage() {
+
+  document.documentElement.lang =
+    currentLanguage;
+
+  document
+    .querySelectorAll("[data-i18n]")
+    .forEach(element => {
+
+      element.textContent =
+        translate(element.dataset.i18n);
+    });
+}
+
 function getLocalizedArray(obj) {
 
   if (!obj) {
@@ -278,15 +352,15 @@ function renderGifts(filteredGifts) {
       gift.requirements.map(r => {
 
         let text =
-          `${r.type}: ${r.value}`;
+          `${translate(r.type)}: ${translate(r.value)}`;
 
         if (r.faction_type !== "All") {
 
           text +=
-            ` (${r.faction_type}: ${r.faction_value})`;
+            ` (${getFactionMetadataText(r)})`;
         }
 
-        text += ` | Rank ${r.rank}`;
+        text += ` | ${translate("Rank")} ${r.rank}`;
 
         return text;
 
@@ -332,7 +406,7 @@ function renderGifts(filteredGifts) {
 		  <option value="${i}">
 			${v.book}
 			${v.edition
-			  ? ` (${v.edition})`
+			  ? ` (${translate(v.edition)})`
 			  : ""}
 		  </option>
 
@@ -370,7 +444,9 @@ function renderGifts(filteredGifts) {
   });
 }
 
-function updateFactionOptions() {
+function updateFactionOptions(
+  selectedValues = []
+) {
 
   const selectedTribes =
     tribeChoices.getValue(true);
@@ -386,27 +462,35 @@ function updateFactionOptions() {
   otherSelect.innerHTML = "";
 
   let factionValues = [];
+  const factionLabelKeys = {};
 
   // jeśli wybrano tribe
   if (selectedTribes.length > 0) {
 
-    factionValues = [...new Set(
+    gifts.forEach(gift => {
 
-      gifts.flatMap(gift =>
+      gift.requirements
+        .filter(r =>
 
-        gift.requirements
-          .filter(r =>
+          r.type === "Tribe" &&
+          selectedTribes.includes(r.value) &&
+          r.faction_type !== "All"
 
-            r.type === "Tribe" &&
-            selectedTribes.includes(r.value) &&
-            r.faction_type !== "All"
+        )
+        .forEach(r => {
 
-          )
-          .map(r => r.faction_value)
+          factionValues.push(
+            r.faction_value
+          );
 
-      )
+          factionLabelKeys[r.faction_value] =
+            getFactionTranslationKey(r);
+        });
+    });
 
-    )];
+    factionValues = [
+      ...new Set(factionValues)
+    ];
 
 	} else {
 
@@ -416,30 +500,23 @@ function updateFactionOptions() {
 
 	factionValues = [
 	  "All",
-	  ...factionValues.sort()
+	  ...factionValues
 	];
 
-  otherChoices = new Choices(otherSelect, {
-    removeItemButton: true,
-    searchEnabled: true,
-    placeholder: true,
-    placeholderValue: "Faction"
-  });
-
-  factionValues.forEach(value => {
-
-    otherChoices.setChoices([
-      {
-        value: value,
-        label: value,
-        selected: false
-      }
-    ], "value", "label", false);
-
-  });
+  otherChoices = fillSelect(
+    "otherSelect",
+    factionValues,
+    "Faction",
+    selectedValues,
+    factionLabelKeys
+  );
 }
 
 function initializeApp() {
+
+  const settings = loadSettings();
+
+  updateInterfaceLanguage();
 
   const garouGifts = gifts.filter(gift =>
     gift.requirements.some(r =>
@@ -488,19 +565,46 @@ function initializeApp() {
 
   const ranks = [1,2,3,4,5,6];
 
+  filterValues = {
+    breeds,
+    auspices,
+    tribes,
+    ranks
+  };
+
   breedChoices =
-    fillSelect("breedSelect", breeds, "Breed");
+    fillSelect(
+      "breedSelect",
+      breeds,
+      "Breed",
+      settings.breed
+    );
 
   auspiceChoices =
-    fillSelect("auspiceSelect", auspices, "Auspice");
+    fillSelect(
+      "auspiceSelect",
+      auspices,
+      "Auspice",
+      settings.auspice
+    );
 
   tribeChoices =
-    fillSelect("tribeSelect", tribes, "Tribe");
+    fillSelect(
+      "tribeSelect",
+      tribes,
+      "Tribe",
+      settings.tribe
+    );
 
-  updateFactionOptions();
+  updateFactionOptions(settings.faction);
 
   rankChoices =
-    fillSelect("rankSelect", ranks, "Rank");
+    fillSelect(
+      "rankSelect",
+      ranks,
+      "Rank",
+      settings.rank
+    );
 	
   document
     .getElementById("breedSelect")
@@ -544,29 +648,58 @@ function initializeApp() {
 
 		currentLanguage = e.target.value;
 
+		const selections =
+		  getCurrentSelections();
+
+		updateInterfaceLanguage();
+
+		rebuildFilterChoices(selections);
+
 		saveSettings();
 
 		filterGifts();
 	  });
-	
-  sortGifts(garouGifts);
 
-  renderGifts(garouGifts);
-  
-  loadSettings();
-
-  restoreSelections();
-  
+  filterGifts();
 }
 
 function fillSelect(
   elementId,
   values,
-  placeholder
+  placeholder,
+  selectedValues = [],
+  labelKeys = {}
 ) {
 
   const element =
     document.getElementById(elementId);
+
+  element.innerHTML = "";
+
+  const selected = new Set(
+    selectedValues.map(String)
+  );
+
+  const getLabel = value =>
+    translate(labelKeys[value] || value);
+
+  const sortedValues = [...values].sort(
+    (a, b) => {
+
+      if (a === "All") {
+        return -1;
+      }
+
+      if (b === "All") {
+        return 1;
+      }
+
+      return getLabel(a).localeCompare(
+        getLabel(b),
+        currentLanguage
+      );
+    }
+  );
 
   const choices =
     new Choices(element, {
@@ -577,15 +710,27 @@ function fillSelect(
 
       placeholder: true,
 
-      placeholderValue: placeholder
+      placeholderValue: translate(placeholder),
+
+      noResultsText: translate("No results found"),
+
+      noChoicesText: translate("No choices to choose from"),
+
+      itemSelectText: translate("Press to select"),
+
+      uniqueItemText: translate(
+        "Only unique values can be added"
+      ),
+
+      shouldSort: false
     });
 
   choices.setChoices(
 
-    values.map(value => ({
+    sortedValues.map(value => ({
       value: String(value),
-      label: String(value),
-      selected: false
+      label: getLabel(value),
+      selected: selected.has(String(value))
     })),
 
     "value",
@@ -594,6 +739,68 @@ function fillSelect(
   );
 
   return choices;
+}
+
+function getCurrentSelections() {
+
+  return {
+    breed: breedChoices.getValue(true),
+    auspice: auspiceChoices.getValue(true),
+    tribe: tribeChoices.getValue(true),
+    faction: otherChoices.getValue(true),
+    rank: rankChoices.getValue(true)
+  };
+}
+
+function rebuildFilterChoices(selections) {
+
+  const instances = [
+    breedChoices,
+    auspiceChoices,
+    tribeChoices,
+    otherChoices,
+    rankChoices
+  ];
+
+  instances.forEach(instance => {
+    if (instance) {
+      instance.destroy();
+    }
+  });
+
+  breedChoices = fillSelect(
+    "breedSelect",
+    filterValues.breeds,
+    "Breed",
+    selections.breed
+  );
+
+  auspiceChoices = fillSelect(
+    "auspiceSelect",
+    filterValues.auspices,
+    "Auspice",
+    selections.auspice
+  );
+
+  tribeChoices = fillSelect(
+    "tribeSelect",
+    filterValues.tribes,
+    "Tribe",
+    selections.tribe
+  );
+
+  rankChoices = fillSelect(
+    "rankSelect",
+    filterValues.ranks,
+    "Rank",
+    selections.rank
+  );
+
+  otherChoices = null;
+
+  updateFactionOptions(
+    selections.faction
+  );
 }
 
 function sortGifts(giftsArray) {
@@ -745,57 +952,36 @@ function loadSettings() {
     );
 
   if (!raw) {
-    return;
+    return {};
   }
 
-  const settings =
-    JSON.parse(raw);
+  let settings = {};
+
+  try {
+    settings = JSON.parse(raw);
+  } catch (error) {
+    console.warn(
+      "Invalid saved settings.",
+      error
+    );
+  }
 
   currentLanguage =
-    settings.language || "en";
+    ["en", "pl"].includes(settings.language)
+      ? settings.language
+      : "en";
 
   document.getElementById(
     "languageSelect"
   ).value = currentLanguage;
-}
 
-function restoreSelections() {
-
-  const raw =
-    localStorage.getItem(
-      "garou-gifts-settings"
-    );
-
-  if (!raw) {
-    return;
-  }
-
-  const settings =
-    JSON.parse(raw);
-
-  breedChoices.setChoiceByValue(
-    settings.breed || []
-  );
-
-  auspiceChoices.setChoiceByValue(
-    settings.auspice || []
-  );
-
-  tribeChoices.setChoiceByValue(
-    settings.tribe || []
-  );
-
-  updateFactionOptions();
-
-  otherChoices.setChoiceByValue(
-    settings.faction || []
-  );
-
-  rankChoices.setChoiceByValue(
-    settings.rank || []
-  );
-
-  filterGifts();
+  return {
+    breed: settings.breed || [],
+    auspice: settings.auspice || [],
+    tribe: settings.tribe || [],
+    faction: settings.faction || [],
+    rank: settings.rank || []
+  };
 }
 
   // =========================

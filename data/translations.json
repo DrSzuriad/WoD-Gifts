@@ -1,0 +1,522 @@
+{
+  "Version": {
+    "en": "Version",
+    "pl": "Wersja"
+  },
+  "Language": {
+    "en": "Language",
+    "pl": "Język"
+  },
+  "Coming soon": {
+    "en": "Coming soon",
+    "pl": "Wkrótce"
+  },
+  "Rank": {
+    "en": "Rank",
+    "pl": "Ranga"
+  },
+  "Breed": {
+    "en": "Breed",
+    "pl": "Pochodzenie"
+  },
+  "Auspice": {
+    "en": "Auspice",
+    "pl": "Patronat"
+  },
+  "AuspPhiice": {
+    "en": "Auspice",
+    "pl": "Patronat"
+  },
+  "Tribe": {
+    "en": "Tribe",
+    "pl": "Plemię"
+  },
+  "Faction": {
+    "en": "Faction",
+    "pl": "Frakcja"
+  },
+  "All": {
+    "en": "All",
+    "pl": "Ogólne"
+  },
+  "English": {
+    "en": "English",
+    "pl": "Angielski"
+  },
+  "Polski": {
+    "en": "Polish",
+    "pl": "Polski"
+  },
+  "Failed to load gifts.json": {
+    "en": "Failed to load gifts.json",
+    "pl": "Nie udało się wczytać gifts.json"
+  },
+  "No results found": {
+    "en": "No results found",
+    "pl": "Brak wyników"
+  },
+  "No choices to choose from": {
+    "en": "No choices to choose from",
+    "pl": "Brak opcji do wyboru"
+  },
+  "Press to select": {
+    "en": "Press to select",
+    "pl": "Naciśnij, aby wybrać"
+  },
+  "Only unique values can be added": {
+    "en": "Only unique values can be added",
+    "pl": "Można dodawać tylko unikalne wartości"
+  },
+  "Garou": {
+    "en": "Garou",
+    "pl": "Garou"
+  },
+  "Homid": {
+    "en": "Homid",
+    "pl": "Homid"
+  },
+  "Lupus": {
+    "en": "Lupus",
+    "pl": "Lupus"
+  },
+  "Metis": {
+    "en": "Metis",
+    "pl": "Metys"
+  },
+  "Ahroun": {
+    "en": "Ahroun",
+    "pl": "Ahroun"
+  },
+  "Galliard": {
+    "en": "Galliard",
+    "pl": "Galiard"
+  },
+  "Philodox": {
+    "en": "Philodox",
+    "pl": "Filodoks"
+  },
+  "Ragabash": {
+    "en": "Ragabash",
+    "pl": "Ragabash"
+  },
+  "Theurge": {
+    "en": "Theurge",
+    "pl": "Teurg"
+  },
+  "Black Furies": {
+    "en": "Black Furies",
+    "pl": "Czarne Furie"
+  },
+  "Black Spiral Dancers": {
+    "en": "Black Spiral Dancers",
+    "pl": "Tancerze Czarnej Spirali"
+  },
+  "Boli Zouhisze": {
+    "en": "Boli Zouhisze",
+    "pl": "Boli Zouhisze"
+  },
+  "Bone Gnawers": {
+    "en": "Bone Gnawers",
+    "pl": "Gnatożuje"
+  },
+  "Bunyip": {
+    "en": "Bunyip",
+    "pl": "Bunyip"
+  },
+  "Children Of Gaia": {
+    "en": "Children of Gaia",
+    "pl": "Dzieci Gai"
+  },
+  "Croatan": {
+    "en": "Croatan",
+    "pl": "Croatanie"
+  },
+  "Fenrir": {
+    "en": "Fenrir",
+    "pl": "Fenrir"
+  },
+  "Fianna": {
+    "en": "Fianna",
+    "pl": "Fianna"
+  },
+  "Get of Fenris": {
+    "en": "Get of Fenris",
+    "pl": "Pomiot Fenrisa"
+  },
+  "Glass Walkers": {
+    "en": "Glass Walkers",
+    "pl": "Tubylcy Betonu"
+  },
+  "Hakken": {
+    "en": "Hakken",
+    "pl": "Hakken"
+  },
+  "Iron Riders": {
+    "en": "Iron Riders",
+    "pl": "Żelaźni Jeźdźcy"
+  },
+  "Kucha Ekundu": {
+    "en": "Kucha Ekundu",
+    "pl": "Kucha Ekundu"
+  },
+  "Outsiders": {
+    "en": "Outsiders",
+    "pl": "Obcy"
+  },
+  "Red Talons": {
+    "en": "Red Talons",
+    "pl": "Czerwone Szpony"
+  },
+  "Shadow Lords": {
+    "en": "Shadow Lords",
+    "pl": "Władcy Cienia"
+  },
+  "Silent Striders": {
+    "en": "Silent Striders",
+    "pl": "Milczący Wędrowcy"
+  },
+  "Silver Fangs": {
+    "en": "Silver Fangs",
+    "pl": "Srebrne Kły"
+  },
+  "Singing Dog": {
+    "en": "Singing Dog",
+    "pl": "Śpiewający Pies"
+  },
+  "Stargazers": {
+    "en": "Stargazers",
+    "pl": "Obserwatorzy Gwiazd"
+  },
+  "Tetrasomian": {
+    "en": "Tetrasomian",
+    "pl": "Tetrasomianie"
+  },
+  "Uktena": {
+    "en": "Uktena",
+    "pl": "Uktena"
+  },
+  "Warders of Men": {
+    "en": "Warders of Men",
+    "pl": "Strażnicy Człowieka"
+  },
+  "Wendigo": {
+    "en": "Wendigo",
+    "pl": "Wendigo"
+  },
+  "White Howler": {
+    "en": "White Howlers",
+    "pl": "Białe Wyjce"
+  },
+  "Camp": {
+    "en": "Camp",
+    "pl": "Obóz"
+  },
+  "House": {
+    "en": "House",
+    "pl": "Ród"
+  },
+  "Howl": {
+    "en": "Howl",
+    "pl": "Wycie"
+  },
+  "Kailindo": {
+    "en": "Kailindo",
+    "pl": "Kailindo"
+  },
+  "Lodge": {
+    "en": "Lodge",
+    "pl": "Loża"
+  },
+  "Mantra": {
+    "en": "Mantra",
+    "pl": "Mantra"
+  },
+  "Stolen": {
+    "en": "Stolen",
+    "pl": "Skradzione"
+  },
+  "Amazons of Diana": {
+    "en": "Amazons of Diana",
+    "pl": "Amazonki Diany"
+  },
+  "Freebooters": {
+    "en": "Freebooters",
+    "pl": "Korsarki"
+  },
+  "The Temple of Artemis": {
+    "en": "The Temple of Artemis",
+    "pl": "Świątynia Artemis"
+  },
+  "Lodge of the Predator Kings": {
+    "en": "Lodge of the Predator Kings",
+    "pl": "Loża Drapieżnych Króli"
+  },
+  "Warders of the Land": {
+    "en": "Warders of the Land",
+    "pl": "Strażnicy Ziemi"
+  },
+  "Children of Dire": {
+    "en": "Children of Dire",
+    "pl": "Dzieci Prawilków"
+  },
+  "Songkeeper": {
+    "en": "Songkeeper",
+    "pl": "Strażnicy Pieśni"
+  },
+  "Tuatha de Fionn": {
+    "en": "Tuatha de Fionn",
+    "pl": "Wnuki Fionna"
+  },
+  "Wayfarers": {
+    "en": "Wayfarers",
+    "pl": "Podróżnicy"
+  },
+  "Harbingers": {
+    "en": "Harbingers",
+    "pl": "Zwiastuni"
+  },
+  "Seekers": {
+    "en": "Seekers",
+    "pl": "Poszukiwacze"
+  },
+  "Dispossessed": {
+    "en": "Dispossessed",
+    "pl": "Wysiedleńcy"
+  },
+  "Eaters of the Dead": {
+    "en": "Eaters of the Dead",
+    "pl": "Pożeracze Umarłych"
+  },
+  "Bitter Hex": {
+    "en": "Bitter Hex",
+    "pl": "Gorzka Klątwa"
+  },
+  "Swords of Night": {
+    "en": "Swords of Night",
+    "pl": "Miecze Nocy"
+  },
+  "Red Talons Howl": {
+    "en": "Red Talons Howl",
+    "pl": "Wycia Czerwonych Szponów"
+  },
+  "Stargazers Mantra": {
+    "en": "Stargazers Mantra",
+    "pl": "Mantry Gwiezdnych Wędrowców"
+  },
+  "1st Ed.": {
+    "en": "1st Ed.",
+    "pl": "1st Ed."
+  },
+  "2nd Ed.": {
+    "en": "2nd Ed.",
+    "pl": "2nd Ed."
+  },
+  "Dark Ages": {
+    "en": "Dark Ages",
+    "pl": "Dark Ages"
+  },
+  "Revised": {
+    "en": "Revised",
+    "pl": "Revised"
+  },
+  "W20": {
+    "en": "W20",
+    "pl": "W20"
+  },
+  "Wild West": {
+    "en": "Wild West",
+    "pl": "Wild West"
+  },
+  "World Tree": {
+    "en": "World Tree",
+    "pl": "Drzewo Świata"
+  },
+  "The Sacred Thread": {
+    "en": "The Sacred Thread",
+    "pl": "Święta Nić"
+  },
+  "Awakening the Serpent Fire": {
+    "en": "Awakening the Serpent Fire",
+    "pl": "Przebudzenie Ognistego Węża"
+  },
+  "Demon Eaters": {
+    "en": "Demon Eaters",
+    "pl": "Pożeracze Demonów"
+  },
+  "Trance Runners": {
+    "en": "Trance Runners",
+    "pl": "Poszukiwacze Transu"
+  },
+  "Get of Fenris Camp": {
+    "en": "Get of Fenris Camp",
+    "pl": "Obóz Pomiotów Fenrisa"
+  },
+  "Hand of Tyr": {
+    "en": "Hand of Tyr",
+    "pl": "Ręka Tyra"
+  },
+  "Swords of Heimdall": {
+    "en": "Swords of Heimdall",
+    "pl": "Miecze Heimdalla"
+  },
+  "Ymir’s Sweat": {
+    "en": "Ymir’s Sweat",
+    "pl": "Trud Ymira"
+  },
+  "Austere": {
+    "en": "Austere",
+    "pl": "Asceci"
+  },
+  "Blood Red Crest": {
+    "en": "Blood Red Crest",
+    "pl": "Krwistoczerwony Herb"
+  },
+  "Crescent Moon": {
+    "en": "Crescent Moon",
+    "pl": "Księżycowy Sierp"
+  },
+  "Moon Lodge - Ahroun": {
+    "en": "Moon Lodge - Ahroun",
+    "pl": "Loża Księżyca — Ahroun"
+  },
+  "Moon Lodge - Galliard": {
+    "en": "Moon Lodge - Galliard",
+    "pl": "Loża Księżyca — Galiard"
+  },
+  "Moon Lodge - Waxing Cycle - The External Moon": {
+    "en": "Moon Lodge - Waxing Cycle - The External Moon",
+    "pl": "Loża Księżyca - Cykl Przybywania - Zewnętrzny Księżyc"
+  },
+  "Moon Lodge - Waxing Cycle - The Internal Moon": {
+    "en": "Moon Lodge - Waxing Cycle - The Internal Moon",
+    "pl": "Loża Księżyca - Cykl Przybywania - Wewnętrzny Księżyc"
+  },
+  "Sun Lodge": {
+    "en": "Sun Lodge",
+    "pl": "Loża Słońca"
+  },
+  "Unbreakable Hearth": {
+    "en": "Unbreakable Hearth",
+    "pl": "Niezłomne Ognisko"
+  },
+  "Wise Heart": {
+    "en": "Wise Heart",
+    "pl": "Mądre Serca"
+  },
+  "Wyrmfoe": {
+    "en": "Wyrmfoe",
+    "pl": "Wrogowie Żmija"
+  },
+  "Moon Lodge": {
+    "en": "Moon Lodge",
+    "pl": "Loża Księżyca"
+  },
+  "Random Interrupts": {
+    "en": "Random Interrupts",
+    "pl": "Losowe Przerwania"
+  },
+  "Wise Guys": {
+    "en": "Wise Guys",
+    "pl": "Mądrale"
+  },
+  "City Farmer": {
+    "en": "City Farmer",
+    "pl": "Miejski Farmerzy"
+  },
+  "Corporate Wolves": {
+    "en": "Corporate Wolves",
+    "pl": "Korporacyjne Wilki"
+  },
+  "Cyber Dog": {
+    "en": "Cyber Dog",
+    "pl": "Cyberpsy"
+  },
+  "Dies Ultimae": {
+    "en": "Dies Ultimae",
+    "pl": "Dies Ultimae"
+  },
+  "Central House": {
+    "en": "Central House",
+    "pl": "Centralny Ród"
+  },
+  "Skywalkers": {
+    "en": "Skywalkers",
+    "pl": "Podróżnicy po Niebiosach"
+  },
+  "Earth Guides": {
+    "en": "Earth Guides",
+    "pl": "Przewodnicy Ziemi"
+  },
+  "Bane Tenders": {
+    "en": "Bane Tenders",
+    "pl": "Pogromcy Zmór"
+  },
+  "Scouts": {
+    "en": "Scouts",
+    "pl": "Zwiadowcy"
+  },
+  "Ghost Dance": {
+    "en": "Ghost Dance",
+    "pl": "Widmowi Tancerze"
+  },
+  "Sacred Hoop": {
+    "en": "Sacred Hoop",
+    "pl": "Święta Obręcz"
+  },
+  "Warpath": {
+    "en": "Warpath",
+    "pl": "Wojenna Ścieżka"
+  },
+  "Judges of Doom": {
+    "en": "Judges of Doom",
+    "pl": "Sędziowie Przeznaczenia"
+  },
+  "Children of Bat": {
+    "en": "Children of Bat",
+    "pl": "Dzieci Nietoperza"
+  },
+  "Children of Crow": {
+    "en": "Children of Crow",
+    "pl": "Dzieci Kruka"
+  },
+  "Bringer of Light": {
+    "en": "Bringer of Light",
+    "pl": "Niosący Światło"
+  },
+  "Lords of the Summit": {
+    "en": "Lords of the Summit",
+    "pl": "Władcy Szczytów"
+  },
+  "Storm-Eater": {
+    "en": "Storm-Eater",
+    "pl": "Pożeraczki Burzy"
+  },
+  "Bacchanates": {
+    "en": "Bacchanates",
+    "pl": "Bachantki"
+  },
+  "Moon-Daughters": {
+    "en": "Moon-Daughters",
+    "pl": "Córki Księżyca"
+  },
+  "Order of the Merciful Mother": {
+    "en": "Order of the Merciful Mother",
+    "pl": "Zakon Miłosiernej Matki"
+  },
+  "Sisterhood": {
+    "en": "Sisterhood",
+    "pl": "Siostrzeństwo"
+  },
+  "Dying Cubs": {
+    "en": "Dying Cubs",
+    "pl": "Umierające Szczenięta"
+  },
+  "Whelp’s Compromise": {
+    "en": "Whelp’s Compromise",
+    "pl": "Kompromis Szczenięcia"
+  },
+  "Winter Packs": {
+    "en": "Winter Packs",
+    "pl": "Zimowe Watahy"
+  }
+}

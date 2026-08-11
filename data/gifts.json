@@ -3666,7 +3666,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -3695,7 +3695,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -3724,7 +3724,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -4663,7 +4663,7 @@
                 "type": "Tribe",
                 "value": "Stargazers",
                 "faction_type": "Mantra",
-                "faction_value": "Stargazers",
+                "faction_value": "Stargazers Mantra",
                 "rank": 3,
                 "names": {
                     "en": "Burning Fire-Mind",
@@ -5176,7 +5176,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -5926,7 +5926,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -7618,7 +7618,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -8585,7 +8585,7 @@
                 "type": "Tribe",
                 "value": "Get of Fenris",
                 "faction_type": "Camp",
-                "faction_value": "Get of Fenris",
+                "faction_value": "Get of Fenris Camp",
                 "rank": 3,
                 "names": {
                     "en": "Valkyria of Freya",
@@ -10129,7 +10129,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -10402,7 +10402,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -12901,8 +12901,8 @@
                 "race": "Garou",
                 "type": "Tribe",
                 "value": "Stargazers",
-                "faction_type": "The Sacred Thread",
-                "faction_value": "Camp",
+                "faction_type": "Camp",
+                "faction_value": "The Sacred Thread",
                 "rank": 5,
                 "names": {
                     "en": "Eyes of Ignorance",
@@ -13791,7 +13791,7 @@
                 "type": "Tribe",
                 "value": "Get of Fenris",
                 "faction_type": "Camp",
-                "faction_value": "Get of Fenris",
+                "faction_value": "Get of Fenris Camp",
                 "rank": 2,
                 "names": {
                     "en": "Fangs of Garm",
@@ -15128,7 +15128,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -15840,7 +15840,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -16960,7 +16960,7 @@
                 "type": "Tribe",
                 "value": "Get of Fenris",
                 "faction_type": "Camp",
-                "faction_value": "Get of Fenris",
+                "faction_value": "Get of Fenris Camp",
                 "rank": 2,
                 "names": {
                     "en": "Glorious Fist of Wotan",
@@ -18760,7 +18760,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -19715,7 +19715,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -20269,7 +20269,7 @@
                 "type": "Tribe",
                 "value": "Red Talons",
                 "faction_type": "Howl",
-                "faction_value": "Red Talons",
+                "faction_value": "Red Talons Howl",
                 "rank": 4,
                 "names": {
                     "en": "Howl of Death",
@@ -20319,7 +20319,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -20379,7 +20379,7 @@
                 "type": "Tribe",
                 "value": "Red Talons",
                 "faction_type": "Howl",
-                "faction_value": "Red Talons",
+                "faction_value": "Red Talons Howl",
                 "rank": 3,
                 "names": {
                     "en": "Howl of Hunger",
@@ -20459,7 +20459,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -20614,7 +20614,7 @@
                 "type": "Tribe",
                 "value": "Red Talons",
                 "faction_type": "Howl",
-                "faction_value": "Red Talons",
+                "faction_value": "Red Talons Howl",
                 "rank": 1,
                 "names": {
                     "en": "Howl to the Pack",
@@ -20677,7 +20677,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -23462,7 +23462,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -23709,7 +23709,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -24492,7 +24492,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -24532,7 +24532,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -25974,7 +25974,7 @@
                     {
                         "type": "text",
                         "en": "The Garou possesses a powerful psychic shield, increasing the difficulty of all attempts to affect or attack her mentally. This Gift is taught by a Falcon-spirit.\n\nSilent Striders: The Swords of Night are well aware that the most dangerous aspect of the vampire is its ability to influence one’s mind, and have made many sacrifices to be taught this Gift.\n\nSystem: All attempts to affect or attack the Garou mentally are made against a difficulty of 10. This includes vampiric Domination and Presence.",
-                        "pl": "Dar ten pozwala stworzyć swoistą psychiczną tarczę, która utrudnia psychiczne ataki i próby wpłynięcia na umysł garou. Mocą tą obdarza duch sokoła. \n\nSystem: Wszystkie próby psychicznego oddziaływania mają stopień trudności równy 10 – dotyczy to także takich mocy wampirów, jak Dominacja i Prezencja."
+                        "pl": "Dar ten pozwala stworzyć swoistą psychiczną tarczę, która utrudnia psychiczne ataki i próby wpłynięcia na umysł garou. Mocą tą obdarza duch sokoła.\n\nMilczący Wędrowcy: Miecze Nocy dobrze wiedzą, że najgroźniejszą bronią wampira jest zdolność wpływania na cudzy umysł, dlatego poniosły wiele ofiar, aby poznać ten Dar.\n\nSystem: Wszystkie próby psychicznego oddziaływania mają stopień trudności równy 10 – dotyczy to także takich mocy wampirów, jak Dominacja i Prezencja."
                     }
                 ]
             },
@@ -26101,7 +26101,7 @@
                 "type": "Tribe",
                 "value": "Get of Fenris",
                 "faction_type": "Camp",
-                "faction_value": "Get of Fenris",
+                "faction_value": "Get of Fenris Camp",
                 "rank": 4,
                 "names": {
                     "en": "Mjolnir’s Thunder",
@@ -27820,7 +27820,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 2,
@@ -29805,7 +29805,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -29847,7 +29847,7 @@
                 "type": "Tribe",
                 "value": "Red Talons",
                 "faction_type": "Howl",
-                "faction_value": "Red Talons",
+                "faction_value": "Red Talons Howl",
                 "rank": 2,
                 "names": {
                     "en": "Primal Howl",
@@ -30543,7 +30543,7 @@
                 "type": "Tribe",
                 "value": "Iron Riders",
                 "faction_type": "Storm-Eater",
-                "faction_value": "Storm-Eater",
+                "faction_value": "Camp",
                 "rank": 5,
                 "names": {
                     "en": "Quell the Storm",
@@ -34314,7 +34314,7 @@
                 "type": "Tribe",
                 "value": "Stargazers",
                 "faction_type": "Mantra",
-                "faction_value": "Stargazers",
+                "faction_value": "Stargazers Mantra",
                 "rank": 1,
                 "names": {
                     "en": "Seed of Speech",
@@ -34383,7 +34383,7 @@
                 "type": "Tribe",
                 "value": "Stargazers",
                 "faction_type": "Mantra",
-                "faction_value": "Stargazers",
+                "faction_value": "Stargazers Mantra",
                 "rank": 4,
                 "names": {
                     "en": "Seeking the Void",
@@ -34766,7 +34766,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -34856,7 +34856,7 @@
                 "type": "Tribe",
                 "value": "Get of Fenris",
                 "faction_type": "Camp",
-                "faction_value": "Get of Fenris",
+                "faction_value": "Get of Fenris Camp",
                 "rank": 2,
                 "names": {
                     "en": "Hand of Tyr",
@@ -35583,7 +35583,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -36371,7 +36371,7 @@
                 "type": "Tribe",
                 "value": "Red Talons",
                 "faction_type": "Howl",
-                "faction_value": "Red Talons",
+                "faction_value": "Red Talons Howl",
                 "rank": 5,
                 "names": {
                     "en": "Shattering Howl",
@@ -36730,7 +36730,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 1,
@@ -37639,7 +37639,7 @@
                 "race": "Garou",
                 "type": "Tribe",
                 "value": "Black Spiral Dancers",
-                "faction_type": "AuspPhiice",
+                "faction_type": "Auspice",
                 "faction_value": "Philodox",
                 "rank": 1,
                 "names": {
@@ -38593,7 +38593,7 @@
                 "type": "Tribe",
                 "value": "Stargazers",
                 "faction_type": "Mantra",
-                "faction_value": "Stargazers",
+                "faction_value": "Stargazers Mantra",
                 "rank": 2,
                 "names": {
                     "en": "Sound of Suffering",
@@ -42602,7 +42602,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -43543,7 +43543,7 @@
                 "type": "Tribe",
                 "value": "Stargazers",
                 "faction_type": "Mantra",
-                "faction_value": "Stargazers",
+                "faction_value": "Stargazers Mantra",
                 "rank": 6,
                 "names": {
                     "en": "Thought-Form of the Twelve Ministers",
@@ -46728,7 +46728,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 4,
@@ -46768,7 +46768,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 3,
@@ -48029,7 +48029,7 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "White Howler",
+                "value": "White Howlers",
                 "faction_type": "All",
                 "faction_value": "All",
                 "rank": 5,
@@ -49410,7 +49410,7 @@
                 "race": "Garou",
                 "type": "Tribe",
                 "value": "Black Furies",
-                "faction_type": "Storm-Eater",
+                "faction_type": "Camp",
                 "faction_value": "Storm-Eater",
                 "rank": 5,
                 "names": {

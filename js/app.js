@@ -236,6 +236,35 @@ function getLocalizedText(obj) {
   );
 }
 
+function getLocalizedArray(obj) {
+
+  if (!obj) {
+    return [];
+  }
+
+  const localized = Array.isArray(obj[currentLanguage])
+    ? obj[currentLanguage]
+    : [];
+
+  const english = Array.isArray(obj.en)
+    ? obj.en
+    : [];
+
+  const length = Math.max(
+    localized.length,
+    english.length
+  );
+
+  return Array.from({ length }, (_, index) => {
+
+    const value = localized[index];
+
+    return String(value ?? "").trim() !== ""
+      ? value
+      : (english[index] ?? "");
+  });
+}
+
 function renderGifts(filteredGifts) {
 
   const container =
@@ -639,9 +668,7 @@ function renderContent(version) {
     case "table":
 
         const headers =
-          block.headers[currentLanguage] ||
-          block.headers.en ||
-          [];
+          getLocalizedArray(block.headers);
 
         html += `
           <table class="gift-table">
@@ -659,9 +686,7 @@ function renderContent(version) {
               ${block.rows.map(row => {
 
                 const cells =
-                  row[currentLanguage] ||
-                  row.en ||
-                  [];
+                  getLocalizedArray(row);
 
                 return `
                   <tr>

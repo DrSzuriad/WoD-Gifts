@@ -51,7 +51,7 @@ Repair		->	Naprawa
 Rituals		->	Obrzędy
 Science		->	Nauka
 Stealth		->	Krycie się
-Streetwise	->	Instynkt Uliczny
-Subterfuge	->	Cwaniactwo
+Streetwise	->	Cwaniactwo
+Subterfuge	->	Przebiegłość
 Survival	->	Sztuka
 

@@ -1,0 +1,521 @@
+SŁOWNIK TŁUMACZENIOWY — WEREWOLF: THE APOCALYPSE
+
+Zakres: nadrzędny słownik roboczy dla tłumaczenia Darów Garou.
+Źródła: Leksykon.txt, Słownik - ogólny.txt, Słownik - zdolności i cech.txt.
+
+KOLEJNOŚĆ ROZSTRZYGANIA
+1. Jawna para EN = PL w tym pliku.
+2. Terminologia sekcji Werewolf i Ratkin.
+3. Znaczenie i kontekst z leksykonu polskiego.
+4. Gdy hasło ma kilka odpowiedników, wybór zależy od kontekstu; nie ujednolicać ich mechanicznie.
+
+UWAGI O KOLIZJACH
+- Alertness i Awareness mają ustalony wspólny przekład: Czujność.
+- Perception występuje jako Cecha i ponownie w wykazie Zdolności; przekład pozostaje: Percepcja.
+- Primal = Pierwotne jest formą kontekstową, nie samodzielną nazwą uniwersalną.
+- Survival = Sztuka wygląda na wpis niepełny, lecz pozostaje bez zmian do czasu potwierdzenia w źródle nadrzędnym.
+- Nagah / Naga zachowuje te formy; nie używać formy „Nag”.
+
+Pakiet A — Zasady pracy z tekstem, OCR i ogólne preferencje redakcyjne
+To jest rdzeń sposobu pracy i nie zależy od konkretnej linii Świata Mroku.
+- Tłumaczenia mają być zgodne z oryginałem, bez upiększeń, dodatków i zbędnych znaków.
+- Przy materiałach z umiejętnościami: tekst po polsku przepisywać bez zmian, a tekst po angielsku tłumaczyć.
+- Układ i format oryginału mają być zachowane możliwie dokładnie, bez własnych oznaczeń i skrótów.
+- Błędy OCR trzeba poprawiać zamiast ich powielania.
+- Nie wolno powielać duplikatów wynikających z OCR.
+- Tekst z OCR ma być składany w naturalne akapity; nie robić enterów po każdej linijce.
+- Jednostki imperialne należy przeliczać na metryczne z rozsądnym zaokrągleniem.
+- W kontekście cech postaci preferowane jest słowo „wartość” zamiast „ocena”.
+- Gdy płeć nie jest określona lub nie ma potrzeby użycia form żeńskich, preferowane są formy męskie.
+
+Pakiet C — Rdzeń globalny Świata Mroku
+- Ability = Zdolność
+- Willpower = Siła Woli
+- Botch = Katastrofa / Pech
+- Demeanor = Postawa
+- Threshold = Próg
+- Abscess = Ropień
+- Kindred = Spokrewniony
+- Pentex = Pentex
+- Manipulation = Oddziaływanie
+
+CECHY I ZDOLNOŚCI
+- Strength = Siła
+- Dexterity = Zręczność
+- Stamina = Wytrzymałość
+- Charisma = Charyzma
+- Manipulation = Oddziaływanie
+- Appearance = Wygląd
+- Perception = Percepcja
+- Intelligence = Inteligencja
+- Wits = Spryt
+- Willpower = Siła Woli
+- Gnosis = Gnoza
+- Academics = Wykształcenie
+- Alertness = Czujność
+- Ancestors = Pamięć Przodków
+- Animal = Oswajanie
+- Archery = Łucznictwo
+- Athletics = Atletyka
+- Awareness = Czujność
+- Barter = Handel Wymienny
+- Brawl = Bójka
+- Computer = Komputery
+- Computers = Komputery
+- Craft = Rzemiosło
+- Crafts = Rzemiosło
+- Dodge = Uniki
+- Drive = Prowadzenie
+- Empathy = Empatia
+- Enigmas = Zagadki
+- Etiquette = Etykieta
+- Expression = Ekspresja
+- Firearms = Broń Palna
+- Intimidation = Zastraszanie
+- Investigation = Śledztwo
+- Kailindo = Kailindo
+- Larceny = Złodziejstwo
+- Law = Prawo
+- Leadership = Autorytet
+- Linguistics = Lingwistyka
+- Medicine = Medycyna
+- Meditation = Medytacja
+- Melee = Walka wręcz
+- Occult = Okultyzm
+- Performance = Występy
+- Politics = Polityka
+- Primal = Pierwotne
+- Repair = Naprawa
+- Rituals = Obrzędy
+- Science = Nauka
+- Stealth = Krycie się
+- Streetwise = Cwaniactwo
+- Subterfuge = Przebiegłość
+- Survival = Sztuka
+
+Pakiet F — Werewolf
+- werebeast = [coś]-łaki (np. werewolf = wilkołaki, wereraven = krukołaki, weresnake = wężołaki)
+- Nagah / Naga — używać formy Nagah / Naga; nie używać „Nag”.
+- Auspices = Patronat
+- Primal-Urge = pierwotne instynkty
+- Background = cechy pozycji
+- Bone Gnawers = Gnatożuje
+- Glass Walkers = Tubylcy Betonu
+- Caern = Caern
+- Sept = Szczep
+- Wyrm = Żmij
+- Wyld = Dzikun
+- Weaver = Tkaczka
+- Gauntlet = Rękawica
+- spirits of the Wyld = Dzikuńce
+- Wyrmlings / Banes = Zmory
+- Jagglings = Strzępiaki
+- Gafflings = Szponiaki
+- Talens = Taleny
+- Kinfolk = Krewniacy
+- Crescent Moon = Księżycowy Sierp
+- Bawn = Strefa
+- Rapture = Raptura
+- Wyldling = Dzikuńce
+- Patronaty: Ragabash, Teurg, Filodoks, Galiard, Ahroun
+- Epiphlings = Epifiaki
+
+Pakiet J — Ratkin
+Ratkin — rdzeń roboczy
+Ratkin = Ratkin
+Children of Rat = Dzieci Szczura
+Aspects = Aspekty
+Freaks = Dziwacy
+Rat God / Rat Incarna = Szczurzy Bóg / Inkarna Szczura
+Birthing Plague = Plaga Narodzin
+Pain Daggers = Sztylety Bólu
+Swarm = rój
+Nest = gniazdo
+Colony = kolonia
+Plague (w znaczeniu ratkinowej sieci/rodu) = plaga
+pack = stado (u Ratkinów)
+servitor of the Wyld = sługa Dzikuna
+Spirit Kinfolk = duchowi Krewniacy
+Rapture = Raptura
+
+Aspekty
+Tunnel Runner = Goniec Tunelowy
+Shadow Seer = Prorok Cienia
+Knife-Skulker = Nożownik
+Warrior = Wojownik
+Plague Lord = Władca Zarazy
+Ratkin Engineer = Inżynier
+Munchmausen = Munchmausen
+Twitcher = Drgacz
+Bard = Bard
+
+Inne
+Kinfolk = Krewniacy
+human Kinfolk = ludzcy Krewniacy
+rat Kinfolk = szczurowi Krewniacy
+Spirit Kinfolk = duchowi Krewniacy
+
+- Homid = Homid
+- Rodens = Rodens
+- Metis = Metys
+
+Rat Man form = postać Człekoszczura
+Rat Thing form = postać Szczurzej Ohydy
+Itchy form = postać Swędzika
+Field of Nettles = Pole Pokrzyw
+
+Renoma
+Renoma = Sława
+
+Infamy = Niesława
+Cunning = Przebiegłość
+Obligation = Powinność
+
+DODATKOWE USTALENIA WEREWOLF / RATKIN
+Moot = Zgromadzenie
+Triat = Triada
+Get of Fenris = Pomiot Fenrisa
+The Rat Race = Szczurzy Wyścig
+Rite = Rytuał
+Crash Space=Kima
+Ramblers=Włóczędzy
+Consorts=towarzysze (u Ratkinów)
+
+LEKSYKON KONTEKSTOWY — WILKOŁAK I ZMIENNOKSZTAŁTNI
+Hasła poniżej służą do rozpoznawania znaczeń, odmiany i rejestru; nie wszystkie są parami EN–PL.
+
+Wspólna mowa
+Wśród Garou używa się powszechnie następujących słów:
+Apokalipsa: Wiek zniszczenia, ostatni cykl, narodziny śmierci, wieczne zepsucie, koniec Gai — słowo używane w mitologii Garou do opisania czasu ostatecznej bitwy ze Żmijem. Wielu uważa, że ten czas już nastał.
+Bariera: Mur pomiędzy materialnym światem Ziemi a duchowym światem Umbry. Jest najmocniejsza w pobliżu miejsc opanowanych przez technologię (Tkaczki), najsłabsza zaś w okolicy Cearnów.
+Bliska Umbra: Świat duchowy otaczający Królestwo Gai.
+Cearn: Święte miejsce spotkań, w którym Garou mogą się kontaktować ze światem duchów.
+Celestian: Najwyższe z duchów — istoty, które są dla Garou najbliższym odpowiednikiem bogów. Przykładami są Luna (Księżyc) i Helios (Słońce).
+Crinos: Półwilkza, półludzka postać Garou.
+Daleka Umbra: Aspekty Umbry znajdujące się poza Membraną. Im dalej ktoś oddziela się od Królestwa, tym bardziej fragmentaryczna staje się rzeczywistość.
+Delirium: Szaleństwo, które ogarnia ludzi patrzących na Garou w postaci crinos.
+Domena: Minikrólestwo w Umbrze, zazwyczaj połączone z większym, znajdującym się w Dalekiej Umbrze.
+Dziki: Określenie slangowe lupus.
+Dzikun: Manifestacja i symbol czystej zmienności. Chaos transmutacji i siła żywiołów.
+Gaja: Ziemia i związane z nią królestwa, zarówno w świecie materialnym, jak i duchowym; Bogini Matka.
+Garou: Określenie, którego wilkołaki używają w odniesieniu do siebie.
+Hispo: Niemal wilcza postać Garou.
+Homid: Garou zrodzony z ludzkich rodziców. Określenie używane czasami pogardliwie przez Dzikich (np. Ten chłopak walczy jak homid!).
+Impergium: Okres 3000 lat bezpośrednio po narodzinach agrikultury, w którym na ludzkie wioski nałożono ścisłe ograniczenie liczby ludności.
+Incarna: Klasa duchów, słabszych niż Celestian, ale wciąż pod każdym względem zaliczanych do wyższych.
+Klawe: Fetysz — sztylet lub miecz — zazwyczaj o wielkiej mocy duchowej, niemal zawsze wykonany ze srebra.
+Konkordat: Ugoda, którą ustaliły wszystkie plemiona około 9000 lat temu, po której zakończyło się Impergium. Tradycji wówczas ustalonych przestrzega się do dzisiaj.
+Kotwica: Brama duchowa pomiędzy Bliską i Daleką Umbrą (patrz membrana).
+Królestwa: Światy „trwałej” rzeczywistości w obrębie Tellurii. Ziemię nazywa się po prostu Królestwem.
+Księżycowe Cielę: Idiota, prostak.
+Księżycowy Most: Brama pomiędzy dwoma Cearnami. Pojawia się najczęściej podczas Zgromadzeń.
+Litania: Kodeks praw, zawsze przestrzeganych przez Garou.
+Lupus: Garou zrodzony z wilka.
+Membrana: Bariera pomiędzy Bliską i Daleką Umbrą. Aby ją przemazać, należy znaleźć Kotwicę. Garou może również podróżować przez Strefę Snów.
+Metys: Bezpłodny i często zdeformowany potomek dwojga Garou. Zazwyczaj odrzucany przez społeczeństwo wilkołaków.
+Muh: Slangowe określenie metysa.
+Patronat: Faza księżyca, pod którą urodził się dany Garou. Powszechnie uważa się, że określa osobowość i skłonności. Istnieje pięć Patronatów: Ragabash (księżyc w nowiu; Oszust), Theurg (sierp księżyca; Wróż), Philodox (półksiężyc; Sędzia), Galliard (rosnący księżyc; Księżycowy Tancerz), Ahroun (księżyc w pełni; Wojownik).
+Penumbra: „Cień Ziemi” — świat duchów bezpośrednio przylegający do świata materialnego. Wiele (ale nie wszystkie) cech terenu będzie tam identycznych jak w świecie materialnym.
+Plemie: Większa społeczność Garou. Członkowie plemienia często są powiązani podobieństwem totemów i stylów życia.
+Protektorat: Terytorium uznawane za własne i patrolowane przez watahę lub szczep.
+Przejście: Wyprawa do świata duchów.
+Prześlęs: Empatyczne wezwanie, które Garou przekazują wyciem.
+Rasa: Przodkowie Garou — wilki, ludzie albo też inne wilkołaki.
+Ronin: Garou, który z własnej woli lub pod przymusem opuścił społeczeństwo wilkołaków. Zostać „samotnym wilkiem” to ciężki los.
+Skaza: Dowolny obszar, na którym panuje zepsucie — w świecie duchów lub rzeczywistym.
+Strefa: Dobrze strzeżona okolica wokół Cearnu, w której obserwuje się śmiertelników.
+Strzepiąk: Duchowy sługa Incarna lub Celestianu.
+Szczep: Grupa Garou, która mieszka w pobliżu i opiekuje się pojedynczym Cearnem.
+Szpioniak: Prosty duch, służący Strzepiąkom, Incarom lub Celestianom. Szpioniaki rzadko są obdarzone świadomością.
+Ścieżki: Tradycje Garou.
+Telluria: Cała rzeczywistość.
+Tkaczka: Manifestacja i symbol porządku i wzorca. Przykładami wpływu Tkaczki w świecie materialnym są komputery, nauka, logika i matematyka.
+Totem: Duch połączony z watahą lub plemieniem i reprezentujący jej (jego) wewnętrzną naturę. Totemami plemion są Incarna, zaś totemami watah mogą być niższe byty duchowe (odpowiedniki Strzepiąków).
+Triada: Tkaczka, Dzikun i Żmij. Trójca pierwotnych sił kosmicznych.
+Umbra: Świat duchów.
+Wataha: Niewielka grupa Garou powiązana przyjaźnią i celem, ale nie kulturą.
+Wiece: Wielkie zgromadzenie, na którym zbiera się wiele plemion, aby omówić sprawy ważne dla wszystkich Garou.
+Zasłona: Patrz Delirium.
+Zepsucie: Akt niszczenia, cofania w rozwoju lub poniżania życia. Także straszliwe efekty działań Żmija. W czasach współczesnych często odnosi się to do zniszczeń, które ludzie powodują w środowisku.
+Zgromadzenie: Konklawe szczepu lub plemienia, które zwołuje się raz w czerwcu.
+Zmory: Złe duchy, które służą Żmijowi. Istnieje wiele ich rodzajów: Skragi, Haggi, Psychomachie.
+Żmij: Manifestacja i symbol zła, entropii i rozkładu w wierzeniach Garou. Często jego przedstawicielami są demony, podobnie jak odpady toksyczne i zanieczyszczenia.
+Żmijowa Nora: Miejsce, które zostało duchowo zbezczeszczone przez Żmija, nieodmiennie związane z wielkim zepsuciem.
+
+Slang
+Młodsi Garou używają tych słów, aby odróżnić się od starszych:
+Con: Rytualne łowy lub hulanka, która rozpoczyna się pod koniec Zgromadzenia.
+Gremlin: Zły duch.
+Małpa: Slangowe określenie człowieka lub homida. Często wyraża pogardę dla tak nazwanego.
+Owce: Ludzie.
+Pijawka: Patrz Truposz.
+Przyduszenie: Pokonać kogoś w rytualnym pojedynku. Używane jako czasownik (np. „Przydusiłem tego biednego pacana!”).
+Skok w bok: Wejście w świat duchów. Większość starszych uznaje to określenie za frywolne i okazujące brak szacunku.
+Truposz: Pogardliwe określenie wampira.
+Trzoda: Całość ludzkości, szczególnie ci ludzie, pośród których Garou szukają nowych wilkołaków.
+
+Archaizmy
+Te słowa pochodzą od odległej przeszłości Garou i większość z nich stworzyły Fianna. Nie używa się ich często, ale wszyscy Garou je znają:
+Adrec: Podopieczny lub uczeń, który pobiera nauki u Mistrza.
+Airy: Magiczne ścieżki w świecie duchów (np. Ślady Duchów, Księżycowe Ścieżki, itp.).
+Anamae: „Przyjaciel duszy”. W ten sposób najczęściej określa się związek z totemem watahy.
+Anruth: Garou out, który podróżuje od Cearnu do Cearnu, ale nie jest z żadnym z nich związany.
+Athro: Nauczyciel, Mentor.
+Awen: Święta Muza, impuls twórczy. Niektórzy uważają, że jest duchem, ale nikt nigdy nie zdołał jej odnaleźć. Księżycowi Tancerze regularnie wykonują dla niej misje.
+Brugh: Dowolne miejsce mistyczne, czy to Cearn Garou, czy Żmijowa Nora. Często jest to dolina lub polana położona gdzieś w głuszy.
+Charach: Garou, który żył z innym Garou lub czynił to w przeszłości. Często używane w gniewie.
+Febe: Incarna Luny, reprezentująca Księżyc.
+Formory: Ludzie, którzy zwrócili się do Żmija i otrzymują od niego moce. To oni są wrogami Garou.
+Fostern: Bracia i siostry z jednej watahy. Ci, którzy są twoją rodziną z wyboru.
+Gallain: Krewniacy Garou — ludzie i wilki, związani z Ludem, na których Delirium nie ma wpływu. Nie są oni jednak prawdziwymi wilkołakami.
+Harano: Nie wyjaśniony smutek, niewyrażalna tęsknota za czymś nienazwanym, płacz nad czymś, co jeszcze nie jest stracone. Niektórzy twierdzą, że powodem jest kontemplowanie cierpienia Gai.
+-ikthya: „od Żmija”; przyrostek, dodawany do imienia.
+Incarpor: Garou, który prowadzi inny w czasie rytuału. Zwany również Mistrzem Ceremonii.
+Kinan: Związek pomiędzy Garou, którzy mają wspólnego przodka. Stwierdzenie przywiązania i dumy, nigdy nie używa się go w odniesieniu do metysów.
+Klaith: Młody Garou, nie posiadający jeszcze ustalonej rangi.
+Perikarp: Bliska Umbra wokół każdego Królestwa.
+Praenomem: Duch strażniczy watahy.
+Przestąpienie: Podróż do świata duchów.
+-ryha: „Stojący wyżej”; przyrostek dodawany do imienia.
+Urrah: Garou, który mieszka w mieście. Także ktoś skażony.
+Wykupne: Tradycyjnie, szczep może zażądać czegoś od każdego Garou, który używa ich Cearnu. „Wykupne” to określenie tego żądania.
+-yuf: „Szanowany, równy”; przyrostek dodawany do imienia.
+
+Czasy prekolumbijskie / Niepokalani
+Angalkuk: Termin Wendigo oznaczający Teurga — mistyka lub szamana duchowego.
+Angatkok: Inuickie określenie potężnych szamanów, którzy mają kontakt zarówno z dobrymi, jak i złymi duchami.
+Angoaks: Rzeźby z kości słoniowej lub drewna, używane przez arktycznych myśliwych.
+Dacibaudjimoot: Patronat wśród Wendigo, odpowiadające Galliardowi — strażnikowi opowieści lub pieśniarza.
+Dawca Prawa: Termin używany przez plemiona Uktena i Croatan na określenie Filodoksa — sędziego i strażnika zasad.
+Heyoka: nazwa Ragabasza u Wendigo — żartownisia, błazna, mędrca poprzez sprzeczność.
+Hunkayapi: Ceremonia, podczas której starszy wojownik z plemienia Siuksów adoptuje młodszego wojownika jako swojego syna.
+Makuk: Pojemnik wykonany z kory brzozowej, używany przez ludy koczownicze do przechowywania zapasów żywności.
+Manitou: Nazwa nadawana duchom zamieszkującym zarówno świat fizyczny, jak i duchowy.
+Mediwiwin: u Wendigo określenie dla Filodoksa.
+Nawalak: Termin z języka Kwakiutl oznaczający ducha drzewa wykorzystywanego do budowy domów.
+Nobugidaban: Sanie o płaskim dnie, używane przez ludy jeziorne do podróży lądowych zimą.
+Numaym: Termin Kwakiutl określający klan lub grupę potomków, którzy wywodzą się od zwierzęcego ducha-przodka.
+Oki: Słowo z języka Huronów oznaczające „duchy”.
+Pemmikan: Trwała żywność przygotowana z suszonego mięsa i tłuszczu, pakowana do jelit karibu lub innego dużego zwierzęcia. Używana przez ludy koczownicze jako zapasowa żywność podróżna lub zimowa.
+Sachem: Tytuł wodza wśród Algonkinów z regionu Nowej Anglii.
+Szaman : Znany też jako uzdrowiciel. Termin Uktena i Croatan oznaczający Teurga.
+Strażnik Pieśni : Określenie nadawane Galiardom przez plemiona Uktena i Croatan.
+Toyon: Aleucka nazwa dla przywódcy wioski lub zamożnego wodza.
+Trickster: Termin Uktena i Croatan odpowiadający Ragabaszowi (Ragabash).
+Wabenot: Nazwa nadawana szamanom z regionu Wielkich Jezior, specjalizującym się w leczeniu ziołami.
+Wojownik: Określenie używane przez Uktena i Croatan dla Ahrouna — Garou urodzonego w pełni Księżyca.
+Ya’pahé: określenie Ahrouna u Wendigo.
+
+Bastet - Kotołaki
+Terminy ogólne (Common Terms)
+Ahu: Początek i koniec wszystkiego, ucieleśnione przez Głęboką Umbrę lub przestrzeń kosmiczną; zwykle (choć nie zawsze) pojmowane jako żeńskie.
+Asurowie: Zarówno duchy ciemności (Zmory), które żywią się zniszczeniem świata, jak i ich ojciec. Niszczący i deprawatorzy, często przybierają maski, by lepiej służyć swemu celowi. Niektóre duchy (Upiory) też używają tej nazwy, nie pojmując jej prawdziwego znaczenia.
+Cahlash, Nierodziciel: Mroczny Ojciec, którego wpływ daje tajemnice, ale i niszczy to, co istnieje, aby zrobić miejsce temu, co nadejdzie; personifikacja Entropii. Choć dla Garou jest to Żmij, Bastet postrzegają go jako Ojca Nocy, Autora Tajemnic — niebezpiecznego, uwodzicielskiego i ostatecznie niezbędnego. Cahlash i jego brat Rahjah bywają razem zwani „Królem Kotów”.
+Chatro: Wielka, szablastozębna forma bojowa, którą wszystkie Bastet przyjmują pomiędzy stanami Crinos i Felina.
+Crinos: Półludzka, księżycowo-szałowa postać, w której moc Seliny (Seline) skupia naturę Bastet w mistyczną machinę zabijania.
+Czaja: Mieszkańcy Umbry, pomiot Cahlasha i cienie na skraju świata; duchy.
+Dakat: Tradycyjna nazwa na fomorów; w oczach Bastet to „dzieci poparzone ogniem”, którym należy skrócić męki.
+Duma: Technicznie rodzina; zwykle sojusznicy, podopieczni lub przyjaciele Basteta.
+Gaja: Ziemia. W przeciwieństwie do Garou, Bastet widzą Gaję jako mniejszą aktorkę kosmicznego dramatu: jej przetrwanie jest kluczowe dla żyjących z Nią, lecz śmierć Gai oznacza koniec Ziemi, nie istnienia.
+Hakarr: Ceremonialne ostrze Bastet, podobne do afrykańskiego hungamunga; ulubiona broń pojedynkowa (zwłaszcza u Simba i Khan), jak klaive u Garou.
+Hanszi: Rytualna walka (zagadki, formalny pojedynek lub kły-i-pazury) zwykle o prawa do terytorium.
+Homid: Ludzka postać lub ludzka lina Basteta.
+Jamaa: Potężne duchy w rodzaju Celestynów i Incarna; jak bogowie, ale „wciąż rodzina”. Zob. też Nyota Jamaa.
+Jamak: Duchowi sojusznicy pomagający Bastet w zamian za przysługi i przyjaźń; podobni do totemów Garou, lecz relacja jest bardziej partnerska.
+Kalijah: mówiona tradycja, ustne podania, zwłaszcza o początkach rzeczy takimi, jakimi je znamy; zazwyczaj (choć nie zawsze) recytowane podczas ceremonii.
+Karusz: Odpowiednik Litanii — kodeks Bastet.
+Kheuar: Wspólny język wszystkich Bastet.
+Killi: Inni Zmiennokształtni obdarzeni przez Selinę i Gaję (Garou, Corax itd.).
+Kociak: Młody Bastet, niemowlę lub świeżo Przemieniony uczeń kuashy.
+Kuasha: Dosł. „mgła”; mentor, który bierze Basteta pod opiekę, uczy, a potem odpycha/odchodzi, by nauczyć samodzielności.
+Legowisko: Umbralny dom/terytorium wyznaczone przez potężnego Basteta; jego stworzenie jest trudne, a naruszenie — śmiertelnym przestępstwem.
+Lud: Potoczne miano Bastet; bywa też luźniej stosowane do wszystkich Zmiennokształtnych.
+Ludzie Cienia: Inne istoty nadnaturalne (magowie, wampiry, faerie itp.); inni Zmiennokształtni zwykle nie zaliczają się do tej kategorii (zob. Killi).
+Luna: Posłanka księżycowych promieni, służebnica Seliny.
+Nala, Pierwsza Matka: Pół-szalona Matka stworzenia; jej taniec utrzymuje kreację w ruchu. Dla wilkołaków to Dzikun, przez magów zwana Dynamiką.
+Nyota Jamaa: Przedwieczne byty, które Garou nazywają Triadą — Nala, Rahjah i Cahlash. Zwana też po prostu Jamaa („Kuzyni”), co obejmuje także słabsze duchy.
+Padaa: Zmysł łączący węch i smak na odległość; Bastet otwiera usta, rozszerza nozdrza i wciąga powietrze nad językiem i narządem w podniebieniu.
+Plemię: Jedna z dziewięciu ras Bastet. Historycznie było ich jedenaście: Khara (szablastozębne) wymarli, Ceilican uchodzą za zgładzonych, Ajaba (hienołaki) zostali wygnani i nie są już „rodziną”.
+Prijo: Predyspozycja osobowości zależna od pory dnia Pierwszej Przemiany; prawdziwa esencja Basteta (bez powiązanych Darów czy wymogów społecznych). Podobne do Patronatów Garou.
+Rahdżah, Stwórca: Ambitny brat, którego chęć zaimponowania Nali nadała Ziemi formę; znany wilkołakom jako Tkaczka, uosabia esencję Wzorcową.
+Selina: Siostra Gai — Księżyc; obdarzyła Zmiennokształtnych, faworyzuje Bastet i uważa ich za najwspanialsze stworzenia. Jej łono to rzekomo ostatnia przystań Bastet.
+Sokto: Wielka, proto-ludzka forma między Homidem a Crinosem.
+„Szaleństwo”: Europejska nagonka na czarownice (1400–1700), gdy demonizowano koty i uznano, że Ceilican wyginęli; „Czasy Płomieni”.
+Taghairm: Zgromadzenie kotów — zwykle w Legowisku gospodarza — dla wymiany wieści i uprzejmości, najczęściej w pełni.
+Tahla: Sekret ukryty w opowieści lub zagadce; zrozumiesz — zyskasz wiedzę, nie zrozumiesz — nie zasłużyłeś.
+Taklah: Zgromadzona „pełna duma” — wszyscy Bastet dla wspólnego celu.
+Wojna Gniewu: Ludobójcza wojna dominacji, którą Garou toczyli przeciw innym Zmiennokształtnym ponad 10 000 lat temu; urazy trwają.
+Yawa: Tajemnica plemienna ukrywana przed obcymi; poznana rzekomo daje nad tobą władzę. Najściślej strzeżona wiedza Bastet, ujawniana tylko w ostateczności.
+
+Tytuły i formalności
+Akkaa – „Łowca Prawdy”: Tytuł honorowy; formalny tytuł Basteta Rangi II.
+Bon Bhat – „Wielki Rodzic”: Pełen szacunku zwrot do starszego; także gospodarz nowego taghairm. Tytuł dla Basteta Rangi V–VI.
+Buree Pa: Pradawny sekret ujawniany tylko podczas wielkiego rytuału — zwykle jako nagroda.
+Dziecko Światła: Archaiczny termin na człowieka.
+Hamaal – „Jedna rodzina”: Uroczysty termin na koci ród, wykluczający inne rasy jako niższe.
+Ilani – „Ulubieniec Cudu”: Pochlebny zwrot do sławnego Basteta; tytuł Rangi IV.
+Naa: Bastet „znikąd” — obcy, który nie zdobył zaufania.
+Tekhmet – „Maluch”: Protekcjonalny zwrot starszego do młodego; tytuł Rangi I.
+Tilau – „Zasłużony Przyjaciel”: Szacowny tytuł doświadczonego, majętnego Basteta; Ranga III.
+Watua – „Dzieci” : Czułe (i nieco protekcjonalne) miano kocich Krewniaków i prawdziwych kotów.
+
+Slang (Slang)
+Brodo-Nurkowanie: Szpiegowanie cudzych myśli; telepatia.
+Ghat: Obelga pod adresem Basteta sypiającego z innym Bastetem.
+Kaloo: Dzika impreza/świętowanie.
+Kot-Domowy: Obelga: zbyt ucywilizowany Bastet, zapomniał skąd pochodzi.
+Kot w Butach: Pogardliwe o współpracy z człowiekiem, zwłaszcza w „niższej” roli. („Zrobiła Kotkę w Butach i zakochała się w małpie!”)
+Krwawa Zabawa: Polowanie na ludzi/obcych (np. Amazonia, afrykańskie sawanny) dla zabawy lub zemsty.
+Małpa: Człowiek — zwłaszcza głupi lub krzykliwy.
+Ngiri: „Guziec”; obelga dla próżnych i nadętych.
+Odrapać: „Załatwić” innego Basteta, zwykle w charakterze kary.
+Pies: Garou; mocno pogardliwe i częste.
+Siatkowanie: Wchodzenie do cyberprzestrzeni, hakowanie.
+Szczurzy Strach: Panika, zwykle tchórzliwa. („Wpadł w Szczurzy strach  i uciekł.”)
+Twarzopająk: Mag, zwłaszcza złowrogi; od pełzającego dreszczu, jaki wielu Bastet czuje, patrząc magowi pierwszy raz w oczy.
+Zdrapać Jeden z Dziewięciu: Cudem się wymknąć („Zdrapałem jeden z dziewięciu, żeby się stamtąd wydostać!”).
+Yabba: Głupek; prawdopodobnie od przekręconego „Yava”.
+
+Gurahl - niedźwiedziołaki
+Arkas: Etap życia Gurahla odpowiadający Nowiu Księżyca; podobny do Ragabasza u Garou.
+Arthren: Prawie ludzka forma Guraha, odpowiadająca formie Glabro u Garou.
+Bhernocht: Stan przytłaczającego smutku i rozpaczy przypominający Harano — doświadczenie melancholii znane niektórym Garou.
+Bjorn : Forma niedźwiedzia jaskiniowego lub „półniedźwiedzia”; odpowiednik formy Hispo u Gurahl.
+Buri-Jaan: Określenie Gurahl, który pełni rolę mentora nowo Przemienionego; oznacza też sam okres nauki (z perspektywy mentora).
+Wędrówka: Wczesny okres po Przemianie — czas błądzenia, podróży i refleksji nad światem.
+Geth-Rura: „Miejsce Ciemnej Walki” — kraina na krawędzi Mrocznej Umbry, do której Gurahl udaje się, by stoczyć bój z Niedźwiedziem-Śmiercią
+Hibernacja: Dla Gurahl jest to okres zawieszonej animacji, osiągany dzięki Darowi lub rytuałowi; przypomina głęboki zimowy sen zwykłych niedźwiedzi.
+Kieh: Patronat Gurahl odpowiadające Teurgowi Garou; słowo to oznacza dosłownie „lekarz”.
+Kojubat: „Ten, który mówi prawdę”; odpowiednik Galiarda ) u Gurahl.
+Kovi: Dosłownie „niedźwiedzie dziecko”; tytuł nadawany Gurah Rangi Pierwszej.
+Łamacz Wzorca: Imię, jakim Gurahl określają Żmija.
+Mangi: Niedźwiedź Śmierci — jedna z trzech troistych postaci Niedźwiedzia.
+Mata’e: „Mędrzec”; tytuł nadawany Gurahl Rangi Piątej.
+Powwow: Międzyplemienne święto Gurahl.
+Rada Jesieni: Wielka Rada wszystkich plemion Gurahl; najważniejsze zgromadzenie tego rodzaju.
+Rar-Azgaj: Nazwa nadana językowi Gurahl.
+Regalia: Zgromadzenia plemienne Gurahl jednego plemienia, poświęcone wspólnym sprawom.
+Rishi: Patronat Gurahl oznaczające „mędrca” lub „rozjemcę”; odpowiednik Filodoksa u Garou.
+Sorna: „Opiekuńczy”; tytuł nadawany Gurahl, którzy osiągnęli Rangę Trzecią.
+Talchwi: „Czcigodny rodzic”; tytuł dla Gurah Rangi Czwartej.
+Tkacz Gobelinów: Określenie, jakim Gurahl nazywają Tkaczkę.
+Tkacz Historii: Nazwa, jaką Gurahl nadali Dzikunowi.
+Uczta: Nieformalne spotkanie między Gurahl.
+Ursa Major: Wielka Niedźwiedzica — jedna z trzech głównych postaci Niedźwiedzia.
+Ursa Minor: Mała Niedźwiedzica — jedna z trzech postaci Niedźwiedzia; zwana też Pierwszym Młodym.
+Ursus: Zwykła niedźwiedzia forma Gurahl; również Gurahl narodzony z niedźwiedzi.
+Verden: „Dorosły”; tytuł używany dla Gurahl Rangi Drugiej.
+Uzmati: Wojownik Gurahl, odpowiednik Ahrouna u Garou.
+
+Ananasi - pająkołaki
+Agere : Frakcja Myrmidonów aspektu Hatar.
+Amari Aliquid: Frakcja Viskr aspektu Kumoti.
+Anansi : Pierwszy z Ananasi i zdecydowanie najmądrzejszy; według niektórych wciąż żyje i działa.
+Anomia: Frakcja Viskr aspektu Hatar.
+Aspekt: Człon Triady, który naśladują Ananasi: Tkaczka (Tenere), Żmij (Hatar) lub Dzikun (Kumoti).
+Atahsaia: „Ukryty”; tajna broń Królowej Ananasy.
+Babcia Pająk: Tkaczka; część Triady i niegdyś władczyni Ananasi.
+Chymos: Frakcja Wyrsta aspektu Kumoti.
+Damhàn): Właściwa nazwa rasy Ananasi.
+Estotilandia: Odosobniony obszar w Afryce, mityczna ojczyzna Ananasi.
+Frakcja: Rola, jaką pełni każdy z Ananasi; wraz z aspektem określa miejsce w Triumwiracie. Frakcje to: Myrmidon (Wojownik), Viskr (Czarodziej) i Wyrsta (Poszukiwacz Drogi).
+Gaderin: Frakcja Wyrsta aspektu Tenere.
+Hatar: Aspekt Żmija u Ananasi.
+Kabała: Właściwy tytuł każdej frakcji Ananasi. Łącznie istnieje dziewięć Kabał: po trzy pod Tenere, Hatar i Kumoti.
+Kar: Frakcja Myrmidonów aspektu Kumoti.
+Królowa Ananasa: Twórczyni Ananasi, siła przewodnia ich działań; duchowy rodzic i totem.
+Królowa Matka: Ananasa.
+Kumo: Skażone pająkołaki z Azji.
+Kumoti: Aspekt Dzikuna (Wyld) u Ananasi.
+Malum: Frakcja Wyrsta aspektu Hatar.
+Myrmidon: Wojownicza frakcja w każdym aspekcie Triumwiratu.
+Owidzi: Inne Zmiennokształtne; większość z nich nie jest dla Ananasi znacząca w wielkim planie.
+Padrone: Ludożerczy łowcy, niegdyś Ananasi; żywią się innymi Ananasi.
+Pierwsza Wojna: Wielkie bitwy między Ananasi a Rasami Owadów, zakończone całkowitą zagładą Ras Owadów.
+Plicare: Frakcja Myrmidonów aspektu Tenere.
+Rasy Owadów: „Zmiennokształtni” stworzeni przez Tkaczkę, którzy pierwotnie zagrozili Symetrii; zniszczeni przez Anansi na długo przed pojawieniem się większości znanych dziś Zmiennokształtnych.
+Rozplatani: Celowa zmiana lub zniszczenie części Tkaniny/Sieci, aby przywrócić Symetrię.
+Secean: Frakcja Myrmidonów aspektu Tenere.
+Sieć: Bariera między światem fizycznym a duchowym utworzona przez Tkaczkę — Zasłona. Choć przeszkadza większości Owidów, Ananasi wykorzystują ją dla własnych celów.
+Sieć Ananasy: Połączenie i ciało polityczne wszystkich Ananasi — cała rasa w odniesieniu do wielkiego planu Matki-Królowej.
+Sylia: Azyl i osobiste połączenie z Umbrą oraz Królową Ananasą, tworzone przez każdego Ananasi; przypomina Legowisko kotołaków.
+Symetria: Ostateczny cel Ananasi i Królowej Ananasy: przywrócenie Triady na właściwe miejsca i odbudowa równowagi wszechświata.
+Tenere (Tenere): Aspekt Tkaczki u Ananasi.
+Tkanie: Celowa zmiana, odtworzenie lub stworzenie części Tkaniny/Wielkiej Sieci dla przywrócenia Symetrii.
+Tkanina: Właściwa perspektywa na wszechświat. Według Ananasi, wszechświat składa się z nieskończonych nitek; tylko oglądając całą Tkaninę, istoty mogą pojąć swoje miejsce.
+Triumwirat: Struktura polityczna i obowiązki Ananasi, nadane przez Królową Ananasę.
+Viskr: „Czarodziejski” aspekt frakcji Triumwiratu; ich zadaniem jest naprawa szkód wyrządzonych Wielkiej Sieci.
+Wielka Matka: Królowa Ananasa.
+Wielka Sieć: Wszechświat jako całość. Nie jest już doskonały — Ananasi dążą do naprawy tej niedoskonałości.
+Wojna w Niebiosach: Wielkie bitwy, które doprowadziły do upadku Triady i utkania Sieci.
+Wyrsta: „Pytająca” frakcja Ananasi. Ich obowiązek: podążać za właściwym aspektem (Tkaczka, Dzikun lub Żmij), próbując zrozumieć prawdziwy cel każdego z członków Triady.
+Rokea - rekinołaki
+
+Balsam Niebowodów: Księżyc, zwany czasem po prostu Balsamem. Rokea nie uznają księżyca za osobną Incarnę, widzą go jedynie jako część Niebowody.
+Brudnochodny: Pogardliwe określenie Rokea żyjącego na lądzie.
+C’et: Jeden z podwodnych członów Triady — wcielenie stagnacji i trwałości, odpowiednik Tkaczki.
+Dusza Morza: Umbra — na lądzie zwana Duszą Lądu.
+Grota: Podmorski Cearn; niektóre mają własne duchy totemiczne, inne są nadzorowane przez duchy Morza lub Podmorza.
+Jasnoprądny: Patronat Rokea narodzonych za dnia lub podczas pełni księżyca; uważani za nieustraszonych wojowników.
+Kadugo: Ludzki Krewniak Rokea — potomek człowieka i Rokea. Związek Rokea z kadugo może dać potomstwo o ludzkim pochodzeniu.
+Kopa Loei: Grupa szamańskich magów z Hawajów; mówi się, że niektórzy z nich są kadugo.
+Kraken: Inna nazwa dla Qyrl — nazwa, którą większość lądowych zna najlepiej.
+Krew Księżyca: Srebro — uważane za zastygłe resztki balsamu Niebowody zmieszane z jej krwią.
+Kun: Jeden z członów Triady Podmorza — wcielenie tworzenia i płodności, odpowiednik Dzikuna.
+Lampartowiec: Wampir; określenie często używane przez międzywodnych.
+Łamacze: Dziwne morskie duchy reprezentujące zderzenie siły i wody — np. fale, wstrząs po podwodnej eksplozji, a nawet impet pływającej ryby.
+Małe Morza: Jeziora i rzeki.
+Małe Rany: Dawniej określenie gwiazd; współcześnie częściej stosowane na oznaczenie eksplozji nuklearnych.
+Międzywodny: Rokea, który wybiera życie głównie na lądzie, powracając do Morza, by odzyskać Gnozę i utrzymać swoje moce przemiany.
+Morze: Oceany i morza świata; termin opisujący zarówno wodne głębiny, jak i Celestynę, która nimi włada.
+Mrocznowodny: Patronat Rokea narodzonych podczas całkowitego zaćmienia lub nowiu; uważani za mistyków i wizjonerów. Zwani czasem „szaleńcami”.
+Niebowody: Niebo; określenie odnoszące się zarówno do nieba fizycznego, jak i Celestyny, która nim włada.
+Niemorze: Każdy ląd; termin odnoszący się do zarówno dna morskiego, jak i suchego lądu oraz do Celestyny, która włada światem stałym.
+Nowa Rana: Czerwona Gwiazda, znana Garou jako Anthelios, Oko Żmija.
+Okeani: Duchowi słudzy Morza.
+Pelageanie: Duchy ryb służące Kunowi.
+Podmorze: Dno morskie.
+Potomek Kuna: Inna nazwa dla Rokea.
+Przyćmionowodny: Patronat Rokea narodzonych, gdy słońce zasłonięte jest chmurami lub w fazach pomiędzy nowiem a pełnią; uważani za prawodawców i odkrywców.
+Qyrl: Jeden z członów Triady Podmorza — wcielenie destrukcji, ambicji i entropii, odpowiednik Żmija.
+Qyrlidzi: Duchowi słudzy Qyrl — zazwyczaj Zmory przybierające postać głowonogów.
+Rana: Słońce — zwane też Wielką Raną.
+Rorkwal: Delfin lub wieloryb służący Morzu; dostarczają Rokea Gnozę i często pełnią rolę mentorów dla młodych rekinołaków.
+Same-Bito: azjatyckie rekinołaki uznawane przez większość Rokea za zdrajców i heretyków.
+Skulacze: Duchowi słudzy C’et; zwykle przybierają formy krabów lub mięczaków o twardych skorupach.
+Trzy Córki: Triada Podmorza — Kun, C’et i Qyrl.
+
+Nagah - wężołaki
+Ahi: Metys Nagah.
+Ananta: Umbralne „krainy legowisk”, z których korzystają Nagah; w przeciwieństwie do innych legowisk tego typu — są przenośne.
+Apsa: Potężna Incarna bieżącej wody — rzek i strumieni. Wielu Nagah utożsamia ją z hinduską boginią Ganga.
+Azhi Dahaka: „Forma bojowa” Nagah, odpowiednich Crinos.
+Balaram: „Homid” (zrodzony z człowieka); mała litera oznacza Nagah urodzonego z ludzi, wielka — konkretną ludzką formę.
+Błyszczące Baseny: Slang młodych Nagah na określenie Wód Węża.
+Devi: Gaia, Szmaragdowa Matka. W szczególności odnosi się do „poznawalnych” aspektów Gai — tych, które można wyrazić wobec innych, w przeciwieństwie do całej jej istoty.
+Gniazdo: Podstawowa jednostka społeczna Nagah — koczownicza „wataha” złożona z dwóch lub trzech członków.
+Jurlungur: Korona czuwająca nad Australią i Południowym Pacyfikiem.
+Kali: Patronaty zimowe — przypisane bezpośrednim i skutecznym działaniom.
+Kali Dahaka: „Wielki wąż” w mitologii Nagah.
+Kamakshi: Patronaty wiosenne — skłaniające ku odnowie i uzdrawianiu.
+Kamsa: Patronaty jesienne — sprzyjające przedsięwzięciom o charakterze psychologicznym i introspektywnym.
+Kartikeya: Patronaty letnie; Nagah spod tego znaku są zazwyczaj najbardziej towarzyscy i otwarci spośród całej rasy.
+Khuraha: Nie-Nagah zmiennokształtni. Termin ten ma konotację „naszych podopiecznych” lub „tych, za których odpowiadamy”.
+Korona: Jedna z regionalnych rad Nagah.
+Naginah: Archaiczne określenie kobiety-Nagah. Częściej używane przez krewniaków, którzy „wiedzą”, niż przez samych Nagah.
+Nandana: Ananta należąca do Seszy; „boski ogród” i pierwsza spośród Ananta, która strzeże bramy do Xi Wang Chi.
+Nemontana: Korona Nagah, która pełni obowiązki sędziowskie wobec europejskiej populacji zmiennokształtnych.
+Samskara: Rytuały Nagah.
+Sannyasin: Nagah, który wyrzekł się świata; asceta.
+Sayidi: Korona nadzorująca Nagah Afryki Subsaharyjskiej.
+Sesza: Rządząca Rada i najwyższy organ władzy w społeczeństwie Nagah.
+Silkaram: Forma częściowo ludzka, częściowo gadzia Nagah; mniej więcej odpowiednik formy Glabro u Garou.
+Trzy Matki: Duchy Ziemi, Księżyca i Rzeki — właściwie Gaia, Luna i Apsa.
+Vasuki: „Kobra” Nagah; może mieć postać dowolnego jadowitego węża.
+Vritra: Korona Nagah, która wydaje wyroki nad Indiami i azjatyckimi zmiennokształtnymi.
+Wani: Wielkie duchy smoków — ostateczni patroni Nagah, strzegący ich sekretów i nauczający Darów. Znani też jako „Królowie Smoków” lub „Lu Long”.
+Wiek Królów: Legendarna epoka, w której Nagah żyli wśród ludzi bardziej otwarcie niż jakikolwiek inny zmiennokształtny od tamtego czasu.
+Wody Węża: Wodne Gleny, uświęcone i zarezerwowane przez Nagah.
+Xi Wang Chi: Umbralna kraina Wani.
+Yamilka: Lud-węże z mitologii arabskiej; nazwa przyjęta przez Koronę Nagah sprawującą sądy nad Bliskim Wschodem i Afryką Północną.
+Zuzeka: Korona nadzorująca Ameryki.

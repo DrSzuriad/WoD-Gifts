@@ -285,15 +285,10 @@ function getFactionTranslationKey(requirement) {
 
 function getFactionMetadataText(requirement) {
 
-  const factionKey =
-    getFactionTranslationKey(requirement);
-
-  const sourceText =
-    factionKey !== requirement.faction_value
-      ? factionKey
-      : `${requirement.faction_type}: ${requirement.faction_value}`;
-
-  return translate(sourceText);
+  return (
+    `${translate(requirement.faction_type)}: ` +
+    translate(requirement.faction_value)
+  );
 }
 
 function updateInterfaceLanguage() {

@@ -18,6 +18,20 @@
 
   let currentLanguage = "en";
 
+  const BREED_ORDER = [
+    "Homid",
+    "Metis",
+    "Lupus"
+  ];
+
+  const AUSPICE_ORDER = [
+    "Ragabash",
+    "Theurge",
+    "Philodox",
+    "Galliard",
+    "Ahroun"
+  ];
+
   // =========================
   // ŁADOWANIE JSON
   // =========================
@@ -572,7 +586,9 @@ function initializeApp() {
       "breedSelect",
       breeds,
       "Breed",
-      settings.breed
+      settings.breed,
+      {},
+      BREED_ORDER
     );
 
   auspiceChoices =
@@ -580,7 +596,9 @@ function initializeApp() {
       "auspiceSelect",
       auspices,
       "Auspice",
-      settings.auspice
+      settings.auspice,
+      {},
+      AUSPICE_ORDER
     );
 
   tribeChoices =
@@ -663,7 +681,8 @@ function fillSelect(
   values,
   placeholder,
   selectedValues = [],
-  labelKeys = {}
+  labelKeys = {},
+  preferredOrder = []
 ) {
 
   const element =
@@ -680,6 +699,19 @@ function fillSelect(
 
   const sortedValues = [...values].sort(
     (a, b) => {
+
+      const orderA =
+        preferredOrder.indexOf(a);
+
+      const orderB =
+        preferredOrder.indexOf(b);
+
+      if (orderA !== -1 || orderB !== -1) {
+        return (
+          (orderA === -1 ? Infinity : orderA) -
+          (orderB === -1 ? Infinity : orderB)
+        );
+      }
 
       if (a === "All") {
         return -1;
@@ -767,14 +799,18 @@ function rebuildFilterChoices(selections) {
     "breedSelect",
     filterValues.breeds,
     "Breed",
-    selections.breed
+    selections.breed,
+    {},
+    BREED_ORDER
   );
 
   auspiceChoices = fillSelect(
     "auspiceSelect",
     filterValues.auspices,
     "Auspice",
-    selections.auspice
+    selections.auspice,
+    {},
+    AUSPICE_ORDER
   );
 
   tribeChoices = fillSelect(

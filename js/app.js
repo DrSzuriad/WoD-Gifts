@@ -2,6 +2,7 @@
 
   let gifts = [];
   let translations = {};
+  let displayedGifts = [];
 
   let breedChoices;
   let auspiceChoices;
@@ -17,6 +18,12 @@
   };
 
   let currentLanguage = "en";
+  let preserveGiftOrderOnLanguageChange = false;
+  let titleClickCount = 0;
+  let lastTitleClickTime = 0;
+
+  const DEVELOPER_TOGGLE_CLICK_COUNT = 5;
+  const DEVELOPER_TOGGLE_TIME_LIMIT = 2000;
 
   const BREED_ORDER = [
     "Homid",
@@ -250,7 +257,9 @@ function filterGifts() {
   // SORT
   sortGifts(filtered);
 
-  renderGifts(filtered);
+  displayedGifts = filtered;
+
+  renderGifts(displayedGifts);
 }
 
   // =========================
@@ -316,6 +325,46 @@ function updateInterfaceLanguage() {
 
       element.textContent =
         translate(element.dataset.i18n);
+    });
+}
+
+function initializeDeveloperModeToggle() {
+
+  document
+    .getElementById("appTitle")
+    .addEventListener("click", () => {
+
+      const currentTime = Date.now();
+
+      if (
+        currentTime - lastTitleClickTime >
+        DEVELOPER_TOGGLE_TIME_LIMIT
+      ) {
+        titleClickCount = 0;
+      }
+
+      titleClickCount += 1;
+      lastTitleClickTime = currentTime;
+
+      if (
+        titleClickCount <
+        DEVELOPER_TOGGLE_CLICK_COUNT
+      ) {
+        return;
+      }
+
+      preserveGiftOrderOnLanguageChange =
+        !preserveGiftOrderOnLanguageChange;
+
+      titleClickCount = 0;
+      lastTitleClickTime = 0;
+
+      console.info(
+        "Developer mode: gift order on language change " +
+        (preserveGiftOrderOnLanguageChange
+          ? "preserved."
+          : "sorted normally.")
+      );
     });
 }
 
@@ -526,6 +575,7 @@ function initializeApp() {
   const settings = loadSettings();
 
   updateInterfaceLanguage();
+  initializeDeveloperModeToggle();
 
   const garouGifts = gifts.filter(gift =>
     gift.requirements.some(r =>
@@ -670,7 +720,11 @@ function initializeApp() {
 
 		saveSettings();
 
-		filterGifts();
+		if (preserveGiftOrderOnLanguageChange) {
+		  renderGifts(displayedGifts);
+		} else {
+		  filterGifts();
+		}
 	  });
 
   filterGifts();

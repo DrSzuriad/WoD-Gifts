@@ -359,6 +359,12 @@ function initializeDeveloperModeToggle() {
       titleClickCount = 0;
       lastTitleClickTime = 0;
 
+      window.alert(
+        preserveGiftOrderOnLanguageChange
+          ? "DEV MODE ON"
+          : "DEV MODE OFF"
+      );
+
       console.info(
         "Developer mode: gift order on language change " +
         (preserveGiftOrderOnLanguageChange

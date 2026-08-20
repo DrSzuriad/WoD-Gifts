@@ -8226,35 +8226,6 @@
             {
                 "race": "Garou",
                 "type": "Tribe",
-                "value": "Bone Gnawers",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 1,
-                "names": {
-                    "en": "Cookery",
-                    "pl": "Kuchcenie"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Dark Ages",
-                "edition": "Dark Ages",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The Garou can take any small, easily destroyed item that is available to him — bark, moss, bones and even leather will suffice — and stir it into a water-filled pot. Upon activation, the stirring transmutes the refuse into a foul-tasting, but edible, stew. The character must have a small pot and ladle or spoon for this Gift. This Gift is taught by a raccoon-spirit.\n\nSystem: The player rolls Wits + Survival. The difficulty of the roll depends on the ingredients used — 6 for inedible but otherwise harmless materials, and up to 10 for hot cinders or rusted iron.",
-                        "pl": "Garou może wziąć dowolny niewielki, łatwy do zniszczenia przedmiot, który ma pod ręką — wystarczy kora, mech, kości, a nawet skóra — i wymieszać go w garnku z wodą. Po aktywowaniu Daru mieszanie przemienia odpadki w paskudny w smaku, lecz jadalny gulasz. Postać musi mieć niewielki garnek oraz chochlę albo łyżkę. Tego Daru naucza duch Szopa.\n\nSystem: Gracz wykonuje test Sprytu + Sztuki Przetrwania. Trudność zależy od użytych składników: wynosi 6 dla niejadalnych, ale poza tym nieszkodliwych materiałów, i może sięgać 10 dla gorących węgli albo zardzewiałego żelaza."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Tribe",
                 "value": "Croatan",
                 "faction_type": "All",
                 "faction_value": "All",
@@ -8289,8 +8260,8 @@
                 "faction_value": "All",
                 "rank": 1,
                 "names": {
-                    "en": "Cooking",
-                    "pl": "Gotowanie"
+                    "en": "Cooking / Cookery",
+                    "pl": "Gotowanie / Kuchcenie"
                 }
             }
         ],
@@ -8325,6 +8296,17 @@
                         "type": "text",
                         "en": "The Bone Gnawer takes up a pot (an old coffee can will do) and a spoon, and fills it with whatever he can find — cigarette butts, beer cans, old newspapers, dead leaves, whatever — adds water (spit will do), and stirs. The result is a pasty and bland-tasting, but filling and nutritious mush. A raccoon-spirit teaches this Gift.\n\nSystem: The player rolls Wits + Survival (difficulty 6). The resulting meal feeds one person per success.",
                         "pl": "Gnatożuj bierze garnek — wystarczy stara puszka po kawie — i łyżkę, po czym napełnia go wszystkim, co znajdzie: niedopałkami papierosów, puszkami po piwie, starymi gazetami, martwymi liśćmi i czymkolwiek jeszcze. Dodaje wodę — ślina także wystarczy — i miesza. Powstaje kleista, mdła w smaku, lecz sycąca i pożywna papka. Tego Daru naucza duch Szopa.\n\nSystem: Gracz wykonuje test Sprytu + Sztuki Przetrwania (trudność 6). Powstały posiłek żywi jedną osobę za każdy sukces."
+                    }
+                ]
+            },
+            {
+                "book": "Dark Ages",
+                "edition": "Dark Ages",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Garou can take any small, easily destroyed item that is available to him — bark, moss, bones and even leather will suffice — and stir it into a water-filled pot. Upon activation, the stirring transmutes the refuse into a foul-tasting, but edible, stew. The character must have a small pot and ladle or spoon for this Gift. This Gift is taught by a raccoon-spirit.\n\nSystem: The player rolls Wits + Survival. The difficulty of the roll depends on the ingredients used — 6 for inedible but otherwise harmless materials, and up to 10 for hot cinders or rusted iron.",
+                        "pl": "Garou może wziąć dowolny niewielki, łatwy do zniszczenia przedmiot, który ma pod ręką — wystarczy kora, mech, kości, a nawet skóra — i wymieszać go w garnku z wodą. Po aktywowaniu Daru mieszanie przemienia odpadki w paskudny w smaku, lecz jadalny gulasz. Postać musi mieć niewielki garnek oraz chochlę albo łyżkę. Tego Daru naucza duch Szopa.\n\nSystem: Gracz wykonuje test Sprytu + Sztuki Przetrwania. Trudność zależy od użytych składników: wynosi 6 dla niejadalnych, ale poza tym nieszkodliwych materiałów, i może sięgać 10 dla gorących węgli albo zardzewiałego żelaza."
                     }
                 ]
             }
@@ -11321,7 +11303,7 @@
                     {
                         "type": "text",
                         "en": "The masters of emotion and imagination can bring the creatures of dreams — or nightmares — to life. Chimerlings teach this Gift.\n\nSystem: The player makes an extended roll of Intelligence + Performance (difficulty 8). She can create any creature she imagines, assigning it one dot of traits for each success gained on the roll. The character continues to shape the creature for as long as she wishes (and the player keeps accumulating successes on the roll), but once she stops, the process cannot be taken up again. A manifested creature requires Gnosis to continue existing: one Gnosis point per scene unless the creature is engaging in combat or other strenuous activity, which requires one Gnosis point per turn. If the roll is botched at any point, the dream being is free to act of its own accord.",
-                        "pl": "Mistrzowie emocji i wyobraźni potrafią ożywiać stworzenia ze snów — lub koszmarów. Tego Daru uczą Chimerzaki.\n\nSystem: Gracz wykonuje test przedłużony Inteligencja + Występy (trudność 8). Może stworzyć dowolną wyobrażoną istotę, przyznając jej za każdy uzyskany sukces jeden punkt Cech. Postać może kształtować stworzenie tak długo, jak zechce, a gracz nadal gromadzi sukcesy w teście, lecz gdy przerwie, nie może już wznowić tego procesu. Zmaterializowana istota potrzebuje Gnozy, by dalej istnieć: jednego punktu Gnozy na scenę, chyba że walczy lub podejmuje inną wyczerpującą czynność — wtedy potrzebuje jednego punktu Gnozy na turę. Jeśli w dowolnym momencie test zakończy się katastrofą, istota ze snu może działać wedle własnej woli."
+                        "pl": "Mistrzowie emocji i wyobraźni potrafią ożywiać stworzenia ze snów — lub koszmarów. Tego Daru uczą Chimery.\n\nSystem: Gracz wykonuje test przedłużony Inteligencja + Występy (trudność 8). Może stworzyć dowolną wyobrażoną istotę, przyznając jej za każdy uzyskany sukces jeden punkt Cech. Postać może kształtować stworzenie tak długo, jak zechce, a gracz nadal gromadzi sukcesy w teście, lecz gdy przerwie, nie może już wznowić tego procesu. Zmaterializowana istota potrzebuje Gnozy, by dalej istnieć: jednego punktu Gnozy na scenę, chyba że walczy lub podejmuje inną wyczerpującą czynność — wtedy potrzebuje jednego punktu Gnozy na turę. Jeśli w dowolnym momencie test zakończy się katastrofą, istota ze snu może działać wedle własnej woli."
                     }
                 ]
             }
@@ -11382,6 +11364,35 @@
         "requirements": [
             {
                 "race": "Garou",
+                "type": "Tribe",
+                "value": "Black Furies",
+                "faction_type": "All",
+                "faction_value": "All",
+                "rank": 1,
+                "names": {
+                    "en": "Owl Speech",
+                    "pl": "Mowa sów"
+                }
+            }
+        ],
+        "versions": [
+            {
+                "book": "Tribebook - Black Furies",
+                "edition": "2nd Ed.",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Black Furies may invoke the kinship between their tribe and the owls of Athena. This Gift combines the effects of the Galliard Beast Speech Gift and the Philodox King of the Beasts Gift, though it only works on owls. This Gift is common among the Temple-Keepers of Artemis and the Sisterhood. Many of their Kinfolk share this Gift, and new sisters often receive it as an initiation Gift.",
+                        "pl": "Czarne Furie mogą przywołać więź łączącą ich plemię z sowami Ateny. Ten Dar łączy działanie Galiardzkiej Mowy zwierząt i Filodoksowego Władcy zwierząt, lecz oddziałuje wyłącznie na sowy. Jest powszechny wśród Strażniczek Świątyni Artemis i członkiń Siostrzeństwa. Zna go wielu ich Krewniaków, a nowe siostry często otrzymują go podczas inicjacji."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "requirements": [
+            {
+                "race": "Garou",
                 "type": "Auspice",
                 "value": "Galliard",
                 "faction_type": "All",
@@ -11412,7 +11423,7 @@
                 "faction_value": "All",
                 "rank": 2,
                 "names": {
-                    "en": "Dreamchaser",
+                    "en": "Dreamspeak",
                     "pl": "Mowa snu"
                 }
             }
@@ -11436,7 +11447,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 2 \n\nThe Galliard can enter another’s dream and thereby affect the course of that dream. The werewolf does not have to be anywhere near the target, but she must know or have seen the dreamer. A Chimerling teaches this Gift.\n\nSystem: The player rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the Galliard is still within the dream, the werewolf is thrown out of the dream world, and she loses a Gnosis point.",
-                        "pl": "Ranga: 2 \n\nGaliard może wejść do snu innej osoby i wpłynąć na jego przebieg. Wilkołak nie musi znajdować się w pobliżu celu, ale musi znać śniącego albo wcześniej go widzieć. Tego Daru uczy Chimerzak.\n\nSystem: Gracz wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, gdy Galiard nadal przebywa we śnie, wilkołak zostaje wyrzucony ze świata snu i traci punkt Gnozy."
+                        "pl": "Ranga: 2 \n\nGaliard może wejść do snu innej osoby i wpłynąć na jego przebieg. Wilkołak nie musi znajdować się w pobliżu celu, ale musi znać śniącego albo wcześniej go widzieć. Tego Daru uczy Chimera.\n\nSystem: Gracz wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, gdy Galiard nadal przebywa we śnie, wilkołak zostaje wyrzucony ze świata snu i traci punkt Gnozy."
                     }
                 ]
             },
@@ -11447,7 +11458,7 @@
                     {
                         "type": "text",
                         "en": "Rank: 2 \n\nThe Garou enters another’s dream and can thereby affect the course of that dream. The Garou does not have to be anywhere near the target, but must know or have seen the dreamer. This Gift is taught by a Chimerling.\n\nSystem: The Garou rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the Garou is still within the dream, the Garou is thrown out of the dream world and loses a Gnosis point.",
-                        "pl": "Wilkołak przenika do czyjegoś snu i zyskuje możliwość wpływania na jego przebieg, przy czym nie musi wcale znajdować się w pobliżu – wystarczy, że zna lub kiedyś widział tę osobę. Mocą tą włada Chimerzak. \n\nSystem: Wilkołak wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, zanim Galiard opuści jego sen z własnej woli, garou zostaje wyrzucony ze Świata Snu i traci punkt Gnozy."
+                        "pl": "Ranga: 2 \n\nWilkołak przenika do czyjegoś snu i zyskuje możliwość wpływania na jego przebieg, przy czym nie musi wcale znajdować się w pobliżu – wystarczy, że zna lub kiedyś widział tę osobę. Mocą tą włada Chimera. \n\nSystem: Wilkołak wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, zanim Galiard opuści jego sen z własnej woli, garou zostaje wyrzucony ze Świata Snu i traci punkt Gnozy."
                     }
                 ]
             },
@@ -11458,7 +11469,18 @@
                     {
                         "type": "text",
                         "en": "Rank: 2 \n\nThe Galliard enters another’s dream and can thereby affect the course of that dream. The werewolf need not be close to the target; all she needs is to know or have seen the dreamer. This Gift is taught by a Chimerling.\n\nSystem: The player rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the werewolf is still within the dream, the Garou is thrown out of the dream world and loses a Gnosis point.",
-                        "pl": "Ranga: 2 \n\nGaliard wchodzi do snu innej osoby i może wpływać na jego przebieg. Wilkołak nie musi znajdować się blisko celu; wystarczy, że zna śniącego lub wcześniej go widział. Tego Daru uczy Chimerzak.\n\nSystem: Gracz wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, gdy wilkołak nadal przebywa we śnie, Garou zostaje wyrzucony ze świata snu i traci punkt Gnozy."
+                        "pl": "Ranga: 2 \n\nGaliard wchodzi do snu innej osoby i może wpływać na jego przebieg. Wilkołak nie musi znajdować się blisko celu; wystarczy, że zna śniącego lub wcześniej go widział. Tego Daru uczy Chimera.\n\nSystem: Gracz wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, gdy wilkołak nadal przebywa we śnie, Garou zostaje wyrzucony ze świata snu i traci punkt Gnozy."
+                    }
+                ]
+            },
+            {
+                "book": "Werewolf the Apocalypse",
+                "edition": "W20",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "Rank: 2 \n\nThe Galliard can walk among another’s dreams and thereby affect their course. The werewolf doesn’t have to be anywhere near the target, but she must know or have seen the dreamer. A Chimerling teaches this Gift.\n\nSystem: The player rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the Galliard is still within the dream, the werewolf is thrown out of the dream world and loses a Gnosis point.",
+                        "pl": "Ranga: 2 \n\nWilkołak przenika do czyjegoś snu i zyskuje możliwość wpływania na jego przebieg, przy czym nie musi wcale znajdować się w pobliżu – wystarczy, że zna lub kiedyś widział tę osobę. Mocą tą włada Chimera.\n\nMechanika gry: Wilkołak wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, zanim Galiard opuści jego sen i własnej woli, garou zostaje wyrzucony ze świata snu i traci punkt Gnozy."
                     }
                 ]
             }
@@ -21243,7 +21265,7 @@
                     {
                         "type": "text",
                         "en": "The Stargazer can chant a mantra to banish Banality from the area and awaken Glamour. During the chanting, he must imagine the area as being inherently magical, seeing the rocks, stones and buildings as living things — he must pretend to dream while awake. This Gift is taught by a Chimerling.\n\nSystem: The player rolls Wits + Rituals and spends one Gnosis point. If successful, any Banality is banished for one scene. In addition, any fae are revealed in their true forms.",
-                        "pl": "Patrzący w Gwiazdy może śpiewać mantrę, by wygnać Banalność z okolicy i przebudzić Splendor. Podczas śpiewu musi wyobrażać sobie to miejsce jako z natury magiczne, postrzegając skały, kamienie i budynki niczym żywe istoty — musi udawać, że śni na jawie. Tego Daru uczy Chimerzak.\n\nSystem: Gracz wykonuje test Spryt + Obrzędy i wydaje punkt Gnozy. Jeśli odniesie sukces, cała Banalność zostaje wygnana na jedną scenę. Ponadto wszyscy Fae ukazują się w swoich prawdziwych postaciach."
+                        "pl": "Patrzący w Gwiazdy może śpiewać mantrę, by wygnać Banalność z okolicy i przebudzić Splendor. Podczas śpiewu musi wyobrażać sobie to miejsce jako z natury magiczne, postrzegając skały, kamienie i budynki niczym żywe istoty — musi udawać, że śni na jawie. Tego Daru uczy Chimera.\n\nSystem: Gracz wykonuje test Spryt + Obrzędy i wydaje punkt Gnozy. Jeśli odniesie sukces, cała Banalność zostaje wygnana na jedną scenę. Ponadto wszyscy Fae ukazują się w swoich prawdziwych postaciach."
                     }
                 ]
             }
@@ -24744,7 +24766,7 @@
                     {
                         "type": "text",
                         "en": "The werewolf with this Gift can bring her visions to life, creating a Dream Being. This Gift is taught by a Chimerling.\n\nSystem: The player makes an extended roll of Intelligence + Performance (difficulty 8) to create any form of life she can imagine. Each success provides one point of Traits to assign to the creature. The Uktena can take as long as she desires to form the being, thus accumulating successes and strengthening it from turn to turn; but once she stops, the being of her vision takes form and she must spend Gnosis to keep it manifested. Manifestation costs one point per scene if the Dream Being remains relatively inactive, such as keeping guard or grinding corn, or one point per turn if the being engages in combat. Botched rolls evoke uncontrolled, often hostile Nightmare Beings who, though cost no Gnosis, remain as long as they desire.",
-                        "pl": "Wilkołak znający ten Dar może ożywić swoje wizje, tworząc Istotę ze Snu. Tego Daru uczy Chimerzak.\n\nSystem: Gracz wykonuje test przedłużony Inteligencja + Występy (trudność 8), aby stworzyć dowolną wyobrażoną formę życia. Każdy sukces zapewnia jeden punkt Cech do przydzielenia istocie. Uktena może kształtować ją tak długo, jak zechce, gromadząc sukcesy i wzmacniając stworzenie z tury na turę. Gdy jednak przerwie, istota z jego wizji przybiera formę, a postać musi wydawać Gnozę, by utrzymać jej materializację. Koszt wynosi punkt na scenę, jeśli Istota ze Snu pozostaje względnie bezczynna, na przykład pełni straż lub miele zboże, albo punkt na turę, jeśli podejmuje walkę. Katastrofa przywołuje niekontrolowane, często wrogie Istoty z Koszmaru, które nie kosztują Gnozy i pozostają tak długo, jak same zechcą."
+                        "pl": "Wilkołak znający ten Dar może ożywić swoje wizje, tworząc Istotę ze Snu. Tego Daru uczy Chimera.\n\nSystem: Gracz wykonuje test przedłużony Inteligencja + Występy (trudność 8), aby stworzyć dowolną wyobrażoną formę życia. Każdy sukces zapewnia jeden punkt Cech do przydzielenia istocie. Uktena może kształtować ją tak długo, jak zechce, gromadząc sukcesy i wzmacniając stworzenie z tury na turę. Gdy jednak przerwie, istota z jego wizji przybiera formę, a postać musi wydawać Gnozę, by utrzymać jej materializację. Koszt wynosi punkt na scenę, jeśli Istota ze Snu pozostaje względnie bezczynna, na przykład pełni straż lub miele zboże, albo punkt na turę, jeśli podejmuje walkę. Katastrofa przywołuje niekontrolowane, często wrogie Istoty z Koszmaru, które nie kosztują Gnozy i pozostają tak długo, jak same zechcą."
                     }
                 ]
             }
@@ -26001,7 +26023,7 @@
                 "faction_value": "All",
                 "rank": 1,
                 "names": {
-                    "en": "Mindspeak",
+                    "en": "Mindspeak / Waking Dream",
                     "pl": "Sen na jawie"
                 }
             },
@@ -26060,6 +26082,17 @@
                         "type": "text",
                         "en": "Invoking the power of a waking dream, the Garou can place any chosen characters into silent communication. A Chimerling teaches this Gift.\n\nSystem: The player spends one Willpower point per chosen sentient being and makes a Manipulation + Expression roll (difficulty of the victim’s Willpower) if any participants are unwilling. All those included in the waking dream may interact normally through the Mindspeak, although they can inflict no damage through it. Their real bodies can still act, although all dice pools decrease by two. The Mindspeak ends when all the participants want it to, or on the turn the Galliard fails the roll against an unwilling member. All beings affected must be within line of sight. The Garou may include her entire pack in the waking dream for only one Willpower point, if she desires.",
                         "pl": "Przywołując moc snu na jawie, Garou może połączyć wybrane postacie bezgłośną więzią. Tego Daru naucza Chimera.\n\nSystem: Gracz wydaje punkt Siły Woli za każdą wybraną świadomą istotę, a jeśli któryś z uczestników nie wyraża zgody, wykonuje test Oddziaływania + Ekspresji o trudności równej jego Sile Woli. Wszyscy objęci snem mogą normalnie oddziaływać na siebie poprzez Sen na Jawie, lecz nie mogą w ten sposób zadawać obrażeń. Ich prawdziwe ciała nadal mogą działać, ale wszystkie pule kości są zmniejszone o dwa. Sen na Jawie kończy się, gdy pragną tego wszyscy uczestnicy albo w turze, w której Galiard nie zda testu przeciw opierającemu się uczestnikowi. Wszystkie objęte Darem istoty muszą znajdować się w zasięgu wzroku. Garou może objąć snem całą watahę za zaledwie jeden punkt Siły Woli."
+                    }
+                ]
+            },
+            {
+                "book": "Dark Ages",
+                "edition": "Dark Ages",
+                "content": [
+                    {
+                        "type": "text",
+                        "en": "The Garou reaches into the realm of dreams and pulls back enough dream stuff to forge a connection among individuals through which they can communicate. A Chimera teaches this Gift.\n\nSystem: The player spends one Willpower point per sentient being included. A Manipulation + Empathy roll (difficulty of the target’s Willpower) is only required if an individual is unwilling to be included. Those included interact with each other in a dream-like fashion — even if they attack each other, no harm is done. They may also continue to act with their bodies, incurring a -2 penalty to dice pools. The Gift ends when all the participants want it to, when the initiating character fails a roll to bring an unwilling being into the link or when one of the participants leaves the line of sight.",
+                        "pl": "Garou sięga do krainy snów i wyciąga z niej dość sennej materii, by utworzyć między wybranymi osobami więź umożliwiającą porozumiewanie się. Daru tego uczy Chimera.\n\nSystem: Gracz wydaje punkt Siły Woli za każdą objętą Darem rozumną istotę. Test Oddziaływanie + Empatia o trudności równej Sile Woli celu jest wymagany tylko wtedy, gdy dana osoba nie chce dołączyć. Uczestnicy kontaktują się niczym we śnie — nawet jeśli się zaatakują, nie wyrządzają sobie krzywdy. Mogą jednocześnie działać fizycznymi ciałami, lecz otrzymują karę –2 do pul kości. Dar kończy się, gdy życzą sobie tego wszyscy uczestnicy, gdy inicjator nie zdoła włączyć opornej istoty albo gdy ktoś opuści jego pole widzenia."
                     }
                 ]
             }
@@ -27654,35 +27687,6 @@
                         "type": "text",
                         "en": "It can be quite useful to be ignored at times. You can overhear what was not meant for your ears, or see armed guards look right past you. As long as the Uktena keeps a low profile, a supervisor will assume he’s just another tech, or the cowboys will see only “some tame Injun asleep by the hitchin’ post.” Some Ragabash call this the “Tonto goes to town” Gift; members of the Scouts also favor it. A cuckoo-spirit teaches this Gift.\n\nSystem: The character does his best to look nonchalant or otherwise occupied doing something low-key. The player rolls Manipulation + Subterfuge (difficulty varies depending on how well he blends in to start with: 6 if the Garou is dressed in the same manner and going through the same motions as the techies around him; up to 9 if he’s stark naked and carrying a bloody axe). To see the Garou as more than mere window-dressing, watchers must get more successes on Perception + Alertness than the player originally rolled. Should he draw attention to himself, by acting out of character or speaking loudly for example, the player must reroll with a penalty of +2 difficulty in order to maintain the effect.",
                         "pl": "Czasami bardzo przydaje się pozostawanie niezauważonym. Można podsłuchać słowa nieprzeznaczone dla własnych uszu albo patrzeć, jak uzbrojeni strażnicy spoglądają prosto przez ciebie. Dopóki Uktena nie rzuca się w oczy, kierownik uzna go za kolejnego technika, a kowboje zobaczą jedynie „jakiegoś oswojonego Indianina śpiącego przy koniowiązie”. Niektórzy Ragabashe nazywają tę moc Darem „Tonto idzie do miasta”; chętnie korzystają z niego również Zwiadowcy. Tego Daru naucza duch Kukułki.\n\nSystem: Postać stara się wyglądać swobodnie albo sprawiać wrażenie zajętej czymś niepozornym. Gracz wykonuje test Oddziaływania + Przebiegłości. Trudność zależy od tego, jak dobrze Garou od początku wtapia się w otoczenie: wynosi 6, jeśli jest ubrany tak samo jak technicy wokół i naśladuje ich czynności, albo nawet 9, jeśli stoi nago z zakrwawionym toporem. Aby dostrzec w Garou coś więcej niż element tła, obserwator musi uzyskać w teście Percepcji + Czujności więcej sukcesów niż gracz w pierwotnym teście. Jeśli Garou zwróci na siebie uwagę, na przykład zachowa się niezgodnie z rolą albo zacznie głośno mówić, gracz musi powtórzyć test z trudnością zwiększoną o 2, aby utrzymać efekt."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Tribe",
-                "value": "Black Furies",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 1,
-                "names": {
-                    "en": "Owl Speech",
-                    "pl": "Mowa sów"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Tribebook - Black Furies",
-                "edition": "2nd Ed.",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "Black Furies may invoke the kinship between their tribe and the owls of Athena. This Gift combines the effects of the Galliard Beast Speech Gift and the Philodox King of the Beasts Gift, though it only works on owls. This Gift is common among the Temple-Keepers of Artemis and the Sisterhood. Many of their Kinfolk share this Gift, and new sisters often receive it as an initiation Gift.",
-                        "pl": "Czarne Furie mogą przywołać więź łączącą ich plemię z sowami Ateny. Ten Dar łączy działanie Galiardzkiej Mowy zwierząt i Filodoksowego Władcy zwierząt, lecz oddziałuje wyłącznie na sowy. Jest powszechny wśród Strażniczek Świątyni Artemis i członkiń Siostrzeństwa. Zna go wielu ich Krewniaków, a nowe siostry często otrzymują go podczas inicjacji."
                     }
                 ]
             }
@@ -30122,7 +30126,7 @@
                     {
                         "type": "text",
                         "en": "Born misshapen, the metis takes her deformity and makes it a source of power. She can twist her flesh in any number of ways, sprouting a number of unnatural features, from extra limbs to additional mouths to grasping tentacles. A Chimerling teaches this Gift.\n\nSystem: The character’s ability to partially transform (see p. 286) is permanently modified, allowing her to make almost any grotesque modifications the player can imagine. These modifications must logically bestow one of the following benefits: +2 dice on a certain category of attack rolls (extra clawed limbs for claw attacks, tentacles for clinches, etc.), +2 damage on a certain category of attack rolls (a chest-mounted squid beak for extra damage on clinches, arms coated in shark teeth for boosted claw attacks, etc.), or +5 yards per turn of movement (extra legs, vestigial wings, etc.).",
-                        "pl": "Urodzony zniekształcony metys przemienia własną deformację w źródło mocy. Może wykręcać ciało na niezliczone sposoby, wyrastając nienaturalne części — od dodatkowych kończyn i kolejnych ust po chwytne macki. Tego Daru uczy Chimerzak.\n\nSystem: Zdolność postaci do częściowej przemiany (patrz s. 286) zostaje trwale zmodyfikowana, pozwalając jej wprowadzać niemal dowolne groteskowe zmiany, jakie wyobrazi sobie gracz. Modyfikacje muszą logicznie zapewniać jedną z następujących korzyści: +2 kości do określonej kategorii testów ataku — dodatkowe kończyny z pazurami przy atakach pazurami, macki przy chwytach i tak dalej; +2 obrażenia w określonej kategorii ataków — dziób kałamarnicy na piersi zwiększający obrażenia chwytów, ramiona pokryte zębami rekina wzmacniające ataki pazurami i tak dalej; albo +5 metrów ruchu na turę — dodatkowe nogi, szczątkowe skrzydła i podobne."
+                        "pl": "Urodzony zniekształcony metys przemienia własną deformację w źródło mocy. Może wykręcać ciało na niezliczone sposoby, wyrastając nienaturalne części — od dodatkowych kończyn i kolejnych ust po chwytne macki. Tego Daru uczy Chimera.\n\nSystem: Zdolność postaci do częściowej przemiany (patrz s. 286) zostaje trwale zmodyfikowana, pozwalając jej wprowadzać niemal dowolne groteskowe zmiany, jakie wyobrazi sobie gracz. Modyfikacje muszą logicznie zapewniać jedną z następujących korzyści: +2 kości do określonej kategorii testów ataku — dodatkowe kończyny z pazurami przy atakach pazurami, macki przy chwytach i tak dalej; +2 obrażenia w określonej kategorii ataków — dziób kałamarnicy na piersi zwiększający obrażenia chwytów, ramiona pokryte zębami rekina wzmacniające ataki pazurami i tak dalej; albo +5 metrów ruchu na turę — dodatkowe nogi, szczątkowe skrzydła i podobne."
                     }
                 ]
             }
@@ -35896,7 +35900,7 @@
                     {
                         "type": "text",
                         "en": "The Garou may summon a shadowy duplicate of himself, or even multiple shadows, to stand beside him in battle. These shadows eerily resemble the Garou and have the same powers. This Gift is taught by a spirit of Night or a Chimerling.\n\nSystem: The Garou must spend a variable number of Gnosis points and succeed in a Gnosis roll (difficulty 8). For each Gnosis point spent, the Garou summons an exact duplicate of himself to fight by his side. These Garou have identical Attributes and Abilities, but not fetishes; they may not use Gnosis or Willpower, and each has only one Health Level (any attack that is not soaked destroys it). The shadow-Garou last for one scene.",
-                        "pl": "Garou jest w stanie wezwać jedną lub kilka przypominających cienie istot, kopii własnej osoby, które wyglądają dosłownie podobnie do niego, obdarzone są tymi samymi zdolnościami i stają u jego boku w walce. Mocą tą władają duchy Nocy i Chimerzaki. \n\nSystem: Garou wydaje dowolną liczbę punktów Gnozy, po czym wykonuje test Gnozy (trudność 8). Każdy wydany punkt oznacza przybycie jednego duplikatu, o identycznych Cechach i Zdolnościach (uwaga: nie mają tych samych fetyszy). Nie mogą używać Gnozy i Siły Woli, a każdy z nich ma tylko jeden poziom Stanu Zdrowia (aby je zniszczyć, wystarczy jeden atak, którego nie zdołają wyparować). Znikają samoistnie po zakończeniu sceny."
+                        "pl": "Garou jest w stanie wezwać jedną lub kilka przypominających cienie istot, kopii własnej osoby, które wyglądają dosłownie podobnie do niego, obdarzone są tymi samymi zdolnościami i stają u jego boku w walce. Mocą tą władają duchy Nocy i Chimery. \n\nSystem: Garou wydaje dowolną liczbę punktów Gnozy, po czym wykonuje test Gnozy (trudność 8). Każdy wydany punkt oznacza przybycie jednego duplikatu, o identycznych Cechach i Zdolnościach (uwaga: nie mają tych samych fetyszy). Nie mogą używać Gnozy i Siły Woli, a każdy z nich ma tylko jeden poziom Stanu Zdrowia (aby je zniszczyć, wystarczy jeden atak, którego nie zdołają wyparować). Znikają samoistnie po zakończeniu sceny."
                     }
                 ]
             },
@@ -46854,35 +46858,6 @@
         "requirements": [
             {
                 "race": "Garou",
-                "type": "Auspice",
-                "value": "Galliard",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 1,
-                "names": {
-                    "en": "Waking Dream",
-                    "pl": "Sen na jawie"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Dark Ages",
-                "edition": "Dark Ages",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The Garou reaches into the realm of dreams and pulls back enough dream stuff to forge a connection among individuals through which they can communicate. A Chimera teaches this Gift.\n\nSystem: The player spends one Willpower point per sentient being included. A Manipulation + Empathy roll (difficulty of the target’s Willpower) is only required if an individual is unwilling to be included. Those included interact with each other in a dream-like fashion — even if they attack each other, no harm is done. They may also continue to act with their bodies, incurring a -2 penalty to dice pools. The Gift ends when all the participants want it to, when the initiating character fails a roll to bring an unwilling being into the link or when one of the participants leaves the line of sight.",
-                        "pl": "Garou sięga do krainy snów i wyciąga z niej dość sennej materii, by utworzyć między wybranymi osobami więź umożliwiającą porozumiewanie się. Daru tego uczy Chimera.\n\nSystem: Gracz wydaje punkt Siły Woli za każdą objętą Darem rozumną istotę. Test Oddziaływanie + Empatia o trudności równej Sile Woli celu jest wymagany tylko wtedy, gdy dana osoba nie chce dołączyć. Uczestnicy kontaktują się niczym we śnie — nawet jeśli się zaatakują, nie wyrządzają sobie krzywdy. Mogą jednocześnie działać fizycznymi ciałami, lecz otrzymują karę –2 do pul kości. Dar kończy się, gdy życzą sobie tego wszyscy uczestnicy, gdy inicjator nie zdoła włączyć opornej istoty albo gdy ktoś opuści jego pole widzenia."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
                 "type": "Tribe",
                 "value": "Stargazers",
                 "faction_type": "All",
@@ -48466,7 +48441,7 @@
                     {
                         "type": "text",
                         "en": "By gazing into the night sky for an hour, the Stargazer can ask a question and have it answered. This Gift is taught by a Chimerling.\n\nSystem: The Garou spends one Gnosis point and rolls Intelligence + Enigmas (difficulty 7). If successful, the Garou can answer any one question (i.e., ask the Storyteller). The clarity of the information depends on the number of successes, and it is rare to gain a complete and straightforward answer.",
-                        "pl": "Garou przez godzinę wpatruje się w nocne niebo, co pozwala mu uzyskać odpowiedź na jedno postawione pytanie. Dar ten pochodzi od Chimerzaka. \n\nSystem: Wilkołak wydaje punkt Gnozy i wykonuje test Inteligencja + Zagadki (trudność 7) – sukces oznacza, że będzie mógł udzielić odpowiedzi na jedno pytanie (zasięgając informacji u Narratora). Liczba sukcesów ma wpływ na dokładność uzyskanych informacji – rzadko udaje się otrzymać kompletną, prostą odpowiedź."
+                        "pl": "Garou przez godzinę wpatruje się w nocne niebo, co pozwala mu uzyskać odpowiedź na jedno postawione pytanie. Dar ten pochodzi od Chimeraa. \n\nSystem: Wilkołak wydaje punkt Gnozy i wykonuje test Inteligencja + Zagadki (trudność 7) – sukces oznacza, że będzie mógł udzielić odpowiedzi na jedno pytanie (zasięgając informacji u Narratora). Liczba sukcesów ma wpływ na dokładność uzyskanych informacji – rzadko udaje się otrzymać kompletną, prostą odpowiedź."
                     }
                 ]
             },
@@ -49657,35 +49632,6 @@
                         "type": "text",
                         "en": "As the Glass Walker Gift: Elemental Favor. When this Gift is taken, the Boli Zousizhe must choose to be able to command Eastern elementals (water, wood, fire, earth and metal) or urban elementals. The character may never command elementals of the other group.",
                         "pl": "Działa jak Dar Tubylców Betonu: Przychylność Żywiołów. Ucząc się go, Boli Zousizhe wybiera zdolność rozkazywania żywiołakom Wschodu — wody, drewna, ognia, ziemi i metalu — albo żywiołakom miejskim. Nigdy nie może rozkazywać drugiej grupie."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Auspice",
-                "value": "Galliard",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 2,
-                "names": {
-                    "en": "Dreamspeak",
-                    "pl": "Mowa snu"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Werewolf the Apocalypse",
-                "edition": "W20",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The Galliard can walk among another’s dreams and thereby affect their course. The werewolf doesn’t have to be anywhere near the target, but she must know or have seen the dreamer. A Chimerling teaches this Gift.\n\nSystem: The player rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the Galliard is still within the dream, the werewolf is thrown out of the dream world and loses a Gnosis point.",
-                        "pl": "Wilkołak przenika do czyjegoś snu i zyskuje możliwość wpływania na jego przebieg, przy czym nie musi wcale znajdować się w pobliżu – wystarczy, że zna lub kiedyś widział tę osobę. Mocą tą włada Chimera.\n\nMechanika gry: Wilkołak wykonuje test Spryt + Empatia (trudność 8). Jeśli śniący obudzi się, zanim Galiard opuści jego sen i własnej woli, garou zostaje wyrzucony ze świata snu i traci punkt Gnozy."
                     }
                 ]
             }

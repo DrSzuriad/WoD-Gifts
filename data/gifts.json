@@ -1746,35 +1746,6 @@
                 "race": "Garou",
                 "type": "Tribe",
                 "value": "Black Spiral Dancers",
-                "faction_type": "All",
-                "faction_value": "All",
-                "rank": 1,
-                "names": {
-                    "en": "Bale Armor",
-                    "pl": "Paląca osłona"
-                }
-            }
-        ],
-        "versions": [
-            {
-                "book": "Book of the Wyrm",
-                "edition": "W20",
-                "content": [
-                    {
-                        "type": "text",
-                        "en": "The Black Spiral Dancer’s body is limned in a terrible green-black radiance that saps the strength from her enemies’ blows and inflicts toxic burns upon their flesh. A Furmling teaches this Gift.\n\nSystem: The player spends one Willpower point to activate the Gift. The light illuminates a 100-foot area around the Dancer for the rest of the scene. All attacks against the werewolf suffer a –1 die penalty while this Gift persists, and anyone who lands a Brawl attack against the Dancer takes one level of bashing damage.",
-                        "pl": "Ciało Tancerza Czarnej Spirali otacza przerażająca zielonoczarna poświata, która osłabia ciosy wrogów i pozostawia na ich ciałach toksyczne oparzenia. Daru tego uczy Furmling.\n\nSystem: Gracz wydaje punkt Siły Woli, aby aktywować Dar. Do końca sceny blask oświetla obszar w promieniu 30 metrów wokół Tancerza. Wszystkie ataki przeciwko wilkołakowi otrzymują karę jednej kości, a każdy, kto zaatakuje go w Bójce, otrzymuje jeden poziom obrażeń tłuczonych."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "requirements": [
-            {
-                "race": "Garou",
-                "type": "Tribe",
-                "value": "Black Spiral Dancers",
                 "faction_type": "Stolen",
                 "faction_value": "Stolen",
                 "rank": 1,

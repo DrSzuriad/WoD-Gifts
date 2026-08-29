@@ -4,7 +4,7 @@
 
 ## Polski
 
-Dwujęzyczna przeglądarka Darów Garou do gry *Werewolf: The Apocalypse*. Strona pozwala filtrować Dary według rangi, rasy, auspicjum, plemienia i frakcji oraz przełączać ich treść między językiem angielskim i polskim.
+Dwujęzyczna przeglądarka Darów Garou do gry *Werewolf: The Apocalypse*. Strona pozwala filtrować Dary według rangi, pochodzenia, patronatu, plemienia i frakcji oraz przełączać ich treść między językiem angielskim i polskim. Projekt zawiera też przygotowaną podstronę dla fetyszów i talenów.
 
 Strona jest dostępna pod adresem:
 
@@ -19,9 +19,10 @@ https://drszuriad.github.io/WoD-Gifts/
 - wybór wersji Daru pochodzącej z konkretnego podręcznika lub edycji;
 - wyświetlanie opisów i tabel;
 - automatyczne użycie tekstu angielskiego, gdy brakuje tłumaczenia;
-- zapamiętywanie języka i filtrów w pamięci przeglądarki.
+- zapamiętywanie języka i filtrów w pamięci przeglądarki;
+- nawigacja między Darami a przygotowywaną sekcją fetyszów i talenów.
 
-Zakładki dla Bastet, Corax i Mokole są obecnie przygotowane jako elementy przyszłego rozwoju strony.
+Podstrona fetyszów i talenów oraz zakładki dla Bastet, Corax i Mokole są obecnie przygotowane jako elementy przyszłego rozwoju strony.
 
 ## Uruchomienie lokalne
 
@@ -45,12 +46,23 @@ Połączenie z internetem jest wymagane do pobrania biblioteki [Choices.js](http
 
 ```text
 .
-├── index.html          interfejs strony
-├── css/main.css        style
-├── js/app.js           filtrowanie, rendering i ustawienia
-├── data/gifts.json     dane Darów używane przez stronę
-└── work/               robocze materiały i narzędzia tłumaczeniowe
+├── index.html                     przeglądarka Darów
+├── fetishes.html                  podstrona fetyszów i talenów
+├── css/
+│   ├── main.css                   style wspólne
+│   ├── gifts.css                  style przeglądarki Darów
+│   └── fetishes.css               style podstrony fetyszów i talenów
+├── js/
+│   ├── pages/                     logika poszczególnych podstron
+│   └── shared/                    wspólne moduły aplikacji
+├── data/
+│   ├── gifts.json                 dane Darów
+│   ├── fetishes.json              przyszłe dane fetyszów i talenów
+│   └── translations.json          tłumaczenia interfejsu
+└── work/                          robocze materiały tłumaczeniowe
 ```
+
+Dary oraz fetysze i taleny są przechowywane w osobnych plikach danych, ponieważ korzystają z różnych struktur. Fetysze i taleny będą docelowo współdzielić jeden format, a ich jednorazowość będzie określana przez typ elementu.
 
 Folder `work/` nie jest częścią aplikacji publikowanej dla użytkowników. Zawiera pliki pomocnicze wykorzystywane podczas pracy nad polskim tłumaczeniem.
 
@@ -68,7 +80,7 @@ Licencja MIT nie obejmuje treści pochodzących z gry *Werewolf: The Apocalypse*
 
 ## English
 
-A bilingual Garou Gifts browser for *Werewolf: The Apocalypse*. The website lets users filter Gifts by rank, breed, auspice, tribe, and faction, and switch their content between English and Polish.
+A bilingual Garou Gifts browser for *Werewolf: The Apocalypse*. The website lets users filter Gifts by rank, breed, auspice, tribe, and faction, and switch their content between English and Polish. The project also includes a prepared page for Fetishes and Talens.
 
 The website is available at:
 
@@ -83,9 +95,10 @@ https://drszuriad.github.io/WoD-Gifts/
 - selecting a Gift version from a specific sourcebook or edition;
 - displaying descriptions and tables;
 - automatically falling back to English when a translation is missing;
-- saving the selected language and filters in browser storage.
+- saving the selected language and filters in browser storage;
+- navigation between Gifts and the upcoming Fetishes and Talens section.
 
-The Bastet, Corax, and Mokole tabs are currently placeholders for future development.
+The Fetishes and Talens page and the Bastet, Corax, and Mokole tabs are currently placeholders for future development.
 
 ### Running locally
 
@@ -109,12 +122,23 @@ An internet connection is required to load [Choices.js](https://choices-js.githu
 
 ```text
 .
-├── index.html          website interface
-├── css/main.css        styles
-├── js/app.js           filtering, rendering, and settings
-├── data/gifts.json     Gift data used by the website
-└── work/               translation workspace and supporting tools
+├── index.html                     Gifts browser
+├── fetishes.html                  Fetishes and Talens page
+├── css/
+│   ├── main.css                   shared styles
+│   ├── gifts.css                  Gifts browser styles
+│   └── fetishes.css               Fetishes and Talens page styles
+├── js/
+│   ├── pages/                     page-specific controllers
+│   └── shared/                    shared application modules
+├── data/
+│   ├── gifts.json                 Gift data
+│   ├── fetishes.json              future Fetish and Talen data
+│   └── translations.json          interface translations
+└── work/                          translation workspace and tools
 ```
+
+Gifts and Fetishes/Talens are stored in separate data files because they use different schemas. Fetishes and Talens will share one format, with the item type indicating whether it is reusable or single-use.
 
 The `work/` directory is not part of the website delivered to users. It contains supporting files used while working on the Polish translation.
 

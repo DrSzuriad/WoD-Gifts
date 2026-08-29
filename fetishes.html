@@ -4,25 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title data-i18n="Garou Gifts">Garou Gifts</title>
+    <title data-i18n="Fetishes and Talens">
+        Fetishes and Talens
+    </title>
 
-    <!-- Choices.js -->
-    <link
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css"
-    >
-
-    <!-- Nasz CSS -->
     <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/gifts.css">
+    <link rel="stylesheet" href="css/fetishes.css">
 </head>
 
 <body>
 
 <header class="site-header">
 
-    <h1 id="appTitle" data-i18n="Garou Gifts">
-        Garou Gifts
+    <h1 data-i18n="Fetishes and Talens">
+        Fetishes and Talens
     </h1>
 
     <div class="top-bar">
@@ -54,15 +49,15 @@
 
     <nav class="main-nav">
         <a
-            class="active"
             href="./index.html"
-            aria-current="page"
             data-i18n="Gifts">
             Gifts
         </a>
 
         <a
+            class="active"
             href="./fetishes.html"
+            aria-current="page"
             data-i18n="Fetishes and Talens">
             Fetishes and Talens
         </a>
@@ -70,55 +65,17 @@
 
 </header>
 
-<div class="tabs">
-
-    <div class="tab active" data-i18n="Garou">Garou</div>
-
-    <div class="tab">Bastet</div>
-
-    <div class="tab">Corax</div>
-
-    <div class="tab">Mokole</div>
-
-</div>
-
-<main id="garou-content">
-
-    <div class="filters">
-
-        <select id="rankSelect" multiple></select>
-
-        <select id="breedSelect" multiple></select>
-
-        <select id="auspiceSelect" multiple></select>
-
-        <select id="tribeSelect" multiple></select>
-
-        <select id="otherSelect" multiple></select>
-
+<main id="fetishesContent" class="placeholder-page">
+    <div class="placeholder-card">
+        <p data-i18n="Fetishes and talens will be added here">
+            Fetishes and talens will be added here
+        </p>
     </div>
-
-    <div
-        id="giftList"
-        class="gift-list">
-    </div>
-
 </main>
-
-<div
-    class="coming-soon"
-    style="display:none;"
-    data-i18n="Coming soon">
-
-    Coming soon
-
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
 
 <script
     type="module"
-    src="js/pages/gifts-page.js">
+    src="js/pages/fetishes-page.js">
 </script>
 
 </body>

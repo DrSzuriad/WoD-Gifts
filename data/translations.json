@@ -11,6 +11,22 @@
     "en": "Coming soon",
     "pl": "Wkrótce"
   },
+  "Gifts": {
+    "en": "Gifts",
+    "pl": "Dary"
+  },
+  "Fetishes and Talens": {
+    "en": "Fetishes and Talens",
+    "pl": "Fetysze i taleny"
+  },
+  "Fetishes and talens will be added here": {
+    "en": "Fetishes and talens will be added here",
+    "pl": "Fetysze i taleny zostaną dodane w tym miejscu"
+  },
+  "Failed to load page data": {
+    "en": "Failed to load page data",
+    "pl": "Nie udało się wczytać danych strony"
+  },
   "Rank": {
     "en": "Rank",
     "pl": "Ranga"

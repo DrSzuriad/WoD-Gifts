@@ -1,0 +1,17 @@
+.placeholder-page {
+  max-width: 900px;
+}
+
+.placeholder-card {
+  padding: 48px 24px;
+  text-align: center;
+  background: #1e1e1e;
+  border: 1px solid #333;
+  border-radius: 12px;
+}
+
+.placeholder-card p {
+  margin: 0;
+  color: #aaa;
+  font-size: 20px;
+}

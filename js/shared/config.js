@@ -1,4 +1,4 @@
-export const APP_VERSION = "v1.0.3";
+export const APP_VERSION = "v1.0.4";
 
 export const SETTINGS_STORAGE_KEY =
   "garou-gifts-settings";

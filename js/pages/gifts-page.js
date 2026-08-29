@@ -68,8 +68,8 @@ async function initializePage() {
   try {
     const [giftData, dictionary] =
       await Promise.all([
-        loadJson("./data/gifts.json"),
-        loadJson("./data/translations.json")
+        loadJson("./data/gifts.json?v=1.0.3"),
+        loadJson("./data/translations.json?v=1.0.3")
       ]);
 
     gifts = giftData;

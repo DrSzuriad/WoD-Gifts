@@ -44,28 +44,24 @@ h1 {
 .main-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px;
 }
 
 .main-nav a {
-  color: #ccc;
+  color: white;
   text-decoration: none;
-  background: #1e1e1e;
-  border: 1px solid #333;
+  background: #222;
   border-radius: 8px;
-  padding: 9px 14px;
+  padding: 10px 16px;
 }
 
 .main-nav a:hover,
 .main-nav a:focus-visible {
-  color: white;
-  border-color: #666;
+  background: #333;
 }
 
 .main-nav a.active {
-  color: white;
-  background: #3a0000;
-  border-color: #6a0000;
+  background: #444;
 }
 
 .content-text {

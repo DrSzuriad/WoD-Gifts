@@ -22,7 +22,7 @@ async function initializePage() {
 
   try {
     const dictionary = await loadJson(
-      "./data/translations.json"
+      "./data/translations.json?v=1.0.3"
     );
 
     const settings = loadStoredObject(

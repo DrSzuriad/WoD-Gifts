@@ -8,8 +8,13 @@
         Fetishes and Talens
     </title>
 
-    <link rel="stylesheet" href="css/main.css?v=1.0.3">
-    <link rel="stylesheet" href="css/fetishes.css?v=1.0.3">
+    <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css"
+    >
+
+    <link rel="stylesheet" href="css/main.css?v=1.0.5">
+    <link rel="stylesheet" href="css/fetishes.css?v=1.0.5">
 </head>
 
 <body>
@@ -24,7 +29,7 @@
 
         <div class="app-version">
             <span data-i18n="Version">Version</span>:
-            <span data-app-version>v1.0.2</span>
+            <span data-app-version>v1.0.5</span>
         </div>
 
         <div class="language-switch">
@@ -65,17 +70,33 @@
 
 </header>
 
-<main id="fetishesContent" class="placeholder-page">
-    <div class="placeholder-card">
-        <p data-i18n="Fetishes and talens will be added here">
-            Fetishes and talens will be added here
-        </p>
+<main id="fetishesContent">
+    <div class="filters">
+        <select id="fetishTypeSelect" multiple></select>
+        <select id="fetishLevelSelect" multiple></select>
+        <select id="fetishGnosisSelect" multiple></select>
+
+        <div
+            id="requirementFilters"
+            class="requirement-filters">
+            <select id="requirementTypeSelect" multiple></select>
+            <select id="requirementValueSelect" multiple></select>
+        </div>
+
+        <select id="fetishBookSelect" multiple></select>
+    </div>
+
+    <div
+        id="fetishList"
+        class="fetish-list">
     </div>
 </main>
 
+<script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+
 <script
     type="module"
-    src="js/pages/fetishes-page.js?v=1.0.3">
+    src="js/pages/fetishes-page.js?v=1.0.5">
 </script>
 
 </body>

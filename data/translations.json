@@ -27,6 +27,46 @@
     "en": "Failed to load page data",
     "pl": "Nie udało się wczytać danych strony"
   },
+  "Type": {
+    "en": "Type",
+    "pl": "Typ"
+  },
+  "Level": {
+    "en": "Level",
+    "pl": "Poziom"
+  },
+  "Gnosis": {
+    "en": "Gnosis",
+    "pl": "Gnoza"
+  },
+  "Requirement": {
+    "en": "Requirement",
+    "pl": "Wymaganie"
+  },
+  "Requirement value": {
+    "en": "Requirement value",
+    "pl": "Wartość wymagania"
+  },
+  "Sourcebook": {
+    "en": "Sourcebook",
+    "pl": "Podręcznik"
+  },
+  "Fetish": {
+    "en": "Fetish",
+    "pl": "Fetysz"
+  },
+  "Talen": {
+    "en": "Talen",
+    "pl": "Talen"
+  },
+  "Not specified": {
+    "en": "Not specified",
+    "pl": "Nie podano"
+  },
+  "No items found": {
+    "en": "No items found",
+    "pl": "Nie znaleziono przedmiotów"
+  },
   "Rank": {
     "en": "Rank",
     "pl": "Ranga"

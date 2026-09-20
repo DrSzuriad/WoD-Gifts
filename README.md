@@ -4,7 +4,7 @@
 
 ## Polski
 
-Dwujęzyczna przeglądarka Darów Garou do gry *Werewolf: The Apocalypse*. Strona pozwala filtrować Dary według rangi, pochodzenia, patronatu, plemienia i frakcji oraz przełączać ich treść między językiem angielskim i polskim. Projekt zawiera też przygotowaną podstronę dla fetyszów i talenów.
+Dwujęzyczna przeglądarka Darów Garou, fetyszów i talenów do gry *Werewolf: The Apocalypse*. Strona pozwala filtrować zawartość oraz przełączać jej treść między językiem angielskim i polskim.
 
 Strona jest dostępna pod adresem:
 
@@ -20,9 +20,11 @@ https://drszuriad.github.io/WoD-Gifts/
 - wyświetlanie opisów i tabel;
 - automatyczne użycie tekstu angielskiego, gdy brakuje tłumaczenia;
 - zapamiętywanie języka i filtrów w pamięci przeglądarki;
-- nawigacja między Darami a przygotowywaną sekcją fetyszów i talenów.
+- nawigacja między Darami a fetyszami i talenami;
+- filtrowanie fetyszów i talenów według typu, poziomu, Gnozy, wymagań i podręcznika;
+- wybór wersji przedmiotu pochodzącej z konkretnego podręcznika lub edycji.
 
-Podstrona fetyszów i talenów oraz zakładki dla Bastet, Corax i Mokole są obecnie przygotowane jako elementy przyszłego rozwoju strony.
+Zakładki dla Bastet, Corax i Mokole są obecnie przygotowane jako elementy przyszłego rozwoju strony.
 
 ## Uruchomienie lokalne
 
@@ -57,7 +59,7 @@ Połączenie z internetem jest wymagane do pobrania biblioteki [Choices.js](http
 │   └── shared/                    wspólne moduły aplikacji
 ├── data/
 │   ├── gifts.json                 dane Darów
-│   ├── fetishes.json              przyszłe dane fetyszów i talenów
+│   ├── fetishes.json              dane fetyszów i talenów
 │   └── translations.json          tłumaczenia interfejsu
 └── work/                          robocze materiały tłumaczeniowe
 ```
@@ -80,7 +82,7 @@ Licencja MIT nie obejmuje treści pochodzących z gry *Werewolf: The Apocalypse*
 
 ## English
 
-A bilingual Garou Gifts browser for *Werewolf: The Apocalypse*. The website lets users filter Gifts by rank, breed, auspice, tribe, and faction, and switch their content between English and Polish. The project also includes a prepared page for Fetishes and Talens.
+A bilingual browser for Garou Gifts, Fetishes, and Talens from *Werewolf: The Apocalypse*. The website allows users to filter its content and switch between English and Polish.
 
 The website is available at:
 
@@ -96,9 +98,11 @@ https://drszuriad.github.io/WoD-Gifts/
 - displaying descriptions and tables;
 - automatically falling back to English when a translation is missing;
 - saving the selected language and filters in browser storage;
-- navigation between Gifts and the upcoming Fetishes and Talens section.
+- navigation between Gifts and Fetishes/Talens;
+- filtering Fetishes and Talens by type, level, Gnosis, requirement, and sourcebook;
+- selecting an item version from a specific sourcebook or edition.
 
-The Fetishes and Talens page and the Bastet, Corax, and Mokole tabs are currently placeholders for future development.
+The Bastet, Corax, and Mokole tabs are currently placeholders for future development.
 
 ### Running locally
 
@@ -133,7 +137,7 @@ An internet connection is required to load [Choices.js](https://choices-js.githu
 │   └── shared/                    shared application modules
 ├── data/
 │   ├── gifts.json                 Gift data
-│   ├── fetishes.json              future Fetish and Talen data
+│   ├── fetishes.json              Fetish and Talen data
 │   └── translations.json          interface translations
 └── work/                          translation workspace and tools
 ```

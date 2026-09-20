@@ -1,17 +1,44 @@
-.placeholder-page {
-  max-width: 900px;
+.requirement-filters {
+  display: contents;
 }
 
-.placeholder-card {
-  padding: 48px 24px;
-  text-align: center;
+.requirement-filters[hidden] {
+  display: none;
+}
+
+.fetish-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.fetish-card {
+  max-width: 1200px;
   background: #1e1e1e;
   border: 1px solid #333;
   border-radius: 12px;
+  padding: 16px;
 }
 
-.placeholder-card p {
-  margin: 0;
-  color: #aaa;
+.fetish-title {
   font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.fetish-meta {
+  color: #aaa;
+  margin-bottom: 10px;
+}
+
+.fetish-card select {
+  display: block;
+  width: fit-content;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 4px 8px;
+  background: #222;
+  color: white;
+  border: 1px solid #444;
+  border-radius: 6px;
 }

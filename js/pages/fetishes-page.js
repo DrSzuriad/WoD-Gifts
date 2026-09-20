@@ -41,7 +41,7 @@ const REQUIREMENT_TYPE_ORDER = [
 let items = [];
 
 let typeChoices;
-let levelChoices;
+let rankChoices;
 let gnosisChoices;
 let requirementTypeChoices;
 let requirementValueChoices;
@@ -49,7 +49,7 @@ let bookChoices;
 
 let filterValues = {
   types: [],
-  levels: [],
+  ranks: [],
   gnosis: [],
   requirementTypes: [],
   books: []
@@ -59,8 +59,8 @@ async function initializePage() {
   try {
     const [itemData, dictionary] =
       await Promise.all([
-        loadJson("./data/fetishes.json?v=1.0.5"),
-        loadJson("./data/translations.json?v=1.0.5")
+        loadJson("./data/fetishes.json?v=1.0.6"),
+        loadJson("./data/translations.json?v=1.0.6")
       ]);
 
     if (!Array.isArray(itemData)) {
@@ -112,10 +112,10 @@ function initializeBrowser(settings) {
     .map(item => item.requirement)
     .filter(Boolean);
 
-  const levels = uniqueValues(
+  const ranks = uniqueValues(
     items.flatMap(item =>
       item.versions.map(version =>
-        filterValue(version.level)
+        filterValue(version.rank)
       )
     )
   );
@@ -132,7 +132,7 @@ function initializeBrowser(settings) {
     types: uniqueValues(
       items.map(item => item.type)
     ),
-    levels,
+    ranks,
     gnosis,
     requirementTypes: uniqueValues(
       requirements.map(requirement =>
@@ -171,14 +171,15 @@ function createFilterChoices(settings) {
     preferredOrder: TYPE_ORDER
   });
 
-  levelChoices = createLocalizedSelect({
-    elementId: "fetishLevelSelect",
-    values: filterValues.levels,
-    placeholder: "Level",
-    selectedValues: settings.level || [],
+  rankChoices = createLocalizedSelect({
+    elementId: "fetishRankSelect",
+    values: filterValues.ranks,
+    placeholder: "Rank",
+    selectedValues:
+      settings.rank || settings.level || [],
     labelKeys: missingLabels,
     preferredOrder: numericOrder(
-      filterValues.levels
+      filterValues.ranks
     )
   });
 
@@ -218,7 +219,7 @@ function createFilterChoices(settings) {
 function bindFilterEvents() {
   [
     "fetishTypeSelect",
-    "fetishLevelSelect",
+    "fetishRankSelect",
     "fetishGnosisSelect",
     "requirementValueSelect",
     "fetishBookSelect"
@@ -291,7 +292,7 @@ function updateRequirementValueOptions(
 function rebuildFilterChoices(selections) {
   [
     typeChoices,
-    levelChoices,
+    rankChoices,
     gnosisChoices,
     requirementTypeChoices,
     requirementValueChoices,
@@ -353,9 +354,9 @@ function filterItems() {
 function versionMatches(version, selections) {
   return (
     (
-      selections.level.length === 0 ||
-      selections.level.includes(
-        filterValue(version.level)
+      selections.rank.length === 0 ||
+      selections.rank.includes(
+        filterValue(version.rank)
       )
     ) &&
     (
@@ -473,8 +474,8 @@ function renderItems(filteredItems, selections) {
 function renderMetadata(item, version) {
   const parts = [
     translate(item.type),
-    `${translate("Level")}: ` +
-      displayValue(version.level),
+    `${translate("Rank")}: ` +
+      displayValue(version.rank),
     `${translate("Gnosis")}: ` +
       displayValue(version.gnosis)
   ];
@@ -518,20 +519,20 @@ function numericOrder(values) {
 
 function sortItems(itemsToSort) {
   return itemsToSort.sort((a, b) => {
-    const levelA = Math.min(
+    const rankA = Math.min(
       ...a.versions
-        .map(version => version.level)
-        .filter(level => level !== null)
+        .map(version => version.rank)
+        .filter(rank => rank !== null)
     );
 
-    const levelB = Math.min(
+    const rankB = Math.min(
       ...b.versions
-        .map(version => version.level)
-        .filter(level => level !== null)
+        .map(version => version.rank)
+        .filter(rank => rank !== null)
     );
 
-    if (levelA !== levelB) {
-      return levelA - levelB;
+    if (rankA !== rankB) {
+      return rankA - rankB;
     }
 
     return getLocalizedText(a.names).localeCompare(
@@ -544,7 +545,7 @@ function sortItems(itemsToSort) {
 function getCurrentSelections() {
   return {
     type: typeChoices.getValue(true),
-    level: levelChoices.getValue(true),
+    rank: rankChoices.getValue(true),
     gnosis: gnosisChoices.getValue(true),
     requirementType:
       requirementTypeChoices.getValue(true),

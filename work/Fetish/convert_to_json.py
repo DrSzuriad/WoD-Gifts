@@ -151,7 +151,7 @@ def parse_file(path: Path) -> list[dict[str, Any]]:
             read_field(body, "Kategoria", source),
             source,
         )
-        level = parse_optional_number(
+        rank = parse_optional_number(
             read_field(body, "Poziom/ranga", source),
             "Poziom/ranga",
             source,
@@ -170,7 +170,7 @@ def parse_file(path: Path) -> list[dict[str, Any]]:
             {
                 "type": category,
                 "name": name,
-                "level": level,
+                "rank": rank,
                 "gnosis": gnosis,
                 "description": description,
             }
@@ -305,7 +305,7 @@ def build_items(
             old_version = find_existing_version(existing_item, book)
             version: dict[str, Any] = {
                 "book": book,
-                "level": entry["level"],
+                "rank": entry["rank"],
                 "gnosis": entry["gnosis"],
                 "content": [
                     {

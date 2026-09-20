@@ -21,7 +21,7 @@ https://drszuriad.github.io/WoD-Gifts/
 - automatyczne użycie tekstu angielskiego, gdy brakuje tłumaczenia;
 - zapamiętywanie języka i filtrów w pamięci przeglądarki;
 - nawigacja między Darami a fetyszami i talenami;
-- filtrowanie fetyszów i talenów według typu, poziomu, Gnozy, wymagań i podręcznika;
+- filtrowanie fetyszów i talenów według typu, rangi, Gnozy, wymagań i podręcznika;
 - wybór wersji przedmiotu pochodzącej z konkretnego podręcznika lub edycji.
 
 Zakładki dla Bastet, Corax i Mokole są obecnie przygotowane jako elementy przyszłego rozwoju strony.
@@ -99,7 +99,7 @@ https://drszuriad.github.io/WoD-Gifts/
 - automatically falling back to English when a translation is missing;
 - saving the selected language and filters in browser storage;
 - navigation between Gifts and Fetishes/Talens;
-- filtering Fetishes and Talens by type, level, Gnosis, requirement, and sourcebook;
+- filtering Fetishes and Talens by type, rank, Gnosis, requirement, and sourcebook;
 - selecting an item version from a specific sourcebook or edition.
 
 The Bastet, Corax, and Mokole tabs are currently placeholders for future development.

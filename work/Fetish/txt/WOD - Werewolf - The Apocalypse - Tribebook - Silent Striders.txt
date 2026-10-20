@@ -1,0 +1,89 @@
+# WOD - Werewolf - The Apocalypse - Tribebook - Silent Striders
+
+## FETYSZE
+
+### D'siah
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 4
+Strona PDF: 51
+Strona drukowana: 50
+
+Pełny opis:
+
+Certain Silent Strider Theurges carry d'siah, the “blades of the moon.” These ritual flint blades are carved into the shape of the crescent moon, and are used against Banes and other evil spirits. They inflict Strength + 1 damage (difficulty 5 to hit); against Wyrm-tainted creatures, the wounds are aggravated.
+
+Each successful strike also drains one Gnosis point from the foe. The d'siah are particularly effective against serpentlike enemies or even the vampiric Followers of Set; when striking these foes, the d'siah inflicts Strength + 4 damage, all aggravated.
+
+---
+
+### Sarcophagus of Anpw
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 4
+Strona PDF: 52
+Strona drukowana: 51
+
+Pełny opis:
+
+This item is used by Striders who know they will be facing vampires, particularly Followers of Set. The user sleeps in the sarcophagus for eight hours and spends a Gnosis point. Upon rising, the Strider is effectively “dead” for the following 24 hours. She is unaffected by supernatural powers designed specifically to affect mortals (Eyes of the Serpent becomes much less useful when used against dead things).
+
+The Garou is unaffected by illnesses, heart seizures and the like (including Thaumaturgical spells designed to simulate such things). Because her pain receptors are dulled, wound penalties are reduced by one. Also, since she is partially dead, all difficulties to enter the Dark Umbra are reduced by one. Finally, the Strider's blood tastes clotted and foul, like the blood of the Risen; vampires seeking to drain the Strider must succeed in a Willpower roll (difficulty 9) or immediately gag up any blood imbibed.
+
+Note that this “life-in-death” state is extremely unnatural; Garou only use this item in emergencies. Garou who make excessive use of the Sarcophagus may well cross permanently into the realms of the dead.
+
+---
+
+### Cheops' Brick
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 5
+Strona PDF: 52
+Strona drukowana: 51
+
+Pełny opis:
+
+This brick did not actually come from the pyramid of Cheops, but the name has stuck. In any event, Cheops’ Brick, when placed in the center of a campsite which is then warded against evil by a competent Theurge (Rank 2+, Rituals Knowledge 3+, one hour’s time to draw the warding glyphs), will manifest a mystical field warding against creatures of the Wyrm (including Followers of Set). Such creatures must make a Willpower roll (difficulty 8) to penetrate the ward and must subtract two from all Dice Pools if they do penetrate it.
+
+---
+
+### Mask of the Assanbonam
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 5
+Strona PDF: 52
+Strona drukowana: 51
+
+Pełny opis:
+
+This interesting fetish was brought back by Strider travelers to sub-Saharan Africa. It is an oblong ebony mask carved in the shape of a leering demonic visage. Its power may only be invoked on a moonless night.
+
+The mask allows the wearer to become an insubstantial, wraithlike creature seemingly made of smoke — except for the mask, which not only remains substantial, but becomes animated.
+
+The wearer may fly at double ground speed. He may not manipulate objects, but may hold them in the mask’s mouth. The wearer may use the mask to bite in combat, inflicting damage as a Hispo. Finally, because the wearer is mostly insubstantial, any dodge successes scored by the wearer count double (i.e., three dodge successes effectively act as six). These effects last until he removes the mask, or until daybreak.
+
+---
+
+### Mummy Amulets
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 8
+Strona PDF: 52
+Strona drukowana: 51
+
+Pełny opis:
+
+Striders have long fostered alliances with mummies, and a few have been bequeathed mystic amulets by their mummy companions. A mummy amulet raises a particular Attribute to 6 (in Homid form; other forms adjust accordingly) while it is worn. Each amulet is dedicated to one Attribute, and one only. Wearing one of these amulets for more than a scene at a time affects a Garou adversely, often driving him into Harano for weeks at a time.
+
+Some also whisper that when a Garou dons an amulet, he makes his presence known to the Bane Mummies.
+
+These are among the most prized of fetishes, especially since no Garou knows how to manufacture them. Those who let a mummy amulet fall into the hands of a vampire or mage of any sort immediately lose two points of permanent Wisdom Renown and one point of permanent Honor.
+
+---
+
+## TALENY

@@ -1,0 +1,159 @@
+## FETYSZE
+
+### Lost Keyring
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 5
+Strona PDF: 79
+Strona drukowana: 78
+
+Pełny opis:
+
+The Garou with this device owns hundreds of keys attached to a six-inch steel ring. By activating the fetish, a Garou can evaluate the complexity of locks on a door, window, or other barrier directly in front of him. For mechanic-minded players, the Storyteller can rate this complexity on a scale of 1 to 5. Overcoming the locks then requires a Perception + Repair roll against a difficulty of (5 + the lock's complexity). Even one success shows that the Garou has found the right key to jimmy the lock. Unless the key is used immediately, however, the user's fumbling hand loses it within a few rounds. This fetish works remarkably like the Gift: Open Seal, but in the same fashion, it won't protect against security systems, motion sensors, or electronic alarms on the lock.
+
+MET: The Lost Keyring allows the holder to immediately determine the difficulty required for penetrating a physical lock, without actually trying to pick it. The Garou can, immediately after determining the difficulty, attempt to open the lock; this requires a Static Mental Challenge against the lock's difficulty, but the Garou gains two bonus Traits thanks to the Fetish. Failure means that the Fetish simply doesn't have an appropriate key for the lock. Failure of the Fetish does not prohibit attempts to pick the lock by other means, though.
+
+---
+
+### Ivan's Molotov
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 5
+Strona PDF: 79
+Strona drukowana: 78
+
+Pełny opis:
+
+The first fetish of this kind was crafted by Ivan Ivanovich, an infamous Theurge of the Sept of the People's Will in Moscow. It is a flask containing a flammable liquid ideal for thrown projectiles. When activated, it can fill up a small flask with a clear, odorless fluid. Ivan's Molotov can fill three other flasks before it must be “refilled” (see below).
+
+Sticking a cloth in the neck of the bottle prepares it for battle. When the bottle is thrown (Dexterity + Athletics), the object it smashes into receives five dice of aggravated damage. A burst of flame and broken glass then burn and shred anything within three yards of this target, inflicting three dice of aggravated damage. Bottles filled with Ivan's Molotov must be hurled one at a time, however. If two of these bottles land within five yards of each other, they detonate with a loud bang, produce a cloud of smoke, and fizzle out without inflicting any damage at all.
+
+If the flask filled with Ivan's Molotov runs dry, the owner can meditate over it, usually by contemplating the last riot, protest or urban upheaval he witnessed. The owner rolls Wits + Enigmas (difficulty 6) and spends one Gnosis to refill the fetish.
+
+MET: Bottles filled by this Fetish act much like a mundane Molotov cocktail, targeted with a Physical Athletics Challenge and inflicting aggravated fire damage to victims. As noted above, if two or more are thrown at the same target at the same time, none of them have any effect. You can create up to three Molotovs at once with this Fetish before you must spend one turn and a Gnosis Trait to refill it.
+
+---
+
+### The Whole Gym Bag
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 5
+Strona PDF: 79
+Strona drukowana: 78
+
+Pełny opis:
+
+This battered satchel holds a mass of objects up to twice the actual size of the bag — a perfect fetish for any collection of Junk, Stuff, and Loot. Furthermore, the bag itself, including all its contents, count as one item when it is “dedicated” to the Garou. The Gym Bag appears as a stripe of fur (representing the shoulder strap) when the Garou changes to Crinos form. It disappears completely when the character is in Hispo or Lupus form.
+
+There are limits, however, on what objects can stay inside when the Garou shifts. Because of the Wyld energy within it, it cannot contain complex examples of the Weaver's handiwork: namely, guns and other weapons or working technological items. Gym Bags can't contain other smaller Gym Bags (sorry!), nor can they be expanded with the Rite of the Shopping Cart. In other words, if you need to carry a shotgun or a laptop (urrah!), you should dedicate it separately. By contrast, broken or nonfunctional bits of technology (that is, Junk) can easily be carried. If these conditions are not met, the bag drops to the ground and spills its contents when the Garou shifts out of Homid or Glabro form.
+
+MET: The Whole Gym Bag can contain any two item cards that don't involve an item with any moving parts. You should paperclip the cards together to show that they're in the bag. Whenever you shift forms to a non-humanoid shape, the bag and its contents shift with you, but count only as a single dedicated item.
+
+---
+
+### Rover's Whistle
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 79–80
+Strona drukowana: 78–79
+
+Pełny opis:
+
+Humans can't hear this fetish, but Garou can. When activated with a Gnosis roll and a good solid blow, the whistle alerts all Garou within a city block, helping them find the user. (The effects are similar to the Galliard Gift: Call of the Wyld, but none of that annoying howling is required.) If the user has the Kinfolk Background, he can also summon nearby Kinfolk by blowing the whistle with Charisma + Leadership (difficulty 5); each success can alert one of that Garou's Kinfolk if they're in the area.
+
+Keep in mind that this fetish alerts werewolves and Kinfolk that hear it; it doesn't force them to appear at the user's beck and call. A Garou does not have to answer this summons. Bone Gnawers respect this fetish, but werewolves of other tribes get irritated when a Bone Gnawer tries to summon them with a glorified “dog whistle.”
+
+Alternatively, with a Charisma + Animal Ken roll (difficulty 6), the fetish alerts all the street dogs in the neighborhood; actually summoning or manipulating them requires further Charisma + Animal Ken rolls. A few Masters of the Rite in urban caerns have quested specifically for this fetish, so that they can summon septs without alerting their human neighbors. Such a worthy hero proudly wears this treasure on a chain around his neck.
+
+MET: When you activate Rover's Whistle, all Garou and Kinfolk in the area can hear you. For your turn, simply call out “Garou and Kinfolk, you hear a whistle.” Everyone else should (if they're respecting the rules!) ignore this call.
+
+---
+
+### Hitching Glove
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+One size fits all — this fetish is a worn glove with extra padding around the thumb. By activating the fetish, the wearer can determine the best place within a city block for hitching a ride. The Garou can flag down a passing ride with a Perception + Streetwise roll (difficulty 8). Whether the ride is headed in the right direction depends on the number of successes. One success denotes numerous detours and delays; the ride doesn't go all the way to the hitchhiker's destination. Five successes indicate that a friendly driver will go out of his way to accommodate his passenger. The roll isn't made until the passenger gets into the vehicle, since a botch indicates a dangerous encounter. Once in the company of the stranger driving the car, the hitchhiker is on his own.
+
+MET: After you activate the Hitching Glove, you can automatically hitchhike and a car will stop to pick you up within three turns, if you're in a place with regular traffic. (This won't help in the middle of the desert.) The driver will take you to your desired destination, but it requires a full conflict/ ten minutes if it's nearby, and a full scene/ hour if it's across the city. Longer trips are outside the scope of Mind's Eye Theatre games. There's no guarantee that the driver is necessarily friendly; you might be picked up by a criminal or even a Wyrm-tainted creature.
+
+---
+
+### Spirit Radio
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 7
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+Don't touch that dial... unless you're prepared to deal with the consequences. The spirit radio is a battered little portable that runs off a dead battery. Recharging it at a caern imbues the fetish with enough Gnosis for seven uses. Activating the fetish tunes into the communications of spirits within a city block. Tuning the dial gives a rapid montage announcing all sorts of spiritual activity in the neighborhood. Any Fera or Garou listening can attune to a broadcast (even without the Spirit Speech Gift) and gather what kinds of spirits are nearby. This sounds like squealing or static to everyone else listening.
+
+Each attuned listener gets his own image of what the spirits are like, but identifying them precisely requires a Wits + Occult roll (difficulty 7). The user can then tune into any one spirit within range, hearing a report on what the spirit senses and encounters for up to one scene. If the user has any “requests,” the spirit radio reduces the difficulty of calling the spirit (with a Summoning Rite) by 2.
+
+MET: When you activate the Spirit Radio (which you can do up to seven times before you must charge it at a caern), you can follow the Spirit Keeper of your game and listen in on the next request or scene in which the Keeper takes place.
+
+---
+
+### Umbral CB
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 8
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+Ripped from the dashboard of an eighteen wheeler, this citizen band radio has been invested with powerful mojo. It won't pick up transmissions in the physical world, but it can tune in to any one Garou in the Umbra. Typically, powerful Theurges in the Deserters camp craft Umbral CB's.
+
+Before the werewolf begins his Umbral quest, he places his hand on the radio's casing. The owner of the fetish can then find the right channel to keep in touch with the Umbral traveler. No matter where the traveler ventures in the Penumbra, the owner of the fetish can hear his voice and broadcast transmissions. If the traveler crosses into the Near Umbra, another activation roll at a +1 difficulty is required to maintain contact. If the Umbral wanderer ventures into the Deep Umbra, an additional activation roll is required at a +3 difficulty.
+
+Using the Umbral CB requires a few sacred phrases to converse with the distant Garou. The owner of the fetish initiates conversation by grabbing the microphone and formally hailing his erstwhile companion beyond the velvet shadow of the Gauntlet. (“Breaker, breaker, Piss-in-the-Wind, come back?”) A brief exchange of cosmological lore establishes where the traveler is in the spirit realm. (“That's a big 10-4. What's your 10-20, over?”) Separated by the cruel division of flesh and spirit, the Garou then take turns speaking, poetically acknowledging the distance between them by ending each exchange with sacred phrases (namely, the words “come back” and “over”). Either Garou may sever this mystic link with the proper incantation. (“10-4, over and out.”)
+
+MET: When you use an Umbral CB to keep in touch with another Garou, your efforts are restricted to tuning the device and listening carefully — you can't be doing other things simultaneously. This allows you to accompany someone else in the Umbra, although you aren't actually there; indicate that you're out-of-play by whatever sign your group uses for this. You simply have the opportunity to follow and eavesdrop on everything the Umbral individual does. This only works with a willing partner.
+
+---
+
+### Thundering House-cleaver
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 100
+Strona drukowana: 99
+
+Pełny opis:
+
+Grand klaive. Larissa's grand klaive was a “bequest” from a Glass Walker that had fallen from grace before dying during a Black Spiral attack on the Sept of the Green (Larissa doesn't say which side the Walker was on). The blade's name is “Thundering House-cleaver,” and the Glass Walkers would be appalled to learn that this mighty heirloom of their tribe is currently stashed in some bushes in Central Park just in case a batty old Bone Gnawer crone needs it someday.
+
+---
+
+### Fang dagger
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 101
+Strona drukowana: 100
+
+Pełny opis:
+
+As a Philodox, she feels eminently qualified to judge her foes’ value, but she also takes on the role of punisher, kicking those foes in the balls and then burying her Fang Dagger in the base of their necks as they double over.
+
+---
+
+## TALENY

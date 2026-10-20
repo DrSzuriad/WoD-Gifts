@@ -1,0 +1,181 @@
+# WOD - Werewolf - The Apocalypse - Tribebook - Silent Striders (Revised)
+
+## FETYSZE
+
+### [Nienazwany fetysz: portal do Underworld]
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 18
+Strona drukowana: 17
+
+Pełny opis:
+
+Right after the Gulf War, a pack of Striders found a group of human cultists that had been involved in igniting Kuwaiti oil wells. The cult fled, and our pack gave pursuit — the cult used some kind of fetish to open a portal to the Underworld and ran in.
+
+---
+
+### Wanderer's Friend
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 4
+Strona PDF: 81
+Strona drukowana: 80
+
+Pełny opis:
+
+The Silent Striders have an image to maintain — that of the unflappable traveler, never lost, and never at a loss for which way to go. With expectations so high, the first step of that first journey can be a doozy. This fetish is often gifted to a young Strider by a mentor after she undergoes her Rite of Passage, as a way of smoothing the road.
+
+At first glance, the fetish appears to be a normal compass. A closer look reveals glyphs on the compass face, and a second needle floating from the center point. When the owner is holding the compass as she gets directions to her destination (and the compass has been successfully activated), the spirit of magnetism housed within hears and remembers the directions. As the Strider travels, the two needles remain together until the owner reaches a landmark or crossroads given in the directions; at that point, the second needle swings to show the next direction. The compass understands every language spoken by the Garou who created the fetish (and thus it might understand a language that its owner does not), and it is even capable of interpreting pantomimed directions with reasonable accuracy. The compass is entirely dependent on the directions received, however, and the directions might always be plain wrong.
+
+Elders grumble that some youths enamored with technology have duplicated this fetish’s functionality with a GPS receiver and an electricity elemental. The warm patina of a compass handed down for generations from mentor to student cannot be duplicated, of course. Since these fetishes are usually of use only to the newest members of the tribe, an elder seen in possession of one that isn't immediately handed to a cub will be ribbed endlessly and given unbecoming nicknames. Most Striders make it a point to hand their wanderer’s compasses off by Rank Two, or Three at the latest. This also helps ensure in small measure that the tribe’s active wanderers take some interest in helping new arrivals.
+
+MET: There are no game mechanics that govern the use of this fetish, and it functions as described above.
+
+---
+
+### Stone-Headed Mace
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 81–82
+Strona drukowana: 80–81
+
+Pełny opis:
+
+These ancient weapons were easy for human hands to craft — a hole was laboriously drilled through a large rock, and a strong wooden haft was inserted. These simple materials were also appealing to spirits allied with the Garou, particularly spirits of nature or the element of earth. Once the weapon was embellished with gold wire and carved with Garou and Egyptian glyphs, a spirit was usually willing to inhabit the fetish and lend it power. When wielded by a Homid-form Garou, a stone-headed mace does Strength + 1 bashing damage. When the wielder changes to Glabro, the mace increases proportionally, and inflicts Strength + 2 bashing damage. When the wielder assumes Crinos form, the mace grows again (resembling a small boulder on a tree trunk), at this size inflicting Strength + 3 bashing damage.
+
+Since these weapons are relatively simple to make, they are still common. Even nature spirits and earth elementals are more jaded in modern times, however, and it may take particularly skillful or precious ornamentation to convince a spirit that the mace is a suitable home.
+
+MET: The Stone-Headed Mace functions much as a Club (see Laws of the Wild, p. 196), except that it does two Health Levels of damage in Homid form, three in Glabro, and four in Crinos.
+
+---
+
+### D'siah
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 82–83
+Strona drukowana: 81–82
+
+Pełny opis:
+
+The d'siah is a knife with a flint blade curved like a crescent moon. The blade is usually eight to nine inches long and roughly two inches wide. It is primarily used in a slashing motion — while the outer edge is wickedly sharp, the inner edge may be sharpened only near the upswept point, or not at all, depending on the skill of the craftsman. When the inside edge is sharp, the trailing point can be used to thrust at the end of the slashing arc as a return stroke. In truly desperate straits, the lower, mostly decorative point close to the grip can be used to stab an opponent while in a clinch. Because this knife takes skill and training to use properly, the difficulty to attack with it is 7. It inflicts Strength damage. The war spirit bound into the blade, usually one of Cobra’s brood, is somewhat more discerning than spirits usually bound to klaives — a d’siah does aggravated damage only to Wyrm-tainted creatures (use the same guidelines as the Gift: Sense Wyrm) and any type of spirit.
+
+In addition, after a successful strike, the Strider can activate the d’siah to drain a point of Gnosis from her opponent (or a point of Essence from spirits). Because this requires a Gnosis roll, the werewolf cannot use this ability of the knife on the same turn she spends Rage for extra actions.
+
+The greatest strength of the d'siah is directed against the Striders’ greatest foes: Egypt’s vampires and their snake-like minions. The cobra-spirit in the blade lashes out violently against its tainted reflections, inflicting Strength +3 aggravated damage.
+
+Every d’siah is a fetish weapon — flint is sharp, but a blade of this length would invariably snap if subjected to the twists and jars of combat without a spirit to keep it whole. Even with the spirit’s assistance, a d’siah may break if used in combat against foes wearing armor. If the wielder’s player botches an attack roll against an armored opponent, the player must roll the blade's Gnosis rating against a target of 6. The blade snaps if the roll fails. The flint blade of a d'siah cannot be repaired; the character must find another knife, or craft one by painstakingly knapping the blade, preferably from Egyptian flint. The skill to form such a long and curved blade was rare even in early times; much of the art was lost long ago when bronze became common. Today, Silent Strider Kinfolk, archeologists and survival hobbyists keep the skill from dying out completely, but the d’siah has become rarer with every generation. Many Striders instead carry a jambiya (see below), the metal descendent of the crescent blade, which can take considerably more punishment.
+
+MET: It grants two extra traits in combat, but only does Strength damage. A d'siah does aggravated damage to Wyrm-tainted creatures. However, when facing vampires and their snake-like minions, the d'siah adds an additional damage level (and does aggravated damage).
+
+The wielder of a d'siah can use it to destroy one of its opponent’s Gnosis (or Essence) traits. After hitting, the character must make a Gnosis Test against his foe; if successful, the opponent loses one Gnosis. The Garou who wields the d’siah loses nothing if he fails this test.
+
+The d'siah has the Negative Trait “Breakable,” which can be bid against it by an armored opponent. If the character loses a combat challenge in which Breakable has been bid, the character must immediately make a Simple Test against the opponent. If the character loses this test, the d’siah breaks.
+
+---
+
+### Jambiya
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 5
+Strona PDF: 83
+Strona drukowana: 82
+
+Pełny opis:
+
+The fetish jambiya is most often a klaive forged in a form that pays homage to the Silent Strider heritage. The blade of a jambiya is curved, but it lacks the bottom point that would form the full crescent. Both edges of the blade are sharpened. Like the d'siah, it is typically used to slash with the outer edge, but the upswept point can be used to cut into the opponent with a backwards stroke. A fetish jambiya is forged from pure silver, and in larger proportions than ever created for a human wielder — roughly four inches wide at its broadest, and about eighteen inches long, though it loses some of its reach to the curve of the blade. The knife is heavy in Homid form, but a wielder with a Strength of 2 and 1 point in Melee can handle it with one hand.
+
+Because of the relatively short reach of the weapon and the skill required to wield it effectively, the difficulty to hit with a jambiya is 7. A successful strike with the fetish does Strength aggravated damage. Because of the large quantities of silver used to make the blade, the wielder’s effective Gnosis rating is reduced by one while she carries the knife.
+
+MET: The jambiya is silver, and so costs its wielder one Gnosis trait while being wielded. It grants its wielder two extra traits in combat; it does Strength damage, aggravated.
+
+---
+
+### Owl Talon D'siah
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 7
+Strona PDF: 83
+Strona drukowana: 82
+
+Pełny opis:
+
+Only two of these ancient flint blades are known to survive in the modern day. The curved blade is carved to resemble not the crescent moon, but the clutching talons of an owl. The Owl Talon has all the qualities of the standard fetish d'siah above. In addition, a second spirit, that of a desert owl, is bound to the blade; when the knife is activated to drain Gnosis after a successful strike, the owl-spirit snatches the energy up and channels it to the wielder, who adds it to his temporary Gnosis. The wielder's Gnosis may never exceed his permanent rating in this manner. Also, the wielder may activate the fetish after a successful blow against an Egyptian vampire. If successful, a blood point is drained from the vampire and converted into Gnosis for the d'siah's wielder. This Gnosis is dark and unnatural, and may push the werewolf into frenzy — as long as the character has the tainted Gnosis in his pool, his difficulties to frenzy are reduced by one per point of tainted Gnosis. Once the affected points of Gnosis are spent, the Garou’s frenzy difficulties return to normal.
+
+MET: This ancient weapon functions as an ordinary d'siah, described above. Additionally, when the character succeeds in the Gnosis test that is part of a d'siah's attack, he gains a Gnosis trait. The character can never have more Gnosis Traits than his normal maximum. The character can also use the Owl Talon D'siah to drain Blood Traits from vampires, and transfer them into Gnosis in a similar fashion. However, a Blood Trait that has been converted into Gnosis carries some Wyrm taint with it, and the character gains a “Dark Gnosis” Negative Trait that must be used against him during Frenzy tests. The Dark Gnosis trait is lost when the character expends the Gnosis that he got from vampire blood.
+
+---
+
+### Coin of Wealth
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 8
+Strona PDF: 93
+Strona drukowana: nie podano
+
+Pełny opis:
+
+Activation grants one temporary levels in the Resources Background per two successes rolled; overuse causes the fetish to shrink and lose potency
+
+---
+
+### Mephi's Cobra-Headed Staff
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 7
+Strona PDF: 101
+Strona drukowana: 100
+
+Pełny opis:
+
+Mephi's cobra-headed staff is a singular fetish, created from a cobra-spirit bound into his dearest possession — a staff that was given to him by a dear, now dead friend. While he grasps the staff, the difficulty to step sideways is reduced by 1. The staff adds one extra die to damage pools when used against evil spirits, and if driven bodily into a materialized spirit (requiring four successes on an attack roll and at least two levels of damage after soak), that spirit cannot dematerialize or use the Charm: Reform until the staff is removed.
+
+---
+
+## TALENY
+
+### Wadjet's Fang
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 6
+Strona PDF: 83–84
+Strona drukowana: 82–83
+
+Pełny opis:
+
+The throwing stick was a hunting weapon favored by Egyptian nobility. Typically, the throwing stick was ornately carved, with one end weighted so that the stick would spin through the air to strike the target (typically a marsh-dwelling bird) with the heavy end. While the Silent Striders’ enemies are made of sterner stuff than spindly-legged birds, Cobra’s spirit children are always willing to fight at the Striders' side — cobra-spirits readily enter snake-carved throwing sticks. Hitting the target with a throwing stick requires a Dexterity + Athletics roll from the player against a difficulty of 7. A successful hit inflicts the character's Strength in dice of bashing damage. If the Wadjet’s Fang is successfully activated, the venomous snake-spirit inflicts an additional three dice of aggravated damage.
+
+If the stick-smacked opponent doesn’t intentionally break the throwing stick, and if the weapon inflicts less than five bashing damage (before the opponent's soak), the throwing stick is probably intact. While Cobra’s brood are almost always willing to enter Wadjet's Fang, they are downright eager to inhabit a throwing stick that has damaged a powerful enemy and may compete for the honor. (At the Storyteller’s option, each Gnosis spent in the Rite of Binding reduces the spirit's Gnosis rating by two rather than one for one.)
+
+MET: A thrown Wadjet’s Fang uses a Physical Test to hit and the Athletics ability allows for a retest. A successful hit does one Health Level of aggravated damage.
+
+---
+
+### Pectoral of Terror
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 8
+Strona PDF: 84
+Strona drukowana: 83
+
+Pełny opis:
+
+These talens are extremely rare, and their owners rarely know the name or true nature of the beautiful necklace they have in their possession. Today these pectorals are usually created by the Silent Striders for use against the Black Spiral Dancers; others are created for use against Garou who have committed great wrongs against the tribe. The Pectoral of Terror appears to simply be a valuable and beautiful necklace, often conveniently “dropped” by a Strider (who must successfully activate the talen) fleeing the scene. It is wrought of highly refined gold, and polished as perfect as a mirror. In the hands of a human or even a vampire it is simply what it appears to be, but in the hands of a Garou it is a time bomb. The spirit bound to the pectoral is a ghost, and it hides on the edge of the Dark Umbra — only an exceptionally gifted Theurge could spot it lurking there, and few would think to try. If ever a Garou uses the polished surface of the pectoral as an aid to crossing the Gauntlet, the ghost within it snatches the werewolf away mid-crossing, pulling him instead into the Dark Umbra.
+
+The shades of the dead are drawn to these talens, especially those who hold a grievance against the proud, unsuspecting owner. They gather like vultures in the lands of the dead, waiting with the patience of the unliving for their chance at revenge.
+
+MET: The Pectoral of Terror functions as described above in Mind’s Eye Theater, as there are no game mechanics or die rolls associated with its use.
+
+---

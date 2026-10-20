@@ -1,0 +1,215 @@
+## FETYSZE
+
+### Toolstick
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+This rather simple stick, a branch broken off of a tree, can transform into any tool: hammer, wrench, etc. Although it is still made of wood, it is as hard as steel. To form the proper tool, roll Intelligence + Repair against the fetishes' Gnosis rating.
+
+---
+
+### Fish Swatter
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 54
+Strona drukowana: 54
+
+Pełny opis:
+
+By swatting the water with this stick, fish will fly up onto the shore, just as if a bear swatted them out of the water.
+
+---
+
+### Bouncing Rock
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 7
+Strona PDF: 54
+Strona drukowana: 54
+
+Pełny opis:
+
+This rock, smoothed by years in a river will bounce off of obstacles and hit multiple targets if thrown properly. Roll Dexterity + Athletics versus an eight difficulty. The number of successes is the number of targets the rock will bounce around and hit. Only one “to hit” roll against an 8 difficulty is required, and if it succeeds, all targets are hit. The rock will do the thrower's Str + 1 as damage and will return to the thrower's hand as long as at least one success is scored.
+
+---
+
+### Leaf Armor
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 4
+Strona PDF: 54
+Strona drukowana: 54
+
+Pełny opis:
+
+This shirt of leafy armor weighs as much as a shirt of leaves, but will act as two armor levels for soaking damage. There are also similar shirts of tree-bark armor which have three armor levels but add one to Dexterity difficulties while worn..
+
+---
+
+### Fire Starter
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 3
+Strona PDF: 54
+Strona drukowana: 54
+
+Pełny opis:
+
+These two sticks, when rubbed together, will instantly produce flame, as dependably (even more so) than a cigarette lighter. It can be used to start a large campfire.
+
+---
+
+### Prometheus' Torch
+
+Kategoria: Fetysz
+Poziom/ranga: 6
+Gnoza: 8
+Strona PDF: 54
+Strona drukowana: 54
+
+Pełny opis:
+
+This is a torch that forever burns. Its fire never goes out, even when dunked in water. If used as a weapon (Dexterity + Melee), it is difficulty 5 to resist, causing one wound level. It has another property, though. It gives its bearer plus one die to Intelligence and allows a roll of Intelligence + Linguistics to understand any language. This is considered to be a sacred relic to the Glass Walkers and they would do much to find it. It is rumored to be in the possession of a lupus deep in the woods, keeping it from humankind.
+
+---
+
+## TALENY
+
+### Burdock
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+If sanctified, the roots of this plant may be used to heal aggravated wounds. One dose will allow a Medicine + Intelligence roll (difficulty 8) to heal the damage. Every two successes heals one level of aggravated damage.
+
+---
+
+### Lodgepole Pine
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+The pitch of this tree, when properly sanctified, may be smeared on aggravated skin wounds caused by toxic substances, such as the pus that fill the tumors of certain fomori and other beasts of the Wyrm. One dose will remove one aggravated wound caused by this type of damage.
+
+---
+
+### Mullein
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+The sanctified leaves of this plant are burned, and the ashes stored in a packet of oak leaves. The Garou may inhale the ashes when desired. The difficulty to resist any poisonous gases or aerially-spread artificial diseases is reduced by three for the rest of the scene.
+
+---
+
+### Service Berry
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+The sanctified inner bark of this plant can be boiled in water and stored for later use. One dose of this substance will cure blindness in a Garou, even if caused by Gifts or Wyrm poisons. It will not heal damage, however; if the eyes are physically injured, they must be healed first.
+
+---
+
+### Sweet Flag
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+The root of this plant is sanctified, then steeped in water and burned over a low flame. The resulting water can be stored and drunk at a later point. One dose will aid someone who has suffered an ingested poison by reducing the difficulty to resist the poison by four.
+
+---
+
+### Wild Garlic
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+In its natural form, the leaves of this plant can be used to repel insects. However, the offensive odor, when properly amplified by the sanctification, can be used to repel humans. When smeared on the Garou's body, all Social attributes are reduced by two. However, a human must make a Wits + Intimidation roll to come within 20 feet of the treated Garou. A dose of this talen will last eight hours.
+
+---
+
+### Foxglove
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+If sanctified, this plant will protect against Faerie magics. Adds two to the difficulties of any Faerie spells.
+
+---
+
+### Rosemary
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+This sanctified plant can stimulate the memory. Subtracts two from difficulties to recall facts or experiences.
+
+---
+
+### Tool Talens
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 3
+Strona PDF: 53
+Strona drukowana: 53
+
+Pełny opis:
+
+These various odds and ends found on the ground in the wilderness (nuts, pebbles, bark, etc.) can be used with the Toolstick fetish (above) and operate as nails, screws, etc.
+
+The user must roll Intelligence + Repair against the talen's Gnosis. Each success means that five nails (screws, etc.) are created. The Tool Talens come in a sack which holds 50 potential tools. Once they are used up, the user must use Rite of Binding to create more potential tools from found objects.
+
+---

@@ -1,0 +1,57 @@
+## FETYSZE
+
+### Grand Klaive
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 61
+Strona drukowana: 60
+
+Pełny opis:
+
+difficulty 7, damage of Strength+5
+
+---
+
+### Heart of the Spirit
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 61
+Strona drukowana: 60
+
+Pełny opis:
+
+holds 6 Rage points
+
+---
+
+### Protected Assets
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 5
+Strona PDF: 62
+Strona drukowana: 61
+
+Pełny opis:
+
+This costly-looking business suit has protective spirits woven into it. It acts as three dice of armor against all forms of attack.
+
+---
+
+### The Red Sash
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 7
+Strona PDF: 69
+Strona drukowana: 68
+
+Pełny opis:
+
+This is an ornamental red sash with gold pictograms woven into it. It was given to Jacques by an Asian Stargazer before he left the East. Whenever Jacques is dodging attacks, it will increase any opponent's attack difficulty by one due to the distracting colors.
+
+---

@@ -1,0 +1,427 @@
+## FETYSZE
+
+### Bane Lantern
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 111
+Strona drukowana: 110
+
+Pełny opis:
+
+The Bane Lantern is a steel lantern painted with special markings. It casts a light of an unnatural purplish hue when commanded to ignite (the command must be spoken in Gaelic or Pictish). The Bane Lantern’s light allows all spirits hit by the beam to be seen. The beam draws all spirits in the vicinity to it, like moths to a flame, whether through some sort of power or the curiosity of the spirits.
+
+---
+
+### Banesword
+
+Kategoria: Fetysz
+Poziom/ranga: 6
+Gnoza: 7
+Strona PDF: 111
+Strona drukowana: 110
+
+Pełny opis:
+
+The Banesword is a beautifully crafted sword used by the Black Spiral Dancers. It is almost exactly like the Silver Sword, except for the powers it grants. While it does provide one extra die in melee, it also allows its wielder to siphon Gnosis from its targets; the wielder may then use it himself. Roll the sword’s Gnosis versus the target’s (only after a successful hit that does at least one Health Level after soaking). The number of successes is the amount of Gnosis drained. The sword is usable only once per opponent per scene.
+
+---
+
+### Brush of the Ancients
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 8
+Strona PDF: 111
+Strona drukowana: 110
+
+Pełny opis:
+
+Also called the Omen Brush, this small paintbrush allows the Black Spiral to paint intricate and accurate scenes, guided by the hands of an ancestor. These paintings often depict scenes of things past and things yet to come. An Intelligence + Enigmas roll (difficulty 7) is required to understand the meaning of the painting.
+
+---
+
+### Churjuroc’s Tusk
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 9
+Strona PDF: 111
+Strona drukowana: 110
+
+Pełny opis:
+
+This blackish-purple tusk belonged to a creature of the Wyrm. It was destroyed by the Black Spirals because it attempted to eat members of the tribe. There are said to be seven of these tusks (the creature had four mouths) still in existence. Each tusk is about two feet long. It is capped with a platinum ball on one end and there are detailed carvings all the way up the tusk itself. The tusk may be used to summon a Nexus Crawler once per full moon. The Bane must be appeased with the sacrifice of a Garou (even if it is the summoner). The Bane will then perform a mission of 24 hours’ duration or less for the summoner.
+
+---
+
+### Deathrattler
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 111
+Strona drukowana: 110
+
+Pełny opis:
+
+This fetish is made from the tail rattle of a creature similar to a rattlesnake; this rattle is attached to a walnut handle. The rattler has the power to frighten away all animals within hearing range. All Garou (other than the wielder) who hear the rattle may run away: roll the rattler's Gnosis vs. the Willpower of the victim(s). The number of successes is the number of turns the target(s) will flee.
+
+---
+
+### Delirium Mask
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 7
+Strona PDF: 112
+Strona drukowana: 111
+
+Pełny opis:
+
+This is a stone helmet which entirely covers the face. Anyone wearing the mask, even a non-Garou, can induce the Delirium effect in specific people. The chosen victim will react to the wearer as if she were actually a werewolf in Crinos form, even if she is not a werewolf. The face of the mask is usually carved to resemble some horrible demonic visage.
+
+---
+
+### Devilwhip
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 6
+Strona PDF: 112
+Strona drukowana: 111
+
+Pełny opis:
+
+This is a Bane’s tentacle enchanted to exist permanently in the material world. The devilwhip has a handle sewn over the end (where it was ripped from a Bane). It is solid black, slick in texture and nearly 15 feet long. A lesser Bane now resides in the devilwhip, endowing the whip with the power to animate on command. In combat, the whip swirls and cracks with a life of its own. The whip has the same effect as if the Black Spiral were actually wielding it as a normal whip, but it gives the wielder two extra dice in melee. When cracked at an individual (one action), the whip causes her to fall prostrate to the floor unless she successfully rolls Willpower against a difficulty equal to the whip’s Gnosis. It is said that some of these whips, upon striking a foe, make a noise resembling homid laughter.
+
+---
+
+### Magic Spewer
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 5
+Strona PDF: 112
+Strona drukowana: 111
+
+Pełny opis:
+
+The Magic Spewer is a device made from a homid skull. It has a handle on top allowing it to be easily carried. The lower jaw is hinged to the rest of the skull by leather bands. The Magic Spewer's eyes glow red when it is active and the lower jaw moves on its own. On command, the skull vomits forth a stream of viscous, foul-smelling toxic waste. Anyone hit by the slime of the Spewer takes damage as if it were biochemical. It does three Health Levels (difficulty 7).
+
+A side effect that will not show up until weeks later is that anyone hit by the slime will become diseased. The target must heal this illness with Mother’s Touch or Resist Toxin or suffer some type of detrimental effect (Storyteller’s discretion; be as nasty as possible).
+
+---
+
+### Soul Ruby
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 7
+Strona PDF: 112
+Strona drukowana: 111
+
+Pełny opis:
+
+The Soul Ruby is an extremely large ruby. The stone’s innate value is nearly incalculable, but its main benefit is that it contains the essence of a Black Spiral Dancer. The ruby gives telepathic advice to the possessor; furthermore, it usually has a number of Knowledge Abilities (determined by the Storyteller) which it can impart to the possessor. The dead Garou may also visit the fetish holder in his dreams, possibly offering glimpses of the future.
+
+---
+
+### Spirit Net
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 5
+Strona PDF: 112
+Strona drukowana: 111
+
+Pełny opis:
+
+The Spirit Net is similar to a fisherman’s net. It can be spread out over an area of several hundred yards. It is invisible in the Umbra, and may be used to capture nearby spirits. The spirits must make Rage rolls (difficulty 9) to escape the net. If more than three successes are made, the spirit tears a hole in the net at that spot and the difficulties of any future escape attempts by spirits are reduced by one. The hole appears in the physical world, as do the outlines of any spirits caught in the net.
+
+---
+
+### Cambertail’s Heart
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 7
+Strona PDF: 112
+Strona drukowana: 111
+
+Pełny opis:
+
+This is the mummified heart of a Fianna Theurge. The heart now contains a Bane. The heart has the power to pump whenever danger threatens. The heart can also be commanded to drive off unfriendly spirits; as it does this, it casts a reddish glow and makes a noise that sounds like feedback.
+
+---
+
+### Umbraphone
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 3
+Strona PDF: 113
+Strona drukowana: 112
+
+Pełny opis:
+
+This is a common fetish among the Black Spiral Dancers who work for Pentex. It is a cellular phone that can be used to make calls to and from the Umbra. The phone has no other purpose. Some say there are a few Rolodexes floating around in the Umbra with the numbers of several hundred Banes, Weaver spirits, Glass Walkers and Black Spiral Dancers.
+
+---
+
+### Umbrascope
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 4
+Strona PDF: 113
+Strona drukowana: 112
+
+Pełny opis:
+
+The Umbrascope allows a Garou to look into the Umbra without entering it. The Umbrascope is usually housed in a pair of binoculars or a hand-held telescope.
+
+---
+
+### Warshirt of the Wyrm
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 113
+Strona drukowana: 112
+
+Pełny opis:
+
+This is a leather tunic with a number of mystic designs drawn upon it. The shirt grants the wearer three additional dice of Stamina for the purpose of soaking damage. It changes shape as the wearer changes forms and is just as effective in the Umbra. If a wound ever does get through the Warshirt, the shirt lets out a deafening wail from the pain and red blood runs down the outside of the shirt.
+
+---
+
+### Wyrm Fang Dagger
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 113
+Strona drukowana: 112
+
+Pełny opis:
+
+These knives are said to be the rotten teeth of the Wyrm, fallen or pulled from it and made into combat weapons. Were they indeed the actual teeth, they would be very rare, but these “relics” are actually quite common. The daggers are found in many gatherings of Black Spiral Dancers. Elders sell them to impressionable young cubs, telling them what a “great and rare item it is, won by harsh and bold means. You are young, and need it more than I do. But such a thing cannot merely be given, so I will accept a token payment, to avoid insulting the beast which gave its tooth. Perhaps a mere (insert very valuable object here)?” The cubs often get savage when they realize they have been taken. However, the strange thing about these knives is that some of them actually possess power. These knives inflict aggravated damage to any wounded by them, causing festering wounds. The wounds will blacken and spread pestilence through the whole body unless the victim can be magically healed (Mother’s Touch, Resist Toxin). Only about one in 10 daggers possesses this ability.
+
+---
+
+### Wyrm-Gut Bonds
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 113–114
+Strona drukowana: 112–113
+
+Pełny opis:
+
+These are strands of especially strong gut that cannot be cut or burned (except with appropriate magic). Struggling against the bonds causes nausea unless a Stamina roll can be made against the Gnosis of the bonds. The only way to escape is by twisting in certain ways while changing forms in a certain order: Crinos form to stretch the bindings; Hispo or Lupus to slip the loops over the head; Glabro or Homid to slip the lower body through; back to Lupus to slip the paws through. All these maneuvers require Dexterity + Athletics rolls (difficulty 7) in addition to the normal rolls to transform. Five successes are required by the end. If not enough successes are achieved, the character is free but takes one aggravated Health Level for every success less than five (broken bones inflicted by the tight bonds).
+
+---
+
+### Clothing By Mister Lucian
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: 7 (full suit); 5 (single item)
+Strona PDF: 114
+Strona drukowana: 113
+
+Pełny opis:
+
+Smart, stylish, sexy. The best clothing money can buy, crafted to your specifications by the tailors of the world-famous Mr. Lucian. For those of lesser means, Mr. Lucian has an economy line of quality limited-edition suits and gowns. And Mr. Lucian’s exclusive line of dress and walking shoes is said to be the best in the world. Comfortable, functional, yet stylish. Each Mr. Lucian creation is a mark of status and distinction.
+
+Each Mr. Lucian creation also bears the mark of the Wyrm. Though not fetishes in the classic sense, the clothing of Mr. Lucian is interwoven with spell threads that accent the most negative aspects of the wearer’s personality. As Mr. Lucian’s usual clients tend to be the aggressively style-conscious rich, this enchanted clothing tends to increase the owner’s ruthlessness, greed, vanity and selfishness.
+
+Mr. Lucian is actually a Black Spiral Dancer gifted with unusual good looks, impeccable style, and a talent for self-promotion. His rare public appearances and refusal to grant interviews have led the fashion world to christen him a reclusive genius, ensuring a long line to his door.
+
+The process of creating the garments is difficult, and not entirely undetectable. The Sense Wyrm or Sense Magic Gifts can spot bespelled clothing for what it is. Garou with a Gnosis of 7 or higher will be uncomfortable in the presence of someone wearing clothing by Mr. Lucian.
+
+A full suit of this clothing possesses a Gnosis of 7. A single item possesses a rating of 5. If a Garou wishes to wear an item of bespelled clothing, roll the clothing’s Gnosis verses the character’s Willpower. Success brings out the character’s worst traits. The more successes, the worse the character behaves.
+
+Mr. Lucian’s clothing carries no special defenses. Anything that would damage normal high-quality clothing will destroy the enchantments. Spell-bound clothing does not protect the wearer in any way. Special suits woven with additional protection are possible, but these items are generally meant to corrupt.
+
+Some exceedingly exclusive clothiers carry items crafted by Mr. Lucian, starting at over $1,000 a suit. Most of the time, however, Mr. Lucian’s clients buy directly from him. In addition to allowing the Black Spiral to tailor the spell to the victim’s own personality, this arrangement ensures a steady market from the super-rich, for whom the most unattainable things hold the most value. Clothing bought this way costs no less than $5,000 per outfit, and there is a long waiting list.
+
+Locating Mr. Lucian requires at least 10 successes on an Intelligence + Resources roll (difficulty 8); this is an extended action. Only a select few are allowed an appointment. Garou who discover the true purpose of Mr. Lucian’s clothing could spend an entire story locating and stopping the Black Spiral Dancer.
+
+---
+
+### Mister Mystic
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 5
+Strona PDF: 115–116
+Strona drukowana: 114–115
+
+Pełny opis:
+
+Tommy and Jason looked at the sinister figure centered on the table; Tommy was smiling, Jason looked cynical.
+
+“There’s no way it can tell the future, it ain’t possible,” Jason declared. At the ripe old age of 12, Jason was certain that he understood the ways of the world.
+
+Tommy looked at Jason and sneered. “I already tol’ ja, it don’t tell the future, it gives you the answers to secrets.” He held the heavy plastic figure of Mister Mystic in his hands, adoration on his face. “It tells you the future of things you want to know about.”
+
+Jason stared at the eyes of the statue, wondering how they made the eyes glow that way. “Okay, let me try it,” he demanded, reaching for the toy. Tommy let him take it, smiling to himself as he watched. Jason stared into the figure’s eyes, concentrating on what it was he wanted to know. “Will I ever get a copy of X-Frenzy #1?” The question was simple, only a small test to see if the stupid statue worked. Jason almost dropped the toy when he heard the answer in his mind:
+
+“You can’t afford a copy of X-Frenzy #1, Jason. But there is a way…Tommy has two copies all to himself. Mint condition and just waiting to be read. They’re in his closet, top shelf and off to the left. Do you want them? Then here’s what you have to do…”
+
+Mister Mystic, and its counterpart Sister Mystic, are simple dolls dressed in the sinister clothing of a stage magician and a fortune teller respectively. Their appeal to children is the fact that these toys actually speak to them, telling them secrets and how to get what they want for nothing. Their appeal to parents is that the little lumps of plastic only cost $3.95 retail and seem to keep children enthralled for hours. These dolls only activate for children or teenagers, and only when the parents are not around. The dolls make suggestions that can only be heard by the person touching them, and only the desire to listen is necessary to start them talking.
+
+The Banes that are trapped in these dolls are Corruptive, and attempt to drain the Willpower of the children whenever they are held (Gnosis vs. Willpower in a resisted roll; each success drains one Willpower point). Should the child ever be brought down to zero Willpower, the Banes are released into the child’s body with full mental recollection of how the child acts. The child that has been corrupted is imprisoned within the doll and must in turn corrupt another body before being freed. These dolls are brand-new to the market, but stores have already been selling out within a day of them being placed on the shelves.
+
+---
+
+### Doctor Chuckles Surgery Kit
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 10
+Strona PDF: 116–117
+Strona drukowana: 115–116
+
+Pełny opis:
+
+Amy kissed her father goodnight, allowed herself to be tucked into bed, and tolerated a goodnight kiss from her mother, content in the knowledge that this would be the last goodnight kiss ever.
+
+Almost two hours passed before she heard the television switch off and the sound of her parents’ footsteps as they went into their own bedroom. Still she waited, patiently examining the plastic scalpel and stethoscope. The clock on her wall moved slowly, but that just gave her time to decide which of her family to operate on first. Amy lifted the plastic syringe from its spot in the Doctor Chuckles Surgery Kit and felt the fluids sloshing around inside; she watched as the thick plastic nub of a needle became a thin, stainless steel tube leading to the venom inside the main body; she watched as the white plastic body of the syringe became clear heavy glass revealing the oily black liquid inside.
+
+Amy slipped out of bed and pulled on her Doctor Chuckles Surgery Mask, breathing in the sweet odor that was only present when the sun had set and her folks were somewhere else…at least that’s the way it had always been until tonight. She’d given it a great deal of thought, and she had decided that she would work on Mommy and Daddy first. Toby, her little baby brother, would wait for last; he was the one that had stopped her last night with his nasty crying, and this time she wanted to make certain she would be undisturbed when she got to work on him.
+
+The light from the bathroom was on, as always, and the yellow light glinted off the razor-keen scalpel in her tiny fist. “Daddy first, daddy said he had a headache.” Under the surgical mask, Amy felt a smile break on her face. “Doctor Chuckles says we have to operate…No more head, no more ache…”
+
+Want to see a proud parent? Give a kid a Doctor Chuckles Surgery Kit and watch the kid’s parents smile, content in the knowledge that their child wants to be a doctor someday. This adorable little fetish all but guarantees it!
+
+Soon Junior will have all the necessary skills to remove arms and legs and even those annoying hearts and lungs. Just say where it hurts and go to sleep! Junior’ll fix that pain once and for all.
+
+With a successful Gnosis vs. Willpower roll, the Doctor Chuckles Surgery Kit will endow your child with all the surgical skills of the very best Grand Inquisitor, and at no extra charge to you, your child gets a syringe full of muscle-paralyzing venom (successful Gnosis vs. the victim’s Stamina), good for as many as seven full-grown Garou! The bad news is that only one child can ever use the kit; the good news is that at $3.99 apiece, they’re practically a steal!
+
+By the time your child is done, you’ll be dead, or you too will be a fomor.
+
+---
+
+### Action Bill Special Police Badge
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 6
+Strona PDF: 118–119
+Strona drukowana: 117–118
+
+Pełny opis:
+
+Pete fondled the Action Bill Special Police Badge in his pocket. What would Action Bill do in this situation? Wasn’t Action Bill one of the good guys? Pete shook his head, puzzled by what the badge kept telling him to do. It wouldn’t have bothered him as much if the badge didn’t talk in Action Bill’s voice.
+
+“It’s okay, Pete. I wouldn’t tell you it was okay if it wasn’t, would I? You can trust me, Action Bill never lies.” Action Bill had explained everything. All he had to do was take what he wanted from the toy store, but he had to do it carefully and avoid being caught. “It’s all part of the Action Bill’s Danger Squad training; if you get away with it, the Danger Squad sends the money to pay for everything you took. But if you get caught, you have to take the rap, because Action Bill’s Danger Squad is a Top Secret Organization…”
+
+Pete knew that was true. He watched Action Bill’s Danger Squad every day when he got home from school. He even had all of the Action Bill action figures at home. He hadn’t been able to get the Action Bill Weapons Set for his birthday; somehow it had been overlooked by his parents.
+
+Pete looked around the store, noticing that the two clerks were talking about some little kid that had been in here the other day, and what they would have liked to have done to that little kid when they caught him.
+
+Pete pinned the Action Bill Badge to his Action Bill T-Shirt, and reached into his pocket again. There it was, Dad’s Swiss Army knife. He’d watched Daddy sharpen the blade just the other day, and he knew it would be a good substitute for the Action Bill Weapons Set he was here to pick up. He looked at the price tag on the package: $27.95. He understood why his parents hadn’t picked it up for him already; that was kind of expensive, even for Action Bill stuff. Maybe if he ran really fast, he could get past the clerks; even if he couldn’t, he still had the knife. The weapons set was meant to be his, Action Bill had even told him so…
+
+Action Bill’s Badge can only be ordered through the mail, free of charge with any two proofs of purchase from other Action Bill products. Like all of the Action Bill products, the Badge is based on the popular weekday cartoon and the monthly comic book. Unlike all the other Action Bill products, the Badge helps your children learn how to get what they want at any cost — preferably through stealth, but if violence is necessary, Action Bill understands.
+
+Action Bill’s Badge is one of the more blatant fetishes created by the Pentex conglomerate, for it lacks the conniving subtlety of most others. Rather than confuse or possess the child’s mind, Action Bill’s Badge uses outright enticement, explaining to the child that he or she is now an agent-in-training, and has to keep quiet about the training or be fired before even having a chance to fight the evil minions of W.O.L.F. Name a kid who doesn’t want to save the world from Wolf-Commander and his evil troops and Action Bill will show you a coward who loves evil. What kid would want that hanging over his or her head? Action Bill is a hero. Wouldn’t you want to train with him too?
+
+The Badge and the child make a resisted Gnosis vs. Willpower roll. If the Badge scores more successes than the child, the child will literally lose all moral inhibitions; he will be convinced that Action Bill wants him to join the Danger Squad, and equally convinced that even deaths will be fixed by the Danger Squad. If the only way to get that bottle of rum, the one that Action Bill says is needed to win the next test, is to beat Mommy’s head in with a shovel, Action Bill will fix the troubles; after all, not even the bad guys get hurt on the Action Bill and The Danger Squad show…
+
+The Badge prefers that its bearer not get into too much trouble, simply enough to ensure a definite corruption by the Wyrm. As a result, most of these badges don’t goad their owners into acts more felonious than simple shoplifting, at least not until they’re old enough to handle a gun. After that, it’s time for Action Bill’s Advanced Training, where you too can learn how to rob a bank, or pass along that secret antidote to W.O.L.F.’s mind-controlling gasses (in the form of heroin or crack cocaine). Once the Badge has corrupted a child to the Danger Squad, the child will secretly carry the Badge until the day he dies, convinced that the training will soon be over.
+
+---
+
+## TALENY
+
+### Bean Bane
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 7
+Strona PDF: 114
+Strona drukowana: 113
+
+Pełny opis:
+
+A Bean Bane is a small dried bean of any type. The bean has a Bane placed within it. If the bean is ever planted in the dirt, the Bane will be freed from the bean. For the first few turns (one per Gnosis success; difficulty 6) after it “sprouts” it will be able to Materialize itself without having to expend any of its own Power. These Banes are usually inclined to help Black Spiral Dancers. This bean’s effects on the gastro-intestinal system of a creature who consumes it are best left to the Storyteller's fiendish imagination.
+
+---
+
+### Dragon’s Ichor
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 5
+Strona PDF: 114
+Strona drukowana: 113
+
+Pełny opis:
+
+Usually found in small jars or vials, Dragon’s Ichor is black blood taken from a powerful Wyrm creature. If the ichor is rubbed all over the body it will cause the Black Spiral Dancer to become temporarily immune to all attacks from spirits. This effect lasts for only five turns. Usually there is only enough blood contained in one of these jars for two uses.
+
+---
+
+### Goblin Ale
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 4
+Strona PDF: 114
+Strona drukowana: 113
+
+Pełny opis:
+
+This is an alcoholic beverage which is normally obtained from faeries. Goblin Ale contains spirits which enter the drinker. The spirits cause the individual to suffer hallucinations; the drinker might even accidentally enter the Umbra. Despite these negative effects, Goblin Ale is more intoxicating than any homid-brewed ales. Goblin Ale is used at many Black Spiral Moots.
+
+---
+
+### Storm in a Bottle
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 6
+Strona PDF: 114
+Strona drukowana: 113
+
+Pełny opis:
+
+This is a bottle which contains a Wyrm-tainted storm. The storm is terrible on both the physical world and the Umbra. It strikes any exposed enemy of the Wyrm with a lightning bolt unless the victim makes a Dexterity + Athletics roll (difficulty 6). The lightning does four Health Levels of damage. The lightning will only strike an individual once.
+
+---
+
+### Voidstone
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 5
+Strona PDF: 114–115
+Strona drukowana: 113–114
+
+Pełny opis:
+
+This powerful object is a small, smoothly polished black stone. If it is thrown at any one target, and makes a
+
+successful Gnosis roll vs. the target’s Gnosis, that target is forever banished from the material world, though it may still exist on the Umbra. Voidstones may only be used once each, and they are exceedingly rare.
+
+---
+
+### Wyrm-wood
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 3
+Strona PDF: 115
+Strona drukowana: 114
+
+Pełny opis:
+
+Wyrm-wood is a blackened vine growing unnaturally deep within the earth. When enough of this wood is collected and burned, it has the power to protect all within the range of its horrible smell from attacks by spirits of all sorts, regardless of the spirits’ power.
+
+---

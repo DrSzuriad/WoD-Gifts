@@ -1,0 +1,213 @@
+## FETYSZE
+
+### The Lightning Spear
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 6
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+This ancient spear transforms into a bolt of lightning when activated and thrown at an enemy. It does four dice of aggravated damage if it hits and automatically returns to the hand of its possessor, turning back into a solid spear.
+
+---
+
+### Pipes of Terror
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 6
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+This is a finely woven bag and set of well-crafted pipes. When the bagpipes are played and successfully activated (they do not have to played well), all Wyrm spirits within hearing range must check their Willpower (difficulty 6) or flee in terror.
+
+---
+
+### Torc of Wisdom
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 5
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+When activated, this torc increases a Garou's permanent Willpower, Rage or Gnosis (choose only one) by one point (one dot on the character sheet) until the end of the scene. Multiple torcs do not have cumulative effects.
+
+---
+
+### Knotwork
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+The Fianna have created many types of knots for binding spirits. Each of these knots can hold a different type of spirit (for a look at the vast array of Celtic knotwork, visit a library or bookstore). If a Garou botches when activating the knotwork, the knot unravels and the spirit is freed.
+
+---
+
+### Knot of Protection
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 7
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+When activated, this knot automatically soaks the first wound level of damage taken by a Fianna in any given turn. This knot contains a turtle or stone spirit.
+
+---
+
+### Tattoos
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+Much like Knotwork, Fianna may give themselves tattoos of woad and bind spirits within them.
+
+---
+
+### Tattoo of Protection
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 7
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+See Knot of Protection, above. If the Garou botches her activation roll, the tattoo flares and vanishes from her skin.
+
+---
+
+### Excaliber
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+The Fianna have many legends about powerful magical items that transcended the limits of most fetishes. Fetishes like Excaliber, the Spear of Destiny and the Holy Grail (or Cauldron of Life) are artifacts and cannot be purchased by player characters; they must be found through adventure. It is up to the Storyteller to decide whether or not these items can be obtained and their powers within her chronicle.
+
+---
+
+### Spear of Destiny
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+The Fianna have many legends about powerful magical items that transcended the limits of most fetishes. Fetishes like Excaliber, the Spear of Destiny and the Holy Grail (or Cauldron of Life) are artifacts and cannot be purchased by player characters; they must be found through adventure. It is up to the Storyteller to decide whether or not these items can be obtained and their powers within her chronicle.
+
+---
+
+### Holy Grail (or Cauldron of Life)
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+The Fianna have many legends about powerful magical items that transcended the limits of most fetishes. Fetishes like Excaliber, the Spear of Destiny and the Holy Grail (or Cauldron of Life) are artifacts and cannot be purchased by player characters; they must be found through adventure. It is up to the Storyteller to decide whether or not these items can be obtained and their powers within her chronicle.
+
+---
+
+## TALENY
+
+### Gaia's Best
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 7
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+The absolute peak of Fianna brewing. Only a master brewer can make Gaia's Best. The ingredients are kept secret, and an apprentice brewer must pass many arduous tests before she learns the ancient methods of brewing. All that most Fianna know is that it takes years of work to make Gaia's Best.
+
+The drinker must make a Stamina roll against the Gnosis of the brew. If he fails, he immediately falls into a deep sleep, filled with wonderful dreams of happy childhood memories and faeries.
+
+If he botches, he stays asleep for a full day and doesn't rise under any circumstances.
+
+If the drinker succeeds, he regains all his Willpower and Rage points, and becomes very happy. All his physical attributes rise by one for the next 24 hours. The effects of multiple draughts of Gaia's Best aren't cumulative. In any event, a few mouthfuls of this will send even the most hardy Ahroun reeling, regardless of her Stamina.
+
+---
+
+### Unicorn's Milk
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 6
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+This drink is passed around during tense meetings to help the assembly relax. The drinker must make a Willpower roll against the Gnosis of the drink. If the drinker is successful, this elixir raises the difficulties of all Rage rolls by two.
+
+If a drinker fails his roll, he loses a Rage point. If he botches, then he loses all but one of his Rage points, and he becomes a happy, philosophical drunk. The Fianna refer to this state as being comfortably numb.
+
+In order to make Unicorn's Milk, the brewer must find a piece of hair from a unicorn's mane, usually gotten by traveling to the Children of Gaia homeland.
+
+---
+
+### Faerie Fyre
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 7
+Strona PDF: 52
+Strona drukowana: 50
+
+Pełny opis:
+
+This drink is especially favored by Fianna, because it gives a hot rush and makes the eyes of the drinker glow slightly.
+
+A Garou who drinks Faerie Fyre must make a Willpower roll against the Gnosis of the draught. Failure means that all Willpower rolls increase in difficulty by one (+2 if the Storyteller is using the Fianna Tribal Weakness; see above). A botch means the drinker gets completely drunk and wild, acting on her basic passions, completely uninhibited. Faerie Fyre is called Wyld Wine by some Fianna.
+
+---
+
+### War Whiskey
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 6
+Strona PDF: 53
+Strona drukowana: 51
+
+Pełny opis:
+
+War whiskey is a harsh drink that explodes in the throat and burns all the way down. Some Fianna packs like to take a few shots before battle.
+
+The imbiber rolls Willpower against the Gnosis of the drink. If successful, she can ignore the first wound level of damage she suffers in combat. If she fails the roll, then all Rage roll difficulties are reduced by one for the rest of the scene. If she botches, then she frenzies immediately.
+
+---

@@ -1,0 +1,83 @@
+# WOD - Werewolf - The Apocalypse - Tribebook - Shadow Lords (Revised)
+
+## FETYSZE
+
+### Judge's Dagger
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 4
+Strona PDF: 80–81
+Strona drukowana: 79–80
+
+Pełny opis:
+
+These jet-black blades are used exclusively by the Judges of Doom. They are feared weapons, and with good reason — many a target has fallen to a single strike from such a blade. Before they can be useful, however, they must first be attuned to a target. Two things are required before this may happen. First, the target must be guilty of violating the Litany in some fashion. The specifics are not important, but the dagger works much more effectively if the transgression is a serious one. Equally important is the need for an item of significance to the target or (preferably) his blood. If the target is guilty and the item is available, the dagger may be properly attuned.
+
+To attune the blade, the wielder must make a Charisma + Rituals check (difficulty 7) and invest a number of Gnosis points in the dagger equal to the target's Rank. (Those without Rank are exempt from the law of Litany, of course, although Black Spiral Dancers may still be targeted — they are, after all, criminals against Gaia.) This Gnosis remains in the dagger until the victim is slain, and may not be recovered until that time. Once the dagger is attuned, however, the wielder may learn the direction of the target relative to herself simply by placing the dagger in a pool of water. Any pool will do — some Judges have even used rainpuddles. If there's room for the dagger to move, it will unerringly point out the target's location (assuming the victim isn't using Gifts or other supernatural powers to mask his true location).
+
+Once the Judge has found the target, the second benefit of attunement becomes apparent. Any successful strike by the dagger inflicts a number of levels of aggravated damage equal to the number of Gnosis points stored within it, in addition to normal dagger damage. Only the intended target may be damaged in this fashion — the target's allies are not affected. Once the target has been eliminated, the wielder's Gnosis returns to her and the dagger may be attuned to a new target. To create a Judge's Dagger, a spirit of vengeance or retribution must be bound within the weapon.
+
+
+MET: The dagger must be attuned to the target, first by determining that the target is guilty of violating the Litany and then by acquiring something personal of the target, preferably blood but anything personally significant to the target will do. Make a Static Social Challenge against seven Traits (retest with Rituals) and invest the dagger with the same amount of Gnosis as the target's Rank. Cubs without Rank are considered exempt from the law of the Litany, not to mention some find it rather crass that a Judge is hunting a mere cub. In the case of something without Rank (such as a human, a vampire or other supernatural creature), the Storyteller may decree that no Gnosis is necessary or some taken expenditure is required to put weight behind the task. No more than six Gnosis may be added to the dagger. Any Gnosis spent remains in the dagger until the victim is slain. The attuned dagger may be placed in a pool of water big enough for the dagger to turn, and it will point in the direction of the target. The target can mask his location by using Gifts or supernatural means. Any successful strike using the dagger inflicts levels of aggravated damage equal to the amount of Gnosis stored in it, in additional to the normal lethal damage the dagger itself inflicts. Only the attuned target may be slain in this fashion. Once the target is slain, the Gnosis returns and the dagger may be attuned again.
+
+---
+
+### Assassin's Klaive
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 5
+Strona PDF: 81–82
+Strona drukowana: 80–81
+
+Pełny opis:
+
+The weapon of choice for Theurges who need to see a rival eliminated, these bone-colored blades are also used to quickly and quietly destroy those that prove to be difficult to attack directly. Sleek and deadly, assassin's klaives are easily hidden underneath clothing, and are quite innocuous if observers don't know what to look for.
+
+The snake-spirit within the klaive allows the possessor to expend a point of Gnosis to activate one of the following abilities: surround himself with an aura of absolute silence for a scene, mask his scent for one hour, or eradicate his footprints while he walks for one day. The blade is not actually silver, but inflicts the wielder's Strength in aggravated damage, and the difficulty to soak wounds from an assassin's klaive is raised by 1.
+
+
+MET: The spirit in the assassin's klaive allows the holder to do one of three things, after spending a Gnosis Trait — mask his scent for one hour, erase his footprints when he walks for one day or surround himself with absolute silence for one scene. These effects are noticeable by others and bound to cause comment. The klaive inflicts aggravated damage with a successful attack.
+
+---
+
+### Thunder's Bracers
+
+Kategoria: Fetysz
+Poziom/ranga: 6
+Gnoza: 9
+Strona PDF: 82
+Strona drukowana: 81
+
+Pełny opis:
+
+This mighty fetish is exactly what its name implies it to be — a pair of armor plates for the forearm which are tied to the storm, infused with a portion of Grandfather Thunder himself. There is, to date, only one set in existence, and the Margrave Konietzko wears them. The bracers appear to be made of a deeply stained metal, set with the teeth of an unknown creature. They are a symbol of his power, but not the source of it — the Margrave was crushing his opponents long before he created these bracers, and he will continue to do so should they leave his possession.
+
+Thunder’s Bracers have many powers. They increase the wielder’s Strength by 4 points, and the wielder may make claw attacks normally. If the wielder uses the bracers to block an attack made with a metal weapon, or with an unarmed attack, the assailant automatically suffers two levels of lethal damage due to the electrical discharge generated by the armor. Additionally, the bracers provide up to four Gnosis points to the wielder per day, which may be used as he sees fit.
+
+Finally, the wearer of the bracers may spend three Gnosis points to call forth a bolt of lightning to smite his foes. If there happen to be storm clouds overhead, the lightning comes from them; otherwise, it comes from the bracers themselves. In either case, the lightning deals five levels of aggravated damage to a single target, which may not be soaked by any means.
+
+MET: Thunder's Bracers grant the wielder the Physical Traits Ferocious x 4, even if they put him over his maximums, and do not interfere with his ability to fight with claws. If the wielder blocks an attack made with metal weapons (even silver) or with bare hands using the bracers, the attacker suffers two levels of lethal damage caused by electrical discharge. The bracers grant the user four Gnosis Traits a day, which may be used normally. Lastly, the bracers can call forth lightning against a single target, after the wielder spends three Gnosis Traits. If there are storm clouds overhead, the lightning comes from them; otherwise it comes from the bracers. This lightning inflicts five levels of aggravated damage.
+
+---
+
+## TALENY
+
+### Leech's Blood
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 3
+Strona PDF: 82
+Strona drukowana: 81
+
+Pełny opis:
+
+Many Garou wonder how the Shadow Lords have managed to persist in Eastern Europe despite the vampiric strongholds which seem to dominate the area. While much of the reason has to do with the guile and tenacity of the Lords themselves, talens like this one help ensure that the Lords’ Kinfolk will survive even when surrounded by Leeches. They survive because vampires learn not to feed upon them. The vampires never know, after all, one might have Leech’s Blood on her person.
+
+This vial of syrupy liquid is useless to Garou, but quite valuable for their Kin. Any human may drink the blood with no ill effects. Any vampire drinking the human’s blood, however, suffers one aggravated wound for every blood point drained from the human. The talen’s potency takes approximately one minute to make itself manifest, so the vampire may drink quite a bit of blood before she realizes she’s been poisoned. Making the talen requires a vial of normal human blood and a fire-spirit, but is otherwise fairly simple. Its potency lasts for one night after being drunk.
+
+MET: Vampires who drink from a human that has consumed Leech’s Blood suffer one level of aggravated damage for every Blood Trait consumed. These can be healed normally. Leech’s Blood’s effects last for one night after a human consumes it.
+
+---

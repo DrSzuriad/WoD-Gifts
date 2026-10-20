@@ -1,0 +1,251 @@
+## FETYSZE
+
+### Glass Mites
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 5
+Strona PDF: 115
+Strona drukowana: 114
+
+Pełny opis:
+
+Glass mites aren’t alive in any strict sense of the word. They simply mimic that state remarkably well. Glass beads no more than a half-inch in diameter, a handful of mites will sit comfortably in a leather pouch for days or even years until needed. However, once they are activated it is both time-consuming and difficult to recapture them.
+
+Once triggered, glass mites animate into a frenzy of sound and motion. Spread out on the ground and infused with Gnosis, they swirl into a hovering cloud of multifaceted annoyance. While they don’t actually attack a particular target, they will torment a chosen victim through distraction, getting underfoot, high-pitched chittering and so forth.
+
+Systems: Any victim of an infestation of glass mites is at a +1 difficulty to perform any action, +2 for anything involving concentration. This lasts until the energy infusing the mites drains out or they get bored and wander off. Either is liable to take between one and eight turns.
+
+A victim of glass mites will appear to be flailing at nothing, jumping at shadows and generally acting very strangely. However, anyone seeking to take advantage of this by attacking the victim immediately scatters the glass mites, and releases the target from his torment.
+
+---
+
+### Green Leaper
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 4
+Strona PDF: 115
+Strona drukowana: 114
+
+Pełny opis:
+
+A Green Leaper is nothing more than a roughly frog-shaped lump of moss. It’s quite fragile, and must be kept moist lest it crumble to dust. However, when a Garou concentrates and turns the Leaper loose, it suddenly looks much more frog-like and indeed becomes animate, leaping from surface to surface in a random pattern. This includes living creatures, and more than one Pentex goon has been unnerved by the sight of verdant growth emerging from his gun hand as he watches.
+
+Systems: Where the Leaper lands, a patch of moss immediately starts growing. While this may not seem like much, a sudden lush outgrowth of moss can play havoc with electronics, computer equipment and so forth. The moss is easily removed, and the Leaper reverts to its original, inanimate state after six turns. However, it can jump up to a dozen times within the space of a single turn, leaving quite a mess behind it.
+
+On rare occasions (and with the expenditure of an extra point of Gnosis), the patch of moss the Leaper leaves behind starts to spread rapidly. This fact has produced a favored monkeywrenching tactic: shoving overcharged Leapers under the door into server or control rooms and turning them loose. Within minutes, the entire room is liable to be covered in a thick growth of soft moss, which needless to say, doesn’t do the equipment any good at all.
+
+---
+
+### Swarmbags
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 4
+Strona PDF: 116
+Strona drukowana: 115
+
+Pełny opis:
+
+Simple cloth pouches, tied and knotted with leather thongs — swarmbags don’t look like much. True, they do have something of an unpleasant consistency to them, but until thrown they are inert lumps and nothing more. The shapeshifter lucky enough to be granted these talens usually finds between four and a dozen.
+
+Once they are tossed at an enemy, however, swarmbags become an entirely different proposition. On contact (a Dexterity + Athletics roll, difficulty 5 is required to score a direct hit), the bag bursts open as a swarm of crawling, biting creatures erupts and frantically scurries about whatever — or whomever — the bag has hit.
+
+Systems: Without a successful Willpower roll (difficulty 7), the target immediately ceases whatever he was doing and starts trying to sweep the bugs off of himself. Doing so requires 2 successful Dexterity rolls (difficulty 6), giving the werewolf who tossed the swarmbag in the first place at least one clear shot. Even those targets who make their Willpower rolls are at +1 difficulty for all actions until the bugs are either scraped off or fall off of their own accord.
+
+The contents of a swarmbag are a mixed lot: insects, arachnids, worms and less identifiable creatures. None are venomous, but some bite (albeit for no damage). The creatures swarm for up to 6 turns after being hurled at a target, and they will not infest anyone or anything except their original victim.
+
+Only one Swarmbag can be thrown at a time, though enterprising Garou have attempted double-barreled action in the past.
+
+---
+
+### The Bent Vine
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 5
+Strona PDF: 116
+Strona drukowana: 115
+
+Pełny opis:
+
+The Bent Vine is nothing more than a withered and dried piece of kudzu with a glyph scratched painstakingly into it. No more than three inches long, it’s utterly unremarkable to look at. However, when dropped on soil of any sort, the Bent Vine springs to life as a positive hydra of greenery. If it’s brought in contact with vines that already exist, it stirs them into a frenzy of explosive growth. The resultant wave of vines is aggressive, dangerous and inclined towards grabbing anything nearby for purposes of pulling bits of it in multiple directions. As a result, Bent Vines make excellent cover for a Garou looking to beat a hasty retreat in the face of aggressive pursuit.
+
+Systems: A Bent Vine has a Strength of 4 and a Dexterity of 5, and can make up to a dozen attacks per turn. The Vine itself must land on either soil or plant matter to be effective, but once it is activated, the monstrous growth is almost instantaneous. A contested Strength roll (difficulty 6) is needed to tear loose from a clinging vine, but as up to five vines can nab a Garou-sized target at once, it’s entirely possible for someone to get overwhelmed, quickly.
+
+There are no degrees of aggressiveness for Bent Vines. Once they are called forth, they are mindlessly ferocious. Furthermore, they make no distinction between friend and foe, and a Garou who stops to watch his handiwork runs the risk of getting a little too close to the action.
+
+Bent Vines last for five turns, though the investment of a point of Rage can double the duration.
+
+---
+
+### Cold Ichor
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 116
+Strona drukowana: 115
+
+Pełny opis:
+
+Cold Ichor occasionally manifests itself in the dew off certain species of tree found near Wyld places. The fluid is an iridescent, almost glowing green that easily catches the eye, and it collects in just a few leaves at a time. Garou who recognize the liquid for what it is harvest it very carefully, or else give the tree producing it a wide berth. Cold Ichor can be stored very easily in glass or ceramic, and it is neither caustic nor acidic. Until used, it will sit quiescently in whatever container holds it, perhaps glowing faintly in the proper light.
+
+Garou who harvest Cold Ichor, however, are very careful with it, and will wash themselves thoroughly after even coming near the stuff. It’s simply too dangerous to treat with anything other than extreme caution.
+
+System: What Cold Ichor does is dramatically accelerate cell growth in anything it touches, once activated. Both plant and animal matter are affected, succumbing to rampant, uncontrolled growth that can have absolutely dire consequences. External contact tends to produce huge (usually benign) tumors; internal use can produce something best described as an extremely accelerated cancer. The actual effects are variable (and their game effects are left to Storyteller discretion), but drinking something that’s been laced with Cold Ichor is almost always a very bad idea.
+
+Note that the substance also produces massive sudden growth in plant life as well, which is useful for rapidly camouflaging a cache with overgrowth and suchlike. For some reason, Cold Ichor is much less destructive to plant tissue than to animal, though caution in using it is still an excellent idea.
+
+The effect of Cold Ichor is almost instantaneous, though it only lasts for a minute or so. However, in most cases a minute is more than enough.
+
+---
+
+### Ded Bugz
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 117
+Strona drukowana: 116
+
+Pełny opis:
+
+While it’s not necessarily the most attentive member of the Triat, the Wyld does keep up with the times. It also, if this fetish is any indication, possesses a mediocre-to-poor sense of humor. Ded Bugz are almost exactly what their name would suggest, insect cadavers tucked into grass-and-straw versions of themselves. (Purists suggest that this is related to the custom of the wicker man; cynics note that it’s difficult to carry around dead bugs without squashing them beyond recognition. The Wyld itself is mum on the matter.) No more than an inch or two long, these fragile contraptions nonetheless can be quite effective.
+
+System: A Ded Bug randomizes numbers and fries systems. It’s excellent for wiping disks and otherwise making computer equipment emphatically unserviceable. The Bug does not emit an electromagnetic pulse. Rather, it tells all of the local ones and zeroes that they have the opportunity to mix themselves up again, as it were, effectively fragging any sort of storage medium.
+
+All that’s required for this effect is for the Garou possessing the Ded Bug to place it on top of the system, disc or other item she wants randomized, and then to concentrate on the target item. The one caveat is that the Ded Bug must be in perfect condition for it to function, which means that the Garou toting this item around must be extremely cautious.
+
+Ded Bugz do not, however, work on living tissue, though trying to fry someone’s mind with one is a good way to get various Wyld-spirits very irritated.
+
+---
+
+### Wyldflute
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 117
+Strona drukowana: 116
+
+Pełny opis:
+
+A Wyldflute is a variation on the panpipes, and looks about as threatening. A non-Garou playing one is liable to get a series of toots and whistles, nothing more. A Garou who’s in the know, however, can get something far more impressive.
+
+System: The Wyldflute, when played for effect, instantly instills a single emotion at fever pitch in all that hear it. The unfortunate thing is that the emotion instilled is random from listener to listener. One may feel joy, another terror, a third inchoate rage. The effect is, as one would expect of a gift from the Wyld, totally without rhyme or reason, and the end result is often pure chaos.
+
+A successful Willpower roll (difficulty 7) enables a listener to resist the effects of the Wyldflute, though another roll must be made for every minute that the flute’s music can be heard. Note that the Wyldflute must actually be played for its powers to have any effect. Random huffing and puffing doesn’t get the job done.
+
+---
+
+### Birnam Sands
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 7
+Strona PDF: 117–118
+Strona drukowana: 116–117
+
+Pełny opis:
+
+Birnam sands don’t look like anything spectacular. Indeed, they resemble nothing so much as a handful of yellowish dust, marred with occasional sparkles that the untrained eye might take for flakes of mica or quartz. Close examination, however, reveals that the shimmers actually move throughout the sand at a pace just short of a blur.
+
+What the Birnam sands do is quite remarkable. A pinch of the dust, properly activated and sprinkled in a circle around the base of a tree, is enough to convince the tree to pick up its roots (temporarily) and go walking in a random direction. Needless to say, a hundred-year old oak tree gallivanting about using its roots for legs can do quite a bit of damage, and when a particularly crafty werewolf gets a whole grove up and stomping around at once, the results are usually quite impressive. The effect of the sands lasts up to a half an hour, and while the trees seem to be utterly chaotic in their motion, they always somehow manage to avoid colliding with one another or with the Garou who turned them loose. Said Garou’s companions, however, may not be quite so lucky.
+
+When the effect of the sands wears off, the trees re-root themselves comfortably and stably in their current positions. Left behind are gaping holes in the earth and torn-up sod where they once stood, but anyone looking at the trees’ new positions would have sworn they’d been there for years.
+
+System: Generally a small handful of the sands can handle between one and five trees, a medium one between five and 10, and a full pouch up to 20 trees. There are songs of legendary Garou spreading enough of this material around to wake entire forests, but the amount of sand needed to accomplish that feat is simply mind-boggling.
+
+The Garou who wakens the trees will not be harmed by them. However, she also has no control over them; the best she can do is stay out of their way. Awakened trees have no apparent sight or hearing, but they can respond to a threat. Anyone attempting to cut down or otherwise harm a rampaging tree is liable to be trampled by several tons of very angry wood. However, even just a blundering tree is liable to do a lot of damage to buildings, cars and whatever poor souls get in its way.
+
+Like all other Wyld fetishes, Birnam sands are found, not made. Occasional upwellings can be discovered near Wyld places, but such fountains are always brief, and always vanished upon a return visit. Essentially, the Garou who is lucky enough to find such a deposit (assuming he knows what he’s found) can take as way as much as he can carry at the time, but that’s all. Upwellings of Birnam Sands are only found by solitary Garou, for some reason. Attempts by a werewolf to inform others of his find inevitably produce nothing more than barren patches of sand and faint echoes of mocking laughter.
+
+---
+
+### Primordial Slime
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 5
+Strona PDF: 118
+Strona drukowana: 117
+
+Pełny opis:
+
+Primordial Slime is possibly the Wyld’s ugliest creation, and there’s plenty of competition for that title. A dull greenish-black in color, it has the consistency of vomit and a stench to match. Only glazed ceramic jars will hold the stuff safely, though Glass Walkers swear by Pyrex lab glassware. In any case, it’s vicious stuff, but thankfully not at all common.
+
+Where the stuff comes from is unknown, and very few Garou are at all eager to find out. Even the name is something of a mystery. According to lore, a young Glass Walker Theurge saw it for the first time and commented derisively that it looked like the primordial slime back before life had dragged itself into existence. The story was passed around and the name stuck, but the laughter at the tale has always been just a little bit uneasy.
+
+System: Primordial Slime’s one great attribute is that of transmogrification. Brushed onto any non-living surface (only a brush made from Garou hair will do; anything else is changed instantly), it changes that surface into another substance. While the Slime is incapable of transforming inorganic matter into living tissue, it can turn a brass padlock into chalk, a length of rope into steel cable, or a stone wall into cheese. However, it can also turn that stone wall into strontium-90 or glass — the effect is totally and utterly random.
+
+The only other limitation on the use of Primordial Slime is that something that has been changed once cannot ever be affected by the liquid again. This makes its use a gamble, and never something to rely on.
+
+---
+
+### Stone Kettle
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: Variable
+Strona PDF: 118
+Strona drukowana: 117
+
+Pełny opis:
+
+Contrary to its name, the Stone Kettle is not, in fact, made of stone. Usually it’s blackened iron, sometimes wood, but always deceptively rough-hewn. There’s only the vaguest glimmer of anything supernatural about the kettle (which, in truth, looks exactly like a cheap piece of cookware), and only those looking hard will notice that the battered pot is more than it seems.
+
+For while a Stone Kettle can be used as simply that, it also can perform a few other, more interesting functions. With just some boiled water and a stone, a Garou who knows what he’s doing can use the Kettle to boil up vapors, stenches, clouds and suchlike to suit his purposes. If he doesn’t know what he’s doing, however, he just might brew something with unexpected — and dangerous — consequences.
+
+System: Unless the werewolf working with Stone Kettle invokes the Wyld beforehand, it functions as just an ordinary pot. Anyone attempting to activate it without doing so is liable to get nothing more than several helpings of granite-flavored broth, and that’s if he’s lucky. If, however, the werewolf knows his business and does things properly, he can cook up practically any sort of cloud within reason. The type of fog to be summoned must be specified beforehand — if it is not, the exact sort of foul smoke that comes out of the kettle is left to Storyteller discretion. However, it is unlikely to be helpful to the Garou wielding the ladle, or even safe.
+
+A Wits + Rituals roll (difficulty 6) is necessary to summon forth the kettle’s contents. The more successes, the greater the volume of cloud summoned and the longer it lasts.
+
+Gnosis Rolls for Summonings from the Kettle
+4  Fog, Cold wind, a faint, pleasant aroma
+6  Stench-laden fogs, Icy winds, Smoke
+7  Clouds thick enough to make those trapped in them choke
+9  Clouds thick enough to make those trapped in them ill
+
+Note: The Kettle costs an additional point of Gnosis to activate for each level of fog created.
+
+The uses of the Kettle are limited only by the Garou’s imagination, and the fact that under no circumstances will the Kettle brew up something that is an actual poison. The first time a Garou attempts to do so, the Kettle will shatter.
+
+---
+
+### Venomous Swarmbags
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 6
+Strona PDF: 118
+Strona drukowana: 117
+
+Pełny opis:
+
+These are identical to regular Swarmbags, except that the creatures released are all venomous to a greater or lesser degree. While it is unlikely that any given bite will be deadly, there is always that chance....
+
+---
+
+### Willowhip
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 5
+Strona PDF: 119
+Strona drukowana: 118
+
+Pełny opis:
+
+Appearing as nothing more than a green, leafy coil of willow branch, a Willowhip is surprisingly deadly for something so innocuous-looking. Extending up to 18 feet in length, the Willowhip is used exactly like a bullwhip, though to much greater effect.
+
+System: When a Willowhip wraps the arm or leg of an opponent, it does not release. Rather, it grows — encasing and mummifying the victim in green willow wood in just three turns. When the process is completed, the Willowhip breaks off at its normal length.
+
+A Strength roll (difficulty 8) is required to break free, but that just undoes one turn’s worth of growth. A victim who is completely encapsulated needs three successful rolls to break free. While the mummification process is happening, the Garou who possesses the Willowhip cannot take any other action involving the whip. If she does so, the process aborts instantly.
+
+Once a victim is mummified, he is completely immobilized. On a botched Strength check, he begins to suffocate, and unless freed within five turns, he will asphyxiate.
+
+---
+
+## TALENY

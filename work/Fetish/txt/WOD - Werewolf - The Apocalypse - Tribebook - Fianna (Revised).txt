@@ -1,0 +1,287 @@
+## FETYSZE
+
+### Silver Crown
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 27
+Strona drukowana: 26
+
+Pełny opis:
+
+But the Fang King wasn’t one to take no for an answer; he pulled out one of our oldest fetishes, the Silver Crown. The power of the Crown compels obedience, and the King intended to be obeyed. The Fenrir leader, impossibly, resisted the call of the Crown; drunk with power and angered at the defiance, the Fang drove his klaive through the old warrior’s stubborn heart. The Fianna righ was a little wiser; he knew he couldn’t fight the royal power of the mighty artifact, and agreed to supply an outrageous force of defenders to the king’s levy. When beyond the walls of the Fang’s court, however, he shook off the command and returned to prepare his own septs for battle — against the tyrannical Silver Fang king.
+
+---
+
+### Goibhniu's Hammer
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 6
+Strona PDF: 78–79
+Strona drukowana: 77–78
+
+Pełny opis:
+
+Though not a combat fetish, it is highly prized by Fianna smiths; some of the finest weapons, including several klaives, were forged with these hammers. For every two successes on a Gnosis roll, the smith gains +1 die to the metalworking (Craft) roll, In addition, items crafted with the hammer reduce the difficulty for a Rite of the Fetish by one; such items are more pleasing to spirits. An earth or fire spirit is bound into this fetish.
+
+MET: The Garou makes a Gnosis Challenge invoking the hammer, and gains a single retest when making a Crafts: Metalworking challenge.
+
+---
+
+### Pipes of the Otherworld
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 79
+Strona drukowana: 78
+
+Pełny opis:
+
+This fetish typically appears as a very fine set of black bagpipes (usually of the Highland variety) with an unusually mournful song that pulls at the spirit — literally. When successfully activated, every two successes to a Charisma + Performance (7) roll subtracts one from the difficulty of Mystic Rituals; the difficulty rating for Rituals of Death (such as a Rite for the Departed) is decreased by one for every success.
+
+MET: A successful activation and Social Challenge (retest with Performance) grants a ritemaster two extra Traits for performing Mystic Rituals or Rituals of Death.
+
+---
+
+### Torc of Wisdom
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 5
+Strona PDF: 79
+Strona drukowana: 78
+
+Pełny opis:
+
+When activated, the torc increases the wearer's permanent Willpower or Gnosis (each torc is dedicated to one or the other; a level four fetish might have the power to increase either one at a time) by one point until the end of the scene. A spirit of wisdom empowers the fetish.
+
+MET: The wearer gains a temporary Willpower Trait or Gnosis Trait that can be spent or used for comparisons on ties. The effect lasts one scene.
+
+---
+
+### Carnyx of Victory
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 7
+Strona PDF: 79
+Strona drukowana: 78
+
+Pełny opis:
+
+The Carnyx appears as a tall horn with an animal head at the end. When sounded, it fills the air with a weird, discordant braying that heartens allies and strikes fear into the hearts of the foe. When successfully activated, each success to a Manipulation + Performance roll (difficulty 8) adds one die to the dice pools of all comrades. The effect continues for as long as the Fiann sounds the horn. Requires a war spirit.
+
+MET: With successful activation and a Social Challenge (retest with Performance), the horn grants all comrades a “ghost” Trait that can be added to any pool for comparisons on ties.
+
+---
+
+### Spear of Len
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 6
+Strona PDF: 79–80
+Strona drukowana: 78–79
+
+Pełny opis:
+
+There are only a handful of these weapons known to exist. Named for a legendary smith who made the first of its kind (used by Fionn mac Cumhail himself), it usually appears as a spear with a head of perpetually cold bluish steel. When pressed hard against the forehead, the spear keeps the warrior from being muddled or lulled by magics, whether vampiric, fae, mage or Garou in nature. This is not a general mental defense effect, but does cover mental illusions and sleep spells. At the Storyteller's discretion, a Willpower roll may be necessary against particularly powerful threats. Naturally, one can't fight with the spear and use its power simultaneously. Creating such a spear requires the spirit of a north wind.
+
+MET: When activated and placed against the forehead, the spear protects the bearer from mind- or perception-altering magics and sleep effects. This does not affect powers that manipulate the emotions or the physical body.
+
+---
+
+### Torc of the Wolf
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 7
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+This powerful fetish typically appears as a heavy gold torc, made with nine gold braids (each made with nine gold wires), the ends capped by golden wolfheads with bared fangs. When activated, the torc allows its wearer to shift forms instantly without spending Rage for the duration of the scene.
+
+MET: When successfully activated, the wearer can shift forms without spending Rage for one scene.
+
+---
+
+### Boar's Tusk
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 7
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+This fearsome fetish, a large tusk from a boar suspended by a leather thong, marks the wearer as someone you don't want to mess with. When activated, the fetish adds one health level per success and one Stamina per two successes for one scene.
+
+MET: With activation, the wearer gains two extra Bruised health levels and Robust x 2 for one scene or one combat.
+
+---
+
+### Threefold Axe
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 7
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+The culmination of Fianna smithing skill is the threefold axe, a weapon crafted to be useful against fae, shapeshifters and undead. Each one is forged of a blend of cold iron, silver and gold — a technique that would be all but impossible without the rites of forging and spiritual assistance. The resulting alloy is spiritually hardened to a steel-like quality. Because the alloy dilutes the purity of each metal, the axe is not treated as purely of any particular metal (thus, the damage it inflicts on werewolves is not truly “silver damage,” and therefore not unsoakable). However, the spirits within charge the power of each metal, giving the axe the power of each metal's mystical affinity.
+
+Threefold axes do Strength +3 aggravated damage, and are difficulty 7 to wield. They do two extra dice of damage against vampires, fae or shapeshifters with a vulnerability to silver or gold; this damage can be soaked if the target is capable of soaking aggravated damage.
+
+To properly finish a threefold axe, the smith must bind an earth-spirit, a solar spirit of some sort, and a lunar spirit into the axe. Convincing the three spirits to coexist is almost as difficult a process as forging the axe in the first place, but the triple mystical power of sun, moon and earth is hard to deny.
+
+MET: A threefold axe is treated much like an ordinary axe (Laws of the Wild, pg. 196), save that it adds two additional bonus Traits when used against vampires, shapeshifters with a vulnerability to gold or silver, or fae of any sort.
+
+---
+
+### Tattoo Fetishes
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+Tattoos are common among the Fianna; some have spirits bound into them. These take the form of Celtic designs or Garou glyphs, and must be of quality craftsmanship — a spirit isn't likely to willingly enter a heart with “Mom” written across it, particularly if such a mark was purchased in a parlor. System-wise, tattoo fetishes are treated like ordinary fetishes with one exception: should the player ever botch her activation roll, the spirit is instantly freed; the tattoo flares, leaving an outline on the skin which gradually fades away.
+
+---
+
+### [Nienazwany fetysz: sztandar Stonewall Pack]
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 96
+Strona drukowana: 95
+
+Pełny opis:
+
+The pack carries a banner that includes name-glyphs of all current or former members. There are currently 34 glyphs on the fabric. There are three conspicuously blank spots; these belonged to three Garou that betrayed their people, and were stricken from the ranks. At the bottom of the banner are two smaller glyphs representing those that died in the gap at Tara. Three dying standard bearers asked the Theurge to bind their spirits with the banner; these guardians circle the fetish in the Umbra, defending their charge even after death.
+
+---
+
+### Joyeux
+
+Kategoria: Fetysz
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 98
+Strona drukowana: 97
+
+Pełny opis:
+
+fetish axe (inflicts aggravated damage and allows the wielder to invoke the Gift: Spirit of the Fray once per night)
+
+---
+
+## TALENY
+
+### Tathlum
+
+Kategoria: Talen
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 80
+Strona drukowana: 79
+
+Pełny opis:
+
+A tathlum is a sling-stone made from a specially prepared mixture of sand, lime, herbs and the brain of an enemy, into which a vengeance-spirit is bound. Ordinarily, a sling does Str + 2 bashing damage. A tathlum generally does lethal damage. If the brain ball was created with a specific individual in mind, it does aggravated damage to that individual. The brain of an especially powerful foe (an elder Black Spiral Dancer or ancient vampire, for example) increases the damage by an additional +1.
+
+MET: A tathlum inflicts lethal damage in combat. It inflicts aggravated damage if it is created to target a specific individual (who should be named to a Storyteller). Powerful foes' brains inflict an extra level of damage.
+
+---
+
+### Mist o' the Glen
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 7
+Strona PDF: 80–81
+Strona drukowana: 79–80
+
+Pełny opis:
+
+A deep brown brew, this, with a white effervescence swirling along its surface like lake mist. It doesn't flow down the throat so much as swirl, but when it hits bottom it spreads a comfortable numbness through the body. The drinker's mood becomes amiable and reflective. Tense meetings between rivals, when suitably lubricated with this elixir, settle down to jokes, laughter, and wistful reminiscences. The drinker must make a Willpower roll against the drink's Gnosis rating. Success raises the difficulty to frenzy by two, and puts the imbiber in a more philosophical frame of mind. Those failing the roll lose a temporary Rage point, while botching removes all but one of their temporary Rage points — making the drinker perhaps even more mellow and philosophical than is good for him. This is one of the more common of the potable talens, and can be found at most Fianna caerns.
+
+MET: After imbibing the drink, the drinker makes a Willpower Challenge. Success means a two-Trait bonus during frenzy tests. On a loss, the drinker immediately makes a Simple Test. If he wins the Simple Test, he loses a temporary Rage Trait. If he loses the Simple Test as well, he loses all but one of his temporary Rage — he hasn't lost the wolf, but shifting is out of the question.
+
+And always remember — no alcohol or drugs at a live-action event!
+
+---
+
+### Royal Mead
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 7
+Strona PDF: 81
+Strona drukowana: 80
+
+Pełny opis:
+
+Royal Mead, or Blue Gold, gets its common name from three facts: when held to the light the golden liquid has a bluish hue; drinking it inexplicably turns the tongue blue for several hours; and a pint of the stuff makes the imbiber's eyes shimmer with a faint bluish glow. Its more formal name comes from the fact that most of the meager world's supply of the stuff can be found in the palace at Tara, for Royal Mead is considered by some opinionated Fianna to be the finest-tasting elixir in existence (though as rare as it is, few get the opportunity to taste-test. Imbibers who make a Willpower check against the drink's Gnosis can see clearly in dim light (and in total darkness as if it were dusk) for a scene, but most consider that to be a mere side effect of the heavenly elixir. Royal Mead is made from the honey of the Umbral flower Royalblood.
+
+MET: Make a Willpower Challenge. With success, the drinker suffers no visual penalties from dim light, and the usual penalty for dim light when in total darkness.
+
+---
+
+### The Secrets of Magic Meads
+
+Kategoria: Unknown
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 81
+Strona drukowana: 80
+
+Pełny opis:
+
+Not just anyone can make these powerful drinks; the secrets are jealously guarded by a small cadre of master brewers, and the materials needed are even harder to find than the brewers. Such meads can't be made from just any honey; it must be honey derived from magical flowers. Battledew is a brilliant crimson flower, while Royalblood is deepest cobalt. Both these flowers spread in low, thick mats across the western meadows of the Umbral realm known as Arcadia Gateway, and are said to be found in isolated spots of the Fianna Homeland realm as well. Recently, rumors have begun to circulate among the mead-makers that a young Theurge managed to successfully transport and plant the flowers at the heart of her sept's caern, and already others are on a similar quest, though to date none have been successful.
+
+Finding the flower is one thing; collecting the honey is something else. The bees that feed from these faerie flowers are changed by the potent nectar in subtle and unpredictable ways, so extra caution is in order. Since it takes several gallons of honey to make a gallon of mead, it's easy to see why such drinks are highly prized.
+
+### A Drink between Friends
+
+Kategoria: Unknown
+Poziom/ranga: nie podano
+Gnoza: nie podano
+Strona PDF: 81
+Strona drukowana: 80
+
+Pełny opis:
+
+Unlike fetishes and many talens, Gnosis is not required to use the magical brews listed here. Anyone can imbibe these draughts and feel their effects. For normal humans, however, the rolls are made at +1 difficulty. The effects last only for one scene. Afterward, a Stamina roll (difficulty equal to the Gnosis of the drink) must be made; a simple failure indicates a slight hangover and a somewhat muddled mind (the drinker is a little hazy on the details of the last few hours), while a botch indicates a full-blown headsplitter with no real recollection of “what the hell I did last night.” Not that a human, or even a Kinfolk, is likely to get a taste; this stuff is much too rare and potent to waste on the likes of them. Note that changelings do not suffer the added difficulty or need to make a Stamina roll to avoid side effects; in fact, imbibing may strengthen their fae natures (gain a point of Glamour at Storyteller's option). They must still roll Willpower to benefit from the drinks, however.
+
+And while the Gift: Resist Toxin will work against these rare drinks (usually at a +1 penalty for the more potent mixtures), no self-respecting Fianna would waste one of these wondrous brews that way, unless in sudden, dire need of sobriety.
+
+---
+
+### Battlemead
+
+Kategoria: Talen
+Poziom/ranga: nie podano
+Gnoza: 6
+Strona PDF: 81–82
+Strona drukowana: 80 (PDF 81); nie podano (PDF 82)
+
+Pełny opis:
+
+Battlemead is sweet as regular mead, but burns its way down the throat, exploding in the belly like some serious rotgut. Some Fianna like to take a few swigs before battle. If the imbiber succeeds in a Willpower roll against the mead's Gnosis, he gains a Rage point and can ignore the first wound level sustained in the upcoming combat. Failing the roll results in all Rage roll difficulties being reduced by one for the rest of the scene. A botch results in immediate frenzy. Battlemead is made from honey derived from Battledew, a rare flower found in certain Umbral realms.
+
+MET: Make a Willpower Challenge. With success, the drinker gains a Rage Trait and can ignore the first wound level sustained in battle. Losing results in a Simple Test. Winning the Simple Test causes the drinker to lose one Rage Trait. A second loss means frenzy.
+
+---

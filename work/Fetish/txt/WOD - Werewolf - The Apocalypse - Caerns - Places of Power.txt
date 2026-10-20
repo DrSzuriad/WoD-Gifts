@@ -80,9 +80,7 @@ Strona drukowana: 40
 
 Pełny opis:
 
-difficulty 7, Strength + 5 damage
-
-Able Heart’s klaive is a two handed, curved weapon of silver with a leather handle; when not in lupus form, he always carries this strapped to his back.
+Difficulty 7, Strength +5 damage
 
 ---
 
@@ -110,7 +108,7 @@ Strona drukowana: 51
 
 Pełny opis:
 
-This massive ancient spear has a difficulty of 5 and does Strength + 5 damage because of to powerful spirit energies within it. When the spear impales an opponent, the shaft splits in a hundred different directions. When removed, the spear joins itself together instantly.
+This massive ancient spear has a difficulty of 5 and does Strength +5 damage because of two powerful spirit energies within it. When the spear impales an opponent, the shaft splits in a hundred different directions. When removed, the spear joins itself together instantly.
 
 ---
 
@@ -152,7 +150,7 @@ Strona drukowana: 72
 
 Pełny opis:
 
-If a successful firearms hit has been scored, roll activation. If sucessful, the round burst into flames upon impact and does three dice of aggravated damage. Wu Yong has five of these bullets
+If a successful firearms hit has been scored, roll activation. If successful, the round burst into flames upon impact and does three dice of aggravated damage. Wu Yong has five of these bullets
 
 ---
 
@@ -208,7 +206,7 @@ Strona drukowana: 74–75
 
 Pełny opis:
 
-A small, magnetized gear with a broken tooth. Place it on a machine and activate it. The machine will not function correctly until the machine is completely disassembled and reassembled
+A small, magnetized gear with a broken tooth. Place it on a machine and activate it. The machine will not function correctly until the machine is completely disassembled and reassembled.
 
 ---
 
@@ -222,7 +220,7 @@ Strona drukowana: 81
 
 Pełny opis:
 
-This is an ancient Wendigo artifact in the form of a steel-bladed knife with a decorated bear jaw for a handle. The knife grants the owner +2 damage and allows the owne [NIECZYTELNE: po „owne” w skanie jest luka; brak widocznej końcówki wyrazu] to summon the Strength of the Bear: once per week, the fetish may be activated to add 5 dice to Strength. The effect lasts for one scene.
+This is an ancient Wendigo artifact in the form of a steel-bladed knife with a decorated bear jaw for a handle. The knife grants the owner +2 damage and allows the owner to summon the Strength of the Bear: once per week, the fetish may be activated to add 5 dice to Strength. The effect lasts for one scene.
 
 ---
 
@@ -280,7 +278,7 @@ Pełny opis:
 
 The Ankh was a present to Zosho from the caern totem. It grants her a continuous Attunement with the caern grounds, as well as the ability to do Mindspeak with any of those within the caern. These powers require an activation roll with three successes or the expenditure of one Gnosis point per use.
 
-(The Ankh will also automatically draw her into the Umbra if someone attacks her in the Realm, and it enables her to step sideways without need of a reflective surface. Ptah has hinted that it has other powers, but has been quiet about them. The Ankh serves as her badge of office as well as her fetish.)
+The Ankh will also automatically draw her into the Umbra if someone attacks her in the Realm, and it enables her to step sideways without need of a reflective surface. Ptah has hinted that it has other powers, but has been quiet about them. The Ankh serves as her badge of office as well as her fetish.
 
 ---
 
@@ -392,13 +390,7 @@ Strona drukowana: 138
 
 Pełny opis:
 
-Wolf’s Tooth Spirit
-
-Rage 6, Willpower 5, Gnosis 7, Power 25
-
-Charms: Airt Sense, Block Umbral Travel (Cost 3; no matter what direction a spirit approaches the caern, it must stop and face the teeth in combat or negotiation), Combat Coordination (Cost 2; each tooth that spends the power may join the battle, ganging up on attackers. The Teeth are intelligent enough to call for aid from their brothers)
-
-All sept members carry a Tooth of the Wolf fetish, which contains one Wolf’s Tooth Spirit which may be invoked by the owner.
+All sept members carry a Tooth of the Wolf fetish which contains one Wolf’s Tooth Spirit which may be invoked by the owner.
 
 ---
 
@@ -413,146 +405,6 @@ Strona drukowana: 144
 Pełny opis:
 
 The spirit broom is made from the wing of an eagle, hawk or other bird. Sweeping a spiritually polluted area or person in the physical world with the Spirit Broom helps the user deal with the spiritual blight. It reduces the infecting Spirit’s Gnosis by 2 and halves the time needed to complete the Rite of Cleansing.
-
----
-
-### Wyrm Fang Dagger
-
-Kategoria: Fetysz
-Poziom/ranga: nie podano
-Gnoza: nie podano
-Strona PDF: 153
-Strona drukowana: 152
-
-Pełny opis:
-
-All guardians have daggers made of Grammaw’s old teeth; treat one of these as a true Wyrm Fang Dagger.
-
----
-
-### Stone of Luna
-
-Kategoria: Fetysz
-Poziom/ranga: 5
-Gnoza: 7
-Strona PDF: 219
-Strona drukowana: 56
-
-Pełny opis:
-
-This fetish is a moonstone in which a Yua Hua spirit is bound— see the Appendix for stats. When activated, the markings on the stone will rise off, forming a small shimmering ribbon of light with a blue and gold aura. The Yua Hua will then open a Moon Bridge to a destination from two to fifty miles away. The Bridge usually exits in a copse of trees. Since this fetish relies on a Gaffling of Luna, it is susceptible to lunar madness. During the new moon, this fetish should be activated with extreme caution, for there is a 60% chance that it will open the Bridge to a Wyrm-tainted location.
-
----
-
-### Translator’s Ear
-
-Kategoria: Fetysz
-Poziom/ranga: 3
-Gnoza: 7
-Strona PDF: 224
-Strona drukowana: 61
-
-Pełny opis:
-
-A silver earring embedded with a diamond that allows the wearer to hear and comprehend any conversation within 100 feet, even in another language
-
----
-
-### Scar Fetish
-
-Kategoria: Fetysz
-Poziom/ranga: 5
-Gnoza: 8
-Strona PDF: 225
-Strona drukowana: 62
-
-Pełny opis:
-
-Each success on the activation roll adds one extra soak die against any type of wound, including aggravated damage. This scarified tattoo appears as a medieval shield.
-
----
-
-### Collar of Innocence
-
-Kategoria: Fetysz
-Poziom/ranga: 4
-Gnoza: 8
-Strona PDF: 226
-Strona drukowana: 63
-
-Pełny opis:
-
-A small leather collar that, when activated in Lupus form, makes the wearer appear to be a small, harmless puppy.
-
----
-
-### Far Bite
-
-Kategoria: Fetysz
-Poziom/ranga: 4
-Gnoza: 8
-Strona PDF: 230
-Strona drukowana: 67
-
-Pełny opis:
-
-This is a Scar Fetish depicting a pair of fangs with wings. It is carved onto Tears-At-Flesh’s shoulder. When activated, it allows him bite anyone within line of sight. He must spend one Gnosis point for this.
-
----
-
-### Sword of Granite
-
-Kategoria: Fetysz
-Poziom/ranga: 5
-Gnoza: 6
-Strona PDF: 231
-Strona drukowana: 68
-
-Pełny opis:
-
-This is a two-handed sword made of granite; when thrust into the ground, all persons within 15 feet sink into the ground two feet per activation success. For every two feet, the victim needs four success on an extended Strength roll to break out. Vampires with Earth Meld can exit anytime they want, but must spend a full round doing so.
-
----
-
-### Mirrorshades
-
-Kategoria: Fetysz
-Poziom/ranga: 1
-Gnoza: 7
-Strona PDF: 233
-Strona drukowana: 70
-
-Pełny opis:
-
-This is a pair of American mirrorshade sunglasses that, when activated, produces a mirrored surface on the inside of the glasses that will allow the user to step sideways with ease. The shades reduce all Gauntlet difficulties by 2, and the user does not need to stare into a reflective surface.
-
----
-
-### The Twin Swords of Lothair
-
-Kategoria: Fetysz
-Poziom/ranga: 6
-Gnoza: 8
-Strona PDF: 235
-Strona drukowana: 72
-
-Pełny opis:
-
-A pair of swords which must be wielded Florentine style (one in each hand); if either sword is used separately, it will bury in the ground up to the hilt. The swords have several special powers, the least of which is the ability to store up to eight points of Rage within them. They can also produce a Clap of Thunder if they are crossed in the air in the form of a cross above the head of the wielder. When activated, the swords cause aggravated wounds.
-
----
-
-### Sticks of the Sea Wind
-
-Kategoria: Fetysz
-Poziom/ranga: 3
-Gnoza: 8
-Strona PDF: 237–238
-Strona drukowana: 74–75
-
-Pełny opis:
-
-A pair of combat sticks that must be wielded in tandem; if the user waits till the end of the round to strike, he receives a bonus strike without a reduction of his Dice Pool or an expenditure of Rage. The user has his normal Dexterity + Melee Dice Pool for this attack. Rage cannot be spent in the same round that this power is used. Damage is Strength + 2, but the damage is not aggravated.
 
 ---
 
@@ -585,4 +437,3 @@ Pełny opis:
 When smoked by a Garou, all spirits in a fifty yard radius will become intoxicated. Prolonged exposure will make spirits so drunk that they might play pranks or “pass out”. Some spirits can become addicted to the smoke and will serve the smoker to get more.
 
 ---
-

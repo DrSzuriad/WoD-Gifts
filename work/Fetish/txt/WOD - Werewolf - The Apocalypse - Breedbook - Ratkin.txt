@@ -1,0 +1,113 @@
+## FETYSZE
+
+### Pipes of the Swarm
+
+Kategoria: Fetysz
+Poziom/ranga: 1
+Gnoza: 4
+Strona PDF: 73–74
+Strona drukowana: 73–74
+
+Pełny opis:
+
+For a young rat fueled by the need for vengeance, learning the Rite of the Swarm requires too much patience. Unfortunately, several talented young Seers have learned a short-cut. This mystical pipe has an angry young Rat-spirit trapped inside. Activating the fetish requires a powerful set of lungs, an atonal melody, and a successful Gnosis roll. Usually a Ratkin needs a damn good reason to summon a swarm, but not if he’s using this fetish. The spirit is pissed off enough to summon one regardless of the circumstances.
+
+For each success on the activation roll, the swarm has one health level; these are “normal rats,” as described in the Swarm section of Chapter Five. As one would expect, most rats who trade these items claim that theirs was the original fetish used by the Pied Piper centuries ago.
+
+---
+
+### Circular Saw Launcher
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: 5
+Strona PDF: 74
+Strona drukowana: 74
+
+Pełny opis:
+
+Ratkin Engineers pride themselves on ingenious engines of destruction. This device is composed of a long piece of plywood, a makeshift gun stock, several industrial strength rubber bands, and a circular saw blade. When properly used, the weapon launches a flying circle of steel through a method similar to the Gift: Shadow Throw. Any spiritually aware Ratkin can use it.
+
+Once the blade is activated, aiming it requires a Dexterity + Occult roll, difficulty 7. If the Gnosis roll fails, or the aiming roll botches, it will injure the user instead of its intended victim. The whirling blades inflict three dice of aggravated damage, plus one for each success on the attack roll.
+
+---
+
+### Rat Mask
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: 6
+Strona PDF: 74
+Strona drukowana: 74
+
+Pełny opis:
+
+Shadow Seers who have reached the pinnacle of their craft bind spirits into these fetishes. Such items are highly treasured by young adventurers and may only be used by Ratkin. A Rat Mask is shaped to resemble a parody of a human or other creature. Upon completion, the creator gives the mask an archetypal name, an apt description of what it represents. Examples include the Ubiquitous Tourist, the Overworked Mother, the Swaggering Tough Guy, the Beer-Swilling Yokel, and so on.
+
+As long as the Ratkin can do a passable impersonation of the mundane in question, no one will think of doubting the disguise. Anyone with the least amount of supernatural insight (either through Auspex Discipline, the Spirit Sphere, Spirit Sight, or some similar contrivance) may see the mask for what it is by actively looking for the mask wearer’s true identity. The number of successes he rolls must exceed the number of successes on the Ratkin’s initial Gnosis roll (difficulty 6).
+
+---
+
+### Nezumi Kite
+
+Kategoria: Fetysz
+Poziom/ranga: 4
+Gnoza: 7
+Strona PDF: 74
+Strona drukowana: 74
+
+Pełny opis:
+
+Though devised in the distant past of the Japanese Ratkin, this fetish is as useful today as it ever was. On the ground, it is a quite visible, obviously bulky one-man kite. Once airborne, however, it is ideal for secretive reconnaissance. The Nezumi Kite may only be used at night and can only carry one person in Homid form (or possibly several in Rodens form at the Storyteller’s option). Spirits of the night keep it from being seen, cloaking it with a variant of the Ratkin Gift: Cloak of Shadows. Spirits of the air keep it aloft; it can sail wherever the user desires after it is detached from its string. The kite can only move as fast as a gentle breeze, but can land almost anywhere.
+
+---
+
+### Mystery Machine
+
+Kategoria: Fetysz
+Poziom/ranga: 5
+Gnoza: 8
+Strona PDF: 75
+Strona drukowana: 75
+
+Pełny opis:
+
+This is one of the most valuable items a Ratkin can have: crash space on wheels. To mundanes, the Mystery Machine looks like a battered, dilapidated van, but wererat rituals turn it into a haven for a traveling rat pack. Though there is only enough room in the back for two or three humans to sleep comfortably, there is plenty of room for a deceit of rat-form wererats.
+
+The engine can only eke out mediocre gas mileage, but in a pinch, it can run on pure Gnosis. Praying or meditating inside the interior of the van will keep it running for a full day for each point spent. The vehicle is also difficult to track; the driver can activate the fetish, invoking the Gift: Silent Running to obscure it up to three times a day. The inside of the conveyance has been blessed so that those within can meditate safely. For anyone inside, lower the difficulty of all meditation or Rapture rolls by 1.
+
+The spirit of the van has also been awakened; it is fully visible in the Umbra while traveling through the physical world. Flashing the high-beams will allow the driver to take the vehicle into the Umbra; this requires each passenger to spend a point of Gnosis. The driver must then make a successful Gnosis roll against the difficulty of the local Gauntlet. While in the spirit world, the driver may activate the Charm: Airt Sense to prevent the vehicle from getting lost. Currently, there are only a tiny few of these fetishes in the world; Tunnel Runners have been known to kill to obtain one.
+
+---
+
+### Pain Dagger
+
+Kategoria: Fetysz
+Poziom/ranga: 2
+Gnoza: various
+Strona PDF: 86
+Strona drukowana: 86
+
+Pełny opis:
+
+Only Warriors may perform the Rite of the Pain Dagger, since only they can create their sacred blades. The “blade slave” ritually summons and binds a spirit within his ceremonial weapon so that it will inflict aggravated damage. At the Storyteller’s option, he might also be able to access one of the Charms used by that spirit; this costs a number of background points equal to the power level of the Charm. Each time the Charm is used, the Ratkin must spend a point of Gnosis.
+
+Other Ratkin — that is, wererats who aren’t Warriors — can also wield Pain Daggers. They can declare one as a two-point fetish during character creation; after all, a wererat can find, steal or inherit one of these sacred blades. Although these weapons still inflict aggravated damage, only a Warrior can use the Charm bound inside a ceremonial blade.
+
+---
+
+### Cruel Shoes
+
+Kategoria: Fetysz
+Poziom/ranga: 3
+Gnoza: nie podano
+Strona PDF: 132
+Strona drukowana: 132
+
+Pełny opis:
+
+This highly fashionable footwear reduces the difficulty of all high-kicks by 2. The wearer must be in Homid form to use this ability.
+
+---
+
+## TALENY

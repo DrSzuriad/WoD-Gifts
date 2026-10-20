@@ -59,8 +59,8 @@ async function initializePage() {
   try {
     const [itemData, dictionary] =
       await Promise.all([
-        loadJson("./data/fetishes.json?v=1.0.6"),
-        loadJson("./data/translations.json?v=1.0.6")
+        loadJson("./data/fetishes.json?v=1.0.7"),
+        loadJson("./data/translations.json?v=1.0.7")
       ]);
 
     if (!Array.isArray(itemData)) {
